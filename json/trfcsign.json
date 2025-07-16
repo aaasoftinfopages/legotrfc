@@ -10,10 +10,54 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ada_etrafinda_donunuz.png",
     "description": "Ada etrafında dönünüz"
   },
+  
+  {
+    "id": 111,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/yolver.png",
+    "description": "Yol ver"
+  },
+  {
+    "id": 24,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/dur.png",
+    "description": "Dur"
+  },
+  {
+    "id": 25,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/duraklamak_park_etmek_yasak.png",
+    "description": "Duraklamak ve park etmek yasaktır"
+  },
   {
     "id": 3,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/agirlik7.png",
     "description": "Yüklü ağırlığı 7 tonu geçen taşıt giremez"
+  },
+  {
+    "id": 22,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/donel_kavsak.png",
+    "description": "Dönel kavşak"
+  }, {
+    "id": 108,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/yaya_gecidi.png",
+    "description": "Yaya geçidi"
+  },{
+    "id": 49,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kasisli_yol.png",
+    "description": "Kasisli yol"
+  },
+  {
+    "id": 73,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/park_yasak.png",
+    "description": "Park etmek yasaktır"
+  },
+  {
+    "id": 74,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/park_yeri.png",
+    "description": "Park yeri"
+  },
+  {
+    "id": 109,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/yaya_giremez.png",
+    "description": "Yaya giremez"
   },
   {
     "id": 4,
@@ -97,25 +141,11 @@
     "description": "Dingil başına 6 tondan fazla yük düşen taşıt giremez"
   },
   {
-    "id": 22,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/donel_kavsak.png",
-    "description": "Dönel kavşak"
-  },
-  {
     "id": 23,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/donus_adasi_ek_levhasi.png",
     "description": "Dönüş adası ek levhası"
   },
-  {
-    "id": 24,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/dur.png",
-    "description": "Dur"
-  },
-  {
-    "id": 25,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/duraklamak_park_etmek_yasak.png",
-    "description": "Duraklamak ve park etmek yasaktır"
-  },
+  
   {
     "id": 26,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/dusuk_banket.png",
@@ -232,11 +262,6 @@
     "description": "Karşıdan gelene yol ver"
   },
   {
-    "id": 49,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kasisli_yol.png",
-    "description": "Kasisli yol"
-  },
-  {
     "id": 50,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kaygan_yol.png",
     "description": "Kaygan yol"
@@ -351,16 +376,7 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/otobüs_giremez.png",
     "description": "Otobüs giremez"
   },
-  {
-    "id": 73,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/park_yasak.png",
-    "description": "Park etmek yasaktır"
-  },
-  {
-    "id": 74,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/park_yeri.png",
-    "description": "Park yeri"
-  },
+  
   {
     "id": 75,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/rampalı_yaya_gecidi.png",
@@ -527,24 +543,9 @@
     "description": "Yandan rüzgar"
   },
   {
-    "id": 108,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/yaya_gecidi.png",
-    "description": "Yaya geçidi"
-  },
-  {
-    "id": 109,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/yaya_giremez.png",
-    "description": "Yaya giremez"
-  },
-  {
     "id": 110,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/yolda_calişma.png",
     "description": "Yolda çalışma"
-  },
-  {
-    "id": 111,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/yolver.png",
-    "description": "Yol ver"
   },
   {
     "id": 112,
