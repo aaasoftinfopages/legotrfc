@@ -67,7 +67,7 @@
   },
   {
     "id": 14,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/belirli_miktardan_gtmd_giremez.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/belirli_miktardan_ptmd_giremez.png",
     "description": "Belirli miktardan fazla patlayıcı ve parlayıcı madde taşıyan taşıt giremez"
   },
   {
@@ -80,16 +80,7 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/bisiklet_giremez.png",
     "description": "Bisiklet giremez"
   },
-  {
-    "id": 17,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/demiryolu_hemzemin_gecit_yatasimi1.png",
-    "description": "Kontrolsüz demiryolu geçidi (tek hat)"
-  },
-  {
-    "id": 18,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/demiryolu_hemzemin_gecit_yatasimi2.png",
-    "description": "Kontrolsüz demiryolu geçidi (en az iki hat)"
-  },
+ 
   {
     "id": 19,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/deniz-nehir_kiyisinda_biten_yol.png",
@@ -182,7 +173,7 @@
   },
   {
     "id": 37,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/hiz_sinirlama_sonu.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/hiz_sınırlama_sonu.png",
     "description": "Hız sınırlaması sonu"
   },
   {
@@ -222,12 +213,12 @@
   },
   {
     "id": 45,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/isikli_isaret_cihazi.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/işikli_işaret_cihazi.png",
     "description": "Işıklı işaret cihazı"
   },
   {
     "id": 46,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kamyon_giremez.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kamyan_giremez.png",
     "description": "Kamyon giremez"
   },
   {
@@ -342,7 +333,7 @@
   },
   {
     "id": 69,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/okul_bolgesi_azami_hiz_sinirlamasi.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/okul_bolgesi_azami_hiz_sınırlaması.png",
     "description": "Okul bölgesi azami hız sınırlaması"
   },
   {
@@ -357,7 +348,7 @@
   },
   {
     "id": 72,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/otobus_giremez.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/otobüs_giremez.png",
     "description": "Otobüs giremez"
   },
   {
@@ -372,7 +363,7 @@
   },
   {
     "id": 75,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/rampali_yaya_gecidi.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/rampalı_yaya_gecidi.png",
     "description": "Rampalı yaya geçidi"
   },
   {
@@ -392,7 +383,7 @@
   },
   {
     "id": 79,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/saga_tehlikeli_devamli_virajlar.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/saga_tehlikeli_devamlı_virajlar.png",
     "description": "Sağa tehlikeli devamlı virajlar"
   },
   {
@@ -432,7 +423,7 @@
   },
   {
     "id": 87,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/sola_tehlikeli_devamli_virajlar.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/sola_tehlikeli_devamlı_virajlar.png",
     "description": "Sola tehlikeli devamlı virajlar"
   },
   {
@@ -547,7 +538,7 @@
   },
   {
     "id": 110,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/yolda_calisma.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/yolda_calişma.png",
     "description": "Yolda çalışma"
   },
   {
