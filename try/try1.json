@@ -201,11 +201,11 @@
     "resimUrl": "/images/GORSAL_04.png",
     "secenekler": [
       { "metin": "1 - 2 - 3", "dogruMu": false },
-      { "metin": "2 - 3 - 1", "dogruMu": true },
+      { "metin": "3 - 2 - 1", "dogruMu": true },
       { "metin": "3 - 1 - 2", "dogruMu": false },
       { "metin": "1 - 3 - 2", "dogruMu": false }
     ],
-    "aciklama": "Kontrolsüz kavşaklarda, dönüş yapan araçlar düz gidenlere yol verir. Bu kurala göre önce düz giden 2 numaralı araç, sonra dönüşünü tamamlayacak olan 3 numaralı araç ve en son tali yoldan çıkan 1 numaralı araç geçer."
+    "aciklama": "Kontrolsüz kavşaklarda, dönüş yapan araçlar düz gidenlere yol verir. Ondan sonra düz giden araçlardan SAĞI boş olan her zaman ilk geçer."
   },
   {
     "id": 17,
