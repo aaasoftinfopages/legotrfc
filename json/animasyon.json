@@ -1,7 +1,7 @@
 [
   {
     "questionText": "Videodaki tehlikeli durum, sürücülerin hangi kuralı ihlal etmeleri sonucunda oluşmuştur?",
-    "videoId": "stnBpnHQik0",
+    "videoId": "a6e3aPiM7ao",
     "options": [
       {
         "text": "Takip mesafesi kuralını",
@@ -47,7 +47,7 @@
   },
   {
     "questionText": "Olay yerindeki araç sürücüsü ilk yardımın temel uygulamalarından hangisini gerçekleştirmektedir?",
-    "videoId": "yEZgZ556Wto",
+    "videoId": "nvLaq8wdUEg",
     "options": [
       {
         "text": "Bildirme",
@@ -255,7 +255,7 @@
   {
     "id": "q12",
     "questionText": "Araç sürücüsü nasıl davranmalıdır?",
-    "videoId": "9ZMpL6BxxoA",
+    "videoId": "uvP9ddmUYyA",
     "options": [
       {
         "text": "Dörtlü ikaz ışıklarını yakarak beklemeli",
@@ -301,7 +301,7 @@
   {
     "id": "q14",
     "questionText": "Videodaki kazayla ilgili hangisi kesinlikle söylenir?",
-    "videoId": "stnBpnHQik0",
+    "videoId": "sr4gPZyLqe8",
     "options": [
       {
         "text": "Araç sürücüleri takip mesafesine uymaktadır.",
@@ -324,7 +324,7 @@
   {
     "id": "q15",
     "questionText": "Videoya göre hangisinin yapılması doğru olur?",
-    "videoId": "stnBpnHQik0",
+    "videoId": "yRXLDQJyxNI",
     "options": [
       {
         "text": "Siyah otomobil sürücüsünün beyaz otomobil sürücüsüne ilk geçiş hakkını vermesi",
@@ -341,29 +341,6 @@
       {
         "text": "Beyaz otomobil sürücüsünün beklemesi",
         "isTrue": true
-      }
-    ]
-  },
-  {
-    "id": "q16",
-    "questionText": "Videodaki kazayla ilgili hangisi kesinlikle söylenir?",
-    "videoId": "stnBpnHQik0",
-    "options": [
-      {
-        "text": "Araç sürücüleri takip mesafesine uymaktadır.",
-        "isTrue": false
-      },
-      {
-        "text": "Kaza, iklim şartlarına bağlı olarak meydana gelmiştir.",
-        "isTrue": false
-      },
-      {
-        "text": "Mavi araç sürücüsünün hatalı geçme yapması kazaya sebep olmuştur.",
-        "isTrue": true
-      },
-      {
-        "text": "Yeşil araç sürücüsünün ani fren yapması kazaya sebep olmuştur.",
-        "isTrue": false
       }
     ]
   }
