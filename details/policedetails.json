@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Trafiğin Açık Olduğu Duruş (Kollar Yanda)",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik1.png",
+    "description": "Trafiğin Açık Olduğunu Gösteren Duruş: Bu duruş, trafik polisinin omuz istikametindeki (sağ ve sol kollarının gösterdiği yöndeki) trafiğin akabileceğini belirtir. Polis memurunun ön ve arka cephesinde kalan araçlar ise durmak zorundadır. Bu pozisyonda kollar yanda veya iki yana açık olabilir, anlam değişmez."
+  },
+  {
+    "id": 2,
+    "title": "Trafiğin Açık Olduğu Duruş (Kollar Açık)",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik2.png",
+    "description": "Trafiğin Açık Olduğunu Gösteren Duruş (Kollar Açık): Bu duruş, trafik polisinin omuz istikametindeki (sağ ve sol kollarının gösterdiği yöndeki) trafiğin akabileceğini belirtir. Polis memurunun ön ve arka cephesinde kalan araçlar ise durmak zorundadır. Bu pozisyonda kollar yanda veya iki yana açık olabilir, anlam değişmez."
+  },
+  {
+    "id": 3,
+    "title": "Trafiğe Açık Yön (Sağ Kol)",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik3.jpg",
+    "description": "Trafiğe Açık Yön (Sağ Kol): Polisin duruş pozisyonuna göre omuzlarının baktığı yöndeki trafik akışa açıktır. Bu durumda, polisin kolunu uzattığı ve kolunun arkasında kalan yöndeki araçlar geçebilir. Ancak polisin ön ve arka yüzüne bakan araçların beklemesi gerekir."
+  },
+  {
+    "id": 4,
+    "title": "Trafiğe Açık Yön (Sol Kol)",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik4.jpg",
+    "description": "Trafiğe Açık Yön (Sol Kol): Polisin duruş pozisyonuna göre omuzlarının baktığı yöndeki trafik akışa açıktır. Bu durumda, polisin kolunu uzattığı ve kolunun arkasında kalan yöndeki araçlar geçebilir. Ancak polisin ön ve arka yüzüne bakan araçların beklemesi gerekir."
+  },
+  {
+    "id": 5,
+    "title": "Gece Dönüş İşareti",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecedonus.png",
+    "description": "Gece Dönüş İşareti: Görevli, ışıklandırılmış işaret çubuğunun ucunu dönüş yapması istenen araca yöneltir. Daha sonra çubuğu, dönüş yapılmak istenen yöne doğru bir yay çizecek şekilde hareket ettirir. Bu hareket, araca dönüş talimatı verildiğini gösterir ve işaret anlaşılana kadar tekrar edilir."
+  },
+  {
+    "id": 6,
+    "title": "Gece Dur İşareti",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecedur.png",
+    "description": "Gece Dur İşareti: Görevli, ışıklandırılmış işaret çubuğunu yere dik ve ucu yukarı bakacak şekilde tutar. Aynı zamanda çubuğu, vücudunun önünde yere yaklaşık 45 derecelik bir açıyla sağdan sola doğru bir yay çizecek şekilde sallar. Bu hareket, trafiğin durması için verilen kesin bir talimattır."
+  },
+  {
+    "id": 7,
+    "title": "Gece Geç İşareti",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecegec.png",
+    "description": "Gece Geç İşareti: Görevli, ışıklandırılmış işaret çubuğunu kullanarak baş hizasından geçecek şekilde geniş bir yay çizer. Bu hareket, 'GEÇ' komutunu ifade eder ve işaretin sürücüler tarafından algılanması için yeteri kadar tekrar edilir."
+  },
+  {
+    "id": 8,
+    "title": "Trafiği Hızlandırma İşareti (1)",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/hizlandirma1.png",
+    "description": "Trafiği Hızlandırma İşareti: Trafik polisinin, dirseği kırık şekilde kolunu yukarı kaldırıp elini ileri geri seri bir şekilde sallamasıdır. Bu işaret, o yönde akan trafiğin daha hızlı ilerlemesi için bir talimattır. Bu hareket, genellikle kısa ve kesik düdük sesiyle birlikte yapılarak 'HIZLAN' anlamını pekiştirir."
+  },
+  {
+    "id": 9,
+    "title": "Trafiği Hızlandırma İşareti (2)",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/hizlandirma2.jpg",
+    "description": "Trafiği Hızlandırma İşareti: Trafik polisinin, dirseği kırık şekilde kolunu yukarı kaldırıp elini ileri geri seri bir şekilde sallamasıdır. Bu işaret, o yönde akan trafiğin daha hızlı ilerlemesi için bir talimattır. Bu hareket, genellikle kısa ve kesik düdük sesiyle birlikte yapılarak 'HIZLAN' anlamını pekiştirir."
+  },
+  {
+    "id": 10,
+    "title": "Yolun Bütün Yönlere Kapanması (1)",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/kapali1.png",
+    "description": "Yolun Bütün Yönlere Kapanması İşareti: Bu işaret, trafiğin tüm yönlere kapalı olduğunu belirtir. Görevlinin bir kolunun yukarıda, diğerinin aşağıda olması, daha önce açık olan yolun kapanacağını ve kapalı olan yolun ise trafiğe açılmak üzere olduğunu bildirir. Bu, sürücülerin harekete hazırlanması için bir uyarıdır (Trafik ışıklarındaki sarı ışık gibi)."
+  },
+  {
+    "id": 11,
+    "title": "Yolun Bütün Yönlere Kapanması (2)",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/kapali2.jpg",
+    "description": "Yolun Bütün Yönlere Kapanması İşareti: Bu işaret, trafiğin tüm yönlere kapalı olduğunu belirtir. Görevlinin bir kolunun yukarıda (sağ veya sol), diğerinin yanda olması, daha önce açık olan yolun kapanacağını ve kapalı olan yolun ise trafiğe açılmak üzere olduğunu bildirir. Sürücülerin yola çıkmaya hazırlanması gerekir."
+  },
+  {
+    "id": 12,
+    "title": "Trafiği Yavaşlatma İşareti (1)",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma1.png",
+    "description": "Trafiği Yavaşlatma İşareti: Trafik polisinin, işaret edeceği yöndeki kolunu omuz hizasında ve yere paralel şekilde uzatarak, dirsekten kırmadan aşağı ve yukarı seri şekilde hareket ettirmesidir. Bu hareket, o yöndeki araçların yavaşlaması gerektiğini bildiren bir talimattır."
+  },
+  {
+    "id": 13,
+    "title": "Trafiği Yavaşlatma İşareti (2)",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma2.jpg",
+    "description": "Trafiği Yavaşlatma İşareti: Trafik polisinin, işaret edeceği yöndeki kolunu omuz hizasında ve yere paralel şekilde uzatarak, dirsekten kırmadan aşağı ve yukarı seri şekilde hareket ettirmesidir. Bu hareket, o yöndeki araçların yavaşlaması gerektiğini bildiren bir talimattır."
+  },
+  {
+    "id": 14,
+    "title": "Sağa veya Sola Yönlendirerek Durdurma",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/yontayin.png",
+    "description": "Sağa veya Sola Yönlendirerek Durdurma İşareti: Bu hareket, araçların sağa veya sola yanaştırılarak durdurulması için verilen bir işarettir. Görevli, yönlendirmek istediği trafiğe dönerek eliyle 'gel' işareti yapar ve durması gereken yeri gösterir. Bu, trafiği düzenleme ve kontrol etme amaçlı genel bir yönlendirme hareketidir."
+  }
+]
