@@ -1,0 +1,577 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik1.png",
+    "question": "Bu trafik polisinin işareti ne anlama gelir?",
+    "options": [
+      {
+        "text": "Trafiğin tüm yönlere kapalı olduğunu bildirir.",
+        "isTrue": false
+      },
+      {
+        "text": "Trafiğe yön verilmediğini gösterir.",
+        "isTrue": false
+      },
+      {
+        "text": "Trafiğin omuz yönünde açık, ön-arka yönünde kapalı olduğunu belirtir.",
+        "isTrue": true
+      },
+      {
+        "text": "Sadece sola dönüş serbesttir.",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik2.png",
+    "question": "Polis bu şekilde duruyorsa hangi yöndeki trafik geçebilir?",
+    "options": [
+      {
+        "text": "Ön ve arka yön geçebilir.",
+        "isTrue": false
+      },
+      {
+        "text": "Omuz hizasındaki sağ ve sol yön geçebilir.",
+        "isTrue": true
+      },
+      {
+        "text": "Hiçbir yön geçemez.",
+        "isTrue": false
+      },
+      {
+        "text": "Sadece sağ yön geçebilir.",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/kapali1.png",
+    "question": "Polisin bu duruşu ne anlama gelir?",
+    "options": [
+      {
+        "text": "Trafik hızlanmalı.",
+        "isTrue": false
+      },
+      {
+        "text": "Tüm yönlere trafik açık.",
+        "isTrue": false
+      },
+      {
+        "text": "Trafiğin tüm yönlere kapanacağı uyarısıdır.",
+        "isTrue": true
+      },
+      {
+        "text": "Sola dönüş yapılabilir.",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/hizlandirma1.png",
+    "question": "Bu hareketin anlamı nedir?",
+    "options": [
+      {
+        "text": "Yavaşla",
+        "isTrue": false
+      },
+      {
+        "text": "Dur",
+        "isTrue": false
+      },
+      {
+        "text": "Hızlan",
+        "isTrue": true
+      },
+      {
+        "text": "Sola dön",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma1.png",
+    "question": "Polis bu işareti verdiğinde ne yapmalısınız?",
+    "options": [
+      {
+        "text": "Hızlanmalısınız",
+        "isTrue": false
+      },
+      {
+        "text": "Durmalısınız",
+        "isTrue": false
+      },
+      {
+        "text": "Geçmelisiniz",
+        "isTrue": false
+      },
+      {
+        "text": "Yavaşlamalısınız",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image_url": null,
+    "question": "Trafik polisinin 'Hızlan' işareti aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma1.png",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/hizlandirma1.png",
+        "isTrue": true
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik2.png",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecedur.png",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "image_url": null,
+    "question": "'Trafiğin tüm yönlere kapanacağı' uyarısı hangi görseldedir?",
+    "options": [
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/kapali1.png",
+        "isTrue": true
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik3.jpg",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecegec.png",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/yontayin.png",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "image_url": null,
+    "question": "Trafik polisinin 'Dur' işareti aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik2.png",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecedur.png",
+        "isTrue": true
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma2.jpg",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/hizlandirma2.jpg",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "image_url": null,
+    "question": "Trafiğin omuz istikametinde akabileceğini gösteren işaret hangisidir?",
+    "options": [
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik1.png",
+        "isTrue": true
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/kapali2.jpg",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/yontayin.png",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecedur.png",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/yontayin.png",
+    "question": "Polisin bu hareketi neyi ifade eder?",
+    "options": [
+      {
+        "text": "Yavaş geç",
+        "isTrue": false
+      },
+      {
+        "text": "Tüm yönlere dur",
+        "isTrue": false
+      },
+      {
+        "text": "Sağa ya da sola yanaşarak dur",
+        "isTrue": true
+      },
+      {
+        "text": "Geçiş serbest",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik4.jpg",
+    "question": "Bu işaret neyi ifade eder?",
+    "options": [
+      {
+        "text": "Ön ve arka yön geçebilir.",
+        "isTrue": false
+      },
+      {
+        "text": "Tüm yönlere dur anlamı verir.",
+        "isTrue": false
+      },
+      {
+        "text": "Sol yön geçebilir, ön ve arka durmalıdır.",
+        "isTrue": true
+      },
+      {
+        "text": "Araçlar hızlanmalıdır.",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecedonus.png",
+    "question": "Gece görevli polisin bu hareketi ne anlama gelir?",
+    "options": [
+      {
+        "text": "Dur",
+        "isTrue": false
+      },
+      {
+        "text": "Dönüş yap",
+        "isTrue": true
+      },
+      {
+        "text": "Hızlan",
+        "isTrue": false
+      },
+      {
+        "text": "Tüm yönler geçebilir",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecegec.png",
+    "question": "Bu gece işareti ne anlama gelir?",
+    "options": [
+      {
+        "text": "Dur",
+        "isTrue": false
+      },
+      {
+        "text": "Yavaşla",
+        "isTrue": false
+      },
+      {
+        "text": "Geç",
+        "isTrue": true
+      },
+      {
+        "text": "Dönüş yap",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "image_url": null,
+    "question": "Polisin 'Geç' komutunu gösterdiği gece işareti hangisidir?",
+    "options": [
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecedur.png",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecedonus.png",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecegec.png",
+        "isTrue": true
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/kapali1.png",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "image_url": null,
+    "question": "'Tüm yönler durmalı' anlamına gelen işaret aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik2.png",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/kapali2.jpg",
+        "isTrue": true
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma2.jpg",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/yontayin.png",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/hizlandirma2.jpg",
+    "question": "Polisin bu hareketi neyi ifade eder?",
+    "options": [
+      {
+        "text": "Yavaşla",
+        "isTrue": false
+      },
+      {
+        "text": "Dur",
+        "isTrue": false
+      },
+      {
+        "text": "Hızlan",
+        "isTrue": true
+      },
+      {
+        "text": "Geri git",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma2.jpg",
+    "question": "Bu hareketin anlamı nedir?",
+    "options": [
+      {
+        "text": "Hızlan",
+        "isTrue": false
+      },
+      {
+        "text": "Geç",
+        "isTrue": false
+      },
+      {
+        "text": "Yavaşla",
+        "isTrue": true
+      },
+      {
+        "text": "Sola dön",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "image_url": null,
+    "question": "Polis 'Sağa veya sola yanaşarak dur' komutunu aşağıdakilerden hangisiyle verir?",
+    "options": [
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/yontayin.png",
+        "isTrue": true
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik1.png",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/kapali2.jpg",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma1.png",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "image_url": null,
+    "question": "'Trafiğin omuz yönünde akabileceği' pozisyon aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik4.jpg",
+        "isTrue": true
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecegec.png",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma2.jpg",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/hizlandirma2.jpg",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "image_url": null,
+    "question": "'Gece dönüş yap' komutu aşağıdaki işaretlerden hangisidir?",
+    "options": [
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecedonus.png",
+        "isTrue": true
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecedur.png",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/yontayin.png",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/hizlandirma1.png",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/kapali2.jpg",
+    "question": "Polis bu duruşu ile neyi bildirir?",
+    "options": [
+      {
+        "text": "Trafiğin tüm yönlere açıldığını",
+        "isTrue": false
+      },
+      {
+        "text": "Trafiğin tüm yönlere kapanacağını",
+        "isTrue": true
+      },
+      {
+        "text": "Araçların sola dönmesi gerektiğini",
+        "isTrue": false
+      },
+      {
+        "text": "Hiçbir yönün geçemeyeceğini",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik3.jpg",
+    "question": "Bu duruşun anlamı nedir?",
+    "options": [
+      {
+        "text": "Polisin ön ve arkasına gelenler geçebilir.",
+        "isTrue": false
+      },
+      {
+        "text": "Polisin omuz hizasına gelen yönler durur.",
+        "isTrue": false
+      },
+      {
+        "text": "Polisin kolunu uzattığı yön geçebilir.",
+        "isTrue": true
+      },
+      {
+        "text": "Hiçbir yön geçemez.",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "image_url": null,
+    "question": "'Trafiği yavaşlat' işareti aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/hizlandirma2.jpg",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma2.jpg",
+        "isTrue": true
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecegec.png",
+        "isTrue": false
+      },
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/kapali1.png",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "image_url": null,
+    "question": "Polisin kolunu yana açtığı duruş neyi ifade eder?",
+    "options": [
+      {
+        "text": "Geçiş üstünlüğü verir.",
+        "isTrue": false
+      },
+      {
+        "text": "Omuz istikametine gelen trafik geçebilir.",
+        "isTrue": true
+      },
+      {
+        "text": "Trafiği tamamen durdurur.",
+        "isTrue": false
+      },
+      {
+        "text": "Sola dönüş yapılabilir.",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "image_url": null,
+    "question": "'Dur' komutu gece görevli polis tarafından nasıl verilir?",
+    "options": [
+      {
+        "text": "Işıklı çubukla baş hizasında yay çizerek",
+        "isTrue": false
+      },
+      {
+        "text": "Işıklı çubuğu sağdan sola doğru yay çizerek",
+        "isTrue": true
+      },
+      {
+        "text": "El yukarı kaldırılarak",
+        "isTrue": false
+      },
+      {
+        "text": "Kol yere paralel şekilde ileri uzatılarak",
+        "isTrue": false
+      }
+    ]
+  }
+]
