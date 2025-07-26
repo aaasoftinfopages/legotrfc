@@ -38,7 +38,7 @@
   {
     "id": 7,
     "title": "Dizel Ön Isıtma Bujisi Uyarısı",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelonkizdirmabujisi.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelkizdirmabujisi.jpg",
     "description": "Dizel araçlarda, motorun soğukken kolay çalışması için yanma odalarını ısıtan kızdırma bujilerinin çalıştığını gösterir. Bu ışık söndükten sonra marşa basılmalıdır. Sürüş sırasında yanıyorsa bir arıza belirtisidir."
   },
   {
@@ -98,7 +98,7 @@
   {
     "id": 17,
     "title": "Kısa Farlar Açık",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kisafar.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.jpg",
     "description": "Kısa hüzmeli farların açık olduğunu gösteren bilgilendirme ışığıdır."
   },
   {
@@ -116,7 +116,7 @@
   {
     "id": 20,
     "title": "Motor Güç Uyarısı (EPC)",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorgucuyarisi.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorgucuuyarisi.jpg",
     "description": "Elektronik Güç Kontrolü (EPC) sisteminde bir arıza olduğunu belirtir. Genellikle gaz pedalı, gaz kelebeği gibi güç aktarım bileşenlerindeki sorunları işaret eder ve motor gücünü sınırlar."
   },
   {
@@ -134,13 +134,13 @@
   {
     "id": 23,
     "title": "Park Freni Uyarısı",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/parkfrenuyarisi.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/parkfreniuyarisi.jpg",
     "description": "Elektronik veya standart park freninin devrede olduğunu gösterir. Genellikle 'El Freni Uyarısı' ile aynı anlama gelir."
   },
   {
     "id": 24,
     "title": "Sağa Dönüş Sinyali",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sadonus.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sagadonus.jpg",
     "description": "Sağa dönüş sinyalinin veya dörtlü flaşörlerin aktif olduğunu gösterir."
   },
   {
@@ -152,7 +152,7 @@
   {
     "id": 26,
     "title": "Sola Dönüş Sinyali",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/soladonus.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/soladonus.png",
     "description": "Sola dönüş sinyalinin veya dörtlü flaşörlerin aktif olduğunu gösterir."
   },
   {
@@ -164,13 +164,13 @@
   {
     "id": 28,
     "title": "Yağ Basıncı İkaz Lambası",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.png",
     "description": "Motor yağ basıncının tehlikeli derecede düştüğünü gösterir. Bu, motorda yağlama yapılmadığı anlamına gelir. Araç derhal durdurulmalı ve motor stop edilmelidir. Aksi takdirde motor çok ciddi hasar görebilir."
   },
   {
     "id": 29,
     "title": "Yakıt Filtresi Suyu Seviyesi Uyarısı",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yakitfiltresisuyuseviyesiuyarisi.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yakitfiltresisuseviyesiuyarisi.jpg",
     "description": "Özellikle dizel araçlarda, yakıt filtresinde biriken suyun boşaltılması gerektiğini belirtir. Bu suyun motora gitmesi enjektörlere ve yakıt sistemine zarar verebilir."
   }
 ]
