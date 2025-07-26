@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural1_yaya_oncelik.png",
+    "description": "Görselde bir yaya geçidi üzerinde bekleyen yaya ile kavşağa yaklaşan Araç 1 ve Araç 2 gösterilmektedir. Yaya geçidine yaklaşan sürücüler, yayanın güvenli geçişini sağlamak için durmak ve yol vermek zorundadır."
+  },
+  {
+    "id": 2,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural2_mulkten_cikis.png",
+    "description": "Görselde, ana yolda seyreden Araç 1 ile yoldaki mülkten (örneğin benzinlikten) çıkış yaparak ana yola katılmak isteyen Araç 2 gösterilmektedir. Mülkten çıkış yapan sürücüler, ana yoldaki araç sürücülerine yol vermek zorundadır."
+  },
+  {
+    "id": 3,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural3_ornek.png",
+    "description": "Görselde Yol Ver levhası bulunan tali yoldan kavşağa yaklaşan Araç 2 ile ana yolda seyreden Araç 1 gösterilmektedir. Tali yoldaki sürücüler (Araç 2), ana yoldaki araçlara (Araç 1) yol vermek zorundadır."
+  },
+  {
+    "id": 4,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural4_kontrolsuz.png",
+    "description": "Görselde kontrolsüz bir kavşakta karşılaşan Araç 1 (sola dönen) ile Araç 2 (düz giden) gösterilmektedir. Herhangi bir işaret veya levha yoksa, dönüş yapan araçlar düz giden araçlara yol vermek zorundadır."
+  },
+  {
+    "id": 5,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural5_bolunmus_yol.png",
+    "description": "Görselde bölünmüş yolda seyreden 2 numaralı araç ile tali yoldan (bölünmüş yola) katılmak isteyen 1 numaralı araç gösterilmektedir. Bölünmüş yola çıkan sürücüler (Araç 1), bu yoldaki araçlara (Araç 2) yol vermelidir."
+  },
+  {
+    "id": 6,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural6_esdeger_kavsak.png",
+    "description": "Görselde kontrolsüz ve eşdeğer yolların kesiştiği bir kavşakta 3 araç karşılaşmaktadır. Kavşakta trafik işareti bulunmadığı durumlarda tüm araçlar durmalı ve sağı boş olan araç geçmelidir. Bu kurala göre önce 3 numaralı araç geçer. 3 geçtikten sonra sağı boşalan 2 numaralı araç geçer. En son olarak ise 1 numaralı araç geçiş yapar. Doğru geçiş sırası: 3 → 2 → 1"
+  },
+  {
+    "id": 7,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural7_tramvay.png",
+    "description": "Görselde tramvay yolu ile kesişen bir kavşakta, 1 numara tramvay, 2 ve 3 numaralı araçlar yer almaktadır. Tramvay bulunan yerlerde ilk geçiş hakkı tramvaya aittir. Bu nedenle geçiş sırası 1 → 2 → 3 şeklindedir."
+  },
+  {
+    "id": 8,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural8_donel_kavsak.png",
+    "description": "Görselde döner kavşağa yaklaşan 1 numaralı araç ile kavşak içinde bulunan 2 numaralı araç gösterilmektedir. Döner (göbekli) kavşaklarda ilk geçiş hakkı her zaman kavşağa ilk giren araca aittir. Bu nedenle geçiş sırası önce 2 numaralı araç, sonra 1 numaralı araç şeklindedir."
+  },
+  {
+    "id": 9,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural9_gecis_ustunluk.png",
+    "description": "Görselde bir kavşakta geçiş üstünlüğü bulunan araçlar (ambulans, itfaiye, polis) ile iş makinesi karşılaşmaktadır. Trafik kurallarına göre geçiş üstünlüğü sıralaması şu şekildedir: 1. Ambulans (acil hasta taşıyan), 2. İtfaiye, 3. Polis aracı, 4. İş makinesi (geçiş üstünlüğü yoktur). Bu nedenle geçiş sırası: Ambulans → İtfaiye → Polis → İş makinesi şeklindedir."
+  },
+  {
+    "id": 10,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/ayrilma.png",
+    "description": "Ayrılma Oku: Şeritten ayrılma veya bir sonraki çıkış için yavaşlama şeridinin başlangıcını belirtir. Sürücüleri zamanında doğru şeride geçmeleri için uyarır."
+  },
+  {
+    "id": 11,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/azami_hiz.png",
+    "description": "Azami Hız İşareti: Yol kaplaması üzerine yazılan bu rakamlar, o yoldaki izin verilen en yüksek (azami) hızı belirtir."
+  },
+  {
+    "id": 12,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/bisiklet_yolu.png",
+    "description": "Bisiklet Yolu Piktogramı: Bu işaret, yolun o bölümünün sadece bisikletlilerin kullanımına ayrılmış bir bisiklet yolu olduğunu gösterir."
+  },
+  {
+    "id": 13,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/devamli_cizgi.png",
+    "description": "Devamlı Yol Çizgisi: Bu çizgi boyunca şerit değiştirmenin ve öndeki aracı geçmenin yasak olduğunu bildirir. Görüşün yetersiz olduğu tepe üstü ve viraj gibi yerlerde bulunur."
+  },
+  {
+    "id": 14,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/dur.png",
+    "description": "Dur Yazısı: Genellikle 'DUR' levhası ile birlikte kullanılır. Sürücülerin bu çizgide mutlak suretle durmalarını ve ana yoldaki araçlara yol verdikten sonra ilerlemelerini belirtir."
+  },
+  {
+    "id": 15,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/engelli_yolu.png",
+    "description": "Engelli Sürücü Park Yeri: Bu sembol, park yerinin sadece engelli sürücüler veya engelli taşıyan araçlar için ayrıldığını gösterir."
+  },
+  {
+    "id": 16,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/iki_devamli_cizgi.png",
+    "description": "İki Devamlı Yol Çizgisi: Karşı yönlerden gelen trafiği ayırır. Bu çizgi boyunca her iki yöndeki araçların da şerit değiştirmesi ve diğer şeride geçmesi kesinlikle yasaktır."
+  },
+  {
+    "id": 17,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/katilma.png",
+    "description": "Katılma Oku: Hızlanma şeridinin sonunu ve ana yola katılımın başladığını belirtir. Sürücüleri güvenli bir şekilde ana yola katılmaları için yönlendirir."
+  },
+  {
+    "id": 18,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kesikli_cizgi.png",
+    "description": "Kesikli Yol Çizgisi: Kurallara uymak şartıyla şerit değiştirilebileceğini ve öndeki aracın sollanabileceğini belirtir."
+  },
+  {
+    "id": 19,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kesikli_devamli_cizgi.png",
+    "description": "Yan Yana Kesikli ve Devamlı Çizgi: Sadece kesikli çizgi tarafındaki araçların şerit değiştirebileceğini, devamlı çizgi tarafındaki araçların ise şerit değiştiremeyeceğini belirtir."
+  },
+  {
+    "id": 20,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/tarali_alana_girilmez.png",
+    "description": "Taralı Alan: Trafik akımlarını ayırmak veya kanalize etmek için kullanılır. Bu alanlara araçların girmesi ve üzerinde durması yasaktır."
+  },
+  {
+    "id": 21,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/tirmanma_seridi.png",
+    "description": "Tırmanma Şeridi: Yokuş yukarı yollarda yavaş seyreden ağır taşıtların kullanması için ayrılmış ek şerittir. Bu işaret, şeridin başlangıcını ve hangi araçların kullanması gerektiğini belirtir."
+  },
+  {
+    "id": 22,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/yavaslama_cizgileri.png",
+    "description": "Yavaşlama Uyarı Çizgileri: Kavşak, gişe veya tehlikeli bir viraj gibi bir noktaya yaklaşırken, sürücüleri hızlarını düşürmeleri konusunda uyarmak için giderek sıklaşan aralıklarla çizilir."
+  },
+  {
+    "id": 23,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/yolver.png",
+    "description": "'Yol Ver' levhası ile birlikte kullanılan bu üçgen işaret, sürücülerin hızlarını azaltıp ana yoldan gelen araçlara yol vermeleri gerektiğini belirtir."
+  }
+]
