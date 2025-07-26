@@ -1,1 +1,176 @@
-
+[
+  {
+    "id": 1,
+    "title": "ABS İkaz Lambası",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.jpg",
+    "description": "Anti Blokaj Fren Sistemi'nde (ABS) bir arıza olduğunu gösterir. Bu lamba yandığında frenleriniz çalışmaya devam eder ancak ABS devre dışı kalır. Güvenli bir şekilde servise başvurmanız önerilir."
+  },
+  {
+    "id": 2,
+    "title": "Airbag (Hava Yastığı) İkaz Lambası",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/airbag.jpg",
+    "description": "Hava yastığı sisteminde veya emniyet kemeri gergi mekanizmasında bir sorun olduğunu belirtir. Kaza anında hava yastıklarının açılmamasına neden olabilir. En kısa sürede kontrol ettirilmelidir."
+  },
+  {
+    "id": 3,
+    "title": "Akü Arıza Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.jpg",
+    "description": "Akü şarj sisteminde bir sorun olduğunu gösterir. Genellikle alternatör (şarj dinamosu) arızası veya V kayışının koptuğu anlamına gelir. Araç akü gücü bitene kadar çalışır, acilen durup kontrol edilmelidir."
+  },
+  {
+    "id": 4,
+    "title": "Arka Buz Çözme (Rezistans) Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkabuzcozmeuyarisi.jpg",
+    "description": "Arka cam rezistansının aktif olduğunu gösterir. Buğuyu veya buzu çözmek için kullanılır. Genellikle işlem bitince manuel olarak kapatılır."
+  },
+  {
+    "id": 5,
+    "title": "Arka Kapı Açık Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkakapiacik.jpg",
+    "description": "Araçtaki kapılardan birinin veya bagaj kapağının tam olarak kapanmadığını belirtir. Güvenlik için tüm kapıların kontrol edilmesi gerekir."
+  },
+  {
+    "id": 6,
+    "title": "Arka Sis Lambası Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkasisuyari.jpg",
+    "description": "Arka sis lambalarının açık olduğunu gösterir. Sadece yoğun sis, kar veya yağmur gibi görüşün çok düşük olduğu durumlarda kullanılmalıdır."
+  },
+  {
+    "id": 7,
+    "title": "Dizel Ön Isıtma Bujisi Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelonkizdirmabujisi.jpg",
+    "description": "Dizel araçlarda, motorun soğukken kolay çalışması için yanma odalarını ısıtan kızdırma bujilerinin çalıştığını gösterir. Bu ışık söndükten sonra marşa basılmalıdır. Sürüş sırasında yanıyorsa bir arıza belirtisidir."
+  },
+  {
+    "id": 8,
+    "title": "Dörtlüler (Flaşör) Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dortluler.jpg",
+    "description": "Dörtlü ikaz lambalarının (flaşörlerin) açık olduğunu belirtir. Acil durumlarda, arıza halinde veya kısa süreli park etme durumlarında diğer sürücüleri uyarmak için kullanılır."
+  },
+  {
+    "id": 9,
+    "title": "Düşük Yakıt Seviyesi Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.jpg",
+    "description": "Yakıt deposundaki yakıt seviyesinin kritik düzeyde azaldığını gösterir. En kısa sürede yakıt alınması gerektiğini belirtir."
+  },
+  {
+    "id": 10,
+    "title": "Elektronik Denge Kontrolü (ESP/ESC)",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elektronikdenge.png",
+    "description": "Elektronik Denge Programı'nda (ESP/ESC) bir sorun olduğunu veya sistemin devre dışı bırakıldığını gösterir. Işık yanıp sönüyorsa, sistemin aracın kaymasını önlemek için aktif olarak çalıştığı anlamına gelir."
+  },
+  {
+    "id": 11,
+    "title": "El Freni Çekili Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.jpg",
+    "description": "El freninin (park freni) çekili olduğunu belirtir. Ayrıca fren hidrolik seviyesinin düşük olduğu anlamına da gelebilir. Hareket etmeden önce el freninin indirildiğinden emin olun."
+  },
+  {
+    "id": 12,
+    "title": "Emniyet Kemeri Takılı Değil Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/emniyetkemeri.jpg",
+    "description": "Sürücünün veya ön yolcunun emniyet kemerinin takılı olmadığını gösterir. Güvenli bir sürüş için emniyet kemerleri mutlaka takılmalıdır."
+  },
+  {
+    "id": 13,
+    "title": "Enjeksiyon Hatası / Motor Arıza Lambası",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/enjeksiyonhatasi.jpg",
+    "description": "Motorun enjeksiyon veya ateşleme sisteminde bir arıza olduğunu belirtir. Genellikle 'Motor Arıza Lambası' ile aynı anlama gelir ve servise başvurulması gerekir."
+  },
+  {
+    "id": 14,
+    "title": "Far Seviyesi Kontrolü",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/farseviyesikontrol.jpg",
+    "description": "Otomatik far yüksekliği ayar sisteminde bir arıza olduğunu gösterir. Farların karşıdan gelen sürücülerin gözünü almaması veya yolu yeterince aydınlatamaması gibi sorunlara yol açabilir."
+  },
+  {
+    "id": 15,
+    "title": "Hararet (Motor Sıcaklığı) Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.jpg",
+    "description": "Motor soğutma suyu sıcaklığının aşırı yükseldiğini belirtir. Bu durumda araç derhal güvenli bir yere çekilmeli ve motor soğumaya bırakılmalıdır. Aksi halde motorda ciddi hasarlar oluşabilir."
+  },
+  {
+    "id": 16,
+    "title": "Katalizör Arızası",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/katalizor.jpg",
+    "description": "Egzoz sisteminde yer alan katalitik konvertörde bir sorun veya aşırı ısınma olduğunu belirtir. Emisyon değerlerinin artmasına ve motor performansının düşmesine neden olabilir."
+  },
+  {
+    "id": 17,
+    "title": "Kısa Farlar Açık",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kisafar.jpg",
+    "description": "Kısa hüzmeli farların açık olduğunu gösteren bilgilendirme ışığıdır."
+  },
+  {
+    "id": 18,
+    "title": "Lastik Basıncı Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.jpg",
+    "description": "Bir veya daha fazla lastiğin hava basıncının önerilen seviyenin önemli ölçüde altına düştüğünü belirtir. Lastiklerin basınçları en kısa sürede kontrol edilmelidir."
+  },
+  {
+    "id": 19,
+    "title": "Motor Arıza Lambası",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.jpg",
+    "description": "Motor kontrol ünitesinin (ECU) sensörlerden birinde veya motorun herhangi bir bileşeninde bir sorun tespit ettiğini gösterir. Aracın servise götürülmesi gerekmektedir."
+  },
+  {
+    "id": 20,
+    "title": "Motor Güç Uyarısı (EPC)",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorgucuyarisi.jpg",
+    "description": "Elektronik Güç Kontrolü (EPC) sisteminde bir arıza olduğunu belirtir. Genellikle gaz pedalı, gaz kelebeği gibi güç aktarım bileşenlerindeki sorunları işaret eder ve motor gücünü sınırlar."
+  },
+  {
+    "id": 21,
+    "title": "Ön Buz Çözme (Rezistans) Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onbuzcozmeuyarisi.jpg",
+    "description": "Ön cam rezistansının aktif olduğunu gösterir. Buğuyu veya buzu çözmek için kullanılır. Genellikle işlem bitince otomatik veya manuel olarak kapanır."
+  },
+  {
+    "id": 22,
+    "title": "Ön Kaput Açık Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onkaputacik.jpg",
+    "description": "Motor kaputunun tam olarak kapanmadığını belirtir. Sürüş güvenliği için tehlikeli olabileceğinden, hareket etmeden önce kontrol edilmelidir."
+  },
+  {
+    "id": 23,
+    "title": "Park Freni Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/parkfrenuyarisi.jpg",
+    "description": "Elektronik veya standart park freninin devrede olduğunu gösterir. Genellikle 'El Freni Uyarısı' ile aynı anlama gelir."
+  },
+  {
+    "id": 24,
+    "title": "Sağa Dönüş Sinyali",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sadonus.jpg",
+    "description": "Sağa dönüş sinyalinin veya dörtlü flaşörlerin aktif olduğunu gösterir."
+  },
+  {
+    "id": 25,
+    "title": "Silecek Suyu Seviyesi Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sileceksuyu.jpg",
+    "description": "Cam silecek suyu seviyesinin azaldığını belirtir. Güvenli bir görüş için en kısa zamanda silecek suyu eklenmelidir."
+  },
+  {
+    "id": 26,
+    "title": "Sola Dönüş Sinyali",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/soladonus.jpg",
+    "description": "Sola dönüş sinyalinin veya dörtlü flaşörlerin aktif olduğunu gösterir."
+  },
+  {
+    "id": 27,
+    "title": "Uzun Farlar Açık",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.jpg",
+    "description": "Uzun hüzmeli farların açık olduğunu gösteren bilgilendirme ışığıdır. Karşıdan gelen sürücüleri rahatsız etmemek için sadece gerekli durumlarda kullanılmalıdır."
+  },
+  {
+    "id": 28,
+    "title": "Yağ Basıncı İkaz Lambası",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.jpg",
+    "description": "Motor yağ basıncının tehlikeli derecede düştüğünü gösterir. Bu, motorda yağlama yapılmadığı anlamına gelir. Araç derhal durdurulmalı ve motor stop edilmelidir. Aksi takdirde motor çok ciddi hasar görebilir."
+  },
+  {
+    "id": 29,
+    "title": "Yakıt Filtresi Suyu Seviyesi Uyarısı",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yakitfiltresisuyuseviyesiuyarisi.jpg",
+    "description": "Özellikle dizel araçlarda, yakıt filtresinde biriken suyun boşaltılması gerektiğini belirtir. Bu suyun motora gitmesi enjektörlere ve yakıt sistemine zarar verebilir."
+  }
+]
