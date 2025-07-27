@@ -61,7 +61,7 @@
     "options": [
       { "text": "1 numaralı araca yol vermelidir.", "isTrue": true },
       { "text": "Geçiş önceliği kendisindedir.", "isTrue": false },
-      { "text": "1 numaralı araç yavaşlamalıdır.", "isTrue": false },
+      { "text": "1 numaralı araç hızlanmalıdır.", "isTrue": false },
       { "text": "Korna çalıp geçmelidir.", "isTrue": false }
     ]
   },
@@ -93,7 +93,7 @@
     "question": "Görseldeki yaya geçidinde bekleyen yaya varken, 1 ve 2 numaralı araçlar nasıl davranmalıdır?",
     "options": [
       { "text": "Hızlanıp yayanın önünden geçmelidirler.", "isTrue": false },
-      { "text": "Yavaşlayıp yayanın arkasından geçmelidirler.", "isTrue": false },
+      { "text": "Yavaşlayıp yayaya korna çalmalılar.", "isTrue": false },
       { "text": "Durup yayanın güvenle geçmesini sağlamalıdırlar.", "isTrue": true },
       { "text": "Sadece 1 numaralı araç durmalıdır.", "isTrue": false }
     ]
