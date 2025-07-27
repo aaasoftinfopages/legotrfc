@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/koma.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/koma.png",
     "question": "Görseldeki gibi ağızdan kan gelmesi durumunda bilinci kapalı hastaya hangi pozisyon verilmelidir?",
     "options": [
       { "text": "Şok Pozisyonu", "isTrue": false },
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/bakdinlehisset.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/bakdinlehisset.png",
     "question": "İlk yardımda solunumun değerlendirilmesi için kullanılan 'Bak-Dinle-Hisset' yöntemi ne kadar süreyle uygulanmalıdır?",
     "options": [
       { "text": "5 saniye", "isTrue": false },
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/bascenepozisyonu.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/bascenepozisyonu.png",
     "question": "Görselde gösterilen 'Baş Geri-Çene Yukarı' pozisyonunun temel amacı nedir?",
     "options": [
       { "text": "Kanamayı durdurmak", "isTrue": false },
@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/basincnoktalari.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/basincnoktalari.png",
     "question": "Görselde gösterilen basınç noktaları hangi tür kanamaları kontrol altına almak için kullanılır?",
     "options": [
       { "text": "İç kanamalar", "isTrue": false },
@@ -45,7 +45,7 @@
   },
   {
     "id": 5,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/bebeksirtvurusvegogusbatisi.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/bebeksirtvurusvegogusbatisi.png",
     "question": "Görseldeki gibi solunum yolu tıkanan bir bebeğe sırta vuruş uygulaması kaç kez yapılır?",
     "options": [
       { "text": "2 kez", "isTrue": false },
@@ -67,7 +67,7 @@
   },
   {
     "id": 7,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/dortelleyaralitasima.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/dortelleyaralitasima.png",
     "question": "Görselde gösterilen 'Altın Beşik' (Dört Elle Taşıma) tekniği hangi durumdaki yaralılar için daha uygundur?",
     "options": [
       { "text": "Omurga kırığı şüphesi olanlar", "isTrue": false },
@@ -78,7 +78,7 @@
   },
   {
     "id": 8,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/gerigeriyaralitasima.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/gerigeriyaralitasima.png",
     "question": "Görseldeki sürükleme yöntemi ile yaralı taşıma öncelikle hangi durumda tercih edilir?",
     "options": [
       { "text": "Yaralıyı merdivenden indirmek için", "isTrue": false },
@@ -89,7 +89,7 @@
   },
   {
     "id": 9,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/gogusyaralanmasıpozisyonu.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/gogusyaralanmasıpozisyonu.png",
     "question": "Görseldeki gibi delici göğüs yaralanması olan ve bilinci açık bir yaralıya hangi pozisyon verilir?",
     "options": [
       { "text": "Sırtüstü düz yatış", "isTrue": false },
@@ -100,7 +100,7 @@
   },
   {
     "id": 10,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/hemlickmanevrasi.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/hemlickmanevrasi.png",
     "question": "Heimlich manevrası (Karına bası) hangi durumda uygulanır?",
     "options": [
       { "text": "Kalp durmasında", "isTrue": false },
@@ -111,7 +111,7 @@
   },
   {
     "id": 11,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/holgernielsin.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/holgernielsin.png",
     "question": "Görselde gösterilen Holger-Nielsen metodu nedir?",
     "options": [
       { "text": "Bir yaralı taşıma tekniğidir.", "isTrue": false },
@@ -122,7 +122,7 @@
   },
   {
     "id": 12,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/itfayicetasimayontemi.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/itfayicetasimayontemi.png",
     "question": "İtfaiyeci yöntemi ile yaralı taşımanın en büyük avantajı nedir?",
     "options": [
       { "text": "Yaralının en rahat ettiği yöntem olması", "isTrue": false },
@@ -133,7 +133,7 @@
   },
   {
     "id": 13,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/karinyaralanmasi.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/karinyaralanmasi.png",
     "question": "Görseldeki gibi karın yaralanmasında dışarı çıkan organlar için ne yapılmalıdır?",
     "options": [
       { "text": "İçeri sokulmaya çalışılır.", "isTrue": false },
@@ -144,7 +144,7 @@
   },
   {
     "id": 14,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kirikcikikatelleme.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/kirikcikikatelleme.png",
     "question": "Kırıkları tespit etmek için atel kullanırken dikkat edilmesi gereken en önemli kural nedir?",
     "options": [
       { "text": "Atel sadece kırık bölgeyi kapsamalıdır.", "isTrue": false },
@@ -155,7 +155,7 @@
   },
   {
     "id": 15,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kolkirigi.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/kolkirigi.png",
     "question": "Görseldeki gibi bir kol kırığında kolun boyuna asılmasının temel amacı nedir?",
     "options": [
       { "text": "Kırık kemik uçlarının kaynamasını sağlamak", "isTrue": false },
@@ -166,7 +166,7 @@
   },
   {
     "id": 16,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/koma.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/koma.png",
     "question": "Görselde gösterilen Koma (İyileşme) Pozisyonu hangi durumdaki yaralılara uygulanır?",
     "options": [
       { "text": "Kalbi durmuş olanlara", "isTrue": false },
@@ -188,7 +188,7 @@
   },
   {
     "id": 18,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/rentelmanevrasi.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/rentelmanevrasi.png",
     "question": "Görseldeki Rentek Manevrası, hangi şüphe durumunda yaralıyı araçtan çıkarmak için kullanılır?",
     "options": [
       { "text": "Kalp krizi şüphesi", "isTrue": false },
@@ -199,7 +199,7 @@
   },
   {
     "id": 19,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/sedyeiletasima.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/sedyeiletasima.png",
     "question": "Sedye ile yaralı taşırken genel kural olarak yaralının gidiş yönü nasıl olmalıdır?",
     "options": [
       { "text": "Başı önde olacak şekilde", "isTrue": false },
@@ -210,7 +210,7 @@
   },
   {
     "id": 20,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/silvestermetodu.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/silvestermetodu.png",
     "question": "Görselde anlatılan Silvester metodu hangi amaçla uygulanır?",
     "options": [
       { "text": "Yaralıyı taşımak", "isTrue": false },
@@ -221,7 +221,7 @@
   },
   {
     "id": 21,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/sok.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/sok.png",
     "question": "Şok pozisyonunda ayakların 30 cm kadar yukarı kaldırılmasının amacı nedir?",
     "options": [
       { "text": "Yaralının daha rahat nefes almasını sağlamak", "isTrue": false },
@@ -232,7 +232,7 @@
   },
   {
     "id": 22,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/temelyasamdestegi.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/temelyasamdestegi.png",
     "question": "Temel Yaşam Desteği (TYD) uygulamasında, yetişkin bir hastada kalp masajı ve suni solunum döngüsü nasıldır?",
     "options": [
       { "text": "15 kalp masajı, 2 solunum", "isTrue": false },
@@ -243,7 +243,7 @@
   },
   {
     "id": 23,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/triyajrenk.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/triyajrenk.png",
     "question": "Görseldeki triyaj renk kodlarına göre, hayati tehlikesi bulunan ve hemen müdahale edilmesi gereken yaralılar hangi renk ile kodlanır?",
     "options": [
       { "text": "Yeşil", "isTrue": false },
@@ -254,7 +254,7 @@
   },
   {
     "id": 24,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/yanik.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/yanik.png",
     "question": "Yanıklarda ilk yardım olarak yapılması gereken ilk uygulama nedir?",
     "options": [
       { "text": "Yanık bölgesine yoğurt veya diş macunu sürmek", "isTrue": false },
@@ -265,7 +265,7 @@
   },
   {
     "id": 25,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/suniteneffus.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/suniteneffus.png",
     "question": "Yetişkin birine suni solunum yaparken her bir soluk ne kadar sürede verilmelidir?",
     "options": [
       { "text": "Yaklaşık 1 saniye", "isTrue": true },
@@ -287,7 +287,7 @@
   },
   {
     "id": 27,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/triyajrenk.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/triyajrenk.png",
     "question": "Çoklu yaralanmalı bir kaza yerinde yapılan triyajda 'SARI' renk kodu ne anlama gelir?",
     "options": [
       { "text": "Hafif yaralı, bekleyebilir.", "isTrue": false },
@@ -320,7 +320,7 @@
   },
   {
     "id": 30,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/damarkanamalari.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/damarkanamalari.png",
     "question": "Görseldeki gibi bir dış kanamada, kanayan bölgeye baskı uygulandıktan sonra yapılması gerekenlerden biri de kanayan uzvu kalp seviyesinden yukarı kaldırmaktır. Bunun sebebi nedir?",
     "options": [
       { "text": "Ağrıyı azaltmak", "isTrue": false },
