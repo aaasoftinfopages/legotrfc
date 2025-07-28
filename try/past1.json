@@ -146,7 +146,7 @@
     "id": 2262,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik görevlisinin işareti ne anlama gelmektedir?",
-    "image_url":  "https://aaasoftinfopages.github.io/legotrfc/page/questions/atardamar.png",,
+    "image_url":  "https://aaasoftinfopages.github.io/legotrfc/page/questions/atardamar.png",
     "options": [
       { "text": "Bütün yönlerdeki trafiğe 'Dur'", "isTrue": false },
       { "text": "Trafiği yavaşlatma işareti", "isTrue": false },
