@@ -116,19 +116,19 @@
     ],
     "description": "Kimyasal yanıklarda amaç, kimyasal maddenin deri ile temasını en kısa sürede ve tamamen ortadan kaldırmaktır. Bunun en etkili yolu, bölgeyi bol ve tazyiksiz (hafif akan) suyla uzun süre yıkamaktır."
   },
-  {
-    "id": 2310,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki yol bölümünde, 2  numaralı araç sürücüsünün yaptığı öndeki aracı geçmesi hakkında?  ",
-    "image_url": null,
-    "options": [
-      { "text": "Devamlı şeritte  ve yolun görüş sıkıntısı olmasına rağmen geçmesi yanlıştır", "isTrue": true },
-      { "text": "Hızını artırıp aynı şeritte devam etmesi doğrudur ", "isTrue": false },
-      { "text": "Herhangi bir yanlışlık yoktur", "isTrue": false },
-      { "text": "Korna çalarak öndeki aracı rahatsız etmesi doğrudur", "isTrue": false }
-    ],
-    "description": "Görüşün yetersiz olduğu virajlar, tepe üstleri, kavşaklar ve yaya geçitleri gibi yerlerde öndeki aracı geçmek (sollama yapmak) tehlikeli ve yasaktır. 2 numaralı araç virajda sollama yaparak kural ihlali yapmaktadır."
-  },
+ {
+  "id": 2310,
+  "category": "İlk Yardım",
+  "question": "Resimde gösterilen ve kaza yapmış bir araçtan yaralıyı çıkarmada kullanılan yöntem aşağıdakilerden hangisidir?",
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/rentekmanevrasi.png",
+  "options": [
+    { "text": "İtfaiyeci yöntemi", "isTrue": false },
+    { "text": "Heimlich manevrası", "isTrue": false },
+    { "text": "Rentek manevrası", "isTrue": true },
+    { "text": "Koma pozisyonu", "isTrue": false }
+  ],
+  "description": "Rentek manevrası, özellikle trafik kazalarında, yaralının omuriliğinde bir zedelenme şüphesi varsa, baş-boyun-gövde eksenini bozmadan onu güvenli bir şekilde araçtan çıkarmak için kullanılan özel bir tekniktir. Bu yöntem, olası bir felç riskini en aza indirir."
+},
   {
     "id": 2311,
     "category": "Motor ve Araç Tekniği",
