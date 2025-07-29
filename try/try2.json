@@ -3,7 +3,7 @@
     "id": 1,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti ne anlama gelir?",
-    "image_url": "https://www.trafik.gov.tr/kurumlar/trafik.gov.tr/02-Trafik-Isaretleri/Tanzim-Isaretleri/TT-1.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/yolver.png",
     "options": [
       { "text": "Yol ver", "isTrue": true },
       { "text": "Dur", "isTrue": false },
@@ -42,7 +42,7 @@
     "id": 4,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki gibi kontrolsüz bir kavşakta karşılaşan araçlardan hangisi ilk geçiş hakkını kullanmalıdır?",
-    "image_url": "https://www.surucukurslari.com/data/files/164741369_kontrolsuz_kavsak_gecis_hakki_sorusu.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kavsak1.png",
     "options": [
       { "text": "1 numaralı araç", "isTrue": false },
       { "text": "2 numaralı araç", "isTrue": true },
@@ -55,7 +55,7 @@
     "id": 5,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti sürücüye neyi bildirir?",
-    "image_url": "https://www.surucukurslari.com/data/files/1614995213_kaygan_yol_isareti_ve_anlami.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kayganyol.png",
     "options": [
       { "text": "Kontrolsüz kavşağı", "isTrue": false },
       { "text": "Yolun kaygan olduğunu", "isTrue": true },
@@ -133,7 +133,7 @@
     "id": 11,
     "category": "Trafik ve Çevre",
     "question": "Taşıt yolu üzerine çizilen şekildeki yatay işaretlemenin anlamı nedir?",
-    "image_url": "https://www.surucukurslari.com/data/files/104576822_yol_uzerine_cizilen_yaya_gecidi_isareti.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/yayafecidi.png",
     "options": [
       { "text": "Yaya geçidi", "isTrue": true },
       { "text": "Bisiklet yolu", "isTrue": false },
@@ -169,18 +169,18 @@
     "description": "Aracın renginin değiştirilmesi, LPG taktırılması gibi aracın tescil belgesinde belirtilen niteliklerini değiştirecek herhangi bir teknik değişiklik yapıldığında, aracın tekrar muayene ettirilmesi zorunludur."
   },
   {
-    "id": 14,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik işareti neyi ifade eder?",
-    "image_url": "https://www.surucukurslari.com/data/files/490403757_iki_yonlu_trafik_isareti.jpg",
-    "options": [
-      { "text": "İki yönlü yol", "isTrue": true },
-      { "text": "İleride yolun daralacağını", "isTrue": false },
-      { "text": "Öndeki taşıtı geçmenin yasak olduğunu", "isTrue": false },
-      { "text": "Bölünmüş yol başlangıcını", "isTrue": false }
-    ],
-    "description": "Bu levha, tek yönlü bir yoldan veya bölünmüş yoldan çıkıp, karşıdan da trafiğin aktığı iki yönlü bir yol kesimine girileceğini bildirir. Sürücüler dikkatli olmalıdır."
-  },
+  "id": 14,
+  "category": "İlkyardım",
+  "question": "Bilinci açık ve delici karın yaralanması olan bir kazazedeye, aşağıdaki pozisyonlardan hangisi verilmelidir?",
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/karinyaralanmasi.png",
+  "options": [
+    { "text": "Sırtüstü pozisyonda bacakları karna doğru bükülmüş", "isTrue": true },
+    { "text": "Şok pozisyonu (sırtüstü, bacaklar yukarıda)", "isTrue": false },
+    { "text": "Yarı yüzükoyun-yan pozisyon (koma pozisyonu)", "isTrue": false },
+    { "text": "Baş aşağıda, ayaklar yukarıda pozisyonu", "isTrue": false }
+  ],
+  "description": "Delici karın yaralanmalarında, yaralı bilinci açıksa sırtüstü yatırılır ve bacakları dizlerden bükülerek karına doğru çekilir. Bu pozisyon, karın kaslarını gevşeterek ağrıyı azaltır ve iç organlar üzerindeki baskıyı hafifletir."
+},
   {
     "id": 15,
     "category": "Trafik ve Çevre",
@@ -210,8 +210,8 @@
   {
     "id": 17,
     "category": "Trafik ve Çevre",
-    "question": "Aşağıdakilerden hangisi 'Dur' işaretidir?",
-    "image_url": "https://www.surucukurslari.com/data/files/324150392_dur_levhasi_tt_2.jpg",
+    "question": "Aşağıdakilerden hangisi 'Dur' işaretidir(Zihinde görsel canlandırma)?",
+    "image_url": null,
     "options": [
       { "text": "Sekizgen kırmızı levha", "isTrue": true },
       { "text": "Ters üçgen kırmızı çerçeveli levha", "isTrue": false },
@@ -234,18 +234,30 @@
     "description": "Eğer sigorta atsa veya akü zayıflasa genellikle her iki far da etkilenir. Ancak tek bir farın sönük yanması, genellikle o farın ampul duyu veya kablo bağlantılarında bir temassızlık veya paslanma (oksitlenme) olduğuna işaret eder."
   },
   {
-    "id": 19,
-    "category": "Trafik ve Çevre",
-    "question": "Aşağıdakilerden hangisi, bölünmüş karayolunu belirten levhadır?",
-    "image_url": "https://www.surucukurslari.com/data/files/1908872008_bolunmus_yol_baslangici_levhasi.jpg",
-    "options": [
-      { "text": "İki yönlü trafik levhası", "isTrue": false },
-      { "text": "Anayol levhası", "isTrue": false },
-      { "text": "Bölünmüş yol başlangıcı levhası", "isTrue": true },
-      { "text": "Otoyol başlangıcı levhası", "isTrue": false }
-    ],
-    "description": "Bu levha, yolun ortasında bir ayırıcı (refüj) ile gidiş ve geliş yönlerinin birbirinden ayrıldığı bir yol kesimine girildiğini belirtir."
-  },
+  "id": 19,
+  "category": "Araç Tekniği",
+  "question": "Araç gösterge panelinde yanan şekildeki ikaz ışığı sürücüye neyi bildirir?",
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/hararet.jpg",
+  "options": [
+    {
+      "text": "Motor soğutma suyu sıcaklığının aşırı yükseldiğini",
+      "isTrue": true
+    },
+    {
+      "text": "Fren balatalarının aşındığını",
+      "isTrue": false
+    },
+    {
+      "text": "Motor yağı basıncının düştüğünü",
+      "isTrue": false
+    },
+    {
+      "text": "Akü şarj sisteminin çalışmadığını",
+      "isTrue": false
+    }
+  ],
+  "description": "Bu ikaz ışığı (hararet lambası), motorun soğutma suyu sıcaklığının tehlikeli seviyelere çıktığını gösterir. Bu durumda derhal güvenli bir yere çekip aracı durdurmak ve motorun soğumasını beklemek gerekir. Aksi takdirde ciddi motor hasarları meydana gelebilir."
+},
   {
     "id": 20,
     "category": "Trafik ve Çevre",
@@ -458,7 +470,7 @@
     "id": 36,
     "category": "Motor & Araç Tekniği",
     "question": "Aracın gösterge panelinde yanan bu ışık ne anlama gelir?",
-    "image_url": "https://www.surucukurslari.com/data/files/1529141011_aku_sarj_ikaz_isigi.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.jpg",
     "options": [
       { "text": "Motor yağı basıncı düşük", "isTrue": false },
       { "text": "Şarj sistemi arızası (alternatör şarj etmiyor)", "isTrue": true },
@@ -520,18 +532,30 @@
     "description": "Antifriz, suyun donma derecesini düşürür. Böylece kışın soğuk havalarda motor soğutma suyunun donarak genleşmesini ve motor bloğu ile radyatöre hasar vermesini önler."
   },
   {
-    "id": 41,
-    "category": "Motor & Araç Tekniği",
-    "question": "Aşağıdaki ikaz ışıklarından hangisi, motor hararetinin aşırı yükseldiğini bildirir?",
-    "image_url": "https://www.surucukurslari.com/data/files/135960010_hararet_gostergesi_ikaz_lambasi.jpg",
-    "options": [
-      { "text": "Akü ikaz ışığı", "isTrue": false },
-      { "text": "Yağ ikaz ışığı", "isTrue": false },
-      { "text": "Hararet ikaz ışığı", "isTrue": true },
-      { "text": "El freni ikaz ışığı", "isTrue": false }
-    ],
-    "description": "Termometre şeklindeki bu kırmızı ikaz ışığı, motor soğutma suyu sıcaklığının tehlikeli seviyelere yükseldiğini (hararet yaptığını) gösterir. Derhal araç güvenli bir yere çekilip motor durdurulmalıdır."
-  },
+  "id": 41,
+  "category": "İlkyardım",
+  "question": "Görselde gösterilen yaralı taşıma tekniğinin adı nedir?",
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/itfayicetasimayontemi.png",
+  "options": [
+    {
+      "text": "İtfaiyeci yöntemi",
+      "isTrue": true
+    },
+    {
+      "text": "Rentek manevrası",
+      "isTrue": false
+    },
+    {
+      "text": "Sürükleme yöntemi",
+      "isTrue": false
+    },
+    {
+      "text": "Altın beşik yöntemi",
+      "isTrue": false
+    }
+  ],
+  "description": "İtfaiyeci yöntemi, ilk yardımcının bir yaralıyı tek başına, özellikle merdiven gibi zorlu engellerin olduğu yerlerden taşımak için kullandığı bir tekniktir. Bu teknikte ilk yardımcı, bir koluyla yaralının bacakları arasından, diğer koluyla da yaralının aynı taraftaki kolunu kavrayarak yaralıyı omzuna alır."
+}
   {
     "id": 42,
     "category": "Motor & Araç Tekniği",
