@@ -59,8 +59,8 @@
     "options": [
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/saga_donulmez.png", "isTrue": false },
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/anayol.png", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/anayol_tali.png"", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/donel_kavsak.png"", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/anayol_tali.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/donel_kavsak.png", "isTrue": false }
     ],
     "description": "Bu tehlike uyarı işareti, ileride anayola tali yollardan katılımların olacağını, bu nedenle kavşağa yaklaşırken dikkatli olunması gerektiğini bildirir."
   },
@@ -642,10 +642,10 @@
     "question": "Aşağıdakilerden hangisi, aracın süspansiyon sisteminin bir parçasıdır ve yoldan gelen darbeleri sönümleyerek konforlu bir sürüş sağlar?",
     "image_url": null,
     "options": [
-      { "text": "[Görsel: Fren diski]", "isTrue": false },
-      { "text": "[Görsel: Amortisör ve helezon yayı]", "isTrue": true },
-      { "text": "[Görsel: Egzoz susturucusu]", "isTrue": false },
-      { "text": "[Görsel: Şanzıman (Vites kutusu)]", "isTrue": false }
+      { "text": "Fren diski", "isTrue": false },
+      { "text": "Amortisör ve helezon yayı", "isTrue": true },
+      { "text": "Egzoz susturucusu", "isTrue": false },
+      { "text": "Şanzıman (Vites kutusu)", "isTrue": false }
     ],
     "description": "Süspansiyon sistemi, helezon yayları ve amortisörlerden oluşur. Yaylar, kasislerde esneyerek darbeyi emer; amortisörler ise yayın salınımını kontrol altına alarak aracın yola tutunmasını ve konforunu sağlar."
   }
