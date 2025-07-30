@@ -401,7 +401,7 @@
     { "text": "Trafiği tehlikeye düşürmemek için güvenlik önlemleri alması.", "isTrue": false }
   ],
   "description": "Ölümlü veya yaralanmalı kazalar adli bir vaka niteliğindedir. Kaza yerindeki fren izleri, araçların konumu gibi delillerin değiştirilmesi, olayın aydınlatılmasını engelleyeceği için yasal olarak yasaklanmıştır ve suç teşkil eder."
-}
+},
   {
     "id": 2482,
     "category": "Trafik Adabı",
