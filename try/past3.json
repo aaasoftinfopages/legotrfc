@@ -15,8 +15,8 @@
   {
     "id": 2352,
     "category": "İlk Yardım",
-    "question": "Resimde görülen manevra aşağıdakilerden hangisidir ve ne için uygulanır? [Görsel: Bir ilk yardımcının, boğazına cisim kaçan bir kişinin arkasına geçerek karın boşluğuna basınç uygulaması]",
-    "image_url": null,
+    "question": "Resimde görülen manevra aşağıdakilerden hangisidir ve ne için uygulanır?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/hemlickmanevrasi.png",
     "options": [
       { "text": "Rentek Manevrası, yaralıyı araçtan çıkarmak için", "isTrue": false },
       { "text": "Heimlich Manevrası, solunum yolundaki yabancı cismi çıkarmak için", "isTrue": true },
@@ -54,8 +54,8 @@
   {
     "id": 2355,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik levhası ne anlama gelir? [Görsel: Mavi daire içinde bisiklet figürü, yani Mecburi Bisiklet Yolu levhası]",
-    "image_url": null,
+    "question": "Şekildeki trafik levhası ne anlama gelir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/mecburibisikler.png",
     "options": [
       { "text": "Bisiklet giremez", "isTrue": false },
       { "text": "Mecburi bisiklet yolu", "isTrue": true },
@@ -93,15 +93,15 @@
   {
     "id": 2358,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki park bilgi işaretine göre, hangi numaralı araçlar yanlış park etmiştir? [Görsel: Park levhası altında araçların yola paralel duracağını gösteren bir işaret ve buna aykırı olarak dikey park etmiş 2 ve 3 numaralı araçlar, paralel park etmiş 1 numaralı araç]",
-    "image_url": null,
+    "question": "Şekildeki park bilgi işaretine göre, hangi numaralı araçlar yanlış park etmiştir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/hatalipark.jpg",
     "options": [
-      { "text": "Yalnız 1", "isTrue": false },
+      { "text": "Yalnız 1", "isTrue": true },
       { "text": "1 ve 2", "isTrue": false },
-      { "text": "2 ve 3", "isTrue": true },
+      { "text": "2 ve 3", "isTrue": false },
       { "text": "1, 2 ve 3", "isTrue": false }
     ],
-    "description": "Park levhasının altındaki ek panel, araçların nasıl park etmesi gerektiğini gösterir. Bu görselde, araçların yola paralel park etmesi gerektiği belirtilmiştir. 2 ve 3 numaralı araçlar ise bu kurala uymayarak dikey park etmişlerdir."
+    "description": "Yerdeki park çizgileri, araçların nasıl park etmesi gerektiğini gösterir. Bu görselde, araçların yola dikey park etmesi gerektiği belirtilmiştir. 1 numaralı araç ise bu kurala uymayarak dikey park etmiştir."
   },
   {
     "id": 2359,
@@ -119,21 +119,21 @@
   {
     "id": 2360,
     "category": "Trafik ve Çevre",
-    "question": "Aşağıdaki işaret levhalarından hangisi 'Taşıt Giremez' anlamındadır? [Görsel şıklar olarak verilecek]",
-    "image_url": null,
+    "question": "Aşağıdaki işaret levhalarından hangisi 'Taşıt Giremez' anlamındadır?",
+    "image_url": "",
     "options": [
-      { "text": "[Görsel: Dur levhası]", "isTrue": false },
-      { "text": "[Görsel: Kırmızı, yuvarlak ve içi boş olan 'Taşıt Trafiğine Kapalı Yol' levhası]", "isTrue": true },
-      { "text": "[Görsel: Yol Ver levhası]", "isTrue": false },
-      { "text": "[Görsel: Sağa Dönülmez levhası]", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kontrolsuz_kavsak.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/tasit_giremez.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/sollamak_yasak.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/dikkat.png", "isTrue": false }
     ],
-    "description": "Girişi olmayan yol (Taşıt Giremez) levhası, genellikle tek yönlü yolların ters girişinde bulunur ve motorlu veya motorsuz hiçbir taşıtın bu yola girmemesi gerektiğini belirtir."
+    "description": "Girişi olmayan yol (Taşıt Giremez) levhası, genellikle tek yönlü yolların ters girişinde bulunur ve motorlu hiçbir taşıtın bu yola girmemesi gerektiğini belirtir."
   },
   {
     "id": 2361,
     "category": "Motor ve Araç Tekniği",
-    "question": "Aracın gösterge panelinde resimdeki ikaz ışığının yanması ne anlama gelir? [Görsel: İçinde insan ve önünde şişmiş yuvarlak olan Airbag/Hava Yastığı arıza ışığı]",
-    "image_url": null,
+    "question": "Aracın gösterge panelinde resimdeki ikaz ışığının yanması ne anlama gelir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/airbag.jpg",
     "options": [
       { "text": "Emniyet kemerinin takılı olmadığını", "isTrue": false },
       { "text": "Hava yastığı (Airbag) sisteminde bir sorun olduğunu ve kaza anında çalışmayabileceğini", "isTrue": true },
@@ -171,13 +171,13 @@
   {
     "id": 2364,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki 1 numaralı araç sürücüsünün, 2 numaralı aracı geçmesi neden yasaktır? [Görsel: Düz devamlı yol çizgisi olan bir yolda, arkadaki 1 numaralı aracın sollama yapmaya çalıştığı durum]",
+    "question": "Sarı devamlı şerit sürücüye neyi ifade eder?",
     "image_url": null,
     "options": [
-      { "text": "Arkadan başka bir araç gelmediği için", "isTrue": false },
-      { "text": "Yolun ortasındaki devamlı çizgi, şerit değiştirilemeyeceğini ve sollama yapılamayacağını belirttiği için", "isTrue": true },
-      { "text": "2 numaralı aracın hızı çok yavaş olduğu için", "isTrue": false },
-      { "text": "Sadece otomobillerin sollama yapabildiği için", "isTrue": false }
+      { "text": "Yolu istediği gibi kullanabileceği", "isTrue": false },
+      { "text": "Yolun ortasındaki devamlı çizgi, şerit değiştirilemeyeceğini ve sollama yapılamayacağını", "isTrue": true },
+      { "text": "İstediği kadar hızlı gidebileceğini", "isTrue": false },
+      { "text": "Şerit değiştirmede özgür olduğunu", "isTrue": false }
     ],
     "description": "Yol üzerindeki devamlı (düz) çizgiler, bir duvar veya bariyer görevi görür. Bu çizgilerin bulunduğu yerlerde şerit değiştirmek ve öndeki aracı geçmek kesinlikle yasaktır."
   },
@@ -314,13 +314,13 @@
   {
     "id": 2375,
     "category": "İlk Yardım",
-    "question": "Resimde görülen ve yaralı taşımada kullanılan bu yöntemin adı nedir? [Görsel: Bir ilk yardımcının, bilinci yerinde olan bir yaralıyı sırtında taşıdığı 'İtfaiyeci Yöntemi']",
-    "image_url": null,
+    "question": "Resimde görülen ve yaralı taşımada kullanılan bu yöntemin adı nedir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/altinbesik.png",
     "options": [
       { "text": "Sırtta taşıma", "isTrue": false },
-      { "text": "İtfaiyeci yöntemi (Omuzda taşıma)", "isTrue": true },
+      { "text": "İtfaiyeci yöntemi (Omuzda taşıma)", "isTrue": false },
       { "text": "Rentek manevrası", "isTrue": false },
-      { "text": "Altın beşik yöntemi", "isTrue": false }
+      { "text": "Altın beşik yöntemi", "isTrue": true }
     ],
     "description": "İtfaiyeci yöntemi, genellikle bilinci kapalı veya yürüyemeyecek durumdaki yaralıları, tek bir ilk yardımcının güvenli bir şekilde taşımasını sağlayan bir tekniktir."
   },
@@ -597,19 +597,19 @@
     ],
     "description": "Zehirlenmelerde yapılacak müdahale, zehrin türüne göre değişir. Bilinçsizce kusturmak veya bir şeyler yedirip içirmek tehlikeli olabilir. Yapılacak en doğru şey, hastanın bilincini açık tutmak ve hemen 112'yi arayarak profesyonel yardım istemektir."
   },
-  {
-    "id": 2397,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki yol çizgileri, sürücülere neyi bildirir? [Görsel: Yol üzerine sık aralıklarla çizilmiş, giderek sıklaşan enine beyaz çizgiler (Yavaşlama Uyarı Çizgileri)]",
-    "image_url": null,
-    "options": [
-      { "text": "Yolun kaygan olduğunu", "isTrue": false },
-      { "text": "İleride kavşak, ışık veya tehlikeli bir noktaya yaklaşıldığını ve yavaşlanması gerektiğini", "isTrue": true },
-      { "text": "Yaya geçidi olduğunu", "isTrue": false },
-      { "text": "Bölünmüş yol başlangıcını", "isTrue": false }
-    ],
-    "description": "Bu yavaşlama uyarı çizgileri, algısal olarak sürücünün hızını daha yüksek hissetmesini sağlayarak, tehlikeli bir noktaya (kırmızı ışık, gişe, tehlikeli viraj vb.) gelmeden önce yavaşlamasını teşvik etmek için kullanılır."
-  },
+ {
+  "id": 2397,
+  "category": "Trafik ve Çevre",
+  "question": "Şekildeki trafik işareti ne anlama gelmektedir?",
+  "image_url":"https://aaasoftinfopages.github.io/legotrfc/page/questions/gabari_yuksek.png",
+  "options": [
+    { "text": "Genişliği 3,50 metreden fazla olan taşıtların giremeyeceğini.", "isTrue": false },
+    { "text": "Yüksekliği 3,50 metreden fazla olan taşıtların giremeyeceğini.", "isTrue": true },
+    { "text": "Dingil başına 3,5 tondan fazla yük düşen taşıtların giremeyeceğini.", "isTrue": false },
+    { "text": "Uzunluğu 3,5 metreden fazla olan taşıtların giremeyeceğini.", "isTrue": false }
+  ],
+  "description": "Bu levha 'Yükseklik Gabarisi' olarak adlandırılır ve bir yasağı bildirir. O yola girebilecek araçların izin verilen azami yüksekliğini belirtir. Bu durumda, yüksekliği 3,50 metreyi aşan kamyon, otobüs gibi araçların genellikle bir köprü, tünel veya alt geçit olan bu güzergaha girmesi yasaktır. Bu kurala uymamak, ciddi kazalara yol açabilir."
+},
   {
     "id": 2398,
     "category": "Motor ve Araç Tekniği",
