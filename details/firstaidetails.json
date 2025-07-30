@@ -39,6 +39,7 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/gerigeriyaralitasima.png",
     "description": "Görsel, bir ilk yardımcının yaralıyı geriye doğru çekerek taşıma tekniğini anlatmaktadır. Bu yöntem, genellikle tehlikeli bir ortamdan yaralıyı hızlı bir şekilde uzaklaştırmak için kullanılır. İlk yardımcı, yaralının koltuk altlarından tutarak geriye doğru çeker."
   },
+  
   {
     "id": 9,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/gogusyaralanamasıpozisyonu.png",
@@ -148,5 +149,25 @@
     "id": 30,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/yanik.png",
     "description": "Görsel, yanıklarda yapılması gereken ilk yardımı anlatmaktadır. Yanık bölge, en az 20 dakika boyunca akan soğuk su altında tutulur. Yanık üzerindeki giysiler, yapışmamışsa dikkatlice çıkarılır. Yanık üzerine diş macunu, yoğurt gibi maddeler sürülmez, bölge temiz bir bezle örtülür."
+  },
+  {
+    "id": 31,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/kasikteknigi.png",
+    "description": "Görsel, 'Kaşık Tekniği' olarak bilinen yaralı taşıma yöntemini anlatmaktadır. Bu teknikte, ilk yardımcılar yaralının tek bir tarafında diz çökerek, kollarını 'kaşık' gibi yaralının altından geçirirler. Komutla birlikte yaralıyı tek bir hareketle kaldırarak sedyeye yerleştirirler. Özellikle omurga yaralanması şüphesi olan dar alanlarda kullanılır."
+  },
+  {
+    "id": 32,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/kopruteknigi.png",
+    "description": "Görsel, 'Köprü Tekniği' olarak bilinen yaralı taşıma yöntemini göstermektedir. Bu yöntemde en az üç ilk yardımcı, yaralının iki yanına diz çökerek üzerinde bir 'köprü' oluşturur. Yaralı tek parça halinde yukarı kaldırılır ve bu sayede altına sedye kolayca yerleştirilebilir. Omurga yaralanması şüphesinde kullanılır."
+  },
+  {
+    "id": 33,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/altinbesik.png",
+    "description": "Görsel, 'Altın Beşik' (3 veya 4 elle taşıma) tekniğini anlatmaktadır. İki ilk yardımcı tarafından, bilinci açık bir yaralıyı taşımak için kullanılır. İlk yardımcılar ellerini kenetleyerek bir oturak oluşturur ve yaralı bu oturağa oturtulur. Kısa mesafeli taşımalar için idealdir."
+  },
+  {
+    "id": 34,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/teskereci_yontemi.png",
+    "description": "Görsel, 'Teskereci Yöntemi' olarak da bilinen ve iki kişiyle uygulanan 'Altın Beşik' tekniğini göstermektedir. Bilinci açık yaralılar için kullanılır. İki ilk yardımcı, elleriyle bir oturak oluşturur ve yaralıyı bu şekilde güvenle taşır."
   }
 ]
