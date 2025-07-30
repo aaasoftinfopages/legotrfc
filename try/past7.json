@@ -28,8 +28,8 @@
   {
     "id": 2453,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki gibi bir kavşakta karşılaşan araçların geçiş önceliği sıralaması nasıl olmalıdır? [Görsel: Anayol-Tali yol kavşağı, 1-Otomobil tali yolda, 2-Traktör anayolda dönüş yapıyor, 3-Otobüs anayolda düz gidiyor]",
-    "image_url": null,
+    "question": "Şekildeki gibi bir kavşakta karşılaşan araçların geçiş önceliği sıralaması nasıl olmalıdır?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kavsak2.png",
     "options": [
       { "text": "1 - 2 - 3", "isTrue": false },
       { "text": "2 - 3 - 1", "isTrue": false },
@@ -41,8 +41,8 @@
   {
     "id": 2454,
     "category": "İlk Yardım",
-    "question": "Şekildeki gibi cisim batması durumunda ilk yardım olarak aşağıdaki uygulamalardan hangisinin yapılması doğrudur? [Görsel: Göğsüne cisim batmış bir yaralı]",
-    "image_url": null,
+    "question": "Şekildeki gibi cisim batması durumunda ilk yardım olarak aşağıdaki uygulamalardan hangisinin yapılması doğrudur?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/gogusyaralnmasi.png",
     "options": [
       { "text": "Cismin dışarıda kalan kısmının kesilmesi ve yaranın sarılması", "isTrue": false },
       { "text": "Cismin çıkarılmadan sabitlenmesi ve yaralının hastaneye sevk edilmesi", "isTrue": true },
@@ -54,8 +54,8 @@
   {
     "id": 2455,
     "category": "Motor & Araç Tekniği",
-    "question": "Şekilde soru işareti (?) ile gösterilen ve şafttan aldığı hareketi aksa ileten güç aktarma organının adı nedir? [Görsel: Şaft ile akslar arasındaki güç aktarma organını gösteren diyagram]",
-    "image_url": null,
+    "question": "Şekilde soru işareti (?) ile gösterilen ve şafttan aldığı hareketi aksa ileten güç aktarma organının adı nedir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/diferansiyel.png",
     "options": [
       { "text": "Balata", "isTrue": false },
       { "text": "Amortisör", "isTrue": false },
@@ -67,11 +67,11 @@
   {
     "id": 2456,
     "category": "İlk Yardım",
-    "question": "Resimdeki yaralı taşıma tekniğinin ismi nedir? [Görsel: Üç ilk yardımcının yaralının altına sedye yerleştirmek için kullandığı köprü tekniği]",
-    "image_url": null,
+    "question": "Resimdeki yaralı taşıma tekniğinin ismi nedir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/kasikteknigi.png",
     "options": [
-      { "text": "Köprü tekniği", "isTrue": true },
-      { "text": "Kaşık tekniği", "isTrue": false },
+      { "text": "Köprü tekniği", "isTrue": false },
+      { "text": "Kaşık tekniği", "isTrue": true },
       { "text": "İtfaiyeci tekniği", "isTrue": false },
       { "text": "Altın beşik tekniği", "isTrue": false }
     ],
@@ -80,21 +80,21 @@
   {
     "id": 2457,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik görevlisinin işaretine göre aşağıdakilerden hangisi doğrudur? [Görsel: Kollarını iki yana açmış trafik polisi ve kavşaktaki araçlar]",
-    "image_url": null,
+    "question": "Şekildeki trafik görevlisinin işaretine göre aşağıdakilerden hangisi doğrudur?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kavsak3.png",
     "options": [
-      { "text": "Otobüs beklemeli", "isTrue": false },
-      { "text": "Traktör beklemeli", "isTrue": false },
-      { "text": "Otobüs ileri gitmeli", "isTrue": true },
-      { "text": "Traktör geri gitmeli", "isTrue": false }
+      { "text": "1-3 geçmeli", "isTrue": true },
+      { "text": "1-4 geçmeli", "isTrue": false },
+      { "text": "2-4 geçmeli", "isTrue": false },
+      { "text": "2-3 geçmeli", "isTrue": false }
     ],
     "description": "Trafik görevlisinin kollarının açık olduğu istikametteki (görselde otobüsün bulunduğu) trafik geçebilir. Görevlinin ön ve arka cephesine bakan (görselde traktörün bulunduğu) trafik ise durmak zorundadır. Bu nedenle otobüsün ileri gitmesi doğrudur."
   },
   {
     "id": 2458,
     "category": "Motor & Araç Tekniği",
-    "question": "Şekilde soru işareti (?) ile gösterilen kapaktan motora ne konulur? [Görsel: Motorun üzerindeki yağ doldurma kapağı]",
-    "image_url": null,
+    "question": "Şekilde soru işareti (?) ile gösterilen kapaktan motora ne konulur?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/motor1.png",
     "options": [
       { "text": "Antifriz", "isTrue": false },
       { "text": "Motor yağı", "isTrue": true },
@@ -106,7 +106,7 @@
   {
     "id": 2459,
     "category": "Motor & Araç Tekniği",
-    "question": "Görseldeki motor parçalarından hangisinin işlevini kaybetmesi durumunda motorun soğutma suyu, yanma odalarına veya motor yağına karışır? [Görsel şıklarda çeşitli motor parçaları gösterilmiştir]",
+    "question": "Motor parçalarından hangisinin işlevini kaybetmesi durumunda motorun soğutma suyu, yanma odalarına veya motor yağına karışır? ",
     "image_url": null,
     "options": [
       { "text": "Silindir kapak contası", "isTrue": true },
@@ -119,8 +119,8 @@
   {
     "id": 2460,
     "category": "İlk Yardım",
-    "question": "Resimde görülen yarı oturur pozisyon, aşağıdaki durumların hangisinde yaralıya uygulanır? [Görsel: Yarı oturur pozisyondaki bir yaralı]",
-    "image_url": null,
+    "question": "Resimde görülen yarı oturur pozisyon, aşağıdaki durumların hangisinde yaralıya uygulanır?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/gogusyaralanmasi.png",
     "options": [
       { "text": "Kalp durması", "isTrue": false },
       { "text": "Bacak kemiği kırılması", "isTrue": false },
@@ -132,8 +132,8 @@
   {
     "id": 2461,
     "category": "İlk Yardım",
-    "question": "Görseldeki üçgen sargı bezi ile yapılan tespit yöntemi, hangi kemiğin kırılması durumunda uygulanır? [Görsel: Omuzların geri çekilerek sabitlendiği sekiz şeklinde sargı]",
-    "image_url": null,
+    "question": "Görseldeki üçgen sargı bezi ile yapılan tespit yöntemi, hangi kemiğin kırılması durumunda uygulanır?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/koprucukkirik.png",
     "options": [
       { "text": "Pazı", "isTrue": false },
       { "text": "Boyun", "isTrue": false },
@@ -142,19 +142,19 @@
     ],
     "description": "Köprücük kemiği kırıklarında, omuzları geri pozisyonda sabitleyerek kırık kemik uçlarının doğru hizada kalmasını sağlamak amacıyla, görseldeki gibi üçgen sargı bezleri ile sekiz şeklinde bir tespit yöntemi uygulanır."
   },
-  {
-    "id": 2462,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik görevlisinin duruşuna göre, hangi numaralı araçlar beklemelidir? [Görsel: Kavşakta duran trafik polisi ve numaralandırılmış araçlar]",
-    "image_url": null,
-    "options": [
-      { "text": "Yalnız 1", "isTrue": false },
-      { "text": "Yalnız 2", "isTrue": false },
-      { "text": "1 ve 3", "isTrue": true },
-      { "text": "2 ve 4", "isTrue": false }
-    ],
-    "description": "Trafik polisinin ön ve arka cephesine bakan sürücüler durmak, kol istikametindeki sürücüler ise geçmek zorundadır. Bu duruma göre, polisin önündeki 1 numaralı motosiklet ile arkasındaki 3 numaralı otomobilin beklemesi gerekmektedir."
-  },
+ {
+  "id": 2462,
+  "category": "Trafik ve Çevre",
+  "question": "Aşağıdakilerden hangisi, Karayolları Trafik Kanunu'na göre 'durma' hali olarak kabul edilir?",
+  "image_url": null,
+  "options": [
+    { "text": "Yolcu indirip bindirmek amacıyla aracı 5 dakikadan az bir süre bekletmek.", "isTrue": false },
+    { "text": "Kırmızı ışık yanması veya yetkililerin 'dur' işareti gibi trafik zorunlulukları nedeniyle aracı hareketsiz bırakmak.", "isTrue": true },
+    { "text": "Aracı terk ederek 5 dakikadan daha uzun bir süre bırakmak.", "isTrue": false },
+    { "text": "Yük boşaltmak için kısa bir süre beklemek.", "isTrue": false }
+  ],
+  "description": "Karayolları Trafik Kanunu'na göre 'durma', trafik zorunlulukları (kırmızı ışık, öndeki aracın durması, polisin işareti vb.) nedeniyle aracın hareketsiz hale getirilmesidir. 'Duraklama' ise yolcu indirip bindirme gibi keyfi nedenlerle 5 dakikadan az beklemektir. 'Park etme' ise 5 dakikadan uzun süreli beklemelerdir."
+},
   {
     "id": 2463,
     "category": "Motor & Araç Tekniği",
@@ -210,8 +210,8 @@
   {
     "id": 2467,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik levhası hangi anlama gelir? [Görsel: Kırmızı üçgen içinde sola doğru eğimli, iniş yapan bir araba ve %10 yazısı]",
-    "image_url": null,
+    "question": "Şekildeki trafik levhası hangi anlama gelir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/egiminis.png",
     "options": [
       { "text": "Tehlikeli yokuş çıkış", "isTrue": false },
       { "text": "Tehlikeli iniş eğimli yol", "isTrue": true },
@@ -288,8 +288,8 @@
   {
     "id": 2473,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki yol çizgilerinin anlamı nedir? [Görsel: Yan yana iki adet devamlı (düz) çizgi]",
-    "image_url": null,
+    "question": "Şekildeki yol çizgilerinin anlamı nedir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/iki_devamli_cizgi.png",
     "options": [
       { "text": "Yolun bölünmüş yol durumuna geldiğini", "isTrue": false },
       { "text": "Her iki yöndeki araçların da çizginin diğer tarafına geçmesinin kesinlikle yasak olduğunu", "isTrue": true },
@@ -327,8 +327,8 @@
   {
     "id": 2476,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik levhası ne anlama gelir? [Görsel: Kırmızı daire içinde korna resmi ve üzerinde çapraz çizgi]",
-    "image_url": null,
+    "question": "Şekildeki trafik levhası ne anlama gelir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kornayasak.jpg",
     "options": [
       { "text": "Korna çalmanın zorunlu olduğunu", "isTrue": false },
       { "text": "Sesli ikaz cihazlarının (korna) kullanımının yasak olduğunu", "isTrue": true },
@@ -390,18 +390,18 @@
     "description": "Baş-çene pozisyonu, başın geriye doğru itilmesini gerektirir. Eğer kişide yüksekten düşme, trafik kazası gibi bir durumdan sonra boyun yaralanması şüphesi varsa, bu pozisyonu vermek omuriliğe zarar vererek felce neden olabilir. Bu durumda alt çene itme manevrası tercih edilir."
   },
   {
-    "id": 2481,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik işareti ne anlama gelir? [Görsel: Kırmızı üçgen içinde, sağa doğru keskin bir dönemeç yapan bir ok figürü]",
-    "image_url": null,
-    "options": [
-      { "text": "Sola tehlikeli viraj", "isTrue": false },
-      { "text": "Sağa tehlikeli viraj", "isTrue": true },
-      { "text": "Dönel kavşak", "isTrue": false },
-      { "text": "Kontrolsüz kavşak", "isTrue": false }
-    ],
-    "description": "Bu tehlike uyarı işareti, ileride yolun sağa doğru keskin ve tehlikeli bir viraj yaptığını bildirir. Sürücülerin hızlarını azaltmaları ve dikkatli bir şekilde viraja girmeleri gerekir."
-  },
+  "id": 2481,
+  "category": "Trafik ve Çevre",
+  "question": "Yaralanmalı veya ölümlü bir trafik kazasına karışan sürücünün, aşağıdakilerden hangisini yapması yasaktır ve suç sayılır?",
+  "image_url": null,
+  "options": [
+    { "text": "Yaralılara ilk yardımda bulunması.", "isTrue": false },
+    { "text": "Kaza yerini, delilleri veya izleri değiştirmesi.", "isTrue": true },
+    { "text": "Durumu derhal polise ve sağlık ekiplerine bildirmesi.", "isTrue": false },
+    { "text": "Trafiği tehlikeye düşürmemek için güvenlik önlemleri alması.", "isTrue": false }
+  ],
+  "description": "Ölümlü veya yaralanmalı kazalar adli bir vaka niteliğindedir. Kaza yerindeki fren izleri, araçların konumu gibi delillerin değiştirilmesi, olayın aydınlatılmasını engelleyeceği için yasal olarak yasaklanmıştır ve suç teşkil eder."
+}
   {
     "id": 2482,
     "category": "Trafik Adabı",
@@ -418,13 +418,13 @@
   {
     "id": 2483,
     "category": "Motor ve Araç Tekniği",
-    "question": "Aşağıdaki ikaz ışıklarından hangisi, 'düşük lastik basıncı' uyarısıdır? [Görsel şıklar olarak verilecek]",
+    "question": "Aşağıdaki ikaz ışıklarından hangisi, 'düşük lastik basıncı' uyarısıdır?",
     "image_url": null,
     "options": [
-      { "text": "[Görsel: ABS ikaz ışığı]", "isTrue": false },
-      { "text": "[Görsel: At nalı içinde ünlem işareti olan Lastik Basınç Sensörü (TPMS) ikaz ışığı]", "isTrue": true },
-      { "text": "[Görsel: El freni ikaz ışığı]", "isTrue": false },
-      { "text": "[Görsel: ESP/ASR ikaz ışığı]", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.jpg", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.jpg", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/parkfreniuyarisi.jpg", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/katalizor.jpg", "isTrue": false }
     ],
     "description": "At nalı veya kesik bir daire içinde ünlem işareti bulunan bu sembol, Lastik Basıncı İzleme Sistemi (TPMS) tarafından, bir veya daha fazla lastiğin hava basıncının tehlikeli derecede düştüğünü sürücüye bildirir."
   },
@@ -470,7 +470,7 @@
   {
     "id": 2487,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki yol-yapım çalışması alanında, trafiği yönlendiren işaretlere uymamanın cezası, normal yollardakine göre nasıldır?",
+    "question": "Yol-yapım çalışması alanında, trafiği yönlendiren işaretlere uymamanın cezası, normal yollardakine göre nasıldır?",
     "image_url": null,
     "options": [
       { "text": "Daha azdır.", "isTrue": false },
