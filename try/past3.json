@@ -19,9 +19,10 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/hemlickmanevrasi.png",
     "options": [
       { "text": "Rentek Manevrası, yaralıyı araçtan çıkarmak için", "isTrue": false },
-      { "text": "Heimlich Manevrası, solunum yolundaki yabancı cismi çıkarmak için", "isTrue": true },
+      
       { "text": "Şok Pozisyonu, kan dolaşımını beyne yönlendirmek için", "isTrue": false },
-      { "text": "Koma Pozisyonu, solunum yolunu açık tutmak için", "isTrue": false }
+      { "text": "Koma Pozisyonu, solunum yolunu açık tutmak için", "isTrue": false },
+      { "text": "Heimlich Manevrası, solunum yolundaki yabancı cismi çıkarmak için", "isTrue": true }
     ],
     "description": "Heimlich manevrası (Karına bası uygulama), bilinci açık olan ve solunum yolu tam tıkanmış kişilere, diyaframa yapılan ani basınçla akciğerlerdeki havayı kullanarak yabancı cismi dışarı fırlatmak amacıyla uygulanır."
   },
@@ -31,8 +32,8 @@
     "question": "Motor soğutma suyunun sıcaklığını sürücüye bildiren gösterge hangisidir?",
     "image_url": null,
     "options": [
+       { "text": "Hararet (ısı) göstergesi", "isTrue": true },
       { "text": "Yakıt göstergesi", "isTrue": false },
-      { "text": "Hararet (ısı) göstergesi", "isTrue": true },
       { "text": "Devir saati (takometre)", "isTrue": false },
       { "text": "Yağ basıncı göstergesi", "isTrue": false }
     ],
@@ -45,9 +46,9 @@
     "image_url": null,
     "options": [
       { "text": "İnatlaşma", "isTrue": false },
-      { "text": "Hoşgörü ve Uzlaşma", "isTrue": true },
       { "text": "Saldırganlık", "isTrue": false },
-      { "text": "Bencillik", "isTrue": false }
+      { "text": "Bencillik", "isTrue": false },
+      { "text": "Hoşgörü ve Uzlaşma", "isTrue": true }
     ],
     "description": "Hatalarını kabul edip özür dileyen bir kişiye karşı affedici ve hoşgörülü olmak, trafikteki gerginliği azaltır ve daha insancıl bir ortamın oluşmasını sağlar."
   },
@@ -71,9 +72,10 @@
     "image_url": null,
     "options": [
       { "text": "Kanamanın kalp atımlarıyla uyumlu, kesik kesik ve fışkırır tarzda olması", "isTrue": false },
-      { "text": "Kanın koyu kırmızı renkte ve sürekli, yayılarak akması", "isTrue": true },
       { "text": "Kanamanın küçük kabarcıklar şeklinde olması", "isTrue": false },
-      { "text": "Kısa sürede kendiliğinden durması", "isTrue": false }
+      { "text": "Kısa sürede kendiliğinden durması", "isTrue": false },
+      { "text": "Kanın koyu kırmızı renkte ve sürekli, yayılarak akması", "isTrue": true }
+      
     ],
     "description": "Toplardamarlar, vücuttaki kirli kanı (oksijeni az) kalbe geri taşıdığı için kanın rengi koyu kırmızıdır. Basınç daha düşük olduğu için, kanama atardamarlar gibi fışkırmaz, sürekli ve yayılarak akar."
   },
@@ -83,8 +85,8 @@
     "question": "Aşağıdakilerden hangisi, aracın lastiği patladığında yapılması gereken doğru davranıştır?",
     "image_url": null,
     "options": [
-      { "text": "Ani ve sert fren yapmak", "isTrue": false },
       { "text": "Direksiyonu sıkıca tutarak ve yavaşça fren yaparak aracı yolun kenarına güvenli bir şekilde çekmek", "isTrue": true },
+      { "text": "Ani ve sert fren yapmak", "isTrue": false },
       { "text": "Debriyaj pedalına basmak", "isTrue": false },
       { "text": "Hızı artırarak en yakın lastikçiye gitmeye çalışmak", "isTrue": false }
     ],
@@ -109,8 +111,9 @@
     "question": "Aşağıdakilerden hangisi, birinci derece yanıkların bir belirtisidir?",
     "image_url": null,
     "options": [
-      { "text": "Deride içi su dolu kabarcıkların (bül) oluşması", "isTrue": false },
       { "text": "Deride kızarıklık, ağrı ve hafif bir şişlik olması", "isTrue": true },
+      { "text": "Deride içi su dolu kabarcıkların (bül) oluşması", "isTrue": false },
+      
       { "text": "Derinin tüm katmanlarının yanması ve sinirlerin hasar görmesiyle ağrının hissedilmemesi", "isTrue": false },
       { "text": "Deride siyah, kömürleşmiş bir görünüm olması", "isTrue": false }
     ],
@@ -120,7 +123,7 @@
     "id": 2360,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki işaret levhalarından hangisi 'Taşıt Giremez' anlamındadır?",
-    "image_url": "",
+    "image_url": null,
     "options": [
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kontrolsuz_kavsak.png", "isTrue": false },
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/tasit_giremez.png", "isTrue": true },
@@ -136,9 +139,10 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/airbag.jpg",
     "options": [
       { "text": "Emniyet kemerinin takılı olmadığını", "isTrue": false },
-      { "text": "Hava yastığı (Airbag) sisteminde bir sorun olduğunu ve kaza anında çalışmayabileceğini", "isTrue": true },
+      
       { "text": "Kapılardan birinin açık olduğunu", "isTrue": false },
-      { "text": "Fren sisteminin arızalı olduğunu", "isTrue": false }
+      { "text": "Fren sisteminin arızalı olduğunu", "isTrue": false },
+      { "text": "Hava yastığı (Airbag) sisteminde bir sorun olduğunu ve kaza anında çalışmayabileceğini", "isTrue": true }
     ],
     "description": "Bu ışık, aracın pasif güvenlik sistemlerinden en önemlisi olan hava yastığı sisteminde bir arıza olduğunu gösterir. Işık yanarken, olası bir kaza anında hava yastıkları devreye girmeyebilir."
   },
@@ -149,9 +153,10 @@
     "image_url": null,
     "options": [
       { "text": "Diğer sürücülere hakaret etmek için", "isTrue": false },
-      { "text": "Hata yapan bir sürücüyü affettiğini veya yol veren birine teşekkür ettiğini belirtmek için (el ile selamlama, gülümseme)", "isTrue": true },
+      
       { "text": "Diğer sürücüleri korkutmak için", "isTrue": false },
-      { "text": "Yarışa davet etmek için", "isTrue": false }
+      { "text": "Yarışa davet etmek için", "isTrue": false },
+      { "text": "Hata yapan bir sürücüyü affettiğini veya yol veren birine teşekkür ettiğini belirtmek için (el ile selamlama, gülümseme)", "isTrue": true }
     ],
     "description": "Trafikte, kornaya basmak yerine, yapılan bir jeste veya nezakete karşılık gülümsemek veya el ile teşekkür etmek, olumlu bir iletişim kurmanın ve trafik adabını yükseltmenin en etkili yollarındandır."
   },
@@ -175,8 +180,9 @@
     "image_url": null,
     "options": [
       { "text": "Yolu istediği gibi kullanabileceği", "isTrue": false },
-      { "text": "Yolun ortasındaki devamlı çizgi, şerit değiştirilemeyeceğini ve sollama yapılamayacağını", "isTrue": true },
+     
       { "text": "İstediği kadar hızlı gidebileceğini", "isTrue": false },
+       { "text": "Yolun ortasındaki devamlı çizgi, şerit değiştirilemeyeceğini ve sollama yapılamayacağını", "isTrue": true },
       { "text": "Şerit değiştirmede özgür olduğunu", "isTrue": false }
     ],
     "description": "Yol üzerindeki devamlı (düz) çizgiler, bir duvar veya bariyer görevi görür. Bu çizgilerin bulunduğu yerlerde şerit değiştirmek ve öndeki aracı geçmek kesinlikle yasaktır."
@@ -188,8 +194,9 @@
     "image_url": null,
     "options": [
       { "text": "Motorun ilk hareketini sağlamak", "isTrue": false },
-      { "text": "Virajlarda, içteki tekerleğin dıştakine göre daha yavaş dönmesini sağlayarak aracın savrulmasını önlemek ve dönüşü kolaylaştırmak", "isTrue": true },
+      
       { "text": "Tekerleklere giden gücü artırmak", "isTrue": false },
+      { "text": "Virajlarda, içteki tekerleğin dıştakine göre daha yavaş dönmesini sağlayarak aracın savrulmasını önlemek ve dönüşü kolaylaştırmak", "isTrue": true },
       { "text": "Aracı durdurmak", "isTrue": false }
     ],
     "description": "Diferansiyel, şanzımandan gelen hareketi tekerleklere ileten ve virajlarda iki tekerlek arasındaki hız farkını ayarlayan çok önemli bir güç aktarma organıdır."
@@ -214,8 +221,9 @@
     "image_url": null,
     "options": [
       { "text": "2,5 saat", "isTrue": false },
-      { "text": "4,5 saat", "isTrue": true },
+      
       { "text": "5,5 saat", "isTrue": false },
+      { "text": "4,5 saat", "isTrue": true },
       { "text": "6 saat", "isTrue": false }
     ],
     "description": "Yorgun ve uykusuz araç kullanmayı önlemek amacıyla, ticari araç şoförleri devamlı olarak en fazla 4,5 saat araç kullanabilir. Bu sürenin sonunda en az 45 dakika mola vermeleri zorunludur."
@@ -227,9 +235,10 @@
     "image_url": null,
     "options": [
       { "text": "Empati yeteneği gelişmiştir.", "isTrue": false },
-      { "text": "Trafik adabı ve görgü kurallarından yoksundur.", "isTrue": true },
+     
       { "text": "İyi bir sürücüdür.", "isTrue": false },
-      { "text": "Sorumluluk sahibidir.", "isTrue": false }
+      { "text": "Sorumluluk sahibidir.", "isTrue": false },
+       { "text": "Trafik adabı ve görgü kurallarından yoksundur.", "isTrue": true }
     ],
     "description": "Trafik adabı, sadece kurallara uymak değil, aynı zamanda yazılı olmayan görgü ve nezaket kurallarına da uymaktır. Kaba davranışlar, bu adabın en temel düzeyde bile olmadığını gösterir."
   },
@@ -253,9 +262,10 @@
     "image_url": null,
     "options": [
       { "text": "Hemen olduğu yerde durmalıdır.", "isTrue": false },
-      { "text": "Derhal ve kontrollü bir şekilde kavşağı boşaltarak geçiş üstünlüğüne sahip araca yol vermelidir.", "isTrue": true },
+      
       { "text": "Hızını artırarak yoluna devam etmelidir.", "isTrue": false },
-      { "text": "Geri giderek kavşaktan çıkmalıdır.", "isTrue": false }
+      { "text": "Geri giderek kavşaktan çıkmalıdır.", "isTrue": false },
+      { "text": "Derhal ve kontrollü bir şekilde kavşağı boşaltarak geçiş üstünlüğüne sahip araca yol vermelidir.", "isTrue": true }
     ],
     "description": "Kavşak içinde durmak, trafiği tamamen kilitleyebilir. Bu nedenle sürücü, paniğe kapılmadan, güvenli ve kontrollü bir şekilde kavşaktan çıkarak yolu açmalıdır."
   },
@@ -279,9 +289,10 @@
     "image_url": null,
     "options": [
       { "text": "Şarj sistemi", "isTrue": false },
-      { "text": "Süspansiyon sistemi", "isTrue": true },
+     
       { "text": "Direksiyon sistemi", "isTrue": false },
-      { "text": "Soğutma sistemi", "isTrue": false }
+      { "text": "Soğutma sistemi", "isTrue": false },
+       { "text": "Süspansiyon sistemi", "isTrue": true },
     ],
     "description": "Süspansiyon sistemi (amortisörler ve yaylar), yoldaki bozukluklardan kaynaklanan darbeleri ve salınımları emerek, hem tekerleklerin yola tutunmasını sağlar hem de yolcuların konforlu bir yolculuk yapmasına olanak tanır."
   },
@@ -292,9 +303,10 @@
     "image_url": null,
     "options": [
       { "text": "Yolun trafiğe açılacağını", "isTrue": false },
-      { "text": "Yolun trafiğe kapanmak üzere olduğunu ve durmaya hazırlanılması gerektiğini", "isTrue": true },
+     
       { "text": "Yavaşlama uyarısı", "isTrue": false },
-      { "text": "Durmanın yasak olduğunu", "isTrue": false }
+      { "text": "Durmanın yasak olduğunu", "isTrue": false },
+       { "text": "Yolun trafiğe kapanmak üzere olduğunu ve durmaya hazırlanılması gerektiğini", "isTrue": true }
     ],
     "description": "Yeşilden sonra yanan sarı ışık, kırmızı ışığın yanmak üzere olduğunu bildirir. Sürücünün güvenle duramayacak kadar kavşağa girmiş olması dışında, durmaya hazırlanması gerekir."
   },
@@ -330,8 +342,8 @@
     "question": "Aşağıdakilerden hangisinin, tescil edilen araçlarda bulundurulması zorunlu değildir?",
     "image_url": null,
     "options": [
-      { "text": "Yangın söndürme cihazı", "isTrue": false },
       { "text": "Kasko sigorta poliçesi", "isTrue": true },
+      { "text": "Yangın söndürme cihazı", "isTrue": false },
       { "text": "İlk yardım çantası", "isTrue": false },
       { "text": "Üçgen reflektör", "isTrue": false }
     ],
@@ -366,13 +378,13 @@
   {
     "id": 2379,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik işareti hangi yasağın sona erdiğini bildirir? [Görsel: Beyaz zeminli yuvarlak levha içinde, sollamakta olan iki otomobil figürü ve üzerinde siyah çapraz çizgi]",
-    "image_url": null,
+    "question": "Şekildeki trafik işareti hangi yasağın sona erdiğini bildirir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/sollamasonu.jpg",
     "options": [
       { "text": "Park yasağının sona erdiğini", "isTrue": false },
-      { "text": "Öndeki taşıtı geçme yasağının sona erdiğini", "isTrue": true },
       { "text": "Hız sınırlamasının sona erdiğini", "isTrue": false },
-      { "text": "Girişi olmayan yolun sona erdiğini", "isTrue": false }
+      { "text": "Girişi olmayan yolun sona erdiğini", "isTrue": false },
+       { "text": "Öndeki taşıtı geçme yasağının sona erdiğini", "isTrue": true }
     ],
     "description": "Bu levha, daha önce bir levha ile belirtilmiş olan 'Öndeki Taşıtı Geçmek Yasaktır' kuralının, bu noktadan itibaren geçerliliğini yitirdiğini ve yol koşulları uygunsa sollama yapılabileceğini bildirir."
   },
@@ -396,8 +408,9 @@
     "image_url": null,
     "options": [
       { "text": "Sadece sözlü olarak uyarılır.", "isTrue": false },
-      { "text": "Para cezası ve ceza puanı uygulanır.", "isTrue": true },
+      
       { "text": "Araç trafikten men edilir.", "isTrue": false },
+      { "text": "Para cezası ve ceza puanı uygulanır.", "isTrue": true },
       { "text": "Sürücü belgesine el konulur.", "isTrue": false }
     ],
     "description": "Sürücü belgesine sahip olmak yeterli değildir, araç kullanırken belgenin fiziki olarak sürücünün yanında bulunması zorunludur. Aksi takdirde para cezası ve ceza puanı yaptırımı uygulanır."
@@ -409,8 +422,9 @@
     "image_url": null,
     "options": [
       { "text": "Hoşgörü", "isTrue": false },
-      { "text": "Sorumluluk ve Başkalarının Can Güvenliğine Saygı", "isTrue": true },
+      
       { "text": "Sabır", "isTrue": false },
+      { "text": "Sorumluluk ve Başkalarının Can Güvenliğine Saygı", "isTrue": true },
       { "text": "Yardımlaşma", "isTrue": false }
     ],
     "description": "Trafikteki her hareketimizin bir sonucu vardır. Kendi hatasıyla başkasını tehlikeye atan bir sürücünün, durup durumu kontrol etmek yerine yoluna devam etmesi, en temel sorumluluk duygusundan ve insan hayatına saygıdan yoksun olduğunu gösterir."
@@ -421,8 +435,9 @@
     "question": "Aşağıdakilerden hangisi, kanamalarda turnike uygulamasının koşullarından biridir?",
     "image_url": null,
     "options": [
+        { "text": "Uygulama yapılan kişinin üzerine, turnikenin yapıldığı saat ve dakikanın not edilmesi", "isTrue": true },
       { "text": "Her türlü küçük kesikte uygulanması", "isTrue": false },
-      { "text": "Uygulama yapılan kişinin üzerine, turnikenin yapıldığı saat ve dakikanın not edilmesi", "isTrue": true },
+    
       { "text": "İp veya tel gibi kesici malzemelerle uygulanması", "isTrue": false },
       { "text": "Kanamayı tamamen durdurana kadar sıkılıp bir daha gevşetilmemesi", "isTrue": false }
     ],
@@ -435,8 +450,9 @@
     "image_url": null,
     "options": [
       { "text": "Hava filtresi", "isTrue": false },
-      { "text": "Yakıt filtresi", "isTrue": true },
+      
       { "text": "Yağ filtresi", "isTrue": false },
+      { "text": "Yakıt filtresi", "isTrue": true },
       { "text": "Polen filtresi", "isTrue": false }
     ],
     "description": "Yakıt filtresi, yakıt deposundan motora giden yakıtın içindeki pas, tortu ve diğer yabancı maddeleri süzerek, enjektör gibi hassas yakıt sistemi elemanlarının tıkanmasını ve bozulmasını önler."
@@ -444,8 +460,8 @@
   {
     "id": 2385,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki 1 numaralı araç sürücüsünün, 2 numaralı araca yol vermesi kuralına ne ad verilir? [Görsel: Kontrolsüz bir kavşakta, 1 numaralı aracın sağındaki 2 numaralı araç]",
-    "image_url": null,
+    "question": "Şekildeki 1 numaralı araç sürücüsünün, 2 numaralı araca yol vermesi kuralına ne ad verilir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kural6_esdeger_kavsak.png",
     "options": [
       { "text": "Sağdan anayol kuralı", "isTrue": false },
       { "text": "Geçiş hakkı kuralı (Herkes sağındakine yol verir)", "isTrue": true },
@@ -512,8 +528,9 @@
     "question": "Aşağıdaki durumlardan hangisi, akünün kendi kendine boşalmasına (deşarj olmasına) neden olur?",
     "image_url": null,
     "options": [
+       { "text": "Araç park halindeyken radyo, lamba gibi bir elektrikli alıcının açık unutulması", "isTrue": true },
       { "text": "Kışın aracın antifrizsiz kullanılması", "isTrue": false },
-      { "text": "Araç park halindeyken radyo, lamba gibi bir elektrikli alıcının açık unutulması", "isTrue": true },
+     
       { "text": "Fren hidroliğinin eksilmesi", "isTrue": false },
       { "text": "Motorun yağ yakması", "isTrue": false }
     ],
@@ -564,8 +581,9 @@
     "question": "Aşağıdakilerden hangisi, güvenli bir takip mesafesi belirleme yöntemidir?",
     "image_url": null,
     "options": [
+        { "text": "88-89 kuralı veya hızın yarısı kadar metre kuralı", "isTrue": true },
       { "text": "Öndeki aracın plakasını okuyabilecek kadar yaklaşmak", "isTrue": false },
-      { "text": "88-89 kuralı veya hızın yarısı kadar metre kuralı", "isTrue": true },
+    
       { "text": "Öndeki aracın egzoz dumanını görebilecek kadar yaklaşmak", "isTrue": false },
       { "text": "Rakiplerini geçebilecek kadar yakın takip etmek", "isTrue": false }
     ],
@@ -578,8 +596,9 @@
     "image_url": null,
     "options": [
       { "text": "Rekabetin", "isTrue": false },
-      { "text": "Trafik adabı ve insani duyarlılığın", "isTrue": true },
+     
       { "text": "Aceleciliğin", "isTrue": false },
+       { "text": "Trafik adabı ve insani duyarlılığın", "isTrue": true },
       { "text": "Bencilliğin", "isTrue": false }
     ],
     "description": "Trafikte dezavantajlı olabilecek kişilere karşı pozitif ayrımcılık yapmak, onlara öncelik tanımak ve yardımcı olmak, hem yazılı kuralların hem de vicdani ve ahlaki sorumlulukların bir parçasıdır."
@@ -591,9 +610,9 @@
     "image_url": null,
     "options": [
       { "text": "Sarımsaklı yoğurt yedirilir.", "isTrue": false },
-      { "text": "Zehirlenmeye neden olan maddeye göre hareket edilir, kusturulmaz, bol su içirilebilir ve 112 aranır.", "isTrue": true },
       { "text": "Midesi yıkanmaya çalışılır.", "isTrue": false },
-      { "text": "Hemen uyutulur.", "isTrue": false }
+      { "text": "Hemen uyutulur.", "isTrue": false },
+      { "text": "Zehirlenmeye neden olan maddeye göre hareket edilir, kusturulmaz, bol su içirilebilir ve 112 aranır.", "isTrue": true }
     ],
     "description": "Zehirlenmelerde yapılacak müdahale, zehrin türüne göre değişir. Bilinçsizce kusturmak veya bir şeyler yedirip içirmek tehlikeli olabilir. Yapılacak en doğru şey, hastanın bilincini açık tutmak ve hemen 112'yi arayarak profesyonel yardım istemektir."
   },
@@ -604,9 +623,10 @@
   "image_url":"https://aaasoftinfopages.github.io/legotrfc/page/questions/gabari_yuksek.png",
   "options": [
     { "text": "Genişliği 3,50 metreden fazla olan taşıtların giremeyeceğini.", "isTrue": false },
-    { "text": "Yüksekliği 3,50 metreden fazla olan taşıtların giremeyeceğini.", "isTrue": true },
+   
     { "text": "Dingil başına 3,5 tondan fazla yük düşen taşıtların giremeyeceğini.", "isTrue": false },
-    { "text": "Uzunluğu 3,5 metreden fazla olan taşıtların giremeyeceğini.", "isTrue": false }
+    { "text": "Uzunluğu 3,5 metreden fazla olan taşıtların giremeyeceğini.", "isTrue": false },
+     { "text": "Yüksekliği 3,50 metreden fazla olan taşıtların giremeyeceğini.", "isTrue": true }
   ],
   "description": "Bu levha 'Yükseklik Gabarisi' olarak adlandırılır ve bir yasağı bildirir. O yola girebilecek araçların izin verilen azami yüksekliğini belirtir. Bu durumda, yüksekliği 3,50 metreyi aşan kamyon, otobüs gibi araçların genellikle bir köprü, tünel veya alt geçit olan bu güzergaha girmesi yasaktır. Bu kurala uymamak, ciddi kazalara yol açabilir."
 },
@@ -617,9 +637,10 @@
     "image_url": null,
     "options": [
       { "text": "Yakıt deposu dolu olabilir.", "isTrue": false },
-      { "text": "Akü kutup başları gevşek veya oksitlenmiş olabilir.", "isTrue": true },
+      
       { "text": "Motor yağı yeni değiştirilmiş olabilir.", "isTrue": false },
-      { "text": "Cam suyu bitmiş olabilir.", "isTrue": false }
+      { "text": "Cam suyu bitmiş olabilir.", "isTrue": false },
+      { "text": "Akü kutup başları gevşek veya oksitlenmiş olabilir.", "isTrue": true },
     ],
     "description": "Marş motorunun çalışması için aküden yüksek akım çekmesi gerekir. Eğer akü kutup başlarında bir gevşeklik veya paslanma (oksitlenme) varsa, yeterli elektrik akımı geçemez ve marş motoru dönmez veya çok yavaş döner."
   },
