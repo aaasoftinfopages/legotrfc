@@ -1,6 +1,6 @@
 [
   {
-    "id": 5101,
+    "id": 2501,
     "category": "Trafik ve Çevre",
     "question": "Bir otobüs, yerleşim yeri dışındaki bölünmüş bir yolda, aksine bir işaret yoksa, azami olarak hangi hızla seyredebilir?",
     "image_url": null,
@@ -25,7 +25,7 @@
     "description": "Karayolları Trafik Yönetmeliği'ne göre, otobüslerin yerleşim yeri dışında, bölünmüş yollardaki yasal azami hız sınırı 90 km/s'tir. Bu hız, otoyollarda 100 km/s'e çıkar."
   },
   {
-    "id": 5102,
+    "id": 2502,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, kanamayı durdurmak için kullanılan 'turnike' uygulamasının risklerinden biridir?",
     "image_url": null,
@@ -50,7 +50,7 @@
     "description": "Turnike, bir uzva giden kan akışını tamamen kesen çok ciddi bir müdahaledir. Eğer gerekenden uzun süre uygulanırsa veya sık sık gevşetilmezse, kanla beslenemeyen dokular (kas, sinir, deri) ölebilir ve bu durum uzvun kesilmesine (amputasyon) kadar gidebilir."
   },
   {
-    "id": 5103,
+    "id": 2503,
     "category": "Motor ve Araç Tekniği",
     "question": "Dört zamanlı bir motorda, krank milinin bir tam turu (360 derece) sırasında, eksantrik (kam) mili kaç tur döner?",
     "image_url": null,
@@ -75,7 +75,7 @@
     "description": "Dört zamanlı bir motorun bir iş çevrimini (emme, sıkıştırma, ateşleme, egzoz) tamamlaması için krank mili iki tam tur (720 derece) döner. Supapları yöneten eksantrik mili ise bu çevrimde sadece bir tam tur (360 derece) döner. Dolayısıyla, eksantrik mili her zaman krank milinin yarısı kadar hızla döner."
   },
   {
-    "id": 5104,
+    "id": 2504,
     "category": "Trafik Adabı",
     "question": "Bir sürücünün, trafikteki diğer insanlara karşı gösterdiği sabır, hoşgörü, yardımlaşma gibi olumlu davranışların, kendi ailesi veya çocukları tarafından örnek alınması, trafik adabının hangi yönünü vurgular?",
     "image_url": null,
@@ -102,20 +102,21 @@
   {
     "id": 5105,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik levhası ne anlama gelmektedir? [Görsel: Beyaz zeminli yuvarlak levha üzerinde, birbirini takip eden üç araba resmi ve '70m' yazısı]",
-    "image_url": null,
+    "question": "Şekildeki trafik levhası ne anlama gelmektedir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/70m.png",
     "options": [
       {
         "text": "Konvoy halinde 70 km/s hızla gidilmesi gerektiğini.",
         "isTrue": false
       },
-      {
-        "text": "Öndeki araçla aradaki takip mesafesinin 70 metreden az olamayacağını.",
-        "isTrue": true
-      },
+      
       {
         "text": "Sadece 70 metre uzunluğundaki araçların girebileceğini.",
         "isTrue": false
+      },
+      {
+        "text": "Öndeki araçla aradaki takip mesafesinin 70 metreden az olamayacağını.",
+        "isTrue": true
       },
       {
         "text": "70 metre ileride sollama yasağının başladığını.",
@@ -134,10 +135,7 @@
         "text": "Ağız, bebeğin sadece ağzını kapatacak şekilde yerleştirilir.",
         "isTrue": false
       },
-      {
-        "text": "İlk yardımcının ağzı, bebeğin hem ağzını hem de burnunu içine alacak şekilde yerleştirilir ve 'puff' şeklinde hafif bir nefes verilir.",
-        "isTrue": true
-      },
+      
       {
         "text": "Sadece burnu kapatılarak ağzına kuvvetlice üflenir.",
         "isTrue": false
@@ -145,6 +143,10 @@
       {
         "text": "Bebeklerde suni solunum yapılmaz, sadece kalp masajı yapılır.",
         "isTrue": false
+      },
+      {
+        "text": "İlk yardımcının ağzı, bebeğin hem ağzını hem de burnunu içine alacak şekilde yerleştirilir ve 'puff' şeklinde hafif bir nefes verilir.",
+        "isTrue": true
       }
     ],
     "description": "Bebeklerin yüz yapısı küçük olduğu için, ağızdan ağıza suni solunumda ilk yardımcının ağzı, bebeğin hem ağzını hem de burnunu tamamen kapatmalıdır. Verilecek nefes miktarı, sadece bebeğin göğsünü hafifçe yükseltecek kadar (yanak dolusu) olmalıdır."
@@ -155,14 +157,14 @@
     "question": "Aşağıdakilerden hangisi, aracın 'karterinin' delinmesi sonucu meydana gelir?",
     "image_url": null,
     "options": [
-      {
+       {
+        "text": "Motor yağı boşalır ve yağlama sistemi çalışmaz.",
+        "isTrue": true
+      },{
         "text": "Motor soğutma suyu akar.",
         "isTrue": false
       },
-      {
-        "text": "Motor yağı boşalır ve yağlama sistemi çalışmaz.",
-        "isTrue": true
-      },
+     
       {
         "text": "Yakıt deposu delinmiş olur.",
         "isTrue": false
@@ -180,14 +182,14 @@
     "question": "Karayolunda, bir birim olarak seyretmek üzere birbirine bağlanmış en çok iki römorktan oluşan araçlara ne ad verilir?",
     "image_url": null,
     "options": [
-      {
+       {
+        "text": "Taşıt katarı",
+        "isTrue": true
+      },{
         "text": "Arazi taşıtı",
         "isTrue": false
       },
-      {
-        "text": "Taşıt katarı",
-        "isTrue": true
-      },
+     
       {
         "text": "Özel amaçlı taşıt",
         "isTrue": false
@@ -259,13 +261,14 @@
         "text": "İnatçılık",
         "isTrue": false
       },
-      {
-        "text": "Sorumluluk ve Erdemlilik",
-        "isTrue": true
-      },
+      
       {
         "text": "Saldırganlık",
         "isTrue": false
+      },
+      {
+        "text": "Sorumluluk ve Erdemlilik",
+        "isTrue": true
       },
       {
         "text": "Bencillik",
@@ -277,8 +280,8 @@
   {
     "id": 5112,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik levhası hangi anlama gelir? [Görsel: Kırmızı üçgen içinde, sağda anayol ve soldan ona katılan bir tali yol figürü]",
-    "image_url": null,
+    "question": "Şekildeki trafik levhası hangi anlama gelir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/soldan_anayola_giris.jpg",
     "options": [
       {
         "text": "Sağdan anayola giriş",
@@ -309,10 +312,7 @@
         "text": "Takma dişlerin çıkması",
         "isTrue": false
       },
-      {
-        "text": "Dilin, kasların gevşemesiyle geriye doğru kayarak boğazı tıkaması",
-        "isTrue": true
-      },
+      
       {
         "text": "Midedeki yiyeceklerin yukarı çıkması",
         "isTrue": false
@@ -320,7 +320,11 @@
       {
         "text": "Başın yana doğru eğilmesi",
         "isTrue": false
-      }
+      },
+      {
+        "text": "Dilin, kasların gevşemesiyle geriye doğru kayarak boğazı tıkaması",
+        "isTrue": true
+      },
     ],
     "description": "Bir kişi bilincini kaybettiğinde, tüm kasları gibi dil kasları da gevşer. Sırtüstü yatan bir kişide, gevşeyen dil, yer çekiminin etkisiyle geriye doğru kayar ve soluk borusunun girişini bir tıkaç gibi kapatır. Bu nedenle bilinci kapalı kişilere 'baş-çene' pozisyonu verilir."
   },
@@ -427,8 +431,8 @@
   {
     "id": 5118,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik levhası ne anlama gelir? [Görsel: Mavi kare zemin üzerinde, beyaz bir yatak ve kırmızı 'artı' (haç) sembolü]",
-    "image_url": null,
+    "question": "Şekildeki trafik levhası ne anlama gelir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/hastane.jpg",
     "options": [
       {
         "text": "Otel",
@@ -602,8 +606,8 @@
   {
     "id": 5125,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki yol üzerine çizilmiş, ilerideki tehlikeyi belirtmek amacıyla kullanılan ve 'Ofset Tarama' olarak adlandırılan bu işaretleme, sürücüye neyi bildirir? [Görsel: Yol üzerinde, şeridi ortadan ikiye ayıran ve giderek daralan çapraz çizgiler]",
-    "image_url": null,
+    "question": "Şekildeki yol üzerine çizilmiş, ilerideki tehlikeyi belirtmek amacıyla kullanılan ve 'Ofset Tarama' olarak adlandırılan bu işaretleme, sürücüye neyi bildirir? ",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/ofsetarama.jpg",
     "options": [
       {
         "text": "İleride yolun iki şeride ayrılacağını.",
@@ -706,19 +710,19 @@
     "image_url": null,
     "options": [
       {
-        "text": "[Görsel: Motor arıza (check engine) ikaz ışığı]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.lpg",
         "isTrue": false
       },
       {
-        "text": "[Görsel: İçinde noktalar olan bir egzoz figürü şeklindeki DPF ikaz ışığı]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dpf.jpg",
         "isTrue": true
       },
       {
-        "text": "[Görsel: Kızdırma bujisi ikaz ışığı]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelkizdirmabujisi.jpg",
         "isTrue": false
       },
       {
-        "text": "[Görsel: Yağ basıncı ikaz ışığı]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/katalizor.jpg",
         "isTrue": false
       }
     ],
@@ -777,8 +781,8 @@
   {
     "id": 5132,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik levhası ne anlama gelir? [Görsel: Mavi kare zemin üzerinde, üzerinde yatak resmi olan bir araç (karavan) figürü]",
-    "image_url": null,
+    "question": "Şekildeki trafik levhası ne anlama gelir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/karavan.png",
     "options": [
       {
         "text": "Kamp alanı",
@@ -999,31 +1003,31 @@
     ],
     "description": "Karter, motorun en alt kısmında bulunan ve motor yağını depolayan parçadır. Aracın altını bir taşa veya engele vurmak sonucu karter delinirse, motorun tüm yağı yola akar. Bu durumda motor yağsız kalacağı için kesinlikle çalıştırılmamalıdır."
   },
-  {
+ {
     "id": 5141,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik levhası ne anlama gelir? [Görsel: Kırmızı üçgen içinde, sol tarafta bir geyik figürü]",
+    "category": "İlk Yardım",
+    "question": "Atardamarların (arterlerin) vücuttaki temel görevi aşağıdakilerden hangisidir?",
     "image_url": null,
     "options": [
-      {
-        "text": "İleride hayvanat bahçesi olduğunu",
+    {
+        "text": "Vücuttaki kanı kalbe geri getirmek",
         "isTrue": false
-      },
-      {
-        "text": "Yola evcil hayvanların çıkabileceğini",
-        "isTrue": false
-      },
-      {
-        "text": "Yola vahşi hayvanların (geyik, karaca vb.) çıkabileceğini",
+    },
+    {
+        "text": "Kanı kalpten alarak vücudun diğer bölgelerine taşımak",
         "isTrue": true
-      },
-      {
-        "text": "Avlanmanın yasak olduğu bölge",
-        "isTrue": false
-      }
-    ],
-    "description": "Bu tehlike uyarı işareti, genellikle ormanlık veya kırsal alanlardan geçen yollarda kullanılır ve sürücüleri, aniden yola çıkabilecek vahşi hayvanlara karşı dikkatli olmaları ve hızlarını düşürmeleri konusunda uyarır."
-  },
+    },
+    {
+    "text": "Oksijen ve karbondioksit değişimini sağlamak",
+    "isTrue": false
+    },
+    {
+"text": "Kanın pıhtılaşmasında rol oynamak",
+"isTrue": false
+}
+],
+"description": "Atardamarlar, genellikle oksijence zengin kanı kalpten pompalayarak organlara ve dokulara dağıtan kan damarlarıdır. Vücuttaki kanı kalbe geri taşıyan damarlar ise toplardamarlardır."
+},
   {
     "id": 5142,
     "category": "İlk Yardım",
@@ -1227,8 +1231,8 @@
   {
     "id": 5150,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik işareti neyi bildirir? [Görsel: Beyaz zeminli yuvarlak levha üzerinde, siyah bir araba figürü ve üzerinde siyah çapraz bir çizgi]",
-    "image_url": null,
+    "question": "Şekildeki trafik işareti neyi bildirir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/yasaklarson.png",
     "options": [
       {
         "text": "Motorlu taşıt trafiğine kapalı yol",
