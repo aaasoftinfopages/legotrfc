@@ -1,6 +1,6 @@
 [
   {
-    "id": 5051,
+    "id": 2601,
     "category": "Motor ve Araç Tekniği",
     "question": "Motor çalışmazken kontak anahtarı açık konumda bırakılırsa, aşağıdaki parçalardan hangisi zarar görebilir?",
     "image_url": null,
@@ -25,7 +25,7 @@
     "description": "Motor çalışmazken kontak açık bırakıldığında, ateşleme sistemine sürekli olarak elektrik akımı gider. Bu durum, endüksiyon bobininin aşırı ısınmasına ve iç sargılarının yanarak arızalanmasına neden olabilir."
   },
   {
-    "id": 5052,
+    "id": 2602,
     "category": "Trafik ve Çevre",
     "question": "Trafik kazası sonrası, 'asli kusurlu' sayılan bir sürücünün sigorta işlemleri ile ilgili aşağıdakilerden hangisi doğrudur?",
     "image_url": null,
@@ -50,7 +50,7 @@
     "description": "Zorunlu Mali Sorumluluk (Trafik) Sigortası, bir sürücünün kusurlu olduğu bir kazada, karşı tarafın maddi ve bedensel zararlarını karşılamak için yapılır. Asli kusurlu olan sürücünün kendi hasarı ise ancak Kasko sigortası varsa karşılanır."
   },
   {
-    "id": 5053,
+    "id": 2603,
     "category": "İlk Yardım",
     "question": "Bir kaza sonrası, yaralıda gözle görülür bir kanama olmamasına rağmen, karın bölgesinde sertlik, ağrı, soğuk terleme ve hızlı nabız gibi belirtiler varsa, hangi durumdan şüphelenilmelidir?",
     "image_url": null,
@@ -75,7 +75,7 @@
     "description": "Bu belirtiler (şok belirtileri) ve karın bölgesindeki hassasiyet, bir darbe sonucu iç organların hasar gördüğünün ve vücut içine doğru kanama olduğunun en tipik işaretleridir. İç kanama, hayati tehlike oluşturan acil bir durumdur."
   },
   {
-    "id": 5054,
+    "id": 2604,
     "category": "Trafik Adabı",
     "question": "Bir sürücünün, engelli bireyler için ayrılmış bir park yerine aracını park etmesi, hangi hakların ihlaline örnektir?",
     "image_url": null,
@@ -100,7 +100,7 @@
     "description": "Engelli park yerleri, bu bireylerin sosyal yaşama daha kolay katılabilmeleri için tanınmış pozitif bir haktır. Bu yerleri işgal etmek, sadece bir park kuralı ihlali değil, aynı zamanda engelli bir bireyin en temel erişim hakkını gasp etmek ve toplumsal kurallara saygısızlıktır."
   },
   {
-    "id": 5055,
+    "id": 2605,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik levhası ne anlama gelmektedir? [Görsel: Mavi kare zemin üzerinde, beyaz bir araba figürü ve altında 'P' harfi, yani Kapalı Otopark levhası]",
     "image_url": null,
@@ -125,7 +125,7 @@
     "description": "Bu bilgi işareti, sürücülere ileride veya yakında, araçlarını park edebilecekleri üstü kapalı bir park alanı (kapalı otopark, katlı otopark) bulunduğunu bildirir."
   },
   {
-    "id": 5056,
+    "id": 2606,
     "category": "Motor ve Araç Tekniği",
     "question": "Aracın deposuna yanlış yakıt (dizele benzin, benzine dizel) konulduğu fark edilirse, yapılması gereken ilk ve en önemli şey nedir?",
     "image_url": null,
@@ -150,7 +150,7 @@
     "description": "Yanlış yakıt, motorun tüm yakıt sistemine (pompa, enjektörler vb.) yayılırsa çok büyük ve masraflı arızalara yol açar. Bu nedenle, yanlışlık fark edildiği anda yapılacak en doğru şey, kontağı kesinlikle açmadan ve aracı çalıştırmadan, bir çekici yardımıyla depoyu boşaltacak bir servise gitmektir."
   },
   {
-    "id": 5057,
+    "id": 2607,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, kimyasal madde veya cisim kaçması sonucu oluşan göz yaralanmalarında ortak ve doğru bir ilk yardım uygulamasıdır?",
     "image_url": null,
@@ -175,7 +175,7 @@
     "description": "Bir göze gelen darbe veya yaralanma durumunda, her iki göz de birlikte hareket etme eğilimindedir. Sadece yaralı gözü kapatmak, sağlam göz hareket ettiğinde yaralı gözün de hareket etmesine ve hasarın artmasına neden olabilir. Bu nedenle her iki göz birden kapatılarak hareket minimuma indirilir."
   },
   {
-    "id": 5058,
+    "id": 2608,
     "category": "Trafik ve Çevre",
     "question": "Tek yönlü bir karayolunda, trafik işaretleriyle izin verilmiş olsa bile, hangi durumda geri gidilmesi kesinlikle yasaktır?",
     "image_url": null,
@@ -200,7 +200,7 @@
     "description": "Otoyollar, yüksek hızlı ve tek yönlü trafik akışı için tasarlanmıştır. Bu yollarda duraklamak, park etmek ve geri gitmek, arkadan gelen araçlar için aşırı tehlikeli ve ani durumlar yaratacağından kesinlikle yasaktır."
   },
   {
-    "id": 5059,
+    "id": 2609,
     "category": "Motor ve Araç Tekniği",
     "question": "Motorun, 'avans ayarının' bozuk olması, aşağıdakilerden hangisine neden olur?",
     "image_url": null,
@@ -225,7 +225,7 @@
     "description": "Avans ayarı, ateşleme zamanlamasıdır; yani bujinin, piston en uygun konumdayken kıvılcımı çakmasını sağlar. Bu ayar bozuksa, ateşleme erken veya geç olur. Bu da yanmanın verimsiz olmasına, motorun vuruntulu çalışmasına ve güç kaybetmesine yol açar."
   },
   {
-    "id": 5060,
+    "id": 2610,
     "category": "Trafik Adabı",
     "question": "Trafikte, bir yayanın veya başka bir sürücünün haklı bir uyarısına karşı, hatasını kabul etmek yerine, öfkeyle karşılık veren bir sürücü, hangi kişilik özelliğini sergilemektedir?",
     "image_url": null,
@@ -250,7 +250,7 @@
     "description": "Yapıcı eleştirilere veya uyarılara karşı savunmaya geçmek ve öfkeyle tepki vermek, kişinin hatasını kabul etmekte zorlandığını ve eleştiriye açık olmadığını gösterir. Bu, genellikle yüksek egoya sahip ve savunmacı bir kişilik yapısının işaretidir."
   },
   {
-    "id": 5061,
+    "id": 2611,
     "category": "İlk Yardım",
     "question": "Aşağıdaki durumlardan hangisinde, yaralıya Temel Yaşam Desteği (kalp masajı ve suni solunum) uygulanmasına başlanmalıdır?",
     "image_url": null,
@@ -275,7 +275,7 @@
     "description": "Temel Yaşam Desteği, kalbi ve solunumu durmuş bir kişiye, beyin ve diğer hayati organlara kan ve oksijen pompalamak için yapılır. Bu nedenle, sadece bilinci ve solunumu tamamen durmuş olan bir yaralıya uygulanır."
   },
   {
-    "id": 5062,
+    "id": 2612,
     "category": "Trafik ve Çevre",
     "question": "Bir aracın 'yüklü ağırlığı' neyi ifade eder?",
     "image_url": null,
@@ -300,7 +300,7 @@
     "description": "Yüklü ağırlık, belirli bir andaki toplam ağırlıktır. Aracın boş ağırlığı (katar ağırlığı) ile o anda içinde bulunan sürücü, yolcular, yakıt ve yüklerin tamamının ağırlığının toplanmasıyla bulunur."
   },
   {
-    "id": 5063,
+    "id": 2613,
     "category": "Motor ve Araç Tekniği",
     "question": "Aşağıdakilerden hangisi, 'triger kayışının' kopması durumunda meydana gelebilecek en ciddi sonuçtur?",
     "image_url": null,
@@ -325,7 +325,7 @@
     "description": "Triger kayışı, motorun senkronizasyonunu sağlar; yani pistonların hareketi ile supapların açılıp kapanmasını eş zamanlı hale getirir. Bu kayış koptuğunda, bu zamanlama bozulur ve yukarı çıkan bir piston, henüz kapanmamış olan bir supapa çarparak supapları eğer, pistonu deler ve motoru tamamen kullanılamaz hale getirebilir."
   },
   {
-    "id": 5064,
+    "id": 2614,
     "category": "İlk Yardım",
     "question": "Aşağıdaki durumlardan hangisinde, yaralının bilinci yerinde olsa bile, vücudunun hareket ettirilmemesi hayati önem taşır?",
     "image_url": null,
@@ -350,7 +350,7 @@
     "description": "Yüksekten düşme, trafik kazası, başa alınan sert darbeler gibi durumlarda, yaralının bilinci açık olsa bile omurgasında bir kırık veya zedelenme olabilir. Bu durumda yapılacak en ufak bir yanlış hareket, omuriliğe baskı yaparak kişinin felç kalmasına neden olabilir."
   },
   {
-    "id": 5065,
+    "id": 2615,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti ne anlama gelir? [Görsel: Mavi daire içinde, kar zinciri takılmış bir lastik figürü]",
     "image_url": null,
@@ -375,7 +375,7 @@
     "description": "Mavi zeminli bu mecburiyet işareti, yolun o kesiminde kar ve buzlanma nedeniyle, araçların çekiş yapan tekerleklerine zincir takılmasının zorunlu olduğunu belirtir. Bu levhanın olduğu yerde zincirsiz ilerlemek yasaktır."
   },
   {
-    "id": 5066,
+    "id": 2616,
     "category": "Motor ve Araç Tekniği",
     "question": "Motor yağı, ne zaman ve hangi durumda kontrol edilmelidir?",
     "image_url": null,
@@ -400,7 +400,7 @@
     "description": "En doğru yağ seviyesi ölçümü için, motorun bir süre çalışıp yağın tüm sisteme dağılması, ardından durdurulup yağın tekrar karterde toplanması için birkaç dakika beklenmesi gerekir. Aracın düz zeminde olması, yağ çubuğunun yanıltıcı bir seviye göstermemesi için kritiktir."
   },
   {
-    "id": 5067,
+    "id": 2617,
     "category": "Trafik Adabı",
     "question": "Bir sürücünün, görme engelli bir yayanın yolun karşısına geçmesine yardımcı olması, trafik adabının hangi temel unsuruna örnektir?",
     "image_url": null,
@@ -425,7 +425,7 @@
     "description": "Trafikte savunmasız durumda olan yol kullanıcılarına (yaşlılar, çocuklar, engelliler) yardımcı olmak, sadece bir nezaket değil, aynı zamanda toplumsal bir sorumluluk ve yardımlaşma bilincinin en güzel örneklerinden biridir."
   },
   {
-    "id": 5068,
+    "id": 2618,
     "category": "İlk Yardım",
     "question": "Turnike uygulamasıyla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
     "image_url": null,
@@ -450,7 +450,7 @@
     "description": "Turnike, dokulara ve sinirlere zarar verebileceği için geniş (en az 8-10 cm) bir malzemeyle (kravat, bez parçası vb.) uygulanmalıdır. İp, tel gibi kesici malzemeler, alttaki dokuları keserek daha büyük hasara yol açacağı için kesinlikle kullanılmamalıdır."
   },
   {
-    "id": 5069,
+    "id": 2619,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, 'park etmenin yasak' olduğu yerlerden biridir?",
     "image_url": null,
@@ -475,7 +475,7 @@
     "description": "Yangın gibi acil durumlarda itfaiye araçlarının su almasını engellememek için, yangın musluklarının her iki yönünde 5 metrelik bir mesafe boyunca duraklamak ve park etmek kesinlikle yasaktır."
   },
   {
-    "id": 5070,
+    "id": 2620,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki yol bölümünde görülen trafik levhası, sürücülere neyi bildirir? [Görsel: Yolun sağ tarafında, tehlikeli madde taşıyan araçların park ettiğini gösteren bir levha]",
     "image_url": null,
@@ -500,7 +500,7 @@
     "description": "Bu bilgi işareti, tehlikeli madde taşıyan araçların güvenli bir şekilde park etmeleri için ayrılmış özel bir park alanı bulunduğunu belirtir. Diğer araçların bu alana park etmesi genellikle yasaktır."
   },
   {
-    "id": 5071,
+    "id": 2621,
     "category": "Trafik ve Çevre",
     "question": "Bir aracın tescil belgesinde (ruhsat) belirtilen 'Net Ağırlık' ile 'Azami Yüklü Ağırlık' arasındaki fark, sürücüye hangi bilgiyi verir?",
     "image_url": null,
@@ -525,7 +525,7 @@
     "description": "Azami Yüklü Ağırlık, aracın yolda olabileceği en ağır halidir. Net Ağırlık ise aracın boş halidir. Bu ikisi arasındaki fark, o aracın yasal olarak ne kadar yük (eşya, yolcu, sürücü dahil) taşıyabileceğini, yani kapasitesini (istiap haddi) verir."
   },
   {
-    "id": 5072,
+    "id": 2622,
     "category": "Motor ve Araç Tekniği",
     "question": "Manuel vitesli bir araçta, debriyaj pedalına basıldığında, motor ile vites kutusu arasındaki bağlantıyı ayıran ve baskı balatanın serbest kalmasını sağlayan parçanın adı nedir?",
     "image_url": null,
@@ -550,7 +550,7 @@
     "description": "Sürücü debriyaj pedalına bastığında, bir çatal vasıtasıyla debriyaj bilyesi ileri itilir. Bu bilye, dönmekte olan baskı balatanın ortasındaki şemsiye yaylara baskı yaparak balatanın volandan ayrılmasını ve güç akışının kesilmesini sağlar."
   },
   {
-    "id": 5073,
+    "id":2623,
     "category": "İlk Yardım",
     "question": "Zehirli bir hayvan (yılan, akrep vb.) tarafından ısırılan veya sokulan bir kişiye ilk yardım olarak aşağıdakilerden hangisinin yapılması kesinlikle yanlıştır?",
     "image_url": null,
@@ -575,7 +575,7 @@
     "description": "Yarayı kesmek veya emmek, hem yarayı enfeksiyona açık hale getirir hem de zehrin kana daha hızlı karışmasına neden olur. Ayrıca emen kişinin ağzında yara varsa onun da zehirlenmesine yol açabilir. Bu, filmlerden bilinen ancak son derece tehlikeli ve yanlış bir uygulamadır."
   },
   {
-    "id": 5074,
+    "id": 2624,
     "category": "Trafik Adabı",
     "question": "Bir sürücünün, aracında ABS, hava yastığı gibi yüksek güvenlik donanımları olduğu için, bu donanımlara güvenerek normalden daha riskli ve hızlı araç kullanması, hangi psikolojik kavramla açıklanır?",
     "image_url": null,
@@ -600,7 +600,7 @@
     "description": "Risk telafisi, bir güvenlik önleminin varlığı nedeniyle kişilerin kendilerini daha güvende hissederek, aldıkları risk seviyesini artırma eğilimidir. 'Nasıl olsa hava yastığı var' diyerek daha hızlı gitmek, bu duruma tipik bir örnektir."
   },
   {
-    "id": 5075,
+    "id": 2625,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik levhası ne anlama gelir? [Görsel: Kırmızı daire içinde, bir otomobil ve bir motosikletin yan yana olduğu bir figür]",
     "image_url": null,
@@ -625,7 +625,7 @@
     "description": "Bu levha, yolun motosikletler dışındaki tüm motorlu taşıtların (otomobil, kamyon, otobüs vb.) girişine kapalı olduğunu belirtir. Yani bu yola sadece motosikletler, motorsuz taşıtlar ve yayalar girebilir."
   },
   {
-    "id": 5076,
+    "id": 2626,
     "category": "Motor ve Araç Tekniği",
     "question": "Dört zamanlı bir motorun, 1 dakikadaki devir sayısı (RPM) 3000 ise, bu motorun krank mili 1 dakikada kaç tur döner?",
     "image_url": null,
@@ -650,7 +650,7 @@
     "description": "Motorun devir sayısı (RPM - Revolutions Per Minute), krank milinin 1 dakika içerisindeki tam tur dönüş sayısını ifade eder. Dolayısıyla, devir saati 3000 RPM gösteriyorsa, krank mili o anda dakikada 3000 tam tur dönmektedir."
   },
   {
-    "id": 5077,
+    "id": 2627,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, 'kesin ölüm belirtisi' olarak kabul edilir ve bu belirti görüldüğünde yaralıya Temel Yaşam Desteği uygulanmaz?",
     "image_url": null,
@@ -675,7 +675,7 @@
     "description": "Solunumun durması veya vücudun soğuması, geri döndürülebilir 'klinik ölüm' belirtileridir. Ancak ölüm sertliği (kasların kasılması) veya vücudun alt kısımlarında kanın toplanmasıyla oluşan morluklar, biyolojik ölümün başladığını gösteren kesin belirtilerdir ve bu durumda ilk yardım uygulanmaz."
   },
   {
-    "id": 5078,
+    "id": 2628,
     "category": "Trafik ve Çevre",
     "question": "Yaya ve okul geçitlerine yaklaşırken öndeki aracı geçme kuralı ile ilgili aşağıdakilerden hangisi doğrudur?",
     "image_url": null,
@@ -700,7 +700,7 @@
     "description": "Yaya ve okul geçitleri, yayaların mutlak önceliğe sahip olduğu ve sürücülerin azami dikkat göstermesi gereken yerlerdir. Bu alanlara yaklaşırken görüşü kapatabilecek veya ani tehlike yaratabilecek olan sollama manevrası, yaya olsun veya olmasın, kesinlikle yasaktır."
   },
   {
-    "id": 5079,
+    "id": 2629,
     "category": "Motor ve Araç Tekniği",
     "question": "Aşağıdaki ikaz ışıklarından hangisi, 'el freninin çekili olduğunu' veya 'fren hidrolik seviyesinin kritik düzeyde düştüğünü' bildirir? [Görsel şıklar olarak verilecek]",
     "image_url": null,
@@ -725,7 +725,7 @@
     "description": "Daire içindeki ünlem (!) veya 'P' harfi, çift fonksiyonlu bir uyarıdır. Birincil anlamı el freninin (park freni) çekili olduğudur. Eğer el freni indirilmesine rağmen ışık sönmüyorsa veya yanıp sönüyorsa, bu durum fren hidrolik sıvısının tehlikeli derecede azaldığının veya sistemde bir sızıntı olduğunun işaretidir."
   },
   {
-    "id": 5080,
+    "id": 2630,
     "category": "Trafik Adabı",
     "question": "Bir sürücünün, başka bir sürücü tarafından trafikte sıkıştırıldığında veya bir hataya maruz kaldığında, durumu kişiselleştirmeden ve öfkelenmeden, 'Belki acelesi vardır' veya 'Dalgınlığına gelmiş olabilir' şeklinde düşünmesi, hangi becerisini kullandığını gösterir?",
     "image_url": null,
@@ -750,7 +750,7 @@
     "description": "Empati, olaylara sadece kendi açımızdan değil, karşıdaki insanın durumu ve olası nedenleri açısından da bakabilme becerisidir. Bu düşünce tarzı, trafikteki stresi ve çatışmaları azaltmanın en etkili yoludur."
   },
   {
-    "id": 5081,
+    "id": 2631,
     "category": "İlk Yardım",
     "question": "Solunum yolu, yabancı bir cisimle 'kısmen tıkanmış' olan, yani öksürebilen ve nefes alabilen bir kişiye ilk yardım olarak ne yapılmalıdır?",
     "image_url": null,
@@ -775,7 +775,7 @@
     "description": "Kısmi tıkanmada, kişinin kendi güçlü öksürük refleksi, yabancı cismi çıkarmak için en etkili ve en güvenli yöntemdir. Bu durumda sırtına vurmak veya başka bir müdahalede bulunmak, cismin yerini değiştirerek tam tıkanmaya yol açabilir. Bu nedenle sadece gözlem yapılır ve öksürmesi istenir."
   },
   {
-    "id": 5082,
+    "id": 2632,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki yol üzerine çizilmiş zikzak şeklindeki sarı çizgiler ne anlama gelir? [Görsel: Yol kenarına veya ortasına çizilmiş sarı zikzak çizgiler]",
     "image_url": null,
@@ -800,7 +800,7 @@
     "description": "Sarı zikzak çizgiler, genellikle okul önleri, hastane girişleri veya yaya geçitleri gibi alanlarda, görüşü engelleyebilecek veya trafiği tehlikeye atabilecek duraklama ve park etme eylemlerini kesin olarak yasaklamak için kullanılır."
   },
   {
-    "id": 5083,
+    "id": 2633,
     "category": "Motor ve Araç Tekniği",
     "question": "Aracın klima (AC) sistemi çalıştırıldığında, motorun rölanti devrinde hafif bir artış olmasının nedeni nedir?",
     "image_url": null,
@@ -825,7 +825,7 @@
     "description": "Klima kompresörü, gücünü motordan alır ve motora ek bir yük bindirir. Motor Kontrol Ünitesi (ECU), bu ek yük nedeniyle motorun rölantide stop etmesini veya sarsıntılı çalışmasını engellemek için rölanti devrini otomatik olarak bir miktar yükseltir."
   },
   {
-    "id": 5084,
+    "id": 2634,
     "category": "İlk Yardım",
     "question": "Bir yaralının birinci bilinci kapalı, ikinci bilinci (ağrılı uyarana tepki) ise açıksa, bu durumdaki yaralıya hangi pozisyon verilmelidir?",
     "image_url": null,
@@ -850,7 +850,7 @@
     "description": "Bilinç seviyeleri farklılık gösterebilir. Birinci bilinç (sesli uyarana tepki) kapalı, ancak ikinci bilinç (ağrılı uyarana inleme, elini çekme gibi tepkiler) açıksa, bu kişi yine de bilinci kapalı olarak kabul edilir. Solunumu olduğu sürece, solunum yolunu güvence altına almak için koma pozisyonuna alınır."
   },
   {
-    "id": 5085,
+    "id": 2635,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, 'geçiş üstünlüğüne' sahip bir araç değildir?",
     "image_url": null,
@@ -875,7 +875,7 @@
     "description": "Geçiş üstünlüğü, sadece kanunda açıkça belirtilen ve görev halinde olan araçlara tanınır. Bunlar cankurtaran, itfaiye, polis, sivil savunma, organ nakil araçları gibi aciliyet gerektiren durumlardaki araçlardır. Cenaze aracı, bu kategoride yer almaz ve geçiş üstünlüğü yoktur."
   },
   {
-    "id": 5086,
+    "id": 2636,
     "category": "Motor ve Araç Tekniği",
     "question": "Fren pedalına basıldığında, fren lambaları yanıyor ancak sürekli olarak yanıp sönüyorsa (flaş yapıyorsa), bu durumun en olası anlamı nedir?",
     "image_url": null,
@@ -900,7 +900,7 @@
     "description": "Modern araçlarda bulunan Acil Fren Sinyali (ESS), panik fren anında veya ABS devreye girdiğinde, arkadaki sürücüleri daha etkili bir şekilde uyarmak için fren lambalarını ve bazen dörtlü flaşörleri otomatik olarak yakıp söndürür. Bu bir arıza değil, bir güvenlik özelliğidir."
   },
   {
-    "id": 5087,
+    "id": 2637,
     "category": "Trafik Adabı",
     "question": "Trafikte, 'beden dilinin' yanlış kullanımı, aşağıdaki durumlardan hangisine en çok neden olur?",
     "image_url": null,
@@ -925,7 +925,7 @@
     "description": "Tehditkar el hareketleri, sert bakışlar veya agresif mimikler, trafikteki diğer sürücüler tarafından bir meydan okuma veya hakaret olarak algılanabilir. Bu durum, basit bir anlaşmazlığı kolayca bir kavgaya veya yol verme mücadelesine dönüştürebilir."
   },
   {
-    "id": 5088,
+    "id": 2638,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, 'hedefte organ kanaması' olarak da bilinen ve sadece kafatası kırıklarında görülebilen özel bir belirtidir?",
     "image_url": null,
@@ -950,7 +950,7 @@
     "description": "Kafatası tabanında meydana gelen kırıklar sonucu, kanın göz çevresindeki yumuşak dokulara sızmasıyla 'Rakun Gözleri' adı verilen halka şeklinde morluklar oluşur. Benzer şekilde, kulak arkasındaki kemikte (mastoid) oluşan morluğa da 'Battle Belirtisi' denir. Bunlar çok ciddi bir kafa travmasının işaretleridir."
   },
   {
-    "id": 5089,
+    "id": 2639,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik levhası, hangi araçların bu yola girmesini kısıtlar? [Görsel: Kırmızı daire içinde, yüksekliği 3.50m'den fazla olan araçların giremeyeceğini gösteren gabari levhası]",
     "image_url": null,
@@ -975,7 +975,7 @@
     "description": "Bu levha, bir yükseklik gabari sınırlamasıdır. Üst ve alt oklar, yüksekliği ifade eder. Yüklü veya yüksüz haldeki yüksekliği 3.50 metreyi aşan araçların, bu noktadan (genellikle tünel, köprü, üst geçit) geçişi yasaktır."
   },
   {
-    "id": 5090,
+    "id": 2640,
     "category": "Motor ve Araç Tekniği",
     "question": "Bir aracın, dönüşlerde iç tekerleği ile dış tekerleği arasında oluşan yol farkını dengeleyerek, tekerleklerin yıpranmasını ve aracın zorlanmasını önleyen güç aktarma organı hangisidir?",
     "image_url": null,
@@ -1000,7 +1000,7 @@
     "description": "Bir araç viraj dönerken, virajın dışındaki tekerlek içindekinden daha fazla yol kat etmek zorundadır. Diferansiyel, bu iki tekerleğin farklı hızlarda dönmesine izin vererek, hem dönüşü kolaylaştırır hem de lastiklerin ve aktarma organlarının aşınmasını önler."
   },
   {
-    "id": 5091,
+    "id": 2641,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki yol çizgilerinden hangisi, sadece yavaşlamak veya hızlanmak amacıyla kullanılan şeritleri belirtir? [Görsel şıklar olarak verilecek]",
     "image_url": null,
@@ -1025,7 +1025,7 @@
     "description": "Otoyol gibi yollara katılım (hızlanma) veya ayrılma (yavaşlama) şeritlerini ana yoldan ayıran çizgiler, diğer şerit çizgilerinden daha geniş ve daha aralıklı olarak çizilir. Bu, sürücüye o şeridin özel bir amaç için olduğunu belirtir."
   },
   {
-    "id": 5092,
+    "id": 2642,
     "category": "İlk Yardım",
     "question": "Bir yaralının solunumunu değerlendirirken, 'Bak-Dinle-Hisset' yöntemiyle hangi hareketler yapılır?",
     "image_url": null,
@@ -1050,7 +1050,7 @@
     "description": "Bu yöntemde, ilk yardımcı yanağını yaralının ağzına ve burnuna yaklaştırır. Bu sırada gözleriyle göğüs kafesinin inip kalktığına 'bakar', kulağıyla solunum seslerini 'dinler' ve yanağıyla da yaralının nefesinin sıcaklığını 'hissetmeye' çalışır."
   },
   {
-    "id": 5093,
+    "id": 2643,
     "category": "Motor ve Araç Tekniği",
     "question": "Aracın deposundaki yakıtın, motorun çalışması için gerekli olan basınçla yakıt sistemine gönderilmesini sağlayan parça hangisidir?",
     "image_url": null,
@@ -1075,7 +1075,7 @@
     "description": "Yakıt pompası, genellikle yakıt deposunun içinde veya yakınında bulunur ve depodaki yakıtı belirli bir basınçla çekerek, filtrelerden geçirip enjektörlere veya karbüratöre gönderir. Bu pompa çalışmazsa, motor yakıt alamaz ve çalışmaz."
   },
   {
-    "id": 5094,
+    "id": 2644,
     "category": "Trafik Adabı",
     "question": "Trafikte, bir bisikletli veya motosikletli gibi, karoser tarafından korunmayan ve daha savunmasız olan yol kullanıcılarına karşı, daha dikkatli ve mesafeli davranmak, hangi ilkenin bir gereğidir?",
     "image_url": null,
@@ -1100,7 +1100,7 @@
     "description": "Otomobil sürücüleri, kapalı bir kabin içinde oldukları için, dışarıdaki savunmasız yol kullanıcılarının (motosikletli, bisikletli, yaya) karşılaşabileceği riskleri öngörmek ve onlara daha fazla alan tanıyarak güvenli bir ortam oluşturmakla yükümlüdür."
   },
   {
-    "id": 5095,
+    "id": 2645,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki asli kusur hallerinden hangisi, sadece bölünmüş yollarda veya otoyollarda işlenebilir?",
     "image_url": null,
@@ -1125,7 +1125,7 @@
     "description": "Bu asli kusur, özellikle gidiş ve geliş yönlerinin birbirinden fiziksel bir ayırıcı (refüj) ile ayrıldığı bölünmüş yollarda, sürücünün kendi yönüne ait kısımdan çıkarak karşı yöne geçmesini ifade eder. Bu durum, kafa kafaya çarpışma gibi en ölümcül kazalara neden olur."
   },
   {
-    "id": 5096,
+    "id": 2646,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, 'kapalı kırık' belirtilerinden biri olabilir?",
     "image_url": null,
@@ -1150,7 +1150,7 @@
     "description": "Kapalı kırıklarda, deri bütünlüğü bozulmaz, yani dışarıya açık bir yara yoktur. Ancak kemik içeride kırıldığı için, bölgede şiddetli ağrı, anormal bir şekil, iç kanamaya bağlı şişlik ve morarma ile işlev kaybı gibi belirtiler görülür."
   },
   {
-    "id": 5097,
+    "id": 2647,
     "category": "Motor ve Araç Tekniği",
     "question": "Araç seyir halindeyken, motordan anormal sesler (vuruntu, tıkırtı vb.) gelmeye başlarsa, sürücünün yapması gereken en doğru davranış nedir?",
     "image_url": null,
@@ -1175,7 +1175,7 @@
     "description": "Motordan gelen anormal sesler, genellikle ciddi bir mekanik arızanın (yağsız kalma, yatak sarma, piston kırma vb.) habercisidir. Bu durumda yola devam etmek, motorda çok daha büyük ve geri döndürülemez hasarlara yol açabilir. Derhal durmak en güvenli yoldur."
   },
   {
-    "id": 5098,
+    "id": 2648,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik görevlisinin her iki kolunu da aşağıya indirmesi veya vücuduna paralel hale getirmesi ne anlama gelir? [Görsel: Trafik polisinin kollarını yanlarına indirerek 'hazır ol' pozisyonunda durması]",
     "image_url": null,
@@ -1200,7 +1200,7 @@
     "description": "Trafik görevlisi, bir işareti bitirip diğerine geçmeden önce, kollarını vücudunun yanına indirerek 'hazır ol' durumuna geçer. Bu pozisyon, mevcut hareketin bittiğini ve yeni bir komut verileceğini belirtir ve esasen bir 'Dur' komutudur."
   },
   {
-    "id": 5099,
+    "id": 2649,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, kimyasal yanıklarda veya zehirlenmelerde 112 Acil Yardım Merkezi'ne bildirilmesi gereken en önemli bilgilerdendir?",
     "image_url": null,
@@ -1225,7 +1225,7 @@
     "description": "Her kimyasal maddenin panzehiri ve müdahale yöntemi farklıdır. 112 görevlilerine ve hastaneye, olaya neden olan kimyasalın ne olduğu (mümkünse ambalajıyla birlikte) bildirilirse, yaralıya en doğru ve en hızlı tıbbi müdahale yapılabilir."
   },
   {
-    "id": 5100,
+    "id": 2650,
     "category": "Motor ve Araç Tekniği",
     "question": "Araçların periyodik muayenelerinin yapılmasının temel amacı aşağıdakilerden hangisidir?",
     "image_url": null,
