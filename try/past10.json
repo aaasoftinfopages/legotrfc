@@ -102,8 +102,8 @@
   {
     "id": 2605,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik levhası ne anlama gelmektedir? [Görsel: Mavi kare zemin üzerinde, beyaz bir araba figürü ve altında 'P' harfi, yani Kapalı Otopark levhası]",
-    "image_url": null,
+    "question": "Şekildeki trafik levhası ne anlama gelmektedir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kapaliotopark.png",
     "options": [
       {
         "text": "Park etmek yasaktır.",
@@ -352,8 +352,8 @@
   {
     "id": 2615,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik işareti ne anlama gelir? [Görsel: Mavi daire içinde, kar zinciri takılmış bir lastik figürü]",
-    "image_url": null,
+    "question": "Şekildeki trafik işareti ne anlama gelir?",
+    "image_url":"https://aaasoftinfopages.github.io/legotrfc/page/questions/zincir.png",
     "options": [
       {
         "text": "Kar lastiği kullanmanın zorunlu olduğunu",
@@ -475,30 +475,30 @@
     "description": "Yangın gibi acil durumlarda itfaiye araçlarının su almasını engellememek için, yangın musluklarının her iki yönünde 5 metrelik bir mesafe boyunca duraklamak ve park etmek kesinlikle yasaktır."
   },
   {
-    "id": 2620,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki yol bölümünde görülen trafik levhası, sürücülere neyi bildirir? [Görsel: Yolun sağ tarafında, tehlikeli madde taşıyan araçların park ettiğini gösteren bir levha]",
-    "image_url": null,
-    "options": [
-      {
-        "text": "İleride tehlikeli madde taşıyan araçların park alanı olduğunu.",
-        "isTrue": true
-      },
-      {
-        "text": "Tehlikeli madde taşıyan araçların bu yola giremeyeceğini.",
-        "isTrue": false
-      },
-      {
-        "text": "Tehlikeli madde taşıyan araçların duraklama yapmasının yasak olduğunu.",
-        "isTrue": false
-      },
-      {
-        "text": "İleride bir akaryakıt istasyonu olduğunu.",
-        "isTrue": false
-      }
-    ],
-    "description": "Bu bilgi işareti, tehlikeli madde taşıyan araçların güvenli bir şekilde park etmeleri için ayrılmış özel bir park alanı bulunduğunu belirtir. Diğer araçların bu alana park etmesi genellikle yasaktır."
-  },
+  "id": 2620,
+  "category": "Trafik ve Çevre",
+  "question": "Şekle göre aşağıdakilerden hangisi kesinlikle söylenir?",
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kavsakkaza.png",
+  "options": [
+    {
+      "text": "2 numaralı aracın yanlış şeritte seyrettiği",
+      "isTrue": false
+    },
+    {
+      "text": "2 numaralı aracın takip mesafesine uymadığı",
+      "isTrue": false
+    },
+    {
+      "text": "1 numaralı aracın dönüş işaretini yanlış kullandığı",
+      "isTrue": false
+    },
+    {
+      "text": "1 numaralı aracın doğru geçmekte olan 2 numaralı araca yol vermediği",
+      "isTrue": true
+    }
+  ],
+  "description": "Görselde 1 numaralı aracın bulunduğu yolda 'Dur' levhası bulunmaktadır. Bu levha, 1 numaralı aracın tali yolda olduğunu ve anayoldan geçen araçlara yol vermesi gerektiğini belirtir. 2 numaralı araç anayolda seyrettiği için geçiş üstünlüğüne sahiptir. Kaza, 1 numaralı aracın bu kurala uymayıp geçiş hakkı olan 2 numaralı araca yol vermemesi nedeniyle meydana gelmiştir."
+},
   {
     "id": 2621,
     "category": "Trafik ve Çevre",
@@ -600,30 +600,30 @@
     "description": "Risk telafisi, bir güvenlik önleminin varlığı nedeniyle kişilerin kendilerini daha güvende hissederek, aldıkları risk seviyesini artırma eğilimidir. 'Nasıl olsa hava yastığı var' diyerek daha hızlı gitmek, bu duruma tipik bir örnektir."
   },
   {
-    "id": 2625,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik levhası ne anlama gelir? [Görsel: Kırmızı daire içinde, bir otomobil ve bir motosikletin yan yana olduğu bir figür]",
-    "image_url": null,
-    "options": [
-      {
-        "text": "Motorlu taşıt trafiğine kapalı yol",
-        "isTrue": false
-      },
-      {
-        "text": "Motosiklet hariç motorlu taşıt trafiğine kapalı yol",
-        "isTrue": true
-      },
-      {
-        "text": "Sadece otomobil ve motosikletlerin girebileceği yol",
-        "isTrue": false
-      },
-      {
-        "text": "Öndeki taşıtı geçmek yasaktır",
-        "isTrue": false
-      }
-    ],
-    "description": "Bu levha, yolun motosikletler dışındaki tüm motorlu taşıtların (otomobil, kamyon, otobüs vb.) girişine kapalı olduğunu belirtir. Yani bu yola sadece motosikletler, motorsuz taşıtlar ve yayalar girebilir."
-  },
+  "id": 2625,
+  "category": "Araç Tekniği",
+  "question": "Şekildeki araç güç aktarma organlarının adları hangi seçenekte doğru olarak verilmiştir?",
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/37-300x120.png",
+  "options": [
+    {
+      "text": "I. Şaft - II. Diferansiyel - III. Aks",
+      "isTrue": true
+    },
+    {
+      "text": "I. Şaft - II. Aks - III. Diferansiyel",
+      "isTrue": false
+    },
+    {
+      "text": "I. Aks - II. Diferansiyel - III. Şaft",
+      "isTrue": false
+    },
+    {
+      "text": "I. Diferansiyel - II. Aks - III. Şaft",
+      "isTrue": false
+    }
+  ],
+  "description": "Güç aktarma organları, motor gücünü tekerleklere iletir. Görseldeki sıralama şöyledir: I numaralı parça 'Şaft' (kardan mili), gücü şanzımandan diferansiyele aktarır. II numaralı parça 'Diferansiyel', gücü tekerleklere dağıtır ve virajlarda dönüşü kolaylaştırır. III numaralı parça ise 'Aks', gücü diferansiyelden alıp tekerleklere ileten mildir."
+}
   {
     "id": 2626,
     "category": "Motor ve Araç Tekniği",
@@ -702,23 +702,23 @@
   {
     "id": 2629,
     "category": "Motor ve Araç Tekniği",
-    "question": "Aşağıdaki ikaz ışıklarından hangisi, 'el freninin çekili olduğunu' veya 'fren hidrolik seviyesinin kritik düzeyde düştüğünü' bildirir? [Görsel şıklar olarak verilecek]",
+    "question": "Aşağıdaki ikaz ışıklarından hangisi, 'el freninin çekili olduğunu' veya 'fren hidrolik seviyesinin kritik düzeyde düştüğünü' bildirir?",
     "image_url": null,
     "options": [
       {
-        "text": "[Görsel: ABS ikaz ışığı]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.jpg",
         "isTrue": false
       },
       {
-        "text": "[Görsel: Daire içinde 'P' harfi veya daire içinde ünlem işareti olan kırmızı renkli ikaz ışığı]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.jpg",
         "isTrue": true
       },
       {
-        "text": "[Görsel: Motor arıza (check engine) ikaz ışığı]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.jpg",
         "isTrue": false
       },
       {
-        "text": "[Görsel: Lastik basınç (TPMS) ikaz ışığı]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.jpg",
         "isTrue": false
       }
     ],
