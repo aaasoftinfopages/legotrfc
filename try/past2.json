@@ -383,9 +383,10 @@
     "image_url": null,
     "options": [
       { "text": "Görsel: Aracın egzoz sistemi", "isTrue": false },
-      { "text": "Aracın motor bölmesinde, genellikle kenarda duran kutu şeklinde bir parça", "isTrue": true },
+     
       { "text": "Görsel: Aracın bagajında, stepnenin yanında", "isTrue": false },
-      { "text": "Aracın direksiyon simidi", "isTrue": false }
+      { "text": "Aracın direksiyon simidi", "isTrue": false },
+       { "text": "Aracın motor bölmesinde, genellikle kenarda duran kutu şeklinde bir parça", "isTrue": true }
     ],
     "description": "Akü (akümülatör), aracın elektrik ihtiyacını karşılayan güç kaynağıdır ve genellikle motor kaputunun altında, kolay ulaşılabilecek bir yerde konumlandırılmıştır. Bazı modern araçlarda bagajda veya koltuk altında da olabilir, ancak standart konumu motor bölmesidir."
   },
@@ -513,9 +514,10 @@
     "image_url": null,
     "options": [
       { "text": "Araç daha hızlı gider.", "isTrue": false },
-      { "text": "El freni tutmaz.", "isTrue": true },
+      
       { "text": "Fren pedalına basıldığında frenler tutmaz.", "isTrue": false },
-      { "text": "Araç sürekli fren yapar.", "isTrue": false }
+      { "text": "Araç sürekli fren yapar.", "isTrue": false },
+      { "text": "El freni tutmaz.", "isTrue": true }
     ],
     "description": "El freni, mekanik bir sistemdir ve bir tel (halat) aracılığıyla arka tekerlekleri kilitler. Bu tel koparsa, el freni kolu çekilse bile tekerleklere herhangi bir frenleme kuvveti iletilemez."
   },
@@ -525,8 +527,9 @@
     "question": "Alkollü olarak araç kullandığı birinci defa tespit edilen sürücünün sürücü belgesi ne kadar süreyle geri alınır?",
     "image_url": null,
     "options": [
-      { "text": "3 ay", "isTrue": false },
       { "text": "6 ay", "isTrue": true },
+      { "text": "3 ay", "isTrue": false },
+      
       { "text": "1 yıl", "isTrue": false },
       { "text": "2 yıl", "isTrue": false }
     ],
@@ -539,8 +542,9 @@
     "image_url": null,
     "options": [
       { "text": "Empati", "isTrue": false },
-      { "text": "Rekabetçilik ve Saldırganlık", "isTrue": true },
+      
       { "text": "Hoşgörü", "isTrue": false },
+      { "text": "Rekabetçilik ve Saldırganlık", "isTrue": true },
       { "text": "Yardımseverlik", "isTrue": false }
     ],
     "description": "Trafik, bir iş birliği ve uyum ortamı olmalıdır. Sürekli rekabet ve yarışma isteği, hem kişinin kendisi hem de diğer sürücüler için tehlikeli durumlar yaratan, olgunlaşmamış ve saldırgan bir sürüş tarzıdır."
@@ -564,8 +568,9 @@
     "question": "Debriyaj sisteminin görevi nedir?",
     "image_url": null,
     "options": [
-      { "text": "Aracı durdurmak.", "isTrue": false },
       { "text": "Motorun hareketini tekerleklere iletmek veya kesmek.", "isTrue": true },
+      { "text": "Aracı durdurmak.", "isTrue": false },
+      
       { "text": "Aracın yönünü değiştirmek.", "isTrue": false },
       { "text": "Motoru soğutmak.", "isTrue": false }
     ],
@@ -578,9 +583,9 @@
     "image_url": null,
     "options": [
       { "text": "Geri gidilebilir", "isTrue": false },
-      { "text": "Sola dönülebilir", "isTrue": true },
       { "text": "Araç park edilebilir", "isTrue": false },
-      { "text": "Hiçbir manevra yapılamaz", "isTrue": false }
+      { "text": "Hiçbir manevra yapılamaz", "isTrue": false },
+      { "text": "Sola dönülebilir", "isTrue": true }
     ],
     "description": "Bu levha, sadece 'U' şeklinde tam bir geri dönüşü yasaklar. Sürücünün, yolun durumuna göre uygun bir kavşaktan veya yoldan sola dönmesinde bir engel yoktur."
   },
@@ -604,9 +609,9 @@
     "image_url": null,
     "options": [
       { "text": "Motorun yağ yakması", "isTrue": false },
-      { "text": "Yakıt-hava karışımının zengin (yakıtın fazla) olması", "isTrue": true },
       { "text": "Soğutma suyunun eksilmesi", "isTrue": false },
-      { "text": "Akü'nün zayıf olması", "isTrue": false }
+      { "text": "Akü'nün zayıf olması", "isTrue": false },
+      { "text": "Yakıt-hava karışımının zengin (yakıtın fazla) olması", "isTrue": true }
     ],
     "description": "Siyah duman, yakıtın tam olarak yanamadığının bir işaretidir. Bu durum genellikle hava filtresinin tıkalı olması veya yakıt enjeksiyon sistemindeki bir arıza nedeniyle silindirlere gerekenden fazla yakıt gönderilmesiyle oluşur."
   },
@@ -642,8 +647,8 @@
     "question": "Aşağıdakilerden hangisi, aracın süspansiyon sisteminin bir parçasıdır ve yoldan gelen darbeleri sönümleyerek konforlu bir sürüş sağlar?",
     "image_url": null,
     "options": [
-      { "text": "Fren diski", "isTrue": false },
       { "text": "Amortisör ve helezon yayı", "isTrue": true },
+      { "text": "Fren diski", "isTrue": false },
       { "text": "Egzoz susturucusu", "isTrue": false },
       { "text": "Şanzıman (Vites kutusu)", "isTrue": false }
     ],
