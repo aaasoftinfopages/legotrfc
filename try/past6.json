@@ -454,7 +454,7 @@
       { "text": "Dingil ağırlığı", "isTrue": false },
       { "text": "Hız sınırlaması", "isTrue": false },
       { "text": "Gabari", "isTrue": true }
-      
+      ],
     "description": "Gabari, bir aracın karayolundaki köprü, tünel gibi yapıların altından veya yanından güvenle geçebilmesi için belirlenmiş azami genişlik, yükseklik ve uzunluk ölçüleridir."
   },
   {
