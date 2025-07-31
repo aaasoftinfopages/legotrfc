@@ -209,13 +209,14 @@
         "text": "Frenlerin daha iyi tutmasına",
         "isTrue": false
       },
-      {
-        "text": "Yakıt tüketiminde artış, motor gücünde düşüş ve egzozdan patlama sesleri (vuruntu) gelmesine",
-        "isTrue": true
-      },
+      
       {
         "text": "Lastiklerin düzensiz aşınmasına",
         "isTrue": false
+      },
+      {
+        "text": "Yakıt tüketiminde artış, motor gücünde düşüş ve egzozdan patlama sesleri (vuruntu) gelmesine",
+        "isTrue": true
       },
       {
         "text": "Direksiyonun sertleşmesine",
@@ -306,13 +307,13 @@
     "image_url": null,
     "options": [
       {
+        "text": "Supapların zamanlaması bozulur, pistonlar açık kalan supaplara çarparak motorun çok büyük hasar görmesine neden olur.",
+        "isTrue": true
+      },{
         "text": "Araç hararet yapar.",
         "isTrue": false
       },
-      {
-        "text": "Supapların zamanlaması bozulur, pistonlar açık kalan supaplara çarparak motorun çok büyük hasar görmesine neden olur.",
-        "isTrue": true
-      },
+      
       {
         "text": "Akü şarj olmaz.",
         "isTrue": false
@@ -359,10 +360,7 @@
         "text": "Kar lastiği kullanmanın zorunlu olduğunu",
         "isTrue": false
       },
-      {
-        "text": "Zincir takmanın zorunlu olduğunu",
-        "isTrue": true
-      },
+     
       {
         "text": "Zincir takmanın yasak olduğunu",
         "isTrue": false
@@ -370,6 +368,9 @@
       {
         "text": "İleride lastik tamircisi olduğunu",
         "isTrue": false
+      }, {
+        "text": "Zincir takmanın zorunlu olduğunu",
+        "isTrue": true
       }
     ],
     "description": "Mavi zeminli bu mecburiyet işareti, yolun o kesiminde kar ve buzlanma nedeniyle, araçların çekiş yapan tekerleklerine zincir takılmasının zorunlu olduğunu belirtir. Bu levhanın olduğu yerde zincirsiz ilerlemek yasaktır."
@@ -381,13 +382,13 @@
     "image_url": null,
     "options": [
       {
+        "text": "Araç düz bir zemindeyken, motor durdurulduktan sonra 4-5 dakika beklenerek yağın kartere süzülmesi sağlandıktan sonra.",
+        "isTrue": true
+      },{
         "text": "Motor çalışırken ve sıcakken.",
         "isTrue": false
       },
-      {
-        "text": "Araç düz bir zemindeyken, motor durdurulduktan sonra 4-5 dakika beklenerek yağın kartere süzülmesi sağlandıktan sonra.",
-        "isTrue": true
-      },
+      
       {
         "text": "Araç yokuş yukarı park etmişken.",
         "isTrue": false
@@ -409,10 +410,7 @@
         "text": "Öfke kontrolü",
         "isTrue": false
       },
-      {
-        "text": "Yardımlaşma ve Sorumluluk",
-        "isTrue": true
-      },
+      
       {
         "text": "Bencillik",
         "isTrue": false
@@ -420,6 +418,10 @@
       {
         "text": "Sabırsızlık",
         "isTrue": false
+      },
+      {
+        "text": "Yardımlaşma ve Sorumluluk",
+        "isTrue": true
       }
     ],
     "description": "Trafikte savunmasız durumda olan yol kullanıcılarına (yaşlılar, çocuklar, engelliler) yardımcı olmak, sadece bir nezaket değil, aynı zamanda toplumsal bir sorumluluk ve yardımlaşma bilincinin en güzel örneklerinden biridir."
@@ -434,10 +436,7 @@
         "text": "Uygulama yapılan kişinin alnına 'T' harfi veya turnike uygulandığı saat yazılır.",
         "isTrue": false
       },
-      {
-        "text": "Turnike, ip veya tel gibi kesici malzemelerle de yapılabilir.",
-        "isTrue": true
-      },
+      
       {
         "text": "Turnike, kanamayı durduruncaya kadar sıkılır ve her 15-20 dakikada bir 5-10 saniye gevşetilir.",
         "isTrue": false
@@ -445,6 +444,9 @@
       {
         "text": "Turnike, sadece uzuv kopması gibi çok acil durumlarda ve tek kemikli bölgelere uygulanır.",
         "isTrue": false
+      },{
+        "text": "Turnike, ip veya tel gibi kesici malzemelerle de yapılabilir.",
+        "isTrue": true
       }
     ],
     "description": "Turnike, dokulara ve sinirlere zarar verebileceği için geniş (en az 8-10 cm) bir malzemeyle (kravat, bez parçası vb.) uygulanmalıdır. İp, tel gibi kesici malzemeler, alttaki dokuları keserek daha büyük hasara yol açacağı için kesinlikle kullanılmamalıdır."
@@ -459,10 +461,7 @@
         "text": "Durakların 15 metrelik mesafesi dışında",
         "isTrue": false
       },
-      {
-        "text": "Yangın musluklarına her iki yönden 5 metrelik mesafe içinde",
-        "isTrue": true
-      },
+      
       {
         "text": "Park için ayrılmış alanlarda",
         "isTrue": false
@@ -470,6 +469,10 @@
       {
         "text": "Yolun sağ şeridinde, banket üzerinde",
         "isTrue": false
+      },
+      {
+        "text": "Yangın musluklarına her iki yönden 5 metrelik mesafe içinde",
+        "isTrue": true
       }
     ],
     "description": "Yangın gibi acil durumlarda itfaiye araçlarının su almasını engellememek için, yangın musluklarının her iki yönünde 5 metrelik bir mesafe boyunca duraklamak ve park etmek kesinlikle yasaktır."
@@ -531,12 +534,11 @@
     "image_url": null,
     "options": [
       {
-        "text": "Volan",
-        "isTrue": false
-      },
-      {
         "text": "Debriyaj bilyesi (rulmanı)",
         "isTrue": true
+      },{
+        "text": "Volan",
+        "isTrue": false
       },
       {
         "text": "Prizdirekt mili",
@@ -759,10 +761,7 @@
         "text": "Hemen Heimlich manevrası uygulanır.",
         "isTrue": false
       },
-      {
-        "text": "Kişiye dokunulmaz, sırtına vurulmaz ve öksürmeye teşvik edilir.",
-        "isTrue": true
-      },
+      
       {
         "text": "Ağzına parmak sokularak cisim çıkarılmaya çalışılır.",
         "isTrue": false
@@ -770,35 +769,37 @@
       {
         "text": "Kişiye bol su içirilir.",
         "isTrue": false
+      },{
+        "text": "Kişiye dokunulmaz, sırtına vurulmaz ve öksürmeye teşvik edilir.",
+        "isTrue": true
       }
     ],
     "description": "Kısmi tıkanmada, kişinin kendi güçlü öksürük refleksi, yabancı cismi çıkarmak için en etkili ve en güvenli yöntemdir. Bu durumda sırtına vurmak veya başka bir müdahalede bulunmak, cismin yerini değiştirerek tam tıkanmaya yol açabilir. Bu nedenle sadece gözlem yapılır ve öksürmesi istenir."
   },
   {
-    "id": 2632,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki yol üzerine çizilmiş zikzak şeklindeki sarı çizgiler ne anlama gelir? [Görsel: Yol kenarına veya ortasına çizilmiş sarı zikzak çizgiler]",
-    "image_url": null,
-    "options": [
-      {
-        "text": "Yolun o kesiminin kaygan olduğunu.",
-        "isTrue": false
-      },
-      {
-        "text": "Park etmenin yasak olduğunu, ancak kısa süreli duraklamanın serbest olduğunu.",
-        "isTrue": false
-      },
-      {
-        "text": "O kesimde duraklamanın ve park etmenin kesinlikle yasak olduğunu.",
-        "isTrue": true
-      },
-      {
-        "text": "Sadece engelli araçlarının park edebileceğini.",
-        "isTrue": false
-      }
-    ],
-    "description": "Sarı zikzak çizgiler, genellikle okul önleri, hastane girişleri veya yaya geçitleri gibi alanlarda, görüşü engelleyebilecek veya trafiği tehlikeye atabilecek duraklama ve park etme eylemlerini kesin olarak yasaklamak için kullanılır."
-  },
+  "id": 2632,
+  "category": "Trafik ve Çevre",
+  "question": "Kontrolsüz bir kavşakta karşılaşan iş makinesi ile otomobilin geçiş hakkı sıralaması nasıl olmalıdır?",
+  "image_url": null,
+  "options": [
+    {
+      "text": "İş makinesi önce, otomobil sonra geçmelidir.",
+      "isTrue": false
+    },
+    {
+      "text": "Dönüş yapan araç önceliklidir.",
+      "isTrue": false
+    },
+    {
+      "text": "Hızı az olan araç önce geçmelidir.",
+      "isTrue": false
+    },{
+      "text": "Otomobil önce, iş makinesi sonra geçmelidir.",
+      "isTrue": true
+    }
+  ],
+  "description": "Karayolları Trafik Yönetmeliği'ne göre, kontrolsüz kavşaklarda iş makineleri ve lastik tekerlekli traktörler, diğer motorlu araçlara yol vermek zorundadır. Bu nedenle, bu tür bir karşılaşmada geçiş hakkı öncelikle otomobilindir."
+},
   {
     "id": 2633,
     "category": "Motor ve Araç Tekniği",
@@ -835,16 +836,15 @@
         "isTrue": false
       },
       {
-        "text": "Koma (yarı yüzükoyun-yan) pozisyonu",
-        "isTrue": true
-      },
-      {
         "text": "Sırtüstü yatış pozisyonu",
         "isTrue": false
       },
       {
         "text": "Yarı oturur pozisyon",
         "isTrue": false
+      },{
+        "text": "Koma (yarı yüzükoyun-yan) pozisyonu",
+        "isTrue": true
       }
     ],
     "description": "Bilinç seviyeleri farklılık gösterebilir. Birinci bilinç (sesli uyarana tepki) kapalı, ancak ikinci bilinç (ağrılı uyarana inleme, elini çekme gibi tepkiler) açıksa, bu kişi yine de bilinci kapalı olarak kabul edilir. Solunumu olduğu sürece, solunum yolunu güvence altına almak için koma pozisyonuna alınır."
@@ -934,10 +934,7 @@
         "text": "Burun kanaması",
         "isTrue": false
       },
-      {
-        "text": "Göz çevresinde ve kulak arkasında morarma (Rakun gözleri / Battle belirtisi)",
-        "isTrue": true
-      },
+      
       {
         "text": "Deride kızarıklık",
         "isTrue": false
@@ -945,6 +942,9 @@
       {
         "text": "Mide bulantısı",
         "isTrue": false
+      },{
+        "text": "Göz çevresinde ve kulak arkasında morarma (Rakun gözleri / Battle belirtisi)",
+        "isTrue": true
       }
     ],
     "description": "Kafatası tabanında meydana gelen kırıklar sonucu, kanın göz çevresindeki yumuşak dokulara sızmasıyla 'Rakun Gözleri' adı verilen halka şeklinde morluklar oluşur. Benzer şekilde, kulak arkasındaki kemikte (mastoid) oluşan morluğa da 'Battle Belirtisi' denir. Bunlar çok ciddi bir kafa travmasının işaretleridir."
@@ -952,8 +952,8 @@
   {
     "id": 2639,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik levhası, hangi araçların bu yola girmesini kısıtlar? [Görsel: Kırmızı daire içinde, yüksekliği 3.50m'den fazla olan araçların giremeyeceğini gösteren gabari levhası]",
-    "image_url": null,
+    "question": "Şekildeki trafik levhası, hangi araçların bu yola girmesini kısıtlar?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/gabari_yuksek.png",
     "options": [
       {
         "text": "Genişliği 3.50 metreden fazla olan araçların",
@@ -981,13 +981,13 @@
     "image_url": null,
     "options": [
       {
+        "text": "Diferansiyel",
+        "isTrue": true
+      },{
         "text": "Vites kutusu",
         "isTrue": false
       },
-      {
-        "text": "Diferansiyel",
-        "isTrue": true
-      },
+      
       {
         "text": "Şaft",
         "isTrue": false
@@ -1002,23 +1002,23 @@
   {
     "id": 2641,
     "category": "Trafik ve Çevre",
-    "question": "Aşağıdaki yol çizgilerinden hangisi, sadece yavaşlamak veya hızlanmak amacıyla kullanılan şeritleri belirtir? [Görsel şıklar olarak verilecek]",
+    "question": "Aşağıdaki yol çizgilerinden hangisi, sadece yavaşlamak veya hızlanmak amacıyla kullanılan şeritleri belirtir?",
     "image_url": null,
     "options": [
       {
-        "text": "[Görsel: Yan yana iki devamlı çizgi]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/iki_devamli_cizgi.png",
         "isTrue": false
       },
       {
-        "text": "[Görsel: Geniş ve aralıklı kesik çizgiler (Hızlanma/Yavaşlama şeridi çizgileri)]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/yavaslama_cizgileri.png",
         "isTrue": true
       },
       {
-        "text": "[Görsel: Normal aralıklı kesik çizgiler]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kesikli_cizgi.png",
         "isTrue": false
       },
       {
-        "text": "[Görsel: Devamlı ve kesik çizginin yan yana olduğu çizgi]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kesikli_devamli_cizgi.png",
         "isTrue": false
       }
     ],
@@ -1031,13 +1031,13 @@
     "image_url": null,
     "options": [
       {
+        "text": "Göğüs kafesinin hareketine bakılır, solunum sesi dinlenir, yanaktan çıkan nefes hissedilir.",
+        "isTrue": true
+      },{
         "text": "Yaralının gözlerine bakılır, kalp atışları dinlenir, nabzı hissedilir.",
         "isTrue": false
       },
-      {
-        "text": "Göğüs kafesinin hareketine bakılır, solunum sesi dinlenir, yanaktan çıkan nefes hissedilir.",
-        "isTrue": true
-      },
+      
       {
         "text": "Vücut sıcaklığına bakılır, iç organ sesleri dinlenir, terlemesi hissedilir.",
         "isTrue": false
@@ -1059,10 +1059,7 @@
         "text": "Yakıt filtresi",
         "isTrue": false
       },
-      {
-        "text": "Yakıt pompası (Mazot/Benzin otomatiği)",
-        "isTrue": true
-      },
+      
       {
         "text": "Karbüratör",
         "isTrue": false
@@ -1070,6 +1067,9 @@
       {
         "text": "Enjektör",
         "isTrue": false
+      },{
+        "text": "Yakıt pompası (Mazot/Benzin otomatiği)",
+        "isTrue": true
       }
     ],
     "description": "Yakıt pompası, genellikle yakıt deposunun içinde veya yakınında bulunur ve depodaki yakıtı belirli bir basınçla çekerek, filtrelerden geçirip enjektörlere veya karbüratöre gönderir. Bu pompa çalışmazsa, motor yakıt alamaz ve çalışmaz."
@@ -1109,13 +1109,14 @@
         "text": "Kırmızı ışıkta geçmek",
         "isTrue": false
       },
-      {
-        "text": "Karşı yönden gelen trafiğin kullandığı şeride veya yol bölümüne girmek",
-        "isTrue": true
-      },
+      
       {
         "text": "Geçme yasağı olan yerde sollama yapmak",
         "isTrue": false
+      },
+      {
+        "text": "Karşı yönden gelen trafiğin kullandığı şeride veya yol bölümüne girmek",
+        "isTrue": true
       },
       {
         "text": "Park etmiş araçlara çarpmak",
@@ -1177,8 +1178,8 @@
   {
     "id": 2648,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik görevlisinin her iki kolunu da aşağıya indirmesi veya vücuduna paralel hale getirmesi ne anlama gelir? [Görsel: Trafik polisinin kollarını yanlarına indirerek 'hazır ol' pozisyonunda durması]",
-    "image_url": null,
+    "question": "Şekildeki polis hareketi neyi ifade eder",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecedur.png",
     "options": [
       {
         "text": "Bütün yönlerdeki trafiğe 'Geç' komutu",
@@ -1186,18 +1187,18 @@
       },
       {
         "text": "Bir sonraki harekete hazırlanmak için 'Dur' komutu",
+        "isTrue": false
+      },
+      {
+        "text": "Gece geç işareti",
+        "isTrue": false
+      },
+      {
+        "text": "Gece dur işareti",
         "isTrue": true
-      },
-      {
-        "text": "Sadece sağa dönecek araçların geçebileceğini",
-        "isTrue": false
-      },
-      {
-        "text": "Trafiği yavaşlatma işareti",
-        "isTrue": false
       }
     ],
-    "description": "Trafik görevlisi, bir işareti bitirip diğerine geçmeden önce, kollarını vücudunun yanına indirerek 'hazır ol' durumuna geçer. Bu pozisyon, mevcut hareketin bittiğini ve yeni bir komut verileceğini belirtir ve esasen bir 'Dur' komutudur."
+    "description": "Bu işaret gece geç işaretidir"
   },
   {
     "id": 2649,
@@ -1209,10 +1210,7 @@
         "text": "Yaralının yaşı ve cinsiyeti",
         "isTrue": false
       },
-      {
-        "text": "Etkilenmeye neden olan kimyasal maddenin tam adı",
-        "isTrue": true
-      },
+      
       {
         "text": "Olayın olduğu yerdeki hava durumu",
         "isTrue": false
@@ -1220,6 +1218,9 @@
       {
         "text": "Yaralının sigortasının olup olmadığı",
         "isTrue": false
+      },{
+        "text": "Etkilenmeye neden olan kimyasal maddenin tam adı",
+        "isTrue": true
       }
     ],
     "description": "Her kimyasal maddenin panzehiri ve müdahale yöntemi farklıdır. 112 görevlilerine ve hastaneye, olaya neden olan kimyasalın ne olduğu (mümkünse ambalajıyla birlikte) bildirilirse, yaralıya en doğru ve en hızlı tıbbi müdahale yapılabilir."
