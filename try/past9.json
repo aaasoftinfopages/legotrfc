@@ -1,6 +1,6 @@
 [
   {
-    "id": 5001,
+    "id": 2551,
     "category": "Trafik ve Çevre",
     "question": "Bir aracın arkasına, fren sistemi olmayan bir römork (örneğin 750 kg altı) takıldığında, yasal olarak uyulması gereken takip mesafesi kuralı nasıl değişir?",
     "image_url": null,
@@ -25,7 +25,7 @@
     "description": "Karayolları Trafik Yönetmeliği'ne göre, freni olmayan bir römorku çeken araçlar için özel bir takip mesafesi kuralı belirtilmemiştir. Bu nedenle, standart 'hızın yarısı kadar metre' kuralı geçerliliğini korur. Sürücünün artan durma mesafesini hesaba katarak bu mesafeyi kendiliğinden artırması beklenir."
   },
   {
-    "id": 5002,
+    "id": 2552,
     "category": "İlk Yardım",
     "question": "Kopmuş bir uzuv (parmak, el, kol vb.) bulunursa, bu parçanın hastaneye nakli için en doğru yöntem hangisidir?",
     "image_url": null,
@@ -34,13 +34,13 @@
         "text": "Doğrudan buzun içine konularak.",
         "isTrue": false
       },
-      {
-        "text": "Temiz, nemli bir beze sarılır, su geçirmez bir torbaya konulur ve bu torba, içinde buz ve su bulunan ikinci bir torbaya yerleştirilir.",
-        "isTrue": true
-      },
+      
       {
         "text": "Alkol veya kolonya ile dezenfekte edilip kuru bir beze sarılarak.",
         "isTrue": false
+      },{
+        "text": "Temiz, nemli bir beze sarılır, su geçirmez bir torbaya konulur ve bu torba, içinde buz ve su bulunan ikinci bir torbaya yerleştirilir.",
+        "isTrue": true
       },
       {
         "text": "Sıcak su dolu bir torbanın içine konularak.",
@@ -50,19 +50,19 @@
     "description": "Kopmuş bir uzvun doğrudan buza temas etmesi, donarak doku hasarına uğramasına neden olur. Doğru yöntem, uzvun temiz ve nemli tutulması, su geçirmez bir torbaya konulması ve bu torbanın da soğuk ortamı sağlayacak (ancak dondurmayacak) buzlu su dolu başka bir torbaya yerleştirilmesidir."
   },
   {
-    "id": 5003,
+    "id": 2553,
     "category": "Motor ve Araç Tekniği",
     "question": "Modern benzinli motorlarda, egzoz gazındaki oksijen miktarını ölçerek bu bilgiyi Motor Kontrol Ünitesine (ECU) gönderen ve yakıt-hava karışımının ideal oranda (14.7/1) ayarlanmasını sağlayan sensörün adı nedir?",
     "image_url": null,
     "options": [
       {
+        "text": "Oksijen (Lambda) sensörü",
+        "isTrue": true
+      },{
         "text": "Vuruntu (knock) sensörü",
         "isTrue": false
       },
-      {
-        "text": "Oksijen (Lambda) sensörü",
-        "isTrue": true
-      },
+      
       {
         "text": "Hava akışmetre (MAF sensörü)",
         "isTrue": false
@@ -75,7 +75,7 @@
     "description": "Oksijen veya Lambda sensörü, egzoz sisteminin üzerinde bulunur. Yanma sonrası egzozda kalan oksijen miktarını ölçer. Eğer oksijen fazlaysa karışımın fakir, azsa zengin olduğunu anlayan ECU, enjektörlerin püskürtme süresini anlık olarak ayarlayarak ideal karışımı sağlar."
   },
   {
-    "id": 5004,
+    "id": 2554,
     "category": "Trafik Adabı",
     "question": "Bir sürücünün, trafikteki diğer insanların haklarını sürekli olarak ihlal etme eğiliminde olması (hatalı sollama, emniyet şeridi ihlali vb.), bu davranışların sonuçlarını düşünmemesi, hangi kavramla en iyi açıklanır?",
     "image_url": null,
@@ -100,19 +100,19 @@
     "description": "Sorumluluk, bir kişinin kendi eylemlerinin sonuçlarını üstlenmesi ve başkalarına zarar vermekten kaçınmasıdır. Sürekli hak ihlali yapmak, bu temel sorumluluk duygusunun gelişmediğini veya hiçe sayıldığını gösterir."
   },
   {
-    "id": 5005,
+    "id": 2555,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik işaretinin anlamı nedir? [Görsel: Kırmızı daire içinde, aks dingil ağırlığı 6t yazan bir kamyon figürü]",
-    "image_url": null,
+    "question": "Şekildeki trafik işaretinin anlamı nedir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/dingil.png",
     "options": [
-      {
-        "text": "Yüklü ağırlığı 6 tonu geçen taşıtların giremeyeceği",
-        "isTrue": false
-      },
       {
         "text": "Tek dingil başına düşen yük miktarı 6 tonu geçen taşıtların giremeyeceği",
         "isTrue": true
+      },{
+        "text": "Yüklü ağırlığı 6 tonu geçen taşıtların giremeyeceği",
+        "isTrue": false
       },
+      
       {
         "text": "Genişliği 6 metreyi geçen taşıtların giremeyeceği",
         "isTrue": false
@@ -125,7 +125,7 @@
     "description": "Bu levha, yüklü ağırlık levhasından farklıdır. Sadece 'dingil' sembolü içerir ve tek bir dingil (iki tekerleğin bağlı olduğu aks) üzerine binen yükün belirtilen limiti (6 ton) geçemeyeceğini belirtir. Genellikle köprü ve viyadük girişlerinde bulunur."
   },
   {
-    "id": 5006,
+    "id": 2556,
     "category": "İlk Yardım",
     "question": "Aşağıdaki durumlardan hangisinde, yaralıya kesinlikle su veya başka bir içecek verilmemelidir?",
     "image_url": null,
@@ -150,32 +150,33 @@
     "description": "Karın yaralanmaları, iç kanama ve iç organ hasarı riski taşır. Bu tür yaralıların acil ameliyata alınma olasılığı yüksektir. Ameliyat öncesi mide boş olmalıdır. Bu nedenle, bilinci açık olsa bile bu tür yaralılara ağızdan yiyecek veya içecek vermek kesinlikle yasaktır."
   },
   {
-    "id": 5007,
+    "id":2557,
     "category": "Motor ve Araç Tekniği",
-    "question": "Aşağıdaki ikaz ışıklarından hangisi, aracın dört tekerlekten çekiş (4WD/AWD) sisteminin kilitli (Lock modu) olduğunu veya devrede olduğunu gösterir? [Görsel şıklar olarak verilecek]",
+    "question": "Aşağıdaki ikaz ışıklarından hangisi, aracın dört tekerlekten çekiş (4WD/AWD) sisteminin kilitli (Lock modu) olduğunu veya devrede olduğunu gösterir?",
     "image_url": null,
     "options": [
       {
-        "text": "[Görsel: ESP/ASR ikaz ışığı]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.jpg",
+        "isTrue": false
+      },
+     
+      {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.jpg",
         "isTrue": false
       },
       {
-        "text": "[Görsel: Dört tekerleği ve aralarındaki bağlantıyı gösteren '4WD' veya 'AWD LOCK' yazılı ikaz ışığı]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.jpg",
+        "isTrue": false
+      },
+       {
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/AWD4lock.jpg",
         "isTrue": true
-      },
-      {
-        "text": "[Görsel: Diferansiyel kilidi ikaz ışığı]",
-        "isTrue": false
-      },
-      {
-        "text": "[Görsel: Motor arıza (check engine) ikaz ışığı]",
-        "isTrue": false
       }
     ],
     "description": "Bu özel ikaz ışığı, genellikle SUV veya arazi araçlarında bulunur. Dört çeker sisteminin, gücü ön ve arka akslar arasında eşit olarak dağıtacak şekilde kilitlendiğini ve zorlu arazi koşullarında maksimum çekiş sağladığını belirtir."
   },
   {
-    "id": 5008,
+    "id": 2558,
     "category": "Trafik ve Çevre",
     "question": "Bir aracın yükü, karayoluna değecek, dökülecek veya saçılacak şekilde yüklenmişse, bu durumdaki sürücüye hangi ceza uygulanır?",
     "image_url": null,
@@ -200,7 +201,7 @@
     "description": "Yükün güvenli olmayan bir şekilde taşınması, hem yükün ziyan olmasına hem de daha önemlisi, diğer yol kullanıcıları için ciddi kaza riskleri oluşturmasına neden olur. Bu nedenle yaptırımı ağırdır ve eksiklik giderilene kadar aracın yola devam etmesine izin verilmez."
   },
   {
-    "id": 5009,
+    "id": 2559,
     "category": "İlk Yardım",
     "question": "Birinci derece yanıklarda, etkilenen bölgeye ilk yardım olarak ne uygulanmalıdır?",
     "image_url": null,
@@ -225,7 +226,7 @@
     "description": "Yanıklarda ilk amaç, bölgedeki ısıyı düşürerek doku hasarının derinleşmesini önlemektir. Bunun en etkili yolu, bölgeyi serin (soğuk değil) su altında tutmaktır. Buz, damarları aniden büzerek doku hasarını artırabilir. Diş macunu gibi maddeler ise enfeksiyon riskini artırır."
   },
   {
-    "id": 5010,
+    "id": 2560,
     "category": "Motor ve Araç Tekniği",
     "question": "Bir aracın yolcu bölümü ile motor bölümünü birbirinden ayıran, ısı ve ses yalıtımı sağlayan metal panelin adı nedir?",
     "image_url": null,
@@ -250,7 +251,7 @@
     "description": "Motor bölmesi paneli veya uluslararası adıyla 'Firewall' (Ateş Duvarı), olası bir motor yangınının kabine sıçramasını geciktirmek, motorun gürültüsünü ve ısısını yolcu bölümünden izole etmek gibi çok önemli görevlere sahip bir yapıdır."
   },
   {
-    "id": 5011,
+    "id": 2561,
     "category": "Trafik Adabı",
     "question": "Bir sürücünün, trafikte yaşadığı bir olumsuzluktan (örneğin sıkıştırılma) dolayı oluşan öfkesini, olayla hiç ilgisi olmayan başka bir sürücüden veya yayadan çıkarması, hangi psikolojik savunma mekanizmasına örnektir?",
     "image_url": null,
@@ -275,22 +276,23 @@
     "description": "Yön değiştirme, bir kişiye veya duruma karşı hissedilen güçlü bir duygunun, asıl hedef yerine daha az riskli veya ilgisiz bir hedefe yönlendirilmesidir. Trafikteki bu durum, öfke kontrolü zayıflığının tipik bir örneğidir."
   },
   {
-    "id": 5012,
+    "id": 2562,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik levhası hangi araçların bu yola girmesini yasaklar? [Görsel: Kırmızı daire içinde patlayıcı madde taşıyan bir kamyon figürü]",
-    "image_url": null,
+    "question": "Şekildeki trafik levhası hangi araçların bu yola girmesini yasaklar?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/belirli_ptmt.png",
     "options": [
       {
         "text": "Tüm kamyonların",
         "isTrue": false
       },
-      {
-        "text": "Sadece belirli tehlikeli ve parlayıcı/patlayıcı madde taşıyan araçların",
-        "isTrue": true
-      },
+      
       {
         "text": "Sadece su tankeri gibi sıvı taşıyan araçların",
         "isTrue": false
+      },
+      {
+        "text": "Sadece belirli tehlikeli ve parlayıcı/patlayıcı madde taşıyan araçların",
+        "isTrue": true
       },
       {
         "text": "Sadece askeri araçların",
@@ -300,7 +302,7 @@
     "description": "Bu trafik tanzim işareti, genel tehlikeli madde yasağından daha özeldir ve özellikle patlayıcı veya kolayca parlayabilen maddeleri (benzin, dinamit vb.) taşıyan araçların, güvenlik riski nedeniyle bu yola veya tünele girmesini yasaklar."
   },
   {
-    "id": 5013,
+    "id": 2563,
     "category": "İlk Yardım",
     "question": "Açık bir kırıkta, kanama ile birlikte enfeksiyon riskini de önlemek için ilk yardım nasıl olmalıdır?",
     "image_url": null,
@@ -325,19 +327,19 @@
     "description": "Açık kırıklarda iki büyük tehlike vardır: kanama ve enfeksiyon. İlk yardımcının görevi, kanamayı kontrol altına alırken, yaranın dış ortamla temasını temiz bir bezle keserek enfeksiyon riskini en aza indirmektir. Kemiğe ve yaraya kesinlikle dokunulmamalıdır."
   },
   {
-    "id": 5014,
+    "id": 2564,
     "category": "Motor ve Araç Tekniği",
     "question": "Araçta kullanılan lastiklerin üzerinde bulunan 'DOT **** **** 2523' şeklindeki bir kodda, son dört rakam olan '2523' neyi ifade eder?",
     "image_url": null,
     "options": [
       {
+        "text": "Lastiğin üretildiği yılı ve haftayı (2023'ün 25. haftası)",
+        "isTrue": true
+      },{
         "text": "Lastiğin seri numarasını",
         "isTrue": false
       },
-      {
-        "text": "Lastiğin üretildiği yılı ve haftayı (2023'ün 25. haftası)",
-        "isTrue": true
-      },
+      
       {
         "text": "Lastiğin maksimum hız endeksini",
         "isTrue": false
@@ -350,19 +352,19 @@
     "description": "DOT kodunun sonundaki dört rakam, lastiğin üretim tarihini belirtir. İlk iki rakam üretim haftasını, son iki rakam ise üretim yılını gösterir. Örneğin '2523', bu lastiğin 2023 yılının 25. haftasında üretildiği anlamına gelir. Lastiklerin raf ömrü olduğu için bu bilgi önemlidir."
   },
   {
-    "id": 5015,
+    "id":2565,
     "category": "Trafik ve Çevre",
     "question": "Işıklı bir yaya geçidinde, yayalar için kırmızı ışık yanarken, araçlar için yeşil ışık yanıyorsa ve bir yaya yola adım atmışsa, sürücü ne yapmalıdır?",
     "image_url": null,
     "options": [
       {
+        "text": "Yayanın can güvenliği her zaman öncelikli olduğundan, yavaşlamalı veya durarak yayanın geçişini beklemelidir.",
+        "isTrue": true
+      }, {
         "text": "Yeşil ışık yandığı için geçiş hakkı kendisinde olduğundan yoluna devam etmelidir.",
         "isTrue": false
       },
-      {
-        "text": "Yayanın can güvenliği her zaman öncelikli olduğundan, yavaşlamalı veya durarak yayanın geçişini beklemelidir.",
-        "isTrue": true
-      },
+     
       {
         "text": "Korna çalarak yayanın geri çekilmesini sağlamalıdır.",
         "isTrue": false
@@ -375,7 +377,7 @@
     "description": "Karayolları Trafik Kanunu'na göre, trafik ışıkları veya kurallar ne olursa olsun, yayanın can güvenliği her zaman en üst önceliğe sahiptir. Sürücü, bir yayanın en ufak bir tehlikeye girme ihtimali olduğunda, kendi geçiş hakkından feragat etmek ve durmak zorundadır."
   },
   {
-    "id": 5016,
+    "id": 2566,
     "category": "Trafik Adabı",
     "question": "Bir sürücünün, trafikteki diğer insanları 'rakip' olarak görmesi ve sürekli onlarla bir yarış ve mücadele içinde olması, hangi olumsuz sürüş davranışının temelini oluşturur?",
     "image_url": null,
@@ -384,10 +386,7 @@
         "text": "Hoşgörülü sürüş",
         "isTrue": false
       },
-      {
-        "text": "Rekabetçi ve Saldırgan sürüş",
-        "isTrue": true
-      },
+     
       {
         "text": "Savunmacı sürüş",
         "isTrue": false
@@ -395,12 +394,16 @@
       {
         "text": "Yardımsever sürüş",
         "isTrue": false
+      },
+       {
+        "text": "Rekabetçi ve Saldırgan sürüş",
+        "isTrue": true
       }
     ],
     "description": "Trafik, bir iş birliği ve paylaşım ortamıdır. Diğer sürücüleri geçilmesi gereken rakipler olarak görmek, sürekli makas atma, sıkıştırma gibi tehlikeli ve saldırgan davranışlara yol açar. Bu, trafik adabının tamamen zıttı bir anlayıştır."
   },
   {
-    "id": 5017,
+    "id": 2567,
     "category": "Motor ve Araç Tekniği",
     "question": "Aşağıdakilerden hangisi, 'endüksiyon bobininin' (ateşleme bobini) görevidir?",
     "image_url": null,
@@ -409,10 +412,7 @@
         "text": "Motorun devrini ölçmek",
         "isTrue": false
       },
-      {
-        "text": "Akü'nün 12 voltluk gerilimini, bujilerin kıvılcım çakabilmesi için binlerce volta (20.000-40.000 V) yükseltmek",
-        "isTrue": true
-      },
+      
       {
         "text": "Yakıtı püskürtmek",
         "isTrue": false
@@ -420,12 +420,15 @@
       {
         "text": "Motorun sarsıntısını emmek",
         "isTrue": false
+      },{
+        "text": "Akü'nün 12 voltluk gerilimini, bujilerin kıvılcım çakabilmesi için binlerce volta (20.000-40.000 V) yükseltmek",
+        "isTrue": true
       }
     ],
     "description": "Aküdeki 12 voltluk gerilim, bujinin tırnakları arasında bir kıvılcım oluşturmak için yeterli değildir. Endüksiyon bobini, bir transformatör gibi çalışarak bu düşük voltajı, ateşleme için gerekli olan çok yüksek voltajlara dönüştürür."
   },
   {
-    "id": 5018,
+    "id": 2568,
     "category": "İlk Yardım",
     "question": "Aşağıdaki durumlardan hangisinde, yaralıya 'şok pozisyonu' verilmesi sakıncalıdır?",
     "image_url": null,
@@ -450,7 +453,7 @@
     "description": "Şok pozisyonunda ayaklar yukarı kaldırılarak kanın baş bölgesine toplanması hedeflenir. Ancak kafa travması geçiren bir yaralıda, bu durum kafa içi basıncını daha da artırarak beyin kanaması riskini yükseltebilir. Bu nedenle bu tür yaralılarda şok pozisyonu uygulanmaz."
   },
   {
-    "id": 5019,
+    "id": 2569,
     "category": "Trafik ve Çevre",
     "question": "Işıklı trafik işaret cihazında, kırmızı ışığın altında yanan ve sağa dönüşe izin veren 'yeşil oklu ışık' ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
     "image_url": null,
@@ -475,7 +478,7 @@
     "description": "Sağa dönüşe izin veren yeşil oklu ışık, ana kırmızı ışıkla birlikte yandığında, 'kontrollü geçiş' hakkı tanır. Bu, sürücünün sağa dönebileceği ancak o sırada karşıya geçmekte olan veya diğer yollardan gelen yaya ve araçlara karşı ilk geçiş hakkını vermesi gerektiği anlamına gelir."
   },
   {
-    "id": 5020,
+    "id": 2570,
     "category": "Trafik ve Çevre",
     "question": "Bir aracın belirli bir mesafede gidebileceği azami yük ağırlığına ne ad verilir?",
     "image_url": null,
@@ -500,7 +503,7 @@
     "description": "Taşıma sınırı veya kapasite (istiap haddi), bir aracın güvenle taşıyabileceği en fazla yolcu ve yük miktarını ifade eder. Bu sınırın aşılması, hem araca zarar verir hem de trafik güvenliğini tehlikeye atar."
   },
   {
-    "id": 5021,
+    "id": 2571,
     "category": "Trafik ve Çevre",
     "question": "Bir kavşakta, trafik ışığı fasılalı (aralıklı) olarak kırmızı yanıp sönüyorsa, bu ışık hangi trafik levhası ile aynı anlama gelir?",
     "image_url": null,
@@ -525,19 +528,19 @@
     "description": "Aralıklı olarak yanıp sönen kırmızı ışık, sürücünün kavşağa gelmeden mutlaka durması, yolu kontrol etmesi ve yol müsaitse geçmesi gerektiğini bildirir. Bu, 'Dur' levhası ile birebir aynı anlama gelir. Fasılalı sarı ışık ise 'Yol Ver' levhası ile aynı anlama gelir."
   },
   {
-    "id": 5022,
+    "id": 2572,
     "category": "Motor ve Araç Tekniği",
     "question": "Aracın süspansiyon sisteminde bulunan ve yayların salınımını kontrol altına alarak tekerleğin yola sürekli temas etmesini sağlayan, sürüş güvenliği için kritik olan parça hangisidir?",
     "image_url": null,
     "options": [
       {
+        "text": "Amortisör",
+        "isTrue": true
+      },{
         "text": "Helezon yayı",
         "isTrue": false
       },
-      {
-        "text": "Amortisör",
-        "isTrue": true
-      },
+      
       {
         "text": "Rotil",
         "isTrue": false
@@ -550,19 +553,19 @@
     "description": "Helezon yayı, kasislerden gelen darbeyi emer. Ancak yay, kendi başına salınım yapmaya devam eder. Amortisör, bu salınımı hidrolik veya gaz basıncıyla sönümleyerek lastiğin zıplamasını engeller ve yola tutunmasını sağlar. Patlak bir amortisör, aracın yol tutuşunu tehlikeli derecede azaltır."
   },
   {
-    "id": 5023,
+    "id": 2573,
     "category": "İlk Yardım",
     "question": "Delici göğüs yaralanmalarında, yaranın üzerine konulan bezin bir ucunun açık bırakılmasının temel sebebi nedir?",
     "image_url": null,
     "options": [
       {
+        "text": "İçeri giren havanın dışarı çıkmasına izin vererek akciğerin sönmesini (pnömotoraks) engellemek.",
+        "isTrue": true
+      },{
         "text": "Yaranın daha kolay kanamasını sağlamak.",
         "isTrue": false
       },
-      {
-        "text": "İçeri giren havanın dışarı çıkmasına izin vererek akciğerin sönmesini (pnömotoraks) engellemek.",
-        "isTrue": true
-      },
+    
       {
         "text": "Yaranın daha hızlı iyileşmesini sağlamak.",
         "isTrue": false
@@ -575,7 +578,7 @@
     "description": "Delici göğüs yaralanmasında, nefes alırken göğüs boşluğuna hava dolarak akciğerin sönmesine neden olabilir. Yaranın üzeri kapatılırken bir ucunun açık bırakılması, tek yönlü bir valf görevi görerek nefes verirken içerideki havanın dışarı çıkmasına izin verir ama nefes alırken içeri hava girmesini engeller."
   },
   {
-    "id": 5024,
+    "id": 2574,
     "category": "Trafik Adabı",
     "question": "Bir sürücünün, kendisi veya yakınları kaza yapmadığı halde, tanık olduğu bir kazada durup yaralılara yardım etmesi ve yetkililere haber vermesi, hangi kavramla en iyi açıklanır?",
     "image_url": null,
@@ -600,19 +603,16 @@
     "description": "Bir kazaya tanık olan her sürücünün, durup yardım etmek ve durumu bildirmek gibi hem yasal hem de insani bir sorumluluğu vardır. Bu davranış, toplumsal dayanışmanın ve yardımseverliğin trafikteki en önemli yansımalarından biridir."
   },
   {
-    "id": 5025,
+    "id": 2575,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik işareti hangi yasağı belirtir? [Görsel: Kırmızı daire içinde '7t' yazan bir kamyon figürü]",
-    "image_url": null,
+    "question": "Şekildeki trafik işareti hangi yasağı belirtir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/yuk7ton.png",
     "options": [
       {
         "text": "Dingil başına 7 tondan fazla yük düşen taşıtların giremeyeceğini.",
         "isTrue": false
       },
-      {
-        "text": "Azami yüklü ağırlığı 7 tonu geçen taşıtların giremeyeceğini.",
-        "isTrue": true
-      },
+      
       {
         "text": "Yüksüz ağırlığı 7 tonu geçen taşıtların giremeyeceğini.",
         "isTrue": false
@@ -620,12 +620,16 @@
       {
         "text": "Sadece 7 tonluk kamyonların girebileceğini.",
         "isTrue": false
+      },
+      {
+        "text": "Azami yüklü ağırlığı 7 tonu geçen taşıtların giremeyeceğini.",
+        "isTrue": true
       }
     ],
     "description": "Bu levha, bir aracın kendi ağırlığı artı taşıdığı yükün toplamının (azami yüklü ağırlık) belirtilen rakamı (7 ton) geçmesi durumunda, o yola girişinin yasak olduğunu bildirir. Genellikle köprülerin veya taşıma kapasitesi sınırlı yolların girişinde bulunur."
   },
   {
-    "id": 5026,
+    "id":2576,
     "category": "Motor ve Araç Tekniği",
     "question": "Bir aracın lastiklerinin sadece yan omuz kısımları aşınmış, orta kısmı ise normal görünüyorsa, bu durumun en olası nedeni nedir?",
     "image_url": null,
@@ -634,10 +638,7 @@
         "text": "Lastiklerin hava basıncının normalden yüksek olması",
         "isTrue": false
       },
-      {
-        "text": "Lastiklerin hava basıncının normalden düşük olması",
-        "isTrue": true
-      },
+      
       {
         "text": "Rot ayarının bozuk olması",
         "isTrue": false
@@ -645,12 +646,16 @@
       {
         "text": "Balans ayarının bozuk olması",
         "isTrue": false
+      },
+      {
+        "text": "Lastiklerin hava basıncının normalden düşük olması",
+        "isTrue": true
       }
     ],
     "description": "Lastiklerin havası düşük olduğunda, lastiğin orta kısmı içeri doğru çöker ve aracın tüm yükü lastiğin yan omuz kısımlarına biner. Bu da sadece omuz kısımlarının hızla ve anormal bir şekilde aşınmasına neden olur."
   },
   {
-    "id": 5027,
+    "id": 2577,
     "category": "İlk Yardım",
     "question": "Elektrik çarpması sonucu kalbi duran yetişkin bir yaralıya, temel yaşam desteğine ne zaman ve nasıl başlanmalıdır?",
     "image_url": null,
@@ -675,7 +680,7 @@
     "description": "Elektrik çarpmalarında ilk kural kendi can güvenliğini sağlamaktır. Elektrik akımı kesildikten sonra, yaralının bilinci ve solunumu kontrol edilir. Eğer solunum yoksa, zaman kaybetmeden hemen göğüs kompresyonlarına (kalp masajı) başlanmalıdır."
   },
   {
-    "id": 5028,
+    "id": 2578,
     "category": "Trafik ve Çevre",
     "question": "Geceleyin, yerleşim yeri dışındaki aydınlatması yetersiz bir yolda, park etmiş veya arızalanmış bir aracın diğer sürücüler tarafından fark edilmesi için hangi ışıkların yakılması zorunludur?",
     "image_url": null,
@@ -700,19 +705,19 @@
     "description": "Aydınlatmanın yetersiz olduğu durumlarda, duran bir aracın görünürlüğünü sağlamak hayati önem taşır. Bu durumda aracın konumunu belli eden park lambaları veya tehlikeyi belirten acil uyarı (dörtlü) ışıklarının yakılması zorunludur."
   },
   {
-    "id": 5029,
+    "id": 2579,
     "category": "Motor ve Araç Tekniği",
     "question": "Aşağıdaki durumlardan hangisi, turboşarjlı (aşırı doldurmalı) bir aracın motorunu stop etmeden önce bir süre rölantide beklenmesinin ana nedenidir?",
     "image_url": null,
     "options": [
       {
+        "text": "Aşırı yüksek devirlerde dönen ve ısınan turbo milinin ve yataklarının, motor stop edince yağlamasız kalıp hasar görmesini önlemek.",
+        "isTrue": true
+      },{
         "text": "Motorun soğumasını sağlamak.",
         "isTrue": false
       },
-      {
-        "text": "Aşırı yüksek devirlerde dönen ve ısınan turbo milinin ve yataklarının, motor stop edince yağlamasız kalıp hasar görmesini önlemek.",
-        "isTrue": true
-      },
+      
       {
         "text": "Yakıtın enjektörlerde kalmasını sağlamak.",
         "isTrue": false
@@ -725,7 +730,7 @@
     "description": "Turbo mili, egzoz gazıyla dakikada 100.000 devrin üzerinde dönebilen ve aşırı ısınan bir parçadır. Motor aniden stop edilirse, bu mile yağ pompalayan sistem de durur. Yüksek devirde dönmeye devam eden mil yağsız kalır ve yatakları bozar. Rölantide beklemek, turbonun yavaşlamasına ve soğumasına olanak tanır."
   },
   {
-    "id": 5030,
+    "id": 2580,
     "category": "Trafik Adabı",
     "question": "Yoğun bir trafikte, önündeki araç yavaş ilerliyor diye sürekli olarak selektör yapan ve korna çalan bir sürücü, hangi trafik adabı kuralını en bariz şekilde ihlal etmektedir?",
     "image_url": null,
@@ -750,19 +755,19 @@
     "description": "Trafik, sabırlı olmayı gerektiren bir ortamdır. Diğer sürücüleri taciz ederek veya strese sokarak trafik akışını hızlandırmak mümkün değildir. Bu davranış, sabırsızlığın ve diğer sürücülere karşı hoşgörüsüzlüğün açık bir göstergesidir."
   },
   {
-    "id": 5031,
+    "id": 2581,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, omurga yaralanması şüphesi olan bir yaralı için en güvenli taşıma yöntemidir? [Görsel şıklarda çeşitli taşıma teknikleri gösterilmiştir]",
     "image_url": null,
     "options": [
       {
+        "text": "[Görsel: Baş-boyun-gövde ekseni bozulmadan, sert bir sedye üzerinde en az üç kişiyle taşınması]",
+        "isTrue": true
+      },{
         "text": "[Görsel: Yaralının kucakta taşınması]",
         "isTrue": false
       },
-      {
-        "text": "[Görsel: Baş-boyun-gövde ekseni bozulmadan, sert bir sedye üzerinde en az üç kişiyle taşınması]",
-        "isTrue": true
-      },
+      
       {
         "text": "[Görsel: İtfaiyeci yöntemi ile omuzda taşınması]",
         "isTrue": false
@@ -775,7 +780,7 @@
     "description": "Omurga yaralanması şüphesinde en ufak bir yanlış hareket felce neden olabilir. Bu nedenle, baş-boyun-gövde ekseni kesinlikle bozulmamalıdır. En güvenli yöntem, yaralıyı sert bir zemin (sedye, kapı vb.) üzerine alarak, hareketini minimuma indirerek taşımaktır."
   },
   {
-    "id": 5032,
+    "id": 2582,
     "category": "Trafik ve Çevre",
     "question": "Hususi (özel) otomobil sürücüleri için, yasal alkol sınırı kaç promildir?",
     "image_url": null,
@@ -800,7 +805,7 @@
     "description": "Karayolları Trafik Kanunu'na göre, hususi otomobil sürücüleri için yasal alkol sınırı 0.50 promildir. Ticari araç, otobüs, kamyon gibi araçların sürücüleri için ise alkollü araç kullanmak tamamen yasaktır (0.20 promil ve üzeri ceza sebebidir)."
   },
   {
-    "id": 5033,
+    "id": 2583,
     "category": "Motor ve Araç Tekniği",
     "question": "Aracın egzozundan beyaz duman çıkması, özellikle motor soğukken normal olabilirken, motor ısındıktan sonra da yoğun bir şekilde devam ediyorsa, bu durumun en ciddi nedeni ne olabilir?",
     "image_url": null,
@@ -809,10 +814,7 @@
         "text": "Motorun yağ yaktığı",
         "isTrue": false
       },
-      {
-        "text": "Silindir kapak contasının yanmış olduğu ve yanma odasına soğutma suyu (antifriz) sızdığı",
-        "isTrue": true
-      },
+      
       {
         "text": "Yakıt-hava karışımının zengin olduğu",
         "isTrue": false
@@ -820,12 +822,16 @@
       {
         "text": "Hava filtresinin tıkalı olduğu",
         "isTrue": false
+      },
+      {
+        "text": "Silindir kapak contasının yanmış olduğu ve yanma odasına soğutma suyu (antifriz) sızdığı",
+        "isTrue": true
       }
     ],
     "description": "Egzozdan çıkan beyaz duman, aslında su buharıdır. Motor ısındıktan sonra da bu durum yoğun olarak devam ediyorsa, bu, soğutma sıvısının bir sızıntı yoluyla (genellikle yanık conta) yanma odasına girip yakıtla birlikte yandığının bir işaretidir. Bu ciddi bir arızadır."
   },
   {
-    "id": 5034,
+    "id": 2584,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, çocuklarda (1-8 yaş) yapılan Temel Yaşam Desteği (TYD) uygulamasında, yetişkinlerden farklı olan bir uygulamadır?",
     "image_url": null,
@@ -850,19 +856,19 @@
     "description": "Yetişkinlerde, yalnız bir ilk yardımcı önce 112'yi arar sonra müdahaleye başlar. Ancak çocuk ve bebeklerde kalp durmasının nedeni genellikle solunum problemleridir. Bu nedenle, tek bir ilk yardımcı varsa, önce 5 tur (yaklaşık 2 dakika) kalp masajı ve suni solunum uygulayarak dolaşımı ve solunumu canlandırmaya çalışır, ardından 112'yi arar."
   },
   {
-    "id": 5035,
+    "id": 2585,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik levhası ne anlama gelir? [Görsel: Mavi kare zemin üzerinde, yatakta yatan bir insan figürü]",
-    "image_url": null,
+    "question": "Şekildeki trafik levhası ne anlama gelir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/konaklama.png",
     "options": [
-      {
-        "text": "Hastane",
-        "isTrue": false
-      },
       {
         "text": "Konaklama yeri veya otel",
         "isTrue": true
+      },{
+        "text": "Hastane",
+        "isTrue": false
       },
+      
       {
         "text": "Revir",
         "isTrue": false
@@ -875,19 +881,19 @@
     "description": "Bu bilgi işareti, sürücülere ileride veya yakında bir konaklama tesisi (otel, motel, pansiyon vb.) bulunduğunu bildirir. Genellikle turistik bölgelerde veya ana yollar üzerinde bulunur."
   },
   {
-    "id": 5036,
+    "id": 2586,
     "category": "Motor ve Araç Tekniği",
     "question": "Bir aracın, dönüşlerde savrulmasını önleyen, tekerleklerin yola daha iyi tutunmasını sağlayan ve bir tekerleğin patinaj yapması durumunda gücü diğer tekerleğe ileten elektronik sistemin genel adı nedir?",
     "image_url": null,
     "options": [
-      {
+     {
+        "text": "ESP (Elektronik Stabilite Programı)",
+        "isTrue": true
+      }, {
         "text": "ABS (Kilitlenmeyi Önleyici Fren Sistemi)",
         "isTrue": false
       },
-      {
-        "text": "ESP (Elektronik Stabilite Programı)",
-        "isTrue": true
-      },
+      
       {
         "text": "EBD (Elektronik Fren Gücü Dağıtımı)",
         "isTrue": false
@@ -900,7 +906,7 @@
     "description": "ESP, aracın sürücünün gitmek istediği yön ile gerçekten gittiği yönü sensörler aracılığıyla sürekli karşılaştırır. Bir savrulma veya kayma algıladığında, her bir tekerleğe ayrı ayrı ve anlık fren uygulayarak aracın tekrar çizgisine dönmesini ve kontrol altında kalmasını sağlar."
   },
   {
-    "id": 5037,
+    "id": 2587,
     "category": "Trafik Adabı",
     "question": "Trafikte, geçiş üstünlüğüne sahip bir araç olmamasına rağmen, sürekli olarak siren veya çakar lamba kullanarak yol açmaya çalışan bir sürücü, hangi hakları ihlal etmektedir?",
     "image_url": null,
@@ -925,19 +931,19 @@
     "description": "Geçiş üstünlüğü, sadece kanunla belirlenmiş araçlara (ambulans, itfaiye vb.) ve görev halindeyken tanınan bir haktır. Bu hakkı yasa dışı olarak kullanmak, diğer sürücülerin haklarını gasp etmek, trafik güvenliğini tehlikeye atmak ve toplumun kurallara olan güvenini sarsmaktır."
   },
   {
-    "id": 5038,
+    "id": 2588,
     "category": "İlk Yardım",
     "question": "Epilepsi (sara) nöbeti geçiren bir kişiye, ilk yardım sırasında aşağıdakilerden hangisi kesinlikle yapılmamalıdır?",
     "image_url": null,
     "options": [
       {
+        "text": "Kilitlenmiş çenesini açmaya, dilini dışarı çekmeye veya ağzına bir cisim sokmaya çalışmak.",
+        "isTrue": true
+      },{
         "text": "Kişinin başını sert zemine çarpmasını engellemek için altına yumuşak bir destek koymak.",
         "isTrue": false
       },
-      {
-        "text": "Kilitlenmiş çenesini açmaya, dilini dışarı çekmeye veya ağzına bir cisim sokmaya çalışmak.",
-        "isTrue": true
-      },
+      
       {
         "text": "Etrafındaki tehlikeli (sivri, sert) cisimleri uzaklaştırmak.",
         "isTrue": false
@@ -950,7 +956,7 @@
     "description": "Halk arasında yaygın olarak bilinen bu yanlış uygulama son derece tehlikelidir. Nöbet sırasında çeneyi açmaya çalışmak, hem yardım edenin parmaklarının ısırılmasına hem de yaralının dişlerinin veya çenesinin kırılmasına neden olabilir. Kişinin kasılmalarına asla müdahale edilmemelidir."
   },
   {
-    "id": 5039,
+    "id": 2589,
     "category": "Trafik ve Çevre",
     "question": "Aracın yükü, aracın ön tarafından en fazla kaç metre dışarı taşabilir?",
     "image_url": null,
@@ -975,7 +981,7 @@
     "description": "Karayolları Trafik Yönetmeliği'ne göre, bir aracın yükü, aracın ön tamponundan itibaren en fazla 1 metre, arka tamponundan itibaren ise en fazla 2 metre dışarı taşabilir. Arkadan taşan yükün ucuna kırmızı bir bez veya yansıtıcı asılması zorunludur."
   },
   {
-    "id": 5040,
+    "id": 2590,
     "category": "Motor ve Araç Tekniği",
     "question": "Aşağıdakilerden hangisi, 'balans ayarının' bozuk olduğunun en belirgin işaretidir?",
     "image_url": null,
@@ -1000,7 +1006,7 @@
     "description": "Balans ayarı, tekerleğin ağırlığının her noktaya eşit dağılmasıdır. Bu ayar bozulduğunda, tekerlek dönerken 'yalpalama' yapar ve bu durum, rezonans etkisiyle özellikle yüksek hızlarda araçta veya direksiyonda titreşim olarak hissedilir. Rot ayarı bozukluğu ise aracı bir yöne çeker."
   },
   {
-    "id": 5041,
+    "id": 2591,
     "category": "Trafik ve Çevre",
     "question": "Kavşağa yaklaşırken, sarı ve kırmızı ışığın birlikte yanması, sürücüye neyi ifade eder?",
     "image_url": null,
@@ -1025,7 +1031,7 @@
     "description": "Kırmızı ışık yanarken sarı ışığın da yanması, bir sonraki aşamanın yeşil ışık olacağını bildirir. Sürücüler bu sırada hareket etmemeli, ancak kalkış için hazırlanmalıdır."
   },
   {
-    "id": 5042,
+    "id": 2592,
     "category": "İlk Yardım",
     "question": "Bilinci kapalı ancak solunumu olan bir yaralı, hangi tehlikelere karşı 'koma (yan yatış) pozisyonuna' alınır?",
     "image_url": null,
@@ -1034,10 +1040,7 @@
         "text": "Sıcak çarpması tehlikesine karşı.",
         "isTrue": false
       },
-      {
-        "text": "Dilin geriye kaçarak solunum yolunu tıkaması ve kusmuk gibi sıvıların akciğerlere kaçması tehlikesine karşı.",
-        "isTrue": true
-      },
+     
       {
         "text": "Kan şekerinin düşmesi tehlikesine karşı.",
         "isTrue": false
@@ -1045,12 +1048,16 @@
       {
         "text": "Kalbinin durması tehlikesine karşı.",
         "isTrue": false
+      },
+       {
+        "text": "Dilin geriye kaçarak solunum yolunu tıkaması ve kusmuk gibi sıvıların akciğerlere kaçması tehlikesine karşı.",
+        "isTrue": true
       }
     ],
     "description": "Koma pozisyonunun temel amacı, bilinci kapalı olan kişinin solunum yolunu güvence altına almaktır. Yan yatış pozisyonu, dilin ve ağızdaki sıvıların (kan, kusmuk) yer çekimiyle dışarı akmasını sağlayarak boğulmayı önler."
   },
   {
-    "id": 5043,
+    "id": 2593,
     "category": "Motor ve Araç Tekniği",
     "question": "Aracın 'şasi numarası', genellikle aracın neresinde bulunur ve ne işe yarar?",
     "image_url": null,
@@ -1075,7 +1082,7 @@
     "description": "Şasi numarası (VIN - Vehicle Identification Number), 17 haneli, her araca özel, parmak izi gibi bir koddur. Aracın kimliğini belirlemek, tescil, sigorta ve hırsızlık gibi durumlarda sorgulama yapmak için kullanılır ve genellikle değiştirilemeyecek bir metal parçaya kazınmıştır."
   },
   {
-    "id": 5044,
+    "id": 2594,
     "category": "Trafik Adabı",
     "question": "Trafikte 'diğerkâmlık' kavramı, en iyi hangi davranışla örneklendirilir?",
     "image_url": null,
@@ -1084,13 +1091,14 @@
         "text": "Hız sınırlarına uymak.",
         "isTrue": false
       },
-      {
-        "text": "Yoğun trafikte, ara yoldan çıkmaya çalışan bir sürücüye, kendi geçiş hakkından vazgeçerek yol vermek.",
-        "isTrue": true
-      },
+      
       {
         "text": "Emniyet kemerini takmak.",
         "isTrue": false
+      },
+      {
+        "text": "Yoğun trafikte, ara yoldan çıkmaya çalışan bir sürücüye, kendi geçiş hakkından vazgeçerek yol vermek.",
+        "isTrue": true
       },
       {
         "text": "Aracının bakımını zamanında yaptırmak.",
@@ -1100,19 +1108,19 @@
     "description": "Diğerkâmlık, başkalarının iyiliğini ve çıkarını kendi çıkarından önce tutma erdemidir. Trafikte bu, zorunluluk olmamasına rağmen, başkalarının işini kolaylaştırmak için kendi hakkından fedakarlık etme davranışıdır."
   },
   {
-    "id": 5045,
+    "id": 2595,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik görevlisinin duruşu ne anlama gelmektedir? [Görsel: Trafik polisinin sağ kolunu yukarı kaldırması]",
-    "image_url": null,
+    "question": "Şekildeki trafik görevlisinin duruşu ne anlama gelmektedir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/kapali1.png",
     "options": [
-      {
+     {
+        "text": "Bütün yönlerdeki trafiğe 'Dur' komutu.",
+        "isTrue": true
+      }, {
         "text": "Sadece sağa giden trafiğin durması gerektiğini.",
         "isTrue": false
       },
-      {
-        "text": "Bütün yönlerdeki trafiğe 'Dur' komutu.",
-        "isTrue": true
-      },
+      
       {
         "text": "Trafiği hızlandırma işareti.",
         "isTrue": false
@@ -1125,19 +1133,19 @@
     "description": "Trafik görevlisinin tek kolunu veya her iki kolunu birden yukarı kaldırması, daha önce geçmekte olan trafiğin durması, durmakta olan trafiğin ise hazırlanması gerektiğini belirten genel bir 'Dur' komutudur. Işıklardaki kırmızı ışık ile eşdeğerdir."
   },
   {
-    "id": 5046,
+    "id": 2596,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, kanamayı durdurmak için uygulanan 'bası noktalarından' biridir?",
     "image_url": null,
     "options": [
       {
+        "text": "Köprücük kemiği üzeri",
+        "isTrue": true
+      },{
         "text": "Göbek deliği çevresi",
         "isTrue": false
       },
-      {
-        "text": "Köprücük kemiği üzeri",
-        "isTrue": true
-      },
+      
       {
         "text": "Elmacık kemiği",
         "isTrue": false
@@ -1150,7 +1158,7 @@
     "description": "Kol ve omuz bölgesindeki şiddetli kanamaları kontrol altına almak için, şah damarının yanından köprücük kemiğinin hemen üzerine, iç kısmına doğru yapılan baskı, kola giden ana atardamarı sıkıştırarak kanamayı yavaşlatır."
   },
   {
-    "id": 5047,
+    "id": 2597,
     "category": "Motor ve Araç Tekniği",
     "question": "Katalitik konvertörün temel görevi nedir?",
     "image_url": null,
@@ -1175,7 +1183,7 @@
     "description": "Katalitik konvertör, egzoz sisteminin bir parçasıdır ve içindeki değerli metaller (platin, paladyum, rodyum) sayesinde, yanma sonrası oluşan zehirli gazları, çevreye daha az zararlı olan karbondioksit ve su buharı gibi maddelere dönüştürür."
   },
   {
-    "id": 5048,
+    "id": 2598,
     "category": "Trafik ve Çevre",
     "question": "Bir aracın, taşıma kapasitesinin (istiap haddi) üzerinde yükle trafiğe çıkması durumunda aşağıdakilerden hangisi beklenir?",
     "image_url": null,
@@ -1200,7 +1208,7 @@
     "description": "Aşırı yük, aracın ağırlığını ve ataletini artırır. Bu durum, frenlerin aracı durdurması için gereken mesafeyi uzatır, lastiklere binen yükü artırarak patlama riskini yükseltir ve aracın dengesini bozarak savrulmasına neden olabilir."
   },
   {
-    "id": 5049,
+    "id": 2599,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, hayat kurtarma zincirinin (4 halka) son halkasıdır?",
     "image_url": null,
@@ -1225,10 +1233,10 @@
     "description": "Hayat kurtarma zinciri şu halkalardan oluşur: 1. Sağlık kuruluşuna haber verme, 2. Olay yerinde TYD, 3. Ambulans ekiplerinin müdahalesi, 4. Hastane acil servisleri. Zincirin son ve en ileri aşaması, hastanedeki uzman müdahalesidir."
   },
   {
-    "id": 5050,
+    "id": 2600,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik işareti, sürücüye neyi bildirir? [Görsel: Kırmızı üçgen içinde, arkasından kırmızı ışıklar saçan bir otomobil figürü]",
-    "image_url": null,
+    "question": "Şekildeki trafik işareti, sürücüye neyi bildirir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/trf_sikisik.png",
     "options": [
       {
         "text": "İleride trafik ışığı olduğunu",
