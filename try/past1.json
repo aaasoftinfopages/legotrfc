@@ -344,9 +344,9 @@
     "image_url": null,
     "options": [
       { "text": "Bir", "isTrue": false },
-      { "text": "İki", "isTrue": true },
       { "text": "Üç", "isTrue": false },
-      { "text": "Dört", "isTrue": false }
+      { "text": "Dört", "isTrue": false },
+      { "text": "İki", "isTrue": true }
     ],
     "description": "Altın beşik yöntemi, bilinci açık ve yürüyebilen ancak desteğe ihtiyacı olan bir yaralıyı taşımak için iki ilk yardımcının ellerini kenetleyerek bir oturak oluşturduğu bir tekniktir."
   },
@@ -422,9 +422,9 @@
     "image_url": null,
     "options": [
       { "text": "Park manevrası yaparken", "isTrue": false },
-      { "text": "Bağlantı yollarında ve tek yönlü yollarda (duraklama ve park manevrası dışında)", "isTrue": true },
       { "text": "Girişin yasak olduğu bir sokağa yanlışlıkla girildiğinde", "isTrue": false },
-      { "text": "Görüşün açık olduğu yollarda", "isTrue": false }
+      { "text": "Görüşün açık olduğu yollarda", "isTrue": false },
+       { "text": "Bağlantı yollarında ve tek yönlü yollarda (duraklama ve park manevrası dışında)", "isTrue": true }
     ],
     "description": "Otoyol gibi bağlantı yollarında ve trafiğin tek yönde aktığı yollarda geri gitmek, trafik akışını tehlikeye atacağından kesinlikle yasaktır. Geri manevrası sadece park etme, garaja girme gibi özel durumlar için geçerlidir."
   },
@@ -448,8 +448,9 @@
     "image_url": null,
     "options": [
       { "text": "Uzağı gösteren farlar (uzun farlar)", "isTrue": false },
-      { "text": "Yakını gösteren farlar (kısa farlar)", "isTrue": true },
+      
       { "text": "Sis farları", "isTrue": false },
+      { "text": "Yakını gösteren farlar (kısa farlar)", "isTrue": true },
       { "text": "Park lambaları", "isTrue": false }
     ],
     "description": "Uzağı gösteren farlar, karşıdan gelen veya önde giden sürücünün gözünü alarak geçici körlüğe ve kazaya neden olabilir. Bu nedenle, bu gibi durumlarda sadece 25 metreyi aydınlatan kısa farlar kullanılmalıdır."
@@ -461,8 +462,9 @@
     "image_url": null,
     "options": [
       { "text": "Motor yağı azalmıştır.", "isTrue": false },
-      { "text": "Lastik hava basınçları olması gerekenden düşüktür.", "isTrue": true },
+     
       { "text": "Debriyaj balatası aşınmıştır.", "isTrue": false },
+       { "text": "Lastik hava basınçları olması gerekenden düşüktür.", "isTrue": true },
       { "text": "Yakıt seviyesi düşüktür.", "isTrue": false }
     ],
     "description": "Lastiklerin havası azaldığında, yola temas eden yüzeyleri genişler. Bu durum, sürtünmeyi artırarak direksiyonun çevrilmesini zorlaştırır."
