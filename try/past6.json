@@ -45,9 +45,10 @@
     "image_url": null,
     "options": [
       { "text": "Bencillik", "isTrue": false },
-      { "text": "İçselleştirilmiş özdenetim ve sorumluluk", "isTrue": true },
+      
       { "text": "İnatlaşma", "isTrue": false },
-      { "text": "Dış denetim odaklılık", "isTrue": false }
+      { "text": "Dış denetim odaklılık", "isTrue": false },
+      { "text": "İçselleştirilmiş özdenetim ve sorumluluk", "isTrue": true }
     ],
     "description": "Trafik adabının en üst seviyesi, kurallara dış bir zorlama (ceza, polis) olmadan, doğruluğuna inanıldığı ve bunun bir sorumluluk olduğu bilinciyle uymaktır. Bu duruma 'özdenetim' denir."
   },
