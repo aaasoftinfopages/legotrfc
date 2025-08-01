@@ -10,7 +10,7 @@
       { "text": "Özel Amaçlı Taşıt", "isTrue": false },
       { "text": "Çekici", "isTrue": false }
     ],
-    "description": "Karayolunda bir birim olarak seyretmek üzere birbirine bağlanmış taşıtlara taşıt katarı denir. [cite: 183]"
+    "description": "Karayolunda bir birim olarak seyretmek üzere birbirine bağlanmış taşıtlara taşıt katarı denir. "
   },
   {
     "id": 3002,
@@ -23,7 +23,7 @@
       { "text": "Kasisli yol", "isTrue": false },
       { "text": "Açılan köprü", "isTrue": false }
     ],
-    "description": "Bu tehlike uyarı işareti, araçların emniyetle seyrine devamı için vites küçültmeyi gerektiren uzunluk veya açıdaki tehlikeli çıkış eğimini bildirir. [cite: 85, 91]"
+    "description": "Bu tehlike uyarı işareti, araçların emniyetle seyrine devamı için vites küçültmeyi gerektiren uzunluk veya açıdaki tehlikeli çıkış eğimini bildirir."
   },
   {
     "id": 3003,
@@ -36,7 +36,7 @@
       { "text": "9 saat", "isTrue": true },
       { "text": "11 saat", "isTrue": false }
     ],
-    "description": "Ticari amaçla yük ve yolcu taşımacılığı yapan sürücülerin 24 saatlik herhangi bir süre içinde toplam olarak 9 saatten fazla araç sürmeleri yasaktır. [cite: 721]"
+    "description": "Ticari amaçla yük ve yolcu taşımacılığı yapan sürücülerin 24 saatlik herhangi bir süre içinde toplam olarak 9 saatten fazla araç sürmeleri yasaktır. "
   },
   {
     "id": 3004,
@@ -44,12 +44,12 @@
     "question": "Aşağıdaki trafik tanzim işaretlerinden hangisi, kamyonların öndeki taşıtı geçmesinin yasak olduğunu bildirir?",
     "image_url": null,
     "options": [
-      { "text": "Görsel: Kırmızı daire içinde siyah kamyon figürü. [cite: 394]", "isTrue": false },
-      { "text": "Görsel: Kırmızı daire içinde sollama yapan otomobil figürünün üstü siyah çizgiyle çizilmiş. [cite: 440]", "isTrue": false },
-      { "text": "Görsel: Kırmızı daire içinde kırmızı otomobilin yanında siyah kamyon figürü. [cite: 428]", "isTrue": true },
-      { "text": "Görsel: Kırmızı daire içinde iki otomobil yan yana, soldaki kırmızı. [cite: 427]", "isTrue": false }
+      { "text": "Görsel: Kırmızı daire içinde siyah kamyon figürü.", "isTrue": false },
+      { "text": "Görsel: Kırmızı daire içinde sollama yapan otomobil figürünün üstü siyah çizgiyle çizilmiş.", "isTrue": false },
+      { "text": "Görsel: Kırmızı daire içinde kırmızı otomobilin yanında siyah kamyon figürü.", "isTrue": true },
+      { "text": "Görsel: Kırmızı daire içinde iki otomobil yan yana, soldaki kırmızı.", "isTrue": false }
     ],
-    "description": "Bu işaret, kamyon sürücülerinin önlerindeki aracı geçmelerinin yasak olduğunu belirtir. [cite: 428]"
+    "description": "Bu işaret, kamyon sürücülerinin önlerindeki aracı geçmelerinin yasak olduğunu belirtir."
   },
   {
     "id": 3005,
@@ -62,7 +62,7 @@
       { "text": "Taşıma", "isTrue": false },
       { "text": "Erişim", "isTrue": false }
     ],
-    "description": "Yayaların, hayvanların ve araçların karayolu üzerindeki hal ve hareketlerine TRAFİK denir. [cite: 6]"
+    "description": "Yayaların, hayvanların ve araçların karayolu üzerindeki hal ve hareketlerine TRAFİK denir."
   },
   {
     "id": 3006,
@@ -75,7 +75,7 @@
       { "text": "Gireceği şeritteki araçların emniyetle geçmesini beklemelidir.", "isTrue": true },
       { "text": "Sol şeridi sürekli olarak işgal etmelidir.", "isTrue": false }
     ],
-    "description": "Şerit değiştirmeden önce, girilecek şeritteki araçların emniyetle geçmesini beklemek zorunludur. Trafiği aksatacak veya tehlikeye sokacak şekilde şerit değiştirilmemelidir. [cite: 764]"
+    "description": "Şerit değiştirmeden önce, girilecek şeritteki araçların emniyetle geçmesini beklemek zorunludur. Trafiği aksatacak veya tehlikeye sokacak şekilde şerit değiştirilmemelidir."
   },
   {
     "id": 3007,
@@ -88,7 +88,7 @@
       { "text": "Araç sahibi", "isTrue": false },
       { "text": "Şoför", "isTrue": true }
     ],
-    "description": "Karayolunda, ticari olarak tescil edilmiş bir motorlu taşıtı süren kişiye şoför denir. [cite: 13]"
+    "description": "Karayolunda, ticari olarak tescil edilmiş bir motorlu taşıtı süren kişiye şoför denir."
   },
   {
     "id": 3008,
@@ -101,7 +101,7 @@
       { "text": "Dur", "isTrue": true },
       { "text": "Kontrolsüz kavşak", "isTrue": false }
     ],
-    "description": "Bu işaret, sürücünün kavşağa gelmeden mutlak suretle durmasını, yolu kontrol ettikten sonra geçmesini bildirir. Fasılalı (aralıklı) olarak yanıp sönen kırmızı ışıkla aynı anlama gelir. [cite: 294, 382]"
+    "description": "Bu işaret, sürücünün kavşağa gelmeden mutlak suretle durmasını, yolu kontrol ettikten sonra geçmesini bildirir. Fasılalı (aralıklı) olarak yanıp sönen kırmızı ışıkla aynı anlama gelir."
   },
   {
     "id": 3009,
@@ -114,7 +114,7 @@
       { "text": "Polis aracının görev dışı seyri sırasında", "isTrue": true },
       { "text": "Kar ve buz mücadelesi yapan aracın çalışması sırasında", "isTrue": false }
     ],
-    "description": "Geçiş üstünlüğü, sadece görev sırasında can ve mal güvenliğini tehlikeye sokmamak şartıyla belirli araç sürücülerinin trafik kısıtlama ve yasaklarına bağlı olmamalarıdır. [cite: 24, 995]"
+    "description": "Geçiş üstünlüğü, sadece görev sırasında can ve mal güvenliğini tehlikeye sokmamak şartıyla belirli araç sürücülerinin trafik kısıtlama ve yasaklarına bağlı olmamalarıdır."
   },
   {
     "id": 3010,
@@ -127,7 +127,7 @@
       { "text": "Kazada ölüm veya yaralanma varsa", "isTrue": true },
       { "text": "Her iki aracın da sigortası varsa", "isTrue": false }
     ],
-    "description": "Yetkililer tarafından tutanak tutulması gereken durumlar şunlardır: Kazada ölüm veya yaralanma olması, sürücülerden birinde alkol veya uyuşturucu şüphesi olması, taraflardan birinin ehliyetinin veya sigortasının olmaması, kamu malına zarar verilmesi. [cite: 1131]"
+    "description": "Yetkililer tarafından tutanak tutulması gereken durumlar şunlardır: Kazada ölüm veya yaralanma olması, sürücülerden birinde alkol veya uyuşturucu şüphesi olması, taraflardan birinin ehliyetinin veya sigortasının olmaması, kamu malına zarar verilmesi."
   },
   {
     "id": 3011,
@@ -140,7 +140,7 @@
       { "text": "Bir yöndeki trafiğe ait taşıt yolunun bir ayırıcı ile diğer taşıt yolundan ayrılmasıdır.", "isTrue": true },
       { "text": "İki veya daha fazla karayolunun kesişmesi ile oluşan ortak alandır.", "isTrue": false }
     ],
-    "description": "Bölünmüş karayolu, bir yöndeki trafiğe ait taşıt yolunun bir ayırıcı ile belirli şekilde diğer taşıt yolundan ayrılması ile meydana gelen karayoludur. [cite: 46]"
+    "description": "Bölünmüş karayolu, bir yöndeki trafiğe ait taşıt yolunun bir ayırıcı ile belirli şekilde diğer taşıt yolundan ayrılması ile meydana gelen karayoludur."
   },
   {
     "id": 3012,
@@ -153,7 +153,7 @@
       { "text": "Yandan rüzgar alınabileceğini", "isTrue": false },
       { "text": "Gizli buzlanma olabileceğini", "isTrue": false }
     ],
-    "description": "Bu işaret, yol yüzeyinin yağmur, kar, buz veya başka nedenlerle kaygan hale geldiğini belirterek sürücünün hızını azaltması ve dikkatli seyretmesi gerektiğini bildirir. [cite: 320]"
+    "description": "Bu işaret, yol yüzeyinin yağmur, kar, buz veya başka nedenlerle kaygan hale geldiğini belirterek sürücünün hızını azaltması ve dikkatli seyretmesi gerektiğini bildirir."
   },
   {
     "id": 3013,
@@ -166,7 +166,7 @@
       { "text": "Geri gitmek veya geriye dönmek", "isTrue": true },
       { "text": "Zorunlu hallerde emniyet şeridinde durmak", "isTrue": false }
     ],
-    "description": "Otoyolda duraklamak, park etmek, geri gitmek ve geriye dönmek yasaktır. Kaza ve arıza gibi zorunlu hallerde taşıtın emniyet şeridine alınarak işaretlenmesi gerekir. [cite: 52, 53]"
+    "description": "Otoyolda duraklamak, park etmek, geri gitmek ve geriye dönmek yasaktır. Kaza ve arıza gibi zorunlu hallerde taşıtın emniyet şeridine alınarak işaretlenmesi gerekir."
   },
   {
     "id": 3014,
@@ -179,7 +179,7 @@
       { "text": "Platform", "isTrue": false },
       { "text": "Kavşak", "isTrue": false }
     ],
-    "description": "Bu tanım Banket'e aittir. Yaya yolu olmayan yerlerde yayaların ve hayvanların kullanımı için ayrılmış, zorunlu durumlarda araçların da kullanabildiği bölümdür. [cite: 39]"
+    "description": "Bu tanım Banket'e aittir. Yaya yolu olmayan yerlerde yayaların ve hayvanların kullanımı için ayrılmış, zorunlu durumlarda araçların da kullanabildiği bölümdür."
   },
   {
     "id": 3015,
@@ -192,7 +192,7 @@
       { "text": "1 ve 2", "isTrue": false },
       { "text": "3 ve 4", "isTrue": false }
     ],
-    "description": "Trafik görevlisinin kol ve omuz istikametindeki araçlar geçebilirken, ön ve arka istikametinde kalan araçlar durup beklemelidir. Bu durumda 2 ve 4 numaralı araçlar beklemelidir. [cite: 222, 232, 233, 270, 275]"
+    "description": "Trafik görevlisinin kol ve omuz istikametindeki araçlar geçebilirken, ön ve arka istikametinde kalan araçlar durup beklemelidir. Bu durumda 2 ve 4 numaralı araçlar beklemelidir. "
   },
   {
     "id": 3016,
@@ -205,7 +205,7 @@
       { "text": "Korna çalarak sürücüyü uyarmalıdır.", "isTrue": false },
       { "text": "Durmak zorundadır.", "isTrue": true }
     ],
-    "description": "Okul taşıtı sürücüleri öğrenci indirme-bindirme sırasında 'DUR' ışığını yakmak zorundadır. Diğer araç sürücüleri ise bu ışık yandığı sürece durmak zorundadır. [cite: 172, 173]"
+    "description": "Okul taşıtı sürücüleri öğrenci indirme-bindirme sırasında 'DUR' ışığını yakmak zorundadır. Diğer araç sürücüleri ise bu ışık yandığı sürece durmak zorundadır."
   },
   {
     "id": 3017,
@@ -218,7 +218,7 @@
       { "text": "110", "isTrue": true },
       { "text": "120", "isTrue": false }
     ],
-    "description": "Yönetmelikte belirtilen hız sınırları tablosuna göre, otomobillerin (M1, M1G) yerleşim yeri dışı bölünmüş yollardaki azami hızı 110 km/saattir. [cite: 789]"
+    "description": "Yönetmelikte belirtilen hız sınırları tablosuna göre, otomobillerin (M1, M1G) yerleşim yeri dışı bölünmüş yollardaki azami hızı 110 km/saattir]"
   },
   {
     "id": 3018,
@@ -231,7 +231,7 @@
       { "text": "Tali yoldan anayola girişi", "isTrue": false },
       { "text": "Anayol-Tali yol kavşağına yaklaşıldığını", "isTrue": true }
     ],
-    "description": "Bu işaret, ileride bir anayol ile tali yolun kesiştiği bir kavşak olduğunu ve anayoldan seyreden sürücünün geçiş önceliğine sahip olduğunu bildirir. Tali yoldan gelen sürücüler anayoldakilere yol vermelidir. [cite: 344]"
+    "description": "Bu işaret, ileride bir anayol ile tali yolun kesiştiği bir kavşak olduğunu ve anayoldan seyreden sürücünün geçiş önceliğine sahip olduğunu bildirir. Tali yoldan gelen sürücüler anayoldakilere yol vermelidir. "
   },
   {
     "id": 3019,
@@ -244,7 +244,7 @@
       { "text": "Yolun trafiğe kapanmak üzere olduğunu bildirir.", "isTrue": false },
       { "text": "Yolun trafiğe açılmak üzere olduğunu bildirir.", "isTrue": false }
     ],
-    "description": "Fasılalı olarak yanıp sönen sarı ışık, 'Yol Ver' levhası ile aynı anlama gelir. Bu yerin yavaş ve dikkatli bir şekilde geçilmesi gerektiğini bildirir. [cite: 296]"
+    "description": "Fasılalı olarak yanıp sönen sarı ışık, 'Yol Ver' levhası ile aynı anlama gelir. Bu yerin yavaş ve dikkatli bir şekilde geçilmesi gerektiğini bildirir."
   },
   {
     "id": 3020,
@@ -257,7 +257,7 @@
       { "text": "Üçte biri kadar metre", "isTrue": false },
       { "text": "Dörtte biri kadar metre", "isTrue": false }
     ],
-    "description": "Sürücüler önlerindeki araçları, kendi araçlarının kilometre cinsinden saatteki hızının en az yarısı kadar metreden takip etmek zorundadır. Bu mesafe aynı zamanda '2 saniye' kuralı ile de kontrol edilebilir. [cite: 831, 833]"
+    "description": "Sürücüler önlerindeki araçları, kendi araçlarının kilometre cinsinden saatteki hızının en az yarısı kadar metreden takip etmek zorundadır. Bu mesafe aynı zamanda '2 saniye' kuralı ile de kontrol edilebilir."
   },
   {
     "id": 3021,
@@ -270,7 +270,7 @@
       { "text": "Arkadan çarpmak", "isTrue": true },
       { "text": "Park yasağına uymamak", "isTrue": false }
     ],
-    "description": "Asli kusur, bir kazanın meydana gelmesindeki ana sebeptir. Arkadan çarpmak, geçme yasağı olan yerde sollama yapmak, kırmızı ışıkta geçmek gibi durumlar asli kusur sayılır. [cite: 1230]"
+    "description": "Asli kusur, bir kazanın meydana gelmesindeki ana sebeptir. Arkadan çarpmak, geçme yasağı olan yerde sollama yapmak, kırmızı ışıkta geçmek gibi durumlar asli kusur sayılır."
   },
   {
     "id": 3022,
@@ -283,7 +283,7 @@
       { "text": "Sadece devamlı çizgi tarafındaki araçların şerit değiştirebileceğini", "isTrue": false },
       { "text": "Sadece kesikli çizgi tarafındaki araçların şerit değiştirebileceğini", "isTrue": true }
     ],
-    "description": "Kesikli ve devamlı yol çizgisi yan yana olduğunda, sürücüler kendilerine en yakın olan çizginin anlamına göre hareket ederler. Kesikli çizgi tarafındaki araç, kurallara uymak şartıyla öndeki aracı geçebilir. [cite: 604, 613]"
+    "description": "Kesikli ve devamlı yol çizgisi yan yana olduğunda, sürücüler kendilerine en yakın olan çizginin anlamına göre hareket ederler. Kesikli çizgi tarafındaki araç, kurallara uymak şartıyla öndeki aracı geçebilir. "
   },
   {
     "id": 3023,
@@ -296,7 +296,7 @@
       { "text": "Geçiş önceliği", "isTrue": false },
       { "text": "Geçiş üstünlüğü", "isTrue": true }
     ],
-    "description": "Geçiş üstünlüğü; görev sırasında, belirli araç sürücülerinin (ambulans, itfaiye, polis vb.) can ve mal güvenliğini tehlikeye sokmamak şartı ile trafik kısıtlama veya yasaklarına bağlı olmamalarıdır. [cite: 24]"
+    "description": "Geçiş üstünlüğü; görev sırasında, belirli araç sürücülerinin (ambulans, itfaiye, polis vb.) can ve mal güvenliğini tehlikeye sokmamak şartı ile trafik kısıtlama veya yasaklarına bağlı olmamalarıdır."
   },
   {
     "id": 3024,
@@ -309,7 +309,7 @@
       { "text": "40", "isTrue": false },
       { "text": "50", "isTrue": true }
     ],
-    "description": "Tehlikeli madde taşıyan taşıtlar, yerleşim yeri dışında diğer araçları en az 50 metre mesafeden takip etmek zorundadır. [cite: 841, 1058]"
+    "description": "Tehlikeli madde taşıyan taşıtlar, yerleşim yeri dışında diğer araçları en az 50 metre mesafeden takip etmek zorundadır."
   },
   {
     "id": 3025,
@@ -335,7 +335,7 @@
       { "text": "0.80 promil", "isTrue": false },
       { "text": "1.00 promil", "isTrue": false }
     ],
-    "description": "Hususi otomobil sürücülerinin 0,50 promilin üzerinde alkollü olarak araç sürmeleri yasaktır. Diğer araç sürücüleri için bu sınır 0,20 promildir. [cite: 688]"
+    "description": "Hususi otomobil sürücülerinin 0,50 promilin üzerinde alkollü olarak araç sürmeleri yasaktır. Diğer araç sürücüleri için bu sınır 0,20 promildir."
   },
   {
     "id": 3027,
@@ -348,7 +348,7 @@
       { "text": "Trafik levhaları - Yol çizgileri - Işıklı işaretler - Trafik görevlisi", "isTrue": false },
       { "text": "Yol çizgileri - Trafik levhaları - Trafik görevlisi - Işıklı işaretler", "isTrue": false }
     ],
-    "description": "Trafikte birbiriyle çelişen durumlarda uyulması gereken öncelik sırası: 1. Trafik görevlisinin işaretleri, 2. Işıklı ve sesli trafik işaretleri, 3. Trafik işaret levhaları, 4. Yol çizgileri. [cite: 213, 214, 215, 216, 217]"
+    "description": "Trafikte birbiriyle çelişen durumlarda uyulması gereken öncelik sırası: 1. Trafik görevlisinin işaretleri, 2. Işıklı ve sesli trafik işaretleri, 3. Trafik işaret levhaları, 4. Yol çizgileri."
   },
   {
     "id": 3028,
@@ -361,7 +361,7 @@
       { "text": "4 metre", "isTrue": false },
       { "text": "5 metre", "isTrue": true }
     ],
-    "description": "Çeken ve çekilen araç arasındaki çelik halat, zincir veya çelik çubukla yapılan bağlantının uzunluğu en fazla 5 metre olmalıdır. [cite: 1080]"
+    "description": "Çeken ve çekilen araç arasındaki çelik halat, zincir veya çelik çubukla yapılan bağlantının uzunluğu en fazla 5 metre olmalıdır."
   },
   {
     "id": 3029,
@@ -374,7 +374,7 @@
       { "text": "Anayol-Tali yol kavşağı", "isTrue": false },
       { "text": "İki yönlü trafik", "isTrue": false }
     ],
-    "description": "Bu tehlike uyarı işareti, ileride bir dönel kavşak olduğunu bildirir ve sürücülerin bu kavşağa yaklaşırken hızlarını azaltmaları gerektiğini belirtir. [cite: 347]"
+    "description": "Bu tehlike uyarı işareti, ileride bir dönel kavşak olduğunu bildirir ve sürücülerin bu kavşağa yaklaşırken hızlarını azaltmaları gerektiğini belirtir."
   },
   {
     "id": 3030,
@@ -387,7 +387,7 @@
       { "text": "Hem sürücüye hem de araç sahibine idari para cezası verilir.", "isTrue": true },
       { "text": "Sürücünün belgesine 6 ay süreyle el konulur.", "isTrue": false }
     ],
-    "description": "Sürücü belgesi sahiplerinin, sürmeye yetkili oldukları araçların dışındaki araçları sürmeleri yasaktır. Bu kurala uymayan sürücüye 1.462 TL idari para cezası ve 20 puan cezası verilir. Ayrıca, bu duruma izin veren araç sahibine de tescil plakası üzerinden aynı miktarda idari para cezası kesilir. [cite: 705, 706, 707]"
+    "description": "Sürücü belgesi sahiplerinin, sürmeye yetkili oldukları araçların dışındaki araçları sürmeleri yasaktır. Bu kurala uymayan sürücüye 1.462 TL idari para cezası ve 20 puan cezası verilir. Ayrıca, bu duruma izin veren araç sahibine de tescil plakası üzerinden aynı miktarda idari para cezası kesilir."
   },
   {
     "id": 3031,
@@ -400,7 +400,7 @@
       { "text": "Bölünmüş yolların gidişe ayrılmış şeritlerinde", "isTrue": true },
       { "text": "Kavşaklarda, demir yolu geçitlerinde ve buralara yaklaşırken", "isTrue": false }
     ],
-    "description": "Öndeki aracı geçmenin yasak olduğu yerler; trafik işaretiyle yasaklanmış yerler, tepe üstleri, dönemeçler, kavşaklar, yaya/okul/demiryolu geçitleri ve gidiş-geliş için birer şeridi olan köprü ve tünellerdir. Bölünmüş yollarda geçiş kurallarına uymak şartıyla sollama yapılabilir. [cite: 872, 873, 874, 875, 876, 877, 878]"
+    "description": "Öndeki aracı geçmenin yasak olduğu yerler; trafik işaretiyle yasaklanmış yerler, tepe üstleri, dönemeçler, kavşaklar, yaya/okul/demiryolu geçitleri ve gidiş-geliş için birer şeridi olan köprü ve tünellerdir. Bölünmüş yollarda geçiş kurallarına uymak şartıyla sollama yapılabilir."
   },
   {
     "id": 3032,
@@ -413,7 +413,7 @@
       { "text": "Dönüşe başlamadan karşıdan gelen araçlara yol verir.", "isTrue": false },
       { "text": "Gidişe ayrılan şeritlerden en soldaki şeride yaklaşır.", "isTrue": false }
     ],
-    "description": "Sola dönüşler geniş kavisle yapılır. Dar kavisle yapılan manevra sağa dönüşler için geçerlidir. [cite: 885, 895, 896, 897, 898]"
+    "description": "Sola dönüşler geniş kavisle yapılır. Dar kavisle yapılan manevra sağa dönüşler için geçerlidir."
   },
   {
     "id": 3033,
@@ -426,7 +426,7 @@
       { "text": "Park yeri.", "isTrue": true },
       { "text": "Yolcu indirme-bindirme yeri.", "isTrue": false }
     ],
-    "description": "Bu bilgi işareti, araçların park etmesi için ayrılmış bir alanı belirtir. [cite: 472]"
+    "description": "Bu bilgi işareti, araçların park etmesi için ayrılmış bir alanı belirtir."
   },
   {
     "id": 3034,
@@ -439,7 +439,7 @@
       { "text": "Akaryakıt istasyonu", "isTrue": false },
       { "text": "Araç tartı istasyonu", "isTrue": false }
     ],
-    "description": "Araçların niteliklerini tespit ve kontrol edebilecek cihaz ve personeli bulunan yere 'Araç Muayene İstasyonu' denir. [cite: 119]"
+    "description": "Araçların niteliklerini tespit ve kontrol edebilecek cihaz ve personeli bulunan yere 'Araç Muayene İstasyonu' denir."
   },
   {
     "id": 3035,
@@ -452,7 +452,7 @@
       { "text": "Şeridi daralmış olan diğerine", "isTrue": false },
       { "text": "İnen araç, çıkan araca", "isTrue": false }
     ],
-    "description": "Düz, eğimsiz ve dar taşıt yollarında karşılaşma hâlinde, aksini gösteren bir trafik işareti yoksa; otobüs, otomobile geçiş hakkı vermek zorundadır. Geçiş kolaylığı sağlama sırası: Motorsuz araçlar, İş makineleri, LTT, Kamyon, Otobüs, Kamyonet, Minibüs, Otomobil şeklindedir. [cite: 1009]"
+    "description": "Düz, eğimsiz ve dar taşıt yollarında karşılaşma hâlinde, aksini gösteren bir trafik işareti yoksa; otobüs, otomobile geçiş hakkı vermek zorundadır. Geçiş kolaylığı sağlama sırası: Motorsuz araçlar, İş makineleri, LTT, Kamyon, Otobüs, Kamyonet, Minibüs, Otomobil şeklindedir."
   },
   {
     "id": 3036,
@@ -465,7 +465,7 @@
       { "text": "İlk 2 yaş sonunda ve devamında her yıl", "isTrue": false },
       { "text": "3 yılda bir", "isTrue": false }
     ],
-    "description": "Resmi ve hususi otomobiller ile römorkları, ilk 3 yaş sonunda ve devamında her 2 yılda bir periyodik muayeneye tabi tutulur. [cite: 1180]"
+    "description": "Resmi ve hususi otomobiller ile römorkları, ilk 3 yaş sonunda ve devamında her 2 yılda bir periyodik muayeneye tabi tutulur."
   },
   {
     "id": 3037,
@@ -478,7 +478,7 @@
       { "text": "Önce trafik görevlisine, sonra ışıklara", "isTrue": false },
       { "text": "Yol çizgilerine", "isTrue": false }
     ],
-    "description": "Trafik işaretlerine uymada öncelik sırası vardır. Bu sıraya göre trafik görevlisinin işaretleri, ışıklı trafik işaretlerinden önce gelir. Bu nedenle sürücü, trafik görevlisinin talimatlarına uymalıdır. [cite: 213, 214]"
+    "description": "Trafik işaretlerine uymada öncelik sırası vardır. Bu sıraya göre trafik görevlisinin işaretleri, ışıklı trafik işaretlerinden önce gelir. Bu nedenle sürücü, trafik görevlisinin talimatlarına uymalıdır."
   },
   {
     "id": 3038,
@@ -491,7 +491,7 @@
       { "text": "Yaya geçidi", "isTrue": false },
       { "text": "Park yeri çizgileri", "isTrue": false }
     ],
-    "description": "Giderek sıklaşan bu yol çizgileri, sürücüyü ileride bir kavşak, yaya geçidi veya tehlikeli bir durum olduğu konusunda uyararak yavaşlaması gerektiğini bildirir. [cite: 637]"
+    "description": "Giderek sıklaşan bu yol çizgileri, sürücüyü ileride bir kavşak, yaya geçidi veya tehlikeli bir durum olduğu konusunda uyararak yavaşlaması gerektiğini bildirir."
   },
   {
     "id": 3039,
@@ -504,7 +504,7 @@
       { "text": "F", "isTrue": false },
       { "text": "E", "isTrue": true }
     ],
-    "description": "Monoküler kişiler A1, A2, B ve F sınıfı sürücü belgesi alabilirler ancak ticari araç kullanamazlar. E sınıfı (Otobüs) ticari bir sınıf olduğu için alamazlar. [cite: 1197]"
+    "description": "Monoküler kişiler A1, A2, B ve F sınıfı sürücü belgesi alabilirler ancak ticari araç kullanamazlar. E sınıfı (Otobüs) ticari bir sınıf olduğu için alamazlar."
   },
   {
     "id": 3040,
@@ -517,7 +517,7 @@
       { "text": "50 metre", "isTrue": false },
       { "text": "150 metre", "isTrue": false }
     ],
-    "description": "Arızalanan aracın ön ve arkasına, diğer sürücülerin 150 metreden görebileceği şekilde 30 metre mesafeye birer reflektör veya kırmızı ışıklı cihaz konulmalıdır. [cite: 1071]"
+    "description": "Arızalanan aracın ön ve arkasına, diğer sürücülerin 150 metreden görebileceği şekilde 30 metre mesafeye birer reflektör veya kırmızı ışıklı cihaz konulmalıdır."
   },
   {
     "id": 3041,
@@ -530,7 +530,7 @@
       { "text": "Kavşak, tünel ve köprülere yerleşim yeri içinde 5 metre mesafe içinde", "isTrue": true },
       { "text": "Yolcu bekleme duraklarında", "isTrue": false }
     ],
-    "description": "Duraklamanın yasak olduğu yerlerden biri de kavşak, tünel, köprü ve bağlantı yollarına yerleşim yerleri içinde 5 metre, yerleşim yerleri dışında 100 metre mesafe içidir. [cite: 1017]"
+    "description": "Duraklamanın yasak olduğu yerlerden biri de kavşak, tünel, köprü ve bağlantı yollarına yerleşim yerleri içinde 5 metre, yerleşim yerleri dışında 100 metre mesafe içidir."
   },
   {
     "id": 3042,
@@ -543,7 +543,7 @@
       { "text": "2 yıl", "isTrue": false },
       { "text": "5 yıl", "isTrue": true }
     ],
-    "description": "Uyuşturucu veya uyarıcı madde aldığı tespit edilen sürücülere idari para cezası verilir ve sürücü belgesi 5 yıl süreyle geri alınır. [cite: 685]"
+    "description": "Uyuşturucu veya uyarıcı madde aldığı tespit edilen sürücülere idari para cezası verilir ve sürücü belgesi 5 yıl süreyle geri alınır."
   },
   {
     "id": 3043,
@@ -556,7 +556,7 @@
       { "text": "Karşıdan gelene yol ver", "isTrue": false },
       { "text": "Önceliği olan yön", "isTrue": false }
     ],
-    "description": "Bu işaret, ilerideki yol kesiminin tek yönlü trafikten iki yönlü trafiğe dönüştüğünü bildirir. Sürücüler karşı yönden gelen trafiğe dikkat etmelidir. [cite: 341]"
+    "description": "Bu işaret, ilerideki yol kesiminin tek yönlü trafikten iki yönlü trafiğe dönüştüğünü bildirir. Sürücüler karşı yönden gelen trafiğe dikkat etmelidir."
   },
   {
     "id": 3044,
@@ -569,7 +569,7 @@
       { "text": "3 ay", "isTrue": true },
       { "text": "6 ay", "isTrue": false }
     ],
-    "description": "İlk defa tescili yapılacak araçların sahipleri, satın alma veya gümrükten çekme tarihinden itibaren 3 ay içinde tescil yaptırmak zorundadır. [cite: 1165]"
+    "description": "İlk defa tescili yapılacak araçların sahipleri, satın alma veya gümrükten çekme tarihinden itibaren 3 ay içinde tescil yaptırmak zorundadır."
   },
   {
     "id": 3045,
@@ -582,7 +582,7 @@
       { "text": "Stepne", "isTrue": false },
       { "text": "1 kg'lık yangın söndürme cihazı", "isTrue": false }
     ],
-    "description": "Otobüs, kamyon ve çekici gibi ticari araçlarda, sürücülerin çalışma ve dinlenme sürelerini kaydetmek için takoğraf cihazı bulundurulması zorunludur. [cite: 725, 1183]"
+    "description": "Otobüs, kamyon ve çekici gibi ticari araçlarda, sürücülerin çalışma ve dinlenme sürelerini kaydetmek için takoğraf cihazı bulundurulması zorunludur."
   },
   {
     "id": 3046,
@@ -595,7 +595,7 @@
       { "text": "Aracın daha az yakıt tüketmesini sağlamak", "isTrue": false },
       { "text": "Motor sesini azaltmak", "isTrue": false }
     ],
-    "description": "Katalitik konvektör, egzoz gazları içerisindeki zararlı olan karbonmonoksit ve hidrokarbon bileşiklerini kimyasal reaksiyonla daha az zararlı maddelere dönüştürerek hava kirliliğini azaltır. [cite: 1223, 1224]"
+    "description": "Katalitik konvektör, egzoz gazları içerisindeki zararlı olan karbonmonoksit ve hidrokarbon bileşiklerini kimyasal reaksiyonla daha az zararlı maddelere dönüştürerek hava kirliliğini azaltır."
   },
   {
     "id": 3047,
@@ -608,7 +608,7 @@
       { "text": "Mavi, kırmızı veya mavi-kırmızı", "isTrue": true },
       { "text": "Sadece yeşil", "isTrue": false }
     ],
-    "description": "Ambulans, trafik ve genel zabıta araçlarında mavi-kırmızı veya mavi; itfaiye ve sivil savunma araçlarında kırmızı; Karayolları Genel Müdürlüğü araçlarında ise mavi renkli tepe lambaları bulunur. Sarı tepe lambası geçiş üstünlüğü sağlamaz. [cite: 1001]"
+    "description": "Ambulans, trafik ve genel zabıta araçlarında mavi-kırmızı veya mavi; itfaiye ve sivil savunma araçlarında kırmızı; Karayolları Genel Müdürlüğü araçlarında ise mavi renkli tepe lambaları bulunur. Sarı tepe lambası geçiş üstünlüğü sağlamaz."
   },
   {
     "id": 3048,
@@ -621,7 +621,7 @@
       { "text": "6 ay süreyle geri alınır.", "isTrue": false },
       { "text": "Süresiz olarak iptal edilir.", "isTrue": false }
     ],
-    "description": "Aynı yıl içinde ikinci defa 100 ceza puanını dolduran sürücülerin sürücü belgeleri 4 ay süre ile geri alınır ve bu sürücüler psiko-teknik değerlendirmeye tabi tutulur. [cite: 1210]"
+    "description": "Aynı yıl içinde ikinci defa 100 ceza puanını dolduran sürücülerin sürücü belgeleri 4 ay süre ile geri alınır ve bu sürücüler psiko-teknik değerlendirmeye tabi tutulur."
   },
   {
     "id": 3049,
@@ -634,7 +634,7 @@
       { "text": "Yaya geçidi", "isTrue": false },
       { "text": "Hızlanma şeridi", "isTrue": false }
     ],
-    "description": "Bu yol çizgileri, yolun bir ayırıcı ile bölünmüş yol durumuna geldiğini ve sürücülerin kendi yönlerine ait olan bölümden seyretmeleri gerektiğini belirtir. [cite: 632]"
+    "description": "Bu yol çizgileri, yolun bir ayırıcı ile bölünmüş yol durumuna geldiğini ve sürücülerin kendi yönlerine ait olan bölümden seyretmeleri gerektiğini belirtir."
   },
   {
     "id": 3050,
@@ -647,7 +647,7 @@
       { "text": "Dönel kavşak içindeki araçların", "isTrue": true },
       { "text": "Ana yoldan gelen aracın", "isTrue": false }
     ],
-    "description": "Kontrolsüz dönel kavşaklara gelen sürücüler, dönel kavşak içindeki araçlara ilk geçiş hakkını vermek zorundadır. [cite: 961, 980]"
+    "description": "Kontrolsüz dönel kavşaklara gelen sürücüler, dönel kavşak içindeki araçlara ilk geçiş hakkını vermek zorundadır."
   },
   {
     "id": 3051,
@@ -660,7 +660,7 @@
       { "text": "Çekici", "isTrue": false },
       { "text": "Otomobil", "isTrue": false }
     ],
-    "description": "Azami yüklü ağırlığı 3.500 kg'ı geçmeyen ve yük taşımak için imal edilmiş motorlu taşıta kamyonet denir[cite: 134]. Azami yüklü ağırlığı 3.500 kg'dan fazla olanlar ise kamyon sınıfına girer[cite: 136]."
+    "description": "Azami yüklü ağırlığı 3.500 kg'ı geçmeyen ve yük taşımak için imal edilmiş motorlu taşıta kamyonet denir. Azami yüklü ağırlığı 3.500 kg'dan fazla olanlar ise kamyon sınıfına girer."
   },
   {
     "id": 3052,
@@ -673,7 +673,7 @@
       { "text": "Karşıdan gelene yol verme zorunluluğunu", "isTrue": true },
       { "text": "İki yönlü trafiği", "isTrue": false }
     ],
-    "description": "Bu işaret (TT-3), daralan yol kesimlerinde karşı yönden gelen araçlara geçiş önceliği verilmesi gerektiğini belirtir[cite: 383]."
+    "description": "Bu işaret (TT-3), daralan yol kesimlerinde karşı yönden gelen araçlara geçiş önceliği verilmesi gerektiğini belirtir."
   },
   {
     "id": 3053,
@@ -686,7 +686,7 @@
       { "text": "Hızı az olan diğerine yol vermelidir.", "isTrue": false },
       { "text": "Dönüş yapan diğerine yol vermelidir.", "isTrue": false }
     ],
-    "description": "Kavşak kolları eşit ise, traktör ve iş makineleri diğer motorlu araçlara ilk geçiş hakkını vermek zorundadır[cite: 981]."
+    "description": "Kavşak kolları eşit ise, traktör ve iş makineleri diğer motorlu araçlara ilk geçiş hakkını vermek zorundadır."
   },
   {
     "id": 3054,
@@ -699,7 +699,7 @@
       { "text": "1000 kg", "isTrue": false },
       { "text": "1250 kg", "isTrue": false }
     ],
-    "description": "B, C, E Sınıfı sürücü belgesine sahip kişiler, araçlarına en çok yüklü ağırlığı 750 Kg'a kadar olan hafif römorku takarak kullanabilirler. [cite: 153] Yüklü ağırlığı 750 Kg'ı geçen römorklar için ayrı bir sınav ve belge gereklidir[cite: 154]."
+    "description": "B, C, E Sınıfı sürücü belgesine sahip kişiler, araçlarına en çok yüklü ağırlığı 750 Kg'a kadar olan hafif römorku takarak kullanabilirler. Yüklü ağırlığı 750 Kg'ı geçen römorklar için ayrı bir sınav ve belge gereklidir."
   },
   {
     "id": 3055,
@@ -712,7 +712,7 @@
       { "text": "Banketler", "isTrue": false },
       { "text": "Gidiş yönüne göre yolun en sağı", "isTrue": false }
     ],
-    "description": "Duraklamanın yasak olduğu yerler arasında sol şerit, yaya, okul ve demiryolu geçitleri, kavşaklar, tüneller ve köprüler gibi kritik noktalar bulunur[cite: 120]."
+    "description": "Duraklamanın yasak olduğu yerler arasında sol şerit, yaya, okul ve demiryolu geçitleri, kavşaklar, tüneller ve köprüler gibi kritik noktalar bulunur."
   },
   {
     "id": 3056,
@@ -725,7 +725,7 @@
       { "text": "Aracın güvenle taşıyabileceği yükle birlikte ağırlığıdır.", "isTrue": false },
       { "text": "Araçlarda aynı dingile bağlı tekerleklerden karayolu yapısına aktarılan ağırlıktır.", "isTrue": false }
     ],
-    "description": "Gabari, araçların yüklü veya yüksüz olarak karayolunda güvenli seyirlerini temin amacı ile uzunluk, genişlik ve yüksekliklerini belirleyen ölçülerdir[cite: 186]."
+    "description": "Gabari, araçların yüklü veya yüksüz olarak karayolunda güvenli seyirlerini temin amacı ile uzunluk, genişlik ve yüksekliklerini belirleyen ölçülerdir."
   },
   {
     "id": 3057,
@@ -738,7 +738,7 @@
       { "text": "Dingil başına 6 tondan fazla yük düşen taşıtın giremeyeceğini", "isTrue": false },
       { "text": "Öndeki taşıtla arada 70 metreden az mesafe bırakılamayacağını", "isTrue": false }
     ],
-    "description": "Bu işaret (TT-24), yüklü ağırlığı levhada belirtilen değerden (örneğin 7 ton) fazla olan taşıtların o yola girmesinin yasak olduğunu bildirir[cite: 202]."
+    "description": "Bu işaret (TT-24), yüklü ağırlığı levhada belirtilen değerden (örneğin 7 ton) fazla olan taşıtların o yola girmesinin yasak olduğunu bildirir."
   },
   {
     "id": 3058,
@@ -751,7 +751,7 @@
       { "text": "Aralıklı yanıp sönen kırmızı ışık", "isTrue": false },
       { "text": "Yeşil ışık", "isTrue": false }
     ],
-    "description": "Yeşil ışıktan sonra yanan sarı ışık, yolun trafiğe kapanmak üzere olduğunu bildirir. Sürücülerin emniyetli bir şekilde duramayacaklarsa geçmeleri, durabileceklerse durup beklemeleri gerekir[cite: 289, 290]."
+    "description": "Yeşil ışıktan sonra yanan sarı ışık, yolun trafiğe kapanmak üzere olduğunu bildirir. Sürücülerin emniyetli bir şekilde duramayacaklarsa geçmeleri, durabileceklerse durup beklemeleri gerekir."
   },
   {
     "id": 3059,
@@ -764,7 +764,7 @@
       { "text": "Büyük araç küçük araca", "isTrue": false },
       { "text": "Yüklü araç boş araca", "isTrue": false }
     ],
-    "description": "Tehlikeli eğimli yollarda karşılaşma hallerinde, çıkan araç için geçiş güç veya mümkün değilse, inen araç sürücüsü çıkan araca yol vermek zorundadır[cite: 1011, 1012]."
+    "description": "Tehlikeli eğimli yollarda karşılaşma hallerinde, çıkan araç için geçiş güç veya mümkün değilse, inen araç sürücüsü çıkan araca yol vermek zorundadır."
   },
   {
     "id": 3060,
@@ -777,7 +777,7 @@
       { "text": "En sağ şeridi", "isTrue": true },
       { "text": "Hızına uygun herhangi bir şeridi", "isTrue": false }
     ],
-    "description": "İki yönlü dört veya daha çok şeritli yollarda motosiklet, otomobil, minibüs, kamyonet ve otobüs dışındaki araçları (kamyon, çekici vb.) sürenler geçme ve dönme dışında en sağ şeridi kullanmak zorundadırlar[cite: 765]."
+    "description": "İki yönlü dört veya daha çok şeritli yollarda motosiklet, otomobil, minibüs, kamyonet ve otobüs dışındaki araçları (kamyon, çekici vb.) sürenler geçme ve dönme dışında en sağ şeridi kullanmak zorundadırlar."
   },
   {
     "id": 3061,
@@ -790,7 +790,7 @@
       { "text": "Sağa yanaş ve dur", "isTrue": false },
       { "text": "Gece 'Geç'", "isTrue": false }
     ],
-    "description": "Trafik görevlisi, yavaşlatmak istediği yöne cephesi dönük durur ve sağ ya da sol kolunu omuzdan yere paralel oluncaya kadar kaldırıp 45-90 derece arasında yavaş yavaş sallar. Bu hareket trafiği yavaşlatma işaretidir[cite: 243, 244]."
+    "description": "Trafik görevlisi, yavaşlatmak istediği yöne cephesi dönük durur ve sağ ya da sol kolunu omuzdan yere paralel oluncaya kadar kaldırıp 45-90 derece arasında yavaş yavaş sallar. Bu hareket trafiği yavaşlatma işaretidir."
   },
   {
     "id": 3062,
@@ -803,7 +803,7 @@
       { "text": "İşaret levhalarına", "isTrue": true },
       { "text": "Okul geçitlerine", "isTrue": false }
     ],
-    "description": "Duraklamanın yasak olduğu yerlerden biri de, işaret levhalarına yerleşim yeri içinde 15 metre, yerleşim yeri dışında 100 metre mesafedir[cite: 120]."
+    "description": "Duraklamanın yasak olduğu yerlerden biri de, işaret levhalarına yerleşim yeri içinde 15 metre, yerleşim yeri dışında 100 metre mesafedir."
   },
   {
     "id": 3063,
@@ -816,7 +816,7 @@
       { "text": "2 metre", "isTrue": true },
       { "text": "2.5 metre", "isTrue": false }
     ],
-    "description": "Yükleme sırasında, yükün aracın boyunu önden 1 metre, arkadan ise 2 metreden fazla aşacak şekilde yüklenmesi yasaktır[cite: 1050]."
+    "description": "Yükleme sırasında, yükün aracın boyunu önden 1 metre, arkadan ise 2 metreden fazla aşacak şekilde yüklenmesi yasaktır."
   },
   {
     "id": 3064,
@@ -829,7 +829,7 @@
       { "text": "Ulaştırma, Denizcilik ve Haberleşme Bakanlığı", "isTrue": false },
       { "text": "Milli Eğitim Bakanlığı", "isTrue": true }
     ],
-    "description": "Milli Eğitim Bakanlığı'nın görevleri arasında motorlu araç sürücülerinin yetiştirilmesi için sürücü kurslarına izin vermek, denetlemek ve sürücü adaylarının sınavlarını yaparak başarılı olanlara sertifika verilmesini sağlamak bulunur[cite: 1252]."
+    "description": "Milli Eğitim Bakanlığı'nın görevleri arasında motorlu araç sürücülerinin yetiştirilmesi için sürücü kurslarına izin vermek, denetlemek ve sürücü adaylarının sınavlarını yaparak başarılı olanlara sertifika verilmesini sağlamak bulunur."
   },
   {
     "id": 3065,
@@ -842,7 +842,7 @@
       { "text": "85", "isTrue": false },
       { "text": "90", "isTrue": false }
     ],
-    "description": "Hız sınırları tablosuna göre, kamyon ve çekicilerin (N2, N3) yerleşim yeri dışı iki yönlü yollardaki azami hızı 80 km/saattir[cite: 789]."
+    "description": "Hız sınırları tablosuna göre, kamyon ve çekicilerin (N2, N3) yerleşim yeri dışı iki yönlü yollardaki azami hızı 80 km/saattir."
   },
   {
     "id": 3066,
@@ -855,7 +855,7 @@
       { "text": "Hastane", "isTrue": true },
       { "text": "Revir", "isTrue": false }
     ],
-    "description": "Bu işaret (B-15), ileride bir hastane olduğunu ve sürücülerin bu bölgede daha dikkatli olmaları, gürültü yapmamaları gerektiğini bildirir[cite: 523]."
+    "description": "Bu işaret (B-15), ileride bir hastane olduğunu ve sürücülerin bu bölgede daha dikkatli olmaları, gürültü yapmamaları gerektiğini bildirir."
   },
   {
     "id": 3067,
@@ -868,7 +868,7 @@
       { "text": "Yolun eğimi", "isTrue": false },
       { "text": "Yük durumu", "isTrue": false }
     ],
-    "description": "Fren mesafesi, fren pedalına basılması ile tekerleklerin durması arasında geçen sürede aracın aldığı yoldur. Bu mesafeyi en çok etkileyen faktör aracın hızıdır. Hız arttıkça fren mesafesi karesiyle orantılı olarak artar[cite: 820]."
+    "description": "Fren mesafesi, fren pedalına basılması ile tekerleklerin durması arasında geçen sürede aracın aldığı yoldur. Bu mesafeyi en çok etkileyen faktör aracın hızıdır. Hız arttıkça fren mesafesi karesiyle orantılı olarak artar."
   },
   {
     "id": 3068,
@@ -881,7 +881,7 @@
       { "text": "100", "isTrue": true },
       { "text": "120", "isTrue": false }
     ],
-    "description": "Trafik suçunun işlendiği tarihten geriye doğru 1 yıl içinde toplam 100 ceza puanını ilk defa dolduran sürücülerin, sürücü belgeleri 2 ay süre ile geri alınır ve eğitime tabi tutulur[cite: 1208, 1209]."
+    "description": "Trafik suçunun işlendiği tarihten geriye doğru 1 yıl içinde toplam 100 ceza puanını ilk defa dolduran sürücülerin, sürücü belgeleri 2 ay süre ile geri alınır ve eğitime tabi tutulur."
   },
   {
     "id": 3069,
@@ -894,7 +894,7 @@
       { "text": "Anayol", "isTrue": false },
       { "text": "Otoyol", "isTrue": true }
     ],
-    "description": "Bu yeşil zeminli işaret, otoyol başlangıcını bildirir. Bu yola yaya, hayvan, motorsuz araçlar, lastik tekerlekli traktörler ve iş makinelerinin girmesi yasaktır[cite: 583]."
+    "description": "Bu yeşil zeminli işaret, otoyol başlangıcını bildirir. Bu yola yaya, hayvan, motorsuz araçlar, lastik tekerlekli traktörler ve iş makinelerinin girmesi yasaktır."
   },
   {
     "id": 3070,
@@ -907,7 +907,7 @@
       { "text": "Araç trafikten men edilir.", "isTrue": true },
       { "text": "Araç hurdaya ayrılır.", "isTrue": false }
     ],
-    "description": "Zorunlu mali sorumluluk sigortası bulunmayan araçların trafiğe çıkması yasaktır ve tespit edildiğinde bu araçlar trafikten men edilir[cite: 1143]."
+    "description": "Zorunlu mali sorumluluk sigortası bulunmayan araçların trafiğe çıkması yasaktır ve tespit edildiğinde bu araçlar trafikten men edilir."
   },
   {
     "id": 3071,
@@ -920,7 +920,7 @@
       { "text": "Sürücünün reflekslerinin güçlenmesi", "isTrue": false },
       { "text": "Oksijen seviyesinin düşmesi", "isTrue": false }
     ],
-    "description": "Gürültü, kişilerin huzurunu, ruh ve beden sağlığını bozacak seviyede çıkartılan, istenmeyen seslerdir. Sürekli maruz kalmak işitme sisteminde ve ruhsal dengede bozulmalara yol açabilir[cite: 1219]."
+    "description": "Gürültü, kişilerin huzurunu, ruh ve beden sağlığını bozacak seviyede çıkartılan, istenmeyen seslerdir. Sürekli maruz kalmak işitme sisteminde ve ruhsal dengede bozulmalara yol açabilir."
   },
   {
     "id": 3072,
@@ -933,20 +933,20 @@
       { "text": "Koruma başlığı (kask) ve koruma gözlüğü", "isTrue": true },
       { "text": "Rüzgarlık ve eldiven", "isTrue": false }
     ],
-    "description": "Motosiklet ve motorlu bisiklet sürücülerinin koruma başlığı ve koruma gözlüğü, yolcularının ise koruma başlığı kullanmaları zorunludur[cite: 1089]."
+    "description": "Motosiklet ve motorlu bisiklet sürücülerinin koruma başlığı ve koruma gözlüğü, yolcularının ise koruma başlığı kullanmaları zorunludur."
   },
   {
     "id": 3073,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik tanzim işareti ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fu-d%25C3%25B6n%25C3%25BC%25C5%259F%25C3%25BC-yap%25C4%25B1lmaz-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
     "options": [
       { "text": "Sağa dönülmez", "isTrue": false },
       { "text": "Sola dönülmez", "isTrue": false },
       { "text": "U dönüşü yapmak yasaktır", "isTrue": true },
       { "text": "Taşıt giremez", "isTrue": false }
     ],
-    "description": "Bu işaret (TT-26c), bulunduğu yolda U dönüşü yapmanın yasak olduğunu belirtir[cite: 426]."
+    "description": "Bu işaret (TT-26c), bulunduğu yolda U dönüşü yapmanın yasak olduğunu belirtir."
   },
   {
     "id": 3074,
@@ -959,7 +959,7 @@
       { "text": "Tali yol", "isTrue": false },
       { "text": "Anayol", "isTrue": false }
     ],
-    "description": "Yan yana iki devamlı yol çizgisi, yolu bölünmüş yol durumuna getirir ve bu çizgiler bir ayırıcı (refüj) niteliğindedir. Hiçbir sebeple çizgilerin soluna geçilemez[cite: 606]."
+    "description": "Yan yana iki devamlı yol çizgisi, yolu bölünmüş yol durumuna getirir ve bu çizgiler bir ayırıcı (refüj) niteliğindedir. Hiçbir sebeple çizgilerin soluna geçilemez."
   },
   {
     "id": 3075,
@@ -972,7 +972,7 @@
       { "text": "Otoyolların düz ve görüşe açık kesimlerinde", "isTrue": true },
       { "text": "Tepe üstlerine ve dönemeçlere girerken", "isTrue": false }
     ],
-    "description": "Sürücüler; kavşaklara, dönemeçlere, yaya ve okul geçitlerine, tünellere, dar köprülere ve tepe üstlerine yaklaşırken hızlarını azaltmak zorundadır[cite: 808, 809, 810, 811, 812]."
+    "description": "Sürücüler; kavşaklara, dönemeçlere, yaya ve okul geçitlerine, tünellere, dar köprülere ve tepe üstlerine yaklaşırken hızlarını azaltmak zorundadır]."
   },
   {
     "id": 3076,
@@ -985,7 +985,7 @@
       { "text": "Yük durumuna bakılmaksızın 30 km/s hızla", "isTrue": false },
       { "text": "Otomobiller için belirlenen hızla", "isTrue": false }
     ],
-    "description": "Tehlikeli madde taşımaya mahsus olup, boş olarak trafiğe çıkan araçlar, kendi sınıfındaki araçlara ait hız ile sürülebilirler[cite: 794]."
+    "description": "Tehlikeli madde taşımaya mahsus olup, boş olarak trafiğe çıkan araçlar, kendi sınıfındaki araçlara ait hız ile sürülebilirler."
   },
   {
     "id": 3077,
@@ -998,7 +998,7 @@
       { "text": "Kırmızı ışıkta beklemek gibi trafik zorunlulukları nedeniyle durmak", "isTrue": true },
       { "text": "Yük boşaltmak", "isTrue": false }
     ],
-    "description": "Bu işaret (P-2) duraklamayı ve park etmeyi yasaklar. Ancak kırmızı ışık, yol kapanması gibi trafik zorunlulukları nedeniyle aracın durdurulması 'durma' hali olarak kabul edilir ve bu yasak kapsamında değildir[cite: 27, 470]."
+    "description": "Bu işaret (P-2) duraklamayı ve park etmeyi yasaklar. Ancak kırmızı ışık, yol kapanması gibi trafik zorunlulukları nedeniyle aracın durdurulması 'durma' hali olarak kabul edilir ve bu yasak kapsamında değildir."
   },
   {
     "id": 3078,
@@ -1011,7 +1011,7 @@
       { "text": "Kurallara uygun olarak park etmiş araca çarpmak", "isTrue": false },
       { "text": "Hız sınırını %30'dan fazla aşmak", "isTrue": true }
     ],
-    "description": "Asli kusur sayılan haller arasında kırmızı ışıkta geçmek, arkadan çarpmak, geçme yasağı olan yerde geçmek, kavşaklarda geçiş kurallarına uymamak gibi durumlar yer alır. Yüksek hızda gitmek trafik suçu olmakla birlikte, tek başına asli kusur olarak tanımlanmamıştır[cite: 1230, 1231]."
+    "description": "Asli kusur sayılan haller arasında kırmızı ışıkta geçmek, arkadan çarpmak, geçme yasağı olan yerde geçmek, kavşaklarda geçiş kurallarına uymamak gibi durumlar yer alır. Yüksek hızda gitmek trafik suçu olmakla birlikte, tek başına asli kusur olarak tanımlanmamıştır."
   },
   {
     "id": 3079,
@@ -1024,7 +1024,7 @@
       { "text": "Acil durumlar için ayrılmıştır.", "isTrue": false },
       { "text": "Park etmek için kullanılır.", "isTrue": false }
     ],
-    "description": "Tırmanma şeridi olarak da bilinen bu tür yollarda orta şerit sadece geçiş (sollama) yapmak için kullanılır. Geçiş tamamlandıktan sonra sürücüler derhal kendi şeritlerine dönmelidir. Bu şeridin devamlı olarak işgal edilmesi yasaktır[cite: 614, 615]."
+    "description": "Tırmanma şeridi olarak da bilinen bu tür yollarda orta şerit sadece geçiş (sollama) yapmak için kullanılır. Geçiş tamamlandıktan sonra sürücüler derhal kendi şeritlerine dönmelidir. Bu şeridin devamlı olarak işgal edilmesi yasaktır."
   },
   {
     "id": 3080,
@@ -1037,7 +1037,7 @@
       { "text": "Ele alınmadan, çeşitli elektronik sistemler (bluetooth, kulaklık vb.) vasıtasıyla kullanılabilir.", "isTrue": true },
       { "text": "Düşük hızlarda kullanılmasına izin verilir.", "isTrue": false }
     ],
-    "description": "Seyir halinde sürücülerin cep ve araç telefonu ile benzeri haberleşme cihazlarını kullanması yasaktır. Ancak, bu cihazların sürücüler tarafından çeşitli elektronik sistemler vasıtasıyla ele alınmadan kullanılmasına izin verilmektedir[cite: 1228, 1229]."
+    "description": "Seyir halinde sürücülerin cep ve araç telefonu ile benzeri haberleşme cihazlarını kullanması yasaktır. Ancak, bu cihazların sürücüler tarafından çeşitli elektronik sistemler vasıtasıyla ele alınmadan kullanılmasına izin verilmektedir."
   },
   {
     "id": 3081,
@@ -1050,20 +1050,20 @@
         { "text": "Park halindeki aracın lastiğinin patlaması", "isTrue": false },
         { "text": "Aracın yakıtının bitmesi", "isTrue": false }
     ],
-    "description": "Trafik kazası, karayolu üzerinde hareket halinde olan bir veya birden fazla aracın karıştığı ölüm, yaralanma veya zararla sonuçlanmış olaydır[cite: 31]."
+    "description": "Trafik kazası, karayolu üzerinde hareket halinde olan bir veya birden fazla aracın karıştığı ölüm, yaralanma veya zararla sonuçlanmış olaydır."
   },
   {
     "id": 3082,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti ne anlama gelmektedir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fbisiklet-giremez-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fbisik0000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
     "options": [
         { "text": "Bisiklet geçebilir", "isTrue": false },
         { "text": "Bisiklet yolu", "isTrue": false },
         { "text": "Bisiklet giremez", "isTrue": true },
         { "text": "Mecburi bisiklet yolu", "isTrue": false }
     ],
-    "description": "Bu trafik tanzim işareti (TT-8), bu yola bisikletlerin girmesinin yasak olduğunu bildirir[cite: 388]."
+    "description": "Bu trafik tanzim işareti (TT-8), bu yola bisikletlerin girmesinin yasak olduğunu bildirir."
   },
   {
     "id": 3083,
@@ -1076,7 +1076,7 @@
         { "text": "5 metre", "isTrue": false },
         { "text": "7.5 metre", "isTrue": false }
     ],
-    "description": "Çekilen aracın freni bozuk ise, çeken araç ile arasındaki bağlantı 1 metrelik çeki demiri ile yapılmalı ve hız saatte 15 kilometreyi geçmemelidir[cite: 1081]."
+    "description": "Çekilen aracın freni bozuk ise, çeken araç ile arasındaki bağlantı 1 metrelik çeki demiri ile yapılmalı ve hız saatte 15 kilometreyi geçmemelidir."
   },
   {
     "id": 3084,
@@ -1089,7 +1089,7 @@
         { "text": "Araç ile ilgili belgelerin alınması ve aracın belirli bir yere çekilerek trafikten alıkonulmasıdır.", "isTrue": true },
         { "text": "Aracın periyodik muayenesinin yapılmasıdır.", "isTrue": false }
     ],
-    "description": "Trafikten men, trafik zabıtasınca, kanunda belirtilen hallerde araç ile ilgili belgelerin alınması ve aracın belirli bir yere çekilerek trafikten alıkonulmasıdır[cite: 32]."
+    "description": "Trafikten men, trafik zabıtasınca, kanunda belirtilen hallerde araç ile ilgili belgelerin alınması ve aracın belirli bir yere çekilerek trafikten alıkonulmasıdır."
   },
   {
     "id": 3085,
@@ -1102,7 +1102,7 @@
         { "text": "Yasaktır.", "isTrue": true },
         { "text": "Sadece gündüzleri sürülebilir.", "isTrue": false }
     ],
-    "description": "Ayrı bir bisiklet yolu olduğu halde, bisiklet ve motorlu bisikletlerin taşıt yollarında sürülmesi yasaktır[cite: 1092]."
+    "description": "Ayrı bir bisiklet yolu olduğu halde, bisiklet ve motorlu bisikletlerin taşıt yollarında sürülmesi yasaktır."
   },
   {
     "id": 3086,
@@ -1115,7 +1115,7 @@
         { "text": "Tamamen yasaktır.", "isTrue": true },
         { "text": "Sadece şehirler arası yollarda yasaktır.", "isTrue": false }
     ],
-    "description": "Karayolu yapısı üzerine, trafiği güçleştirecek, tehlikeye sokacak veya engel yaratacak, trafik işaretlerinin görülmelerini engelleyecek bir şey koymak, atmak, dökmek, bırakmak ve benzeri hareketlerde bulunmak yasaktır[cite: 206]."
+    "description": "Karayolu yapısı üzerine, trafiği güçleştirecek, tehlikeye sokacak veya engel yaratacak, trafik işaretlerinin görülmelerini engelleyecek bir şey koymak, atmak, dökmek, bırakmak ve benzeri hareketlerde bulunmak yasaktır."
   },
   {
     "id": 3087,
@@ -1128,7 +1128,7 @@
         { "text": "Bilgi İşaretleri", "isTrue": false },
         { "text": "Duraklama ve Park Etme İşaretleri", "isTrue": false }
     ],
-    "description": "Üçgen şeklindeki levhalar, yol üzerindeki bir tehlikeye karşı sürücüleri önceden uyarmak amacıyla kullanılır ve 'Tehlike Uyarı İşaretleri' grubuna girer[cite: 301, 341]."
+    "description": "Üçgen şeklindeki levhalar, yol üzerindeki bir tehlikeye karşı sürücüleri önceden uyarmak amacıyla kullanılır ve 'Tehlike Uyarı İşaretleri' grubuna girer."
   },
   {
     "id": 3088,
@@ -1141,7 +1141,7 @@
         { "text": "Yasaktır.", "isTrue": true },
         { "text": "Sadece eğitim alanında serbesttir.", "isTrue": false }
     ],
-    "description": "Sürücülerin zorunlu bir neden olmadıkça, diğer araçların ilerleyişine engel olacak şekilde yavaş sürmeleri, belirlenen hız sınırlarının çok altında sürmeleri yasaktır[cite: 1105]."
+    "description": "Sürücülerin zorunlu bir neden olmadıkça, diğer araçların ilerleyişine engel olacak şekilde yavaş sürmeleri, belirlenen hız sınırlarının çok altında sürmeleri yasaktır."
   },
   {
     "id": 3089,
@@ -1154,7 +1154,7 @@
         { "text": "Park etme", "isTrue": true },
         { "text": "Terk etme", "isTrue": false }
     ],
-    "description": "Araçların durma ve duraklama halleri dışında, genelde uzun süreli bekletilmek üzere bırakılmasına park etme denir[cite: 29]."
+    "description": "Araçların durma ve duraklama halleri dışında, genelde uzun süreli bekletilmek üzere bırakılmasına park etme denir."
   },
   {
     "id": 3090,
@@ -1167,7 +1167,7 @@
         { "text": "Hızlanma şeridi", "isTrue": true },
         { "text": "Tırmanma şeridi", "isTrue": false }
     ],
-    "description": "Erişme kontrollü karayoluna (otoyol) girerken, otoyol trafiğine güvenli bir şekilde katılmak için hızlanma şeridi kullanılır[cite: 51]."
+    "description": "Erişme kontrollü karayoluna (otoyol) girerken, otoyol trafiğine güvenli bir şekilde katılmak için hızlanma şeridi kullanılır."
   },
   {
     "id": 3091,
@@ -1180,7 +1180,7 @@
         { "text": "Kontrolsüz kavşağı", "isTrue": true },
         { "text": "Demiryolu geçidini", "isTrue": false }
     ],
-    "description": "Bu işaret (T-21), ileride trafik zabıtası, ışıklı işaret cihazı veya başka bir işaretle kontrol edilmeyen bir kavşak bulunduğunu ve bu kavşakta geçiş hakkı kurallarına uyulması gerektiğini bildirir[cite: 343]."
+    "description": "Bu işaret (T-21), ileride trafik zabıtası, ışıklı işaret cihazı veya başka bir işaretle kontrol edilmeyen bir kavşak bulunduğunu ve bu kavşakta geçiş hakkı kurallarına uyulması gerektiğini bildirir."
   },
   {
     "id": 3092,
@@ -1193,7 +1193,7 @@
         { "text": "Geri viteste", "isTrue": true },
         { "text": "İkinci viteste", "isTrue": false }
     ],
-    "description": "Eğimli yollarda park ederken motor stop ettirilip el freni çekildikten sonra, iniş eğiminde geri vitese, yokuş (çıkış) eğiminde ise birinci vitese takılır[cite: 1020]."
+    "description": "Eğimli yollarda park ederken motor stop ettirilip el freni çekildikten sonra, iniş eğiminde geri vitese, yokuş (çıkış) eğiminde ise birinci vitese takılır."
   },
   {
     "id": 3093,
@@ -1206,7 +1206,7 @@
         { "text": "Tekerlek takozu", "isTrue": false },
         { "text": "Reflektör", "isTrue": true }
     ],
-    "description": "Motosiklet ve motorlu bisiklet hariç, bütün motorlu araçlarda iki adet reflektör bulundurulması zorunludur[cite: 1185]."
+    "description": "Motosiklet ve motorlu bisiklet hariç, bütün motorlu araçlarda iki adet reflektör bulundurulması zorunludur."
   },
   {
     "id": 3094,
@@ -1219,7 +1219,7 @@
         { "text": "Arazi taşıtı", "isTrue": false },
         { "text": "Panelvan", "isTrue": false }
     ],
-    "description": "Yolcu taşımacılığında kullanılan ve sürücüsü dahil oturma yeri 9'dan fazla olan motorlu taşıta otobüs denir. Sürücüsü dahil oturma yeri on yediyi aşmayan otobüslere ise minibüs denir[cite: 129, 130]."
+    "description": "Yolcu taşımacılığında kullanılan ve sürücüsü dahil oturma yeri 9'dan fazla olan motorlu taşıta otobüs denir. Sürücüsü dahil oturma yeri on yediyi aşmayan otobüslere ise minibüs denir."
   },
   {
     "id": 3095,
@@ -1232,7 +1232,7 @@
         { "text": "Karayolları Genel Müdürlüğü", "isTrue": true },
         { "text": "Belediyeler", "isTrue": false }
     ],
-    "description": "Karayolları Genel Müdürlüğü'nün görevleri arasında, yapım ve bakımından sorumlu olduğu karayollarında trafik düzenleme ve işaretlemeleri yapmak, bu işaretleme standartlarını tespit etmek ve kontrol etmek yer alır[cite: 1249]."
+    "description": "Karayolları Genel Müdürlüğü'nün görevleri arasında, yapım ve bakımından sorumlu olduğu karayollarında trafik düzenleme ve işaretlemeleri yapmak, bu işaretleme standartlarını tespit etmek ve kontrol etmek yer alır."
   },
   {
     "id": 3096,
@@ -1245,7 +1245,7 @@
         { "text": "Yavaşlamalı, gerektiğinde durmalı ve yardımcı olmalıdır.", "isTrue": true },
         { "text": "Sadece selektör yaparak ikaz etmelidir.", "isTrue": false }
     ],
-    "description": "Gözleri görmeyen ve bu durumu belirtilen işaretlerle taşıyan kişilerin taşıt yolu üzerinde bulunmaları halinde, bütün sürücülerin yavaşlamaları, gerektiğinde durarak geçişlerine yardımcı olmaları zorunludur[cite: 1108]."
+    "description": "Gözleri görmeyen ve bu durumu belirtilen işaretlerle taşıyan kişilerin taşıt yolu üzerinde bulunmaları halinde, bütün sürücülerin yavaşlamaları, gerektiğinde durarak geçişlerine yardımcı olmaları zorunludur."
   },
   {
     "id": 3097,
@@ -1258,7 +1258,7 @@
         { "text": "Geçme yasağı sonu", "isTrue": true },
         { "text": "Bütün yasaklama ve kısıtlamaların sonu", "isTrue": false }
     ],
-    "description": "Bu işaret (TT-34a), daha önce bir levha ile belirtilmiş olan öndeki taşıtı geçme yasağının sona erdiğini bildirir[cite: 440]."
+    "description": "Bu işaret (TT-34a), daha önce bir levha ile belirtilmiş olan öndeki taşıtı geçme yasağının sona erdiğini bildirir."
   },
   {
     "id": 3098,
@@ -1271,7 +1271,7 @@
         { "text": "Asli kusur", "isTrue": true },
         { "text": "Kusur sayılmaz", "isTrue": false }
     ],
-    "description": "İkiden fazla şeritli taşıt yollarında, karşı yönden gelen trafiğin kullandığı şerit veya yol bölümüne girmek, bir trafik kazasına sebebiyet vermesi durumunda 'asli kusur' sayılan hallerdendir[cite: 1230]."
+    "description": "İkiden fazla şeritli taşıt yollarında, karşı yönden gelen trafiğin kullandığı şerit veya yol bölümüne girmek, bir trafik kazasına sebebiyet vermesi durumunda 'asli kusur' sayılan hallerdendir."
   },
   {
     "id": 3099,
@@ -1284,7 +1284,7 @@
         { "text": "15", "isTrue": false },
         { "text": "17", "isTrue": false }
     ],
-    "description": "Bisiklet sürücülerinin 11 yaşını, motorsuz taşıtları sürenlerin de 13 yaşını doldurmuş olmaları gerekmektedir[cite: 1099]."
+    "description": "Bisiklet sürücülerinin 11 yaşını, motorsuz taşıtları sürenlerin de 13 yaşını doldurmuş olmaları gerekmektedir."
   },
   {
     "id": 3100,
@@ -1297,7 +1297,7 @@
         { "text": "Yayanın geçişini tamamlamasını beklemelidir.", "isTrue": true },
         { "text": "Yayanın önüne geçerek dönüşünü tamamlamalıdır.", "isTrue": false }
     ],
-    "description": "Dönüş yapan sürücüler, kurallara uygun olarak karşıya geçmekte olan yayalara ilk geçiş hakkını vermek zorundadır[cite: 886, 981]."
+    "description": "Dönüş yapan sürücüler, kurallara uygun olarak karşıya geçmekte olan yayalara ilk geçiş hakkını vermek zorundadır."
   },{
     "id": 3101,
     "category": "Trafik ve Çevre",
@@ -1328,7 +1328,7 @@
     "id": 3103,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tehlike uyarı işareti ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fgev%25C5%259Fek-%25C5%259Fev-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fgev%25C5%259Fek-%25C5%2jRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
     "options": [
       { "text": "Kasisli yol", "isTrue": false },
       { "text": "Gevşek malzemeli zemin", "isTrue": false },
@@ -3127,7 +3127,7 @@
       { "text": "Yaya Yolu (Kaldırım)", "isTrue": true },
       { "text": "Şerit", "isTrue": false }
     ],
-    "description": "Yaya Yolu (Kaldırım), karayolunun, taşıt yolu kenarı ile gerçek veya tüzel kişilere ait mülkler arasında kalan ve yalnız yayaların kullanımına ayrılmış olan kısmıdır[cite: 38]."
+    "description": "Yaya Yolu (Kaldırım), karayolunun, taşıt yolu kenarı ile gerçek veya tüzel kişilere ait mülkler arasında kalan ve yalnız yayaların kullanımına ayrılmış olan kısmıdır."
   },
   {
     "id": 3242,
@@ -3140,7 +3140,7 @@
       { "text": "100 metre", "isTrue": false },
       { "text": "150 metre", "isTrue": true }
     ],
-    "description": "Sürücüler kavşaklara yaklaşırken; yerleşim yerlerinde 30 metre, yerleşim yerleri dışında 150 metre mesafe içinde şerit değiştirmeleri yasaktır, bu nedenle bu mesafelerden önce uygun şeride girmelidirler[cite: 882]."
+    "description": "Sürücüler kavşaklara yaklaşırken; yerleşim yerlerinde 30 metre, yerleşim yerleri dışında 150 metre mesafe içinde şerit değiştirmeleri yasaktır, bu nedenle bu mesafelerden önce uygun şeride girmelidirler."
   },
   {
     "id": 3243,
@@ -3153,7 +3153,7 @@
       { "text": "Tehlikeli virajı", "isTrue": false },
       { "text": "Deniz kıyısında biten yolu", "isTrue": false }
     ],
-    "description": "Bu işaret (T-5), ileride trafiğe kapalı olabilen bir açılır köprü bulunduğunu bildirir[cite: 316]."
+    "description": "Bu işaret (T-5), ileride trafiğe kapalı olabilen bir açılır köprü bulunduğunu bildirir."
   },
   {
     "id": 3244,
@@ -3166,7 +3166,7 @@
       { "text": "Engel işareti", "isTrue": true },
       { "text": "İlk yardım çantası", "isTrue": false }
     ],
-    "description": "Otobüs, kamyon ve çekicilerde, arızalanmaları durumunda 150 x 25 cm ebadında engel işareti ile işaretleme yapılması zorunludur[cite: 1073, 1188]."
+    "description": "Otobüs, kamyon ve çekicilerde, arızalanmaları durumunda 150 x 25 cm ebadında engel işareti ile işaretleme yapılması zorunludur."
   },
   {
     "id": 3245,
@@ -3179,7 +3179,7 @@
       { "text": "Diğer sürücünün kusurlu olduğunu beyan etmek", "isTrue": false },
       { "text": "Aracını tamir ettirmek", "isTrue": false }
     ],
-    "description": "Kazaya karışanların sorumlulukları arasında durmak, güvenlik önlemi almak, kaza yerindeki durumu değiştirmemek, olayı görevlilere bildirmek ve kaza yerinden ayrılmamak yer alır[cite: 1134]."
+    "description": "Kazaya karışanların sorumlulukları arasında durmak, güvenlik önlemi almak, kaza yerindeki durumu değiştirmemek, olayı görevlilere bildirmek ve kaza yerinden ayrılmamak yer alır."
   },
   {
     "id": 3246,
@@ -3192,7 +3192,7 @@
       { "text": "Görsel: Mavi daire içinde kulaklık figürü", "isTrue": false },
       { "text": "Görsel: Kırmızı daire içinde megafon figürü", "isTrue": false }
     ],
-    "description": "Bu trafik tanzim işareti (TT-30), sürücülerin sesli ikaz cihazlarını (korna) kullanmalarının yasak olduğunu bildirir[cite: 434]."
+    "description": "Bu trafik tanzim işareti (TT-30), sürücülerin sesli ikaz cihazlarını (korna) kullanmalarının yasak olduğunu bildirir."
   },
   {
     "id": 3247,
@@ -3205,7 +3205,7 @@
       { "text": "Panelvan", "isTrue": true },
       { "text": "Arazi taşıtı", "isTrue": false }
     ],
-    "description": "Sürücü ve yanındaki oturma yerleri dışında başka oturma yeri de bulunabilen, sürücü bölümü gövde ile birleşik kamyonetlere panelvan denir[cite: 135]."
+    "description": "Sürücü ve yanındaki oturma yerleri dışında başka oturma yeri de bulunabilen, sürücü bölümü gövde ile birleşik kamyonetlere panelvan denir."
   },
   {
     "id": 3248,
@@ -3218,7 +3218,7 @@
       { "text": "İlk 3 yaş sonunda ve devamında 3 yılda bir", "isTrue": true },
       { "text": "İlk 2 yaş sonunda ve devamında her yıl", "isTrue": false }
     ],
-    "description": "Lastik tekerlekli traktör ve römorkları ilk 3 yaş sonunda ve devamında 3 yılda bir periyodik muayeneye tabi tutulur[cite: 1180]."
+    "description": "Lastik tekerlekli traktör ve römorkları ilk 3 yaş sonunda ve devamında 3 yılda bir periyodik muayeneye tabi tutulur."
   },
   {
     "id": 3249,
@@ -3231,7 +3231,7 @@
       { "text": "Taşıt Katarı", "isTrue": false },
       { "text": "Çekici", "isTrue": false }
     ],
-    "description": "Yarı Römork, taşıdığı yükün ve kendi ağırlığının bir kısmının motorlu araç tarafından taşındığı römorktur[cite: 151]."
+    "description": "Yarı Römork, taşıdığı yükün ve kendi ağırlığının bir kısmının motorlu araç tarafından taşındığı römorktur."
   },
   {
     "id": 3250,
@@ -3244,7 +3244,7 @@
       { "text": "Sadece ağır vasıtaların durması gerektiğini", "isTrue": false },
       { "text": "Belgelerini hazırlaması gerektiğini", "isTrue": false }
     ],
-    "description": "Bu trafik tanzim işareti (TT-31), sürücülerin gümrük kontrolü için durmadan geçmelerinin yasak olduğunu bildirir[cite: 436, 437]."
+    "description": "Bu trafik tanzim işareti (TT-31), sürücülerin gümrük kontrolü için durmadan geçmelerinin yasak olduğunu bildirir."
   },
   {
     "id": 3251,
@@ -3257,7 +3257,7 @@
       { "text": "İstedikleri banketten", "isTrue": false },
       { "text": "Banketten yürümeleri yasaktır.", "isTrue": false }
     ],
-    "description": "Her iki tarafında banket bulunan ve yaya yolu olmayan yollarda, yayalar karşıdan gelen trafiği görebilmek için kendi gidiş yönlerine göre sol banketten yürümek zorundadırlar[cite: 1111]."
+    "description": "Her iki tarafında banket bulunan ve yaya yolu olmayan yollarda, yayalar karşıdan gelen trafiği görebilmek için kendi gidiş yönlerine göre sol banketten yürümek zorundadırlar."
   },
   {
     "id": 3252,
@@ -3270,7 +3270,7 @@
       { "text": "Tali Yol", "isTrue": false },
       { "text": "Geçiş Yolu", "isTrue": true }
     ],
-    "description": "Geçiş yolu, araçların bir mülke (akaryakıt istasyonu, otopark, apartman vb.) girip çıkması için yapılmış olan yolun, karayoluna bağlanan ve karayolu sınır çizgisi içinde kalan kısmıdır[cite: 58]."
+    "description": "Geçiş yolu, araçların bir mülke (akaryakıt istasyonu, otopark, apartman vb.) girip çıkması için yapılmış olan yolun, karayoluna bağlanan ve karayolu sınır çizgisi içinde kalan kısmıdır."
   },
   {
     "id": 3253,
@@ -3283,7 +3283,7 @@
       { "text": "Görsel: Üzerinde iki çapraz çizgi olan 'X' şeklindeki levha.", "isTrue": false },
       { "text": "Görsel: İçinde lokomotif sembolü olan üçgen levha.", "isTrue": false }
     ],
-    "description": "Demiryolu geçidinde bulunan ve 'Andre Haçı' olarak da bilinen, üzerinde tek bir çapraz çizgi olan 'X' şeklindeki levha (T-27a), geçidin kontrolsüz ve tek hatlı olduğunu bildirir[cite: 349]."
+    "description": "Demiryolu geçidinde bulunan ve 'Andre Haçı' olarak da bilinen, üzerinde tek bir çapraz çizgi olan 'X' şeklindeki levha (T-27a), geçidin kontrolsüz ve tek hatlı olduğunu bildirir."
   },
   {
     "id": 3254,
@@ -3296,7 +3296,7 @@
       { "text": "3 numaralı şeridi", "isTrue": false },
       { "text": "Herhangi bir şeridi", "isTrue": false }
     ],
-    "description": "Dönel kavşağa yaklaşırken doğrudan devam edecek sürücüler, yol üç şeritli ise orta şeride (2 numara), iki şeritli ise sağ şeride girmelidir[cite: 907]."
+    "description": "Dönel kavşağa yaklaşırken doğrudan devam edecek sürücüler, yol üç şeritli ise orta şeride (2 numara), iki şeritli ise sağ şeride girmelidir."
   },
   {
     "id": 3255,
@@ -3309,7 +3309,7 @@
       { "text": "Kamyonet", "isTrue": false },
       { "text": "Otobüs", "isTrue": true }
     ],
-    "description": "Otobüs, azami ağırlığı 3,5 tondan fazla olan araçlar ve iki dingilli römorklarda bir adet tekerlek takozu bulundurulması ve eğimli yollarda park ederken kullanılması zorunludur[cite: 1185]."
+    "description": "Otobüs, azami ağırlığı 3,5 tondan fazla olan araçlar ve iki dingilli römorklarda bir adet tekerlek takozu bulundurulması ve eğimli yollarda park ederken kullanılması zorunludur."
   },
   {
     "id": 3256,
@@ -3322,7 +3322,7 @@
       { "text": "Hafif Kusur", "isTrue": false },
       { "text": "Kusur sayılmaz", "isTrue": false }
     ],
-    "description": "İkiden fazla şeritli taşıt yollarında, karşı yönden gelen trafiğin kullandığı şerit veya yol bölümüne girmek, 'Asli Kusur' sayılan hallerdendir[cite: 1230]."
+    "description": "İkiden fazla şeritli taşıt yollarında, karşı yönden gelen trafiğin kullandığı şerit veya yol bölümüne girmek, 'Asli Kusur' sayılan hallerdendir."
   },
   {
     "id": 3257,
@@ -3335,7 +3335,7 @@
       { "text": "Herhangi bir tescil biriminde yenilenir.", "isTrue": true },
       { "text": "Ceza ödenir ve kullanıma devam edilir.", "isTrue": false }
     ],
-    "description": "Trafik belgesinin kaybolması, yıpranması veya muayene bölümlerinin bitmiş olması halinde, herhangi bir tescil biriminde yenilenir[cite: 1178]."
+    "description": "Trafik belgesinin kaybolması, yıpranması veya muayene bölümlerinin bitmiş olması halinde, herhangi bir tescil biriminde yenilenir."
   },
   {
     "id": 3258,
@@ -3348,7 +3348,7 @@
       { "text": "İnternet kafe olduğunu", "isTrue": false },
       { "text": "Bilgi işlem merkezi olduğunu", "isTrue": false }
     ],
-    "description": "Bu işaret (B-44), sürücülere ve yolculara turistik bilgi alabilecekleri bir danışma bürosunun yakınlarda olduğunu bildirir[cite: 567]."
+    "description": "Bu işaret (B-44), sürücülere ve yolculara turistik bilgi alabilecekleri bir danışma bürosunun yakınlarda olduğunu bildirir."
   },
   {
     "id": 3259,
@@ -3361,7 +3361,7 @@
       { "text": "25", "isTrue": false },
       { "text": "30", "isTrue": false }
     ],
-    "description": "Hız sınırları tablosuna göre, servis freni bozuk araçları çeken araçların hızı, yol şartları ne olursa olsun saatte 15 kilometreyi geçemez[cite: 789]."
+    "description": "Hız sınırları tablosuna göre, servis freni bozuk araçları çeken araçların hızı, yol şartları ne olursa olsun saatte 15 kilometreyi geçemez."
   },
   {
     "id": 3260,
@@ -3374,7 +3374,7 @@
       { "text": "Öndeki aracı geçmek (sollamak)", "isTrue": true },
       { "text": "Okul geçidi görevlisinin talimatına uymak", "isTrue": false }
     ],
-    "description": "Yaya ve okul geçitlerine yaklaşan bütün sürücüler araçlarını yavaşlatmak zorundadır. Bu geçitlerde öndeki aracı geçmek, duraklamak ve park etmek yasaktır[cite: 99, 100]."
+    "description": "Yaya ve okul geçitlerine yaklaşan bütün sürücüler araçlarını yavaşlatmak zorundadır. Bu geçitlerde öndeki aracı geçmek, duraklamak ve park etmek yasaktır."
   },
   {
     "id": 3261,
@@ -3387,7 +3387,7 @@
       { "text": "Yolun ortasından yürüyerek", "isTrue": false },
       { "text": "İstedikleri gibi dağınık bir şekilde", "isTrue": false }
     ],
-    "description": "Bir yetkili veya görevli yönetiminde yürüyenler (yürüyüş kolu), taşıt yolunun en sağ şeridinden fazla kısmını işgal etmeden, gece ve gündüz görüşün az olduğu hallerde imkân oranında tek sıra halinde yürüyebilirler[cite: 1117]."
+    "description": "Bir yetkili veya görevli yönetiminde yürüyenler (yürüyüş kolu), taşıt yolunun en sağ şeridinden fazla kısmını işgal etmeden, gece ve gündüz görüşün az olduğu hallerde imkân oranında tek sıra halinde yürüyebilirler."
   },
   {
     "id": 3262,
@@ -3400,7 +3400,7 @@
       { "text": "Vahşi hayvanların yola çıkabileceğini", "isTrue": true },
       { "text": "Avlanmanın yasak olduğu bölgeyi", "isTrue": false }
     ],
-    "description": "Bu işaret (T-14b), yol üzerinde veya kenarında vahşi hayvanların bulunabileceğini ve yola çıkma ihtimalleri olduğunu, bu nedenle sürücülerin yavaşlamaları ve dikkatli olmaları gerektiğini bildirir[cite: 329]."
+    "description": "Bu işaret (T-14b), yol üzerinde veya kenarında vahşi hayvanların bulunabileceğini ve yola çıkma ihtimalleri olduğunu, bu nedenle sürücülerin yavaşlamaları ve dikkatli olmaları gerektiğini bildirir."
   },
   {
     "id": 3263,
@@ -3413,7 +3413,7 @@
       { "text": "İçişleri Bakanı", "isTrue": false },
       { "text": "Emniyet Genel Müdürü", "isTrue": false }
     ],
-    "description": "Karayolları Güvenliği Yüksek Kurulu, Başbakan'ın başkanlığında yılda 2 defa toplanır[cite: 1242]."
+    "description": "Karayolları Güvenliği Yüksek Kurulu, Başbakan'ın başkanlığında yılda 2 defa toplanır."
   },
   {
     "id": 3264,
@@ -3426,7 +3426,7 @@
       { "text": "Beyaz ışık veya beyaz bez", "isTrue": false },
       { "text": "Herhangi bir işaret konulmasına gerek yoktur.", "isTrue": false }
     ],
-    "description": "Çeken ve çekilen araçlar arasındaki bağlantı en fazla 5 metre olmalıdır. Bu mesafe 2,5 metreyi geçtiği takdirde, bağlantının orta kısmına gündüz kırmızı yansıtıcı veya 20x20 cm ebadında kırmızı bez, gece ise kırmızı ışık veya kırmızı yansıtıcı konulmalıdır[cite: 1080]."
+    "description": "Çeken ve çekilen araçlar arasındaki bağlantı en fazla 5 metre olmalıdır. Bu mesafe 2,5 metreyi geçtiği takdirde, bağlantının orta kısmına gündüz kırmızı yansıtıcı veya 20x20 cm ebadında kırmızı bez, gece ise kırmızı ışık veya kırmızı yansıtıcı konulmalıdır."
   },
   {
     "id": 3265,
@@ -3439,7 +3439,7 @@
       { "text": "Çevre Kirliliği", "isTrue": true },
       { "text": "Erozyon", "isTrue": false }
     ],
-    "description": "Çevre Kirliliği, insanların faaliyetleri sonucu havada, suda, toprakta meydana gelen olumsuz gelişmelerle, ekolojik dengenin bozulmasıdır[cite: 1217]."
+    "description": "Çevre Kirliliği, insanların faaliyetleri sonucu havada, suda, toprakta meydana gelen olumsuz gelişmelerle, ekolojik dengenin bozulmasıdır."
   },
   {
     "id": 3266,
@@ -3452,7 +3452,7 @@
       { "text": "15 metre", "isTrue": false },
       { "text": "20 metre", "isTrue": false }
     ],
-    "description": "Park etmenin yasak olduğu yerlerden biri de, yangın musluklarına her iki yönden 5 metre mesafe içidir[cite: 1022]."
+    "description": "Park etmenin yasak olduğu yerlerden biri de, yangın musluklarına her iki yönden 5 metre mesafe içidir."
   },
   {
     "id": 3267,
@@ -3465,7 +3465,7 @@
       { "text": "Mecburi otobüs yolu", "isTrue": false },
       { "text": "Otobüs geçebilir", "isTrue": false }
     ],
-    "description": "Bu işaret (TT-10b), bu yola otobüslerin girmesinin yasak olduğunu bildirir[cite: 395]."
+    "description": "Bu işaret (TT-10b), bu yola otobüslerin girmesinin yasak olduğunu bildirir."
   },
   {
     "id": 3268,
@@ -3478,7 +3478,7 @@
       { "text": "45 gün", "isTrue": false },
       { "text": "2 ay", "isTrue": false }
     ],
-    "description": "Daha önce tescil edilmiş bir aracı satın alanlar, 1 ay içinde, ilgili tescil kuruluşlarında kendi adlarına tescil (devir) yaptırmak zorundadır[cite: 1166]."
+    "description": "Daha önce tescil edilmiş bir aracı satın alanlar, 1 ay içinde, ilgili tescil kuruluşlarında kendi adlarına tescil (devir) yaptırmak zorundadır."
   },
   {
     "id": 3269,
@@ -3491,7 +3491,7 @@
       { "text": "Tek yönlü yollar ve otoyollar", "isTrue": true },
       { "text": "Tali yollar", "isTrue": false }
     ],
-    "description": "Sürücülerin bağlantı yolları, otoyollar ve tek yönlü yollarda geri gitmeleri yasaktır[cite: 946]."
+    "description": "Sürücülerin bağlantı yolları, otoyollar ve tek yönlü yollarda geri gitmeleri yasaktır."
   },
   {
     "id": 3270,
@@ -3504,7 +3504,7 @@
       { "text": "Ehliyetine el konulur.", "isTrue": false },
       { "text": "Herhangi bir işlem yapılmaz.", "isTrue": false }
     ],
-    "description": "Meydana gelen tehlike ve engeller ilgili kuruluşlarca ortadan kaldırılır, bozukluk ve eksiklikler giderilir; zarar karşılıkları ve masrafları ise sorumlulara ödetilir[cite: 208]."
+    "description": "Meydana gelen tehlike ve engeller ilgili kuruluşlarca ortadan kaldırılır, bozukluk ve eksiklikler giderilir; zarar karşılıkları ve masrafları ise sorumlulara ödetilir."
   },
   {
     "id": 3271,
@@ -3517,7 +3517,7 @@
       { "text": "Yolu kullanan diğer araç sürücülerini ikaz ederek durdurup yolu kendisine açmalarını beklemek.", "isTrue": false },
       { "text": "Görüş alanı dışındaysa bir gözcü yardımıyla veya yavaşça çıkarak yolu kontrol etmek ve yolu kullanan araçlara geçiş hakkı vermek.", "isTrue": true }
     ],
-    "description": "Park yerinden çıkarken, özellikle görüşün kısıtlı olduğu durumlarda, diğer yol kullanıcılarına tehlike oluşturmamak esastır. Bu nedenle yavaş ve kontrollü bir şekilde, gerekirse bir yardımcı (gözcü) ile çıkılmalı ve yoldaki trafiğe öncelik tanınmalıdır. Bu, genel manevra kuralları kapsamındadır[cite: 917, 919, 921]."
+    "description": "Park yerinden çıkarken, özellikle görüşün kısıtlı olduğu durumlarda, diğer yol kullanıcılarına tehlike oluşturmamak esastır. Bu nedenle yavaş ve kontrollü bir şekilde, gerekirse bir yardımcı (gözcü) ile çıkılmalı ve yoldaki trafiğe öncelik tanınmalıdır. Bu, genel manevra kuralları kapsamındadır."
   },
   {
     "id": 3272,
@@ -3530,7 +3530,7 @@
       { "text": "Fırtına uyarısını", "isTrue": false },
       { "text": "Havaalanına yaklaşıldığını", "isTrue": false }
     ],
-    "description": "Bu işaret (T-18), özellikle köprü, viyadük gibi yüksek veya ormanlık alan çıkışı gibi korumasız kesimlerde, aracın direksiyon hakimiyetini etkileyebilecek şiddetli yan rüzgarların olabileceği konusunda sürücüyü uyarır[cite: 334]."
+    "description": "Bu işaret (T-18), özellikle köprü, viyadük gibi yüksek veya ormanlık alan çıkışı gibi korumasız kesimlerde, aracın direksiyon hakimiyetini etkileyebilecek şiddetli yan rüzgarların olabileceği konusunda sürücüyü uyarır."
   },
   {
     "id": 3273,
@@ -3543,7 +3543,7 @@
       { "text": "Akan ve duran trafiği düzenlemek ve yönetmek.", "isTrue": true },
       { "text": "Araçların periyodik muayenelerini yapmak.", "isTrue": false }
     ],
-    "description": "Emniyet Genel Müdürlüğü'nün görevleri arasında; sürücü belgelerini düzenlemek, araçların tescil işlemlerini yapmak, akan ve duran trafiği düzenlemek, denetlemek ve yönetmek yer alır[cite: 1247]."
+    "description": "Emniyet Genel Müdürlüğü'nün görevleri arasında; sürücü belgelerini düzenlemek, araçların tescil işlemlerini yapmak, akan ve duran trafiği düzenlemek, denetlemek ve yönetmek yer alır."
   },
   {
     "id": 3274,
@@ -3556,7 +3556,7 @@
       { "text": "Yavaşlamalı, durarak yayaya ilk geçiş hakkını vermelidir.", "isTrue": true },
       { "text": "Yayanın arkasından dikkatlice geçmelidir.", "isTrue": false }
     ],
-    "description": "Yaya ve okul geçitlerine yaklaşan bütün sürücüler araçlarını yavaşlatmak, bu geçitten geçen veya geçmek üzere olan yayalara ilk geçiş hakkını vermek zorundadır[cite: 99]."
+    "description": "Yaya ve okul geçitlerine yaklaşan bütün sürücüler araçlarını yavaşlatmak, bu geçitten geçen veya geçmek üzere olan yayalara ilk geçiş hakkını vermek zorundadır."
   },
   {
     "id": 3275,
@@ -3569,7 +3569,7 @@
       { "text": "Otoyoldaki hız sınırı", "isTrue": false },
       { "text": "Traktörler için hız sınırı", "isTrue": true }
     ],
-    "description": "Türkiye Hız Sınırları Levhası (B-8c), ülkeye giriş yapan sürücülere genel hız limitlerini bildirir. Bu levhada genellikle standart otomobiller için yerleşim yeri içi, şehirler arası (bölünmüş/bölünmemiş) yol ve otoyol hız limitleri gösterilir. Traktör gibi özel araçların hız limitleri bu genel tabelada yer almaz[cite: 532]."
+    "description": "Türkiye Hız Sınırları Levhası (B-8c), ülkeye giriş yapan sürücülere genel hız limitlerini bildirir. Bu levhada genellikle standart otomobiller için yerleşim yeri içi, şehirler arası (bölünmüş/bölünmemiş) yol ve otoyol hız limitleri gösterilir. Traktör gibi özel araçların hız limitleri bu genel tabelada yer almaz."
   },
   {
     "id": 3276,
@@ -3582,7 +3582,7 @@
       { "text": "Dönel Kavşak", "isTrue": false },
       { "text": "Ana Yol-Tali Yol Kavşağı", "isTrue": false }
     ],
-    "description": "Trafik zabıtası, ışıklı işaret cihazları ve trafik işaret levhası bulunmayan kavşaklara kontrolsüz kavşak denir ve bu kavşaklarda genel geçiş hakkı kuralları uygulanır[cite: 957]."
+    "description": "Trafik zabıtası, ışıklı işaret cihazları ve trafik işaret levhası bulunmayan kavşaklara kontrolsüz kavşak denir ve bu kavşaklarda genel geçiş hakkı kuralları uygulanır."
   },
   {
     "id": 3277,
@@ -3595,7 +3595,7 @@
       { "text": "Sadece kontrollü geçitlerde geçebilir.", "isTrue": false },
       { "text": "Sadece gündüzleri geçebilir.", "isTrue": false }
     ],
-    "description": "Öndeki aracı geçmenin yasak olduğu yerler arasında demiryolu geçitlerine yaklaşırken ve bu geçitler üzerinde öndeki aracı geçmek de bulunur[cite: 877]."
+    "description": "Öndeki aracı geçmenin yasak olduğu yerler arasında demiryolu geçitlerine yaklaşırken ve bu geçitler üzerinde öndeki aracı geçmek de bulunur."
   },
   {
     "id": 3278,
@@ -3608,7 +3608,7 @@
       { "text": "Platform", "isTrue": false },
       { "text": "Şerit", "isTrue": true }
     ],
-    "description": "Şerit, taşıtların bir dizi halinde güvenle seyredebilmeleri için taşıt yolunun çizgilerle ayrılmış bölümüdür[cite: 40]."
+    "description": "Şerit, taşıtların bir dizi halinde güvenle seyredebilmeleri için taşıt yolunun çizgilerle ayrılmış bölümüdür."
   },
   {
     "id": 3279,
@@ -3621,7 +3621,7 @@
       { "text": "Araç arızaları", "isTrue": false },
       { "text": "Hava koşulları", "isTrue": false }
     ],
-    "description": "Yapılan araştırmalar ve istatistikler, trafik kazalarının çok büyük bir bölümünün (%90'dan fazlası) sürücü hatalarından (dikkatsizlik, kural ihlali, alkol vb.) kaynaklandığını göstermektedir. PDF'in genel içeriği ve kusur payları bölümü bu bilgiyi destekler[cite: 1119]."
+    "description": "Yapılan araştırmalar ve istatistikler, trafik kazalarının çok büyük bir bölümünün (%90'dan fazlası) sürücü hatalarından (dikkatsizlik, kural ihlali, alkol vb.) kaynaklandığını göstermektedir. PDF'in genel içeriği ve kusur payları bölümü bu bilgiyi destekler."
   },
   {
     "id": 3280,
@@ -3634,7 +3634,7 @@
       { "text": "Kırmızı çerçeveli üçgen levhalar", "isTrue": false },
       { "text": "Mavi zeminli kare levhalar", "isTrue": false }
     ],
-    "description": "Mavi zeminli yuvarlak levhalar (TT-35 serisi), mecburi yönleri bildirir ve sürücülerin bu levhaların gösterdiği istikamete veya istikametlere gitmek zorunda olduğunu belirtir[cite: 442, 446, 447, 448, 449, 451, 452, 453]."
+    "description": "Mavi zeminli yuvarlak levhalar (TT-35 serisi), mecburi yönleri bildirir ve sürücülerin bu levhaların gösterdiği istikamete veya istikametlere gitmek zorunda olduğunu belirtir."
   },
   {
     "id": 3281,
@@ -3647,7 +3647,7 @@
       { "text": "Sağ veya sol kolunu dirsekten kırıp elini yukarıda tutarak başa doğru ileri geri hareket ettirir.", "isTrue": true },
       { "text": "Düdüğünü uzun ve kesiksiz çalar.", "isTrue": false }
     ],
-    "description": "Trafiği hızlandırma işareti; trafik görevlisinin, sağ veya sol kolunu dirsekten kırmak suretiyle eli yukarıda olacak şekilde kısa açı ile başa doğru ileri geri hareket yapmasıdır[cite: 247, 248]."
+    "description": "Trafiği hızlandırma işareti; trafik görevlisinin, sağ veya sol kolunu dirsekten kırmak suretiyle eli yukarıda olacak şekilde kısa açı ile başa doğru ileri geri hareket yapmasıdır."
   },
   {
     "id": 3282,
@@ -3660,7 +3660,7 @@
       { "text": "15 metre", "isTrue": false },
       { "text": "20 metre", "isTrue": false }
     ],
-    "description": "Park, bahçe, garaj, sinema, fabrika, atölye, iş hanı, okul, hastane vb. tesis ve işyerlerinin giriş ve çıkış kapılarına her iki yönde 5 metre mesafe içinde park etmek yasaktır[cite: 1024, 1025]."
+    "description": "Park, bahçe, garaj, sinema, fabrika, atölye, iş hanı, okul, hastane vb. tesis ve işyerlerinin giriş ve çıkış kapılarına her iki yönde 5 metre mesafe içinde park etmek yasaktır."
   },
   {
     "id": 3283,
@@ -3673,7 +3673,7 @@
       { "text": "Hızını artırarak kavşaktan uzaklaşmalıdır.", "isTrue": false },
       { "text": "Yoluna devam etmelidir.", "isTrue": false }
     ],
-    "description": "Bir kavşakta iken geçiş üstünlüğüne sahip bir aracın işaretini alan araç sürücüleri, derhal kavşağı boşaltmak ve gerekiyorsa emniyetli bir mesafe uzaklaştıktan sonra geçişi engellemeyecek şekilde durmak zorundadır[cite: 1005]."
+    "description": "Bir kavşakta iken geçiş üstünlüğüne sahip bir aracın işaretini alan araç sürücüleri, derhal kavşağı boşaltmak ve gerekiyorsa emniyetli bir mesafe uzaklaştıktan sonra geçişi engellemeyecek şekilde durmak zorundadır."
   },
   {
     "id": 3284,
@@ -3686,7 +3686,7 @@
       { "text": "Görsel: Mavi zeminli, sağa dönen beyaz oklu yuvarlak levha", "isTrue": false },
       { "text": "Görsel: Kırmızı çerçeveli, içinde sola dönen siyah oklu üçgen levha", "isTrue": false }
     ],
-    "description": "Refüj başı ek levhaları (T-34a,b), sürücülerin refüj veya adaların başlarında, engelin sağından veya solundan gitmeleri gerektiğini bildiren, genellikle sarı zeminli ve siyah oklu levhalardır[cite: 371]."
+    "description": "Refüj başı ek levhaları (T-34a,b), sürücülerin refüj veya adaların başlarında, engelin sağından veya solundan gitmeleri gerektiğini bildiren, genellikle sarı zeminli ve siyah oklu levhalardır."
   },
   {
     "id": 3285,
@@ -3699,7 +3699,7 @@
       { "text": "Süresiz olarak iptal edilir.", "isTrue": true },
       { "text": "Para cezasına çevrilir.", "isTrue": false }
     ],
-    "description": "Bir yıl içinde üçüncü defa 100 ceza puanını dolduran sürücülerin belgeleri süresiz olarak iptal edilir[cite: 1212]."
+    "description": "Bir yıl içinde üçüncü defa 100 ceza puanını dolduran sürücülerin belgeleri süresiz olarak iptal edilir."
   },
   {
     "id": 3286,
@@ -3712,7 +3712,7 @@
       { "text": "Sadece tecrübeli sürücüler yapabilir.", "isTrue": false },
       { "text": "Motoru dinlendirmek için faydalıdır.", "isTrue": false }
     ],
-    "description": "Sürücülerin, tehlikeli eğimli yollarda motorun çalışmasını durdurup, vitesi boşa alarak araç sürmeleri yasaktır[cite: 771]. Bu durum, fren sisteminin aşırı ısınmasına ve kontrol kaybına neden olabilir."
+    "description": "Sürücülerin, tehlikeli eğimli yollarda motorun çalışmasını durdurup, vitesi boşa alarak araç sürmeleri yasaktır. Bu durum, fren sisteminin aşırı ısınmasına ve kontrol kaybına neden olabilir."
   },
   {
     "id": 3287,
@@ -3725,7 +3725,7 @@
       { "text": "Tarafların her ikisinin de sigortası varsa", "isTrue": false },
       { "text": "Kaza, yerleşim yeri içinde meydana geldiyse", "isTrue": false }
     ],
-    "description": "Yetkililer tarafından tutanak tutulması gereken durumlardan biri, taraflardan birinin sürücü belgesinin bulunmamasıdır[cite: 1130]."
+    "description": "Yetkililer tarafından tutanak tutulması gereken durumlardan biri, taraflardan birinin sürücü belgesinin bulunmamasıdır."
   },
   {
     "id": 3288,
@@ -3738,7 +3738,7 @@
       { "text": "Hayır, çünkü yol virajlıdır.", "isTrue": false },
       { "text": "Evet, ama sadece hızını %10 artırarak.", "isTrue": false }
     ],
-    "description": "Kesik yol çizgisi, bu çizgi boyunca kurallara (görüş mesafesi, arkadan gelen trafik vb.) uymak şartıyla öndeki aracın geçilebileceğini bildirir[cite: 598]."
+    "description": "Kesik yol çizgisi, bu çizgi boyunca kurallara (görüş mesafesi, arkadan gelen trafik vb.) uymak şartıyla öndeki aracın geçilebileceğini bildirir."
   },
   {
     "id": 3289,
@@ -3751,7 +3751,7 @@
       { "text": "Sigorta şirketinden onay alınması", "isTrue": false },
       { "text": "Tescil belgesinin yenilenmesi", "isTrue": false }
     ],
-    "description": "Muayene süresi dolmasa bile, kazaya karışması sonucu yetkili zabıtaca muayenesi gerekli görülenler ile araç üzerinde değişiklik yapılması halinde muayenesi zorunludur[cite: 1181]."
+    "description": "Muayene süresi dolmasa bile, kazaya karışması sonucu yetkili zabıtaca muayenesi gerekli görülenler ile araç üzerinde değişiklik yapılması halinde muayenesi zorunludur."
   },
   {
     "id": 3290,
@@ -3764,7 +3764,7 @@
       { "text": "Emniyetli bir şekilde duramayacaksa geçmeli, durabilecekse durmalıdır.", "isTrue": true },
       { "text": "Korna çalarak diğer sürücüleri uyarmalıdır.", "isTrue": false }
     ],
-    "description": "Yeşil ışıktan sonra yanan sarı ışık, yolun trafiğe kapanmak üzere olduğunu bildirir. Yeterli mesafe varsa ve emniyetli bir şekilde durulabilecekse durulur; emniyetli bir şekilde durulamayacaksa geçilir[cite: 289, 290]."
+    "description": "Yeşil ışıktan sonra yanan sarı ışık, yolun trafiğe kapanmak üzere olduğunu bildirir. Yeterli mesafe varsa ve emniyetli bir şekilde durulabilecekse durulur; emniyetli bir şekilde durulamayacaksa geçilir."
   },
   {
     "id": 3291,
@@ -3777,7 +3777,7 @@
       { "text": "Görsel: İçinde helikopter figürü olan üçgen levha.", "isTrue": false },
       { "text": "Görsel: İçinde yıldırım figürü olan üçgen levha.", "isTrue": false }
     ],
-    "description": "Bu tehlike uyarı işareti (T-17), havaalanı yakınlarında alçak uçuş yapan uçakların olabileceğini ve bunların ani gürültüsünün sürücüleri ve hayvanları ürkütebileceğini bildirerek dikkatli olunmasını ister[cite: 333]."
+    "description": "Bu tehlike uyarı işareti (T-17), havaalanı yakınlarında alçak uçuş yapan uçakların olabileceğini ve bunların ani gürültüsünün sürücüleri ve hayvanları ürkütebileceğini bildirerek dikkatli olunmasını ister."
   },
   {
     "id": 3292,
@@ -3790,7 +3790,7 @@
       { "text": "15 metre", "isTrue": true },
       { "text": "25 metre", "isTrue": false }
     ],
-    "description": "Park etmenin yasak olduğu yerlerden biri de, yolcu taşıma araçlarının duraklarını belirten levhalara her iki yönden 15 metre mesafe içidir[cite: 1022]."
+    "description": "Park etmenin yasak olduğu yerlerden biri de, yolcu taşıma araçlarının duraklarını belirten levhalara her iki yönden 15 metre mesafe içidir."
   },
   {
     "id": 3293,
@@ -3803,7 +3803,7 @@
       { "text": "Sadece maddi hasarlı bir kaza olup taraflar anlaştıysa.", "isTrue": true },
       { "text": "Kaza sonucu bir yaralanma meydana geldiyse.", "isTrue": false }
     ],
-    "description": "Kazaya karışan sürücülerin tümü, yetkililerin gelmesini gerekli görmez ve aralarında anlaşırlarsa, 'Maddi Hasarlı Trafik Kazası Tespit Tutanağı'nı kendileri düzenleyebilirler. Diğer tüm durumlarda yetkililerin tutanak düzenlemesi zorunludur[cite: 1124, 1130, 1131]."
+    "description": "Kazaya karışan sürücülerin tümü, yetkililerin gelmesini gerekli görmez ve aralarında anlaşırlarsa, 'Maddi Hasarlı Trafik Kazası Tespit Tutanağı'nı kendileri düzenleyebilirler. Diğer tüm durumlarda yetkililerin tutanak düzenlemesi zorunludur."
   },
   {
     "id": 3294,
@@ -3816,7 +3816,7 @@
       { "text": "Şerit", "isTrue": false },
       { "text": "Geçiş Yolu", "isTrue": false }
     ],
-    "description": "Platform, karayolunun, kaplama (taşıt yolu) ile yaya yolu veya banketinden oluşan kısmıdır[cite: 41]."
+    "description": "Platform, karayolunun, kaplama (taşıt yolu) ile yaya yolu veya banketinden oluşan kısmıdır."
   },
   {
     "id": 3295,
@@ -3829,7 +3829,7 @@
       { "text": "Bisikletli ile arasında güvenli bir yan mesafe bırakarak ve hızını düşürerek geçmelidir.", "isTrue": true },
       { "text": "Bisikletliyi geçmek yasak olduğu için arkasında beklemelidir.", "isTrue": false }
     ],
-    "description": "Karayolunu paylaşan tüm sürücüler, kendilerinden daha savunmasız olan yol kullanıcılarına (yayalar, bisikletliler) karşı daha dikkatli ve saygılı olmak zorundadır. Bu, genel trafik güvenliği ve adabı kuralları gereğidir ve sollama kurallarının bir parçasıdır[cite: 853, 854]."
+    "description": "Karayolunu paylaşan tüm sürücüler, kendilerinden daha savunmasız olan yol kullanıcılarına (yayalar, bisikletliler) karşı daha dikkatli ve saygılı olmak zorundadır. Bu, genel trafik güvenliği ve adabı kuralları gereğidir ve sollama kurallarının bir parçasıdır."
   },
   {
     "id": 3296,
@@ -3842,7 +3842,7 @@
       { "text": "Moped (Motorlu Bisiklet) giremez", "isTrue": true },
       { "text": "Tüm motorlu taşıtlar giremez", "isTrue": false }
     ],
-    "description": "Bu işaret (TT-9), mopedlerin (motorlu bisiklet) bu yola girmesinin yasak olduğunu bildirir[cite: 393]."
+    "description": "Bu işaret (TT-9), mopedlerin (motorlu bisiklet) bu yola girmesinin yasak olduğunu bildirir."
   },
   {
     "id": 3297,
@@ -3855,7 +3855,7 @@
       { "text": "En sağ şeritten fazla kısmını işgal etmeden", "isTrue": true },
       { "text": "Banketten", "isTrue": false }
     ],
-    "description": "Bir yetkili veya görevli yönetiminde yürüyenler, taşıt yolunun en sağ şeridinden fazla kısmını işgal etmeden yürüyebilirler[cite: 1117]."
+    "description": "Bir yetkili veya görevli yönetiminde yürüyenler, taşıt yolunun en sağ şeridinden fazla kısmını işgal etmeden yürüyebilirler."
   },
   {
     "id": 3298,
@@ -3868,7 +3868,7 @@
       { "text": "Emniyet Genel Müdürlüğü", "isTrue": true },
       { "text": "Karayolları Genel Müdürlüğü", "isTrue": false }
     ],
-    "description": "Emniyet Genel Müdürlüğü'nün görevleri arasında, hasar tazminatı ödemelerini hızlandırmak için sigorta şirketlerince istenen bilgi ve belgeleri vermek de bulunur[cite: 1247]."
+    "description": "Emniyet Genel Müdürlüğü'nün görevleri arasında, hasar tazminatı ödemelerini hızlandırmak için sigorta şirketlerince istenen bilgi ve belgeleri vermek de bulunur."
   },
   {
     "id": 3299,
@@ -3881,7 +3881,7 @@
       { "text": "Öfke kontrolü ve sakinlik", "isTrue": true },
       { "text": "Dalgınlık ve dikkatsizlik", "isTrue": false }
     ],
-    "description": "Güvenli sürücülük, sadece kuralları bilmekle değil, aynı zamanda olumlu kişilik özelliklerine sahip olmayı da gerektirir. Öfke kontrolü, sakinlik, sabır ve başkalarına saygı gibi özellikler kaza riskini azaltır. Bu konular, PDF'in 'Trafik Psikolojisi' bölümünde ele alınmıştır[cite: 1261]."
+    "description": "Güvenli sürücülük, sadece kuralları bilmekle değil, aynı zamanda olumlu kişilik özelliklerine sahip olmayı da gerektirir. Öfke kontrolü, sakinlik, sabır ve başkalarına saygı gibi özellikler kaza riskini azaltır. Bu konular, PDF'in 'Trafik Psikolojisi' bölümünde ele alınmıştır."
   },
   {
     "id": 3300,
@@ -3894,7 +3894,7 @@
       { "text": "Tüm araçların", "isTrue": true },
       { "text": "Hiçbirinin, sürekli kullanım serbesttir.", "isTrue": false }
     ],
-    "description": "Tırmanma şeridi olarak da bilinen bu yollarda orta şerit sadece geçiş (sollama) içindir. Yönü ne olursa olsun hiçbir aracın bu şeridi devamlı olarak işgal etmesi doğru ve güvenli değildir. Geçiş tamamlandıktan sonra herkes kendi sağ şeridine dönmelidir[cite: 614, 615]."
+    "description": "Tırmanma şeridi olarak da bilinen bu yollarda orta şerit sadece geçiş (sollama) içindir. Yönü ne olursa olsun hiçbir aracın bu şeridi devamlı olarak işgal etmesi doğru ve güvenli değildir. Geçiş tamamlandıktan sonra herkes kendi sağ şeridine dönmelidir."
   },
   {
     "id": 3301,
@@ -3907,7 +3907,7 @@
       { "text": "Görev sırasında, can ve mal güvenliğini tehlikeye sokmamak şartıyla", "isTrue": true },
       { "text": "Sadece trafik sıkışık olduğunda", "isTrue": false }
     ],
-    "description": "Geçiş üstünlüğü; görev sırasında, belirli araç sürücülerinin can ve mal güvenliğini tehlikeye sokmamak şartı ile trafik kısıtlama veya yasaklarına bağlı olmamalarıdır[cite: 24]."
+    "description": "Geçiş üstünlüğü; görev sırasında, belirli araç sürücülerinin can ve mal güvenliğini tehlikeye sokmamak şartı ile trafik kısıtlama veya yasaklarına bağlı olmamalarıdır."
   },
   {
     "id": 3302,
@@ -3920,7 +3920,7 @@
       { "text": "150 metre", "isTrue": false },
       { "text": "Mesafe önemli değildir, her yerden geçebilir.", "isTrue": false }
     ],
-    "description": "Yolun karşı tarafına geçmek isteyen yayalar, yaya ve okul geçitlerinden veya kavşaklardan geçmek zorundadırlar. 100 metre yakınında bu gibi yerler yoksa, gelen taşıtların hızını kontrol ederek en kısa doğrultuda karşıya geçebilirler[cite: 1112, 1113]."
+    "description": "Yolun karşı tarafına geçmek isteyen yayalar, yaya ve okul geçitlerinden veya kavşaklardan geçmek zorundadırlar. 100 metre yakınında bu gibi yerler yoksa, gelen taşıtların hızını kontrol ederek en kısa doğrultuda karşıya geçebilirler."
   },
   {
     "id": 3303,
@@ -3933,7 +3933,7 @@
       { "text": "Görsel: Mavi yuvarlak levha içinde sadece yukarı bakan beyaz ok.", "isTrue": false },
       { "text": "Görsel: Mavi yuvarlak levha içinde sağa ve sola bakan iki beyaz ok.", "isTrue": false }
     ],
-    "description": "Bu mecburi yön levhası (TT-35d), sürücülerin kavşakta sadece ileri veya sağa gidebileceklerini, sola veya geriye dönemeyeceklerini bildirir[cite: 448]."
+    "description": "Bu mecburi yön levhası (TT-35d), sürücülerin kavşakta sadece ileri veya sağa gidebileceklerini, sola veya geriye dönemeyeceklerini bildirir."
   },
   {
     "id": 3304,
@@ -3946,7 +3946,7 @@
       { "text": "20", "isTrue": false },
       { "text": "25", "isTrue": false }
     ],
-    "description": "Hız sınırlarını %30'dan fazla aşan sürücülere 356 TL (2014) hafif para cezası ve 15 ceza puanı uygulanır[cite: 799]."
+    "description": "Hız sınırlarını %30'dan fazla aşan sürücülere 356 TL (2014) hafif para cezası ve 15 ceza puanı uygulanır."
   },
   {
     "id": 3305,
@@ -3959,7 +3959,7 @@
       { "text": "Aracın içindeki eşyaları toplamak.", "isTrue": false },
       { "text": "Sigorta şirketini aramak.", "isTrue": false }
     ],
-    "description": "Kaza anında alınacak acil güvenlik önlemleri arasında, diğer sürücüleri uyarmak ve yeni kazaları önlemek için aracın önüne ve arkasına reflektör gibi uyarıcı işaretler koymak yer alır. Bu, genel kaza prosedürünün bir parçasıdır[cite: 1121, 1069]."
+    "description": "Kaza anında alınacak acil güvenlik önlemleri arasında, diğer sürücüleri uyarmak ve yeni kazaları önlemek için aracın önüne ve arkasına reflektör gibi uyarıcı işaretler koymak yer alır. Bu, genel kaza prosedürünün bir parçasıdır."
   },
   {
     "id": 3306,
@@ -3972,7 +3972,7 @@
       { "text": "Yasaktır.", "isTrue": true },
       { "text": "Serbesttir.", "isTrue": false }
     ],
-    "description": "Sürücülerin, zorunlu bir neden olmadıkça, başkalarını rahatsız edecek veya tehlikeye sokacak şekilde gereksiz ve ani yavaşlamaları yasaktır[cite: 1105]."
+    "description": "Sürücülerin, zorunlu bir neden olmadıkça, başkalarını rahatsız edecek veya tehlikeye sokacak şekilde gereksiz ve ani yavaşlamaları yasaktır."
   },
   {
     "id": 3307,
@@ -3985,7 +3985,7 @@
       { "text": "Refüj", "isTrue": false },
       { "text": "Durak", "isTrue": false }
     ],
-    "description": "Ada, yayaların geçme ve durmalarına, taşıtlardan inip binmelerine yarayan, trafik akımını düzenleme ve trafik güvenliğini sağlama amacıyla yapılmış olan, araçların bulunamayacağı, koruyucu tertibatla belirlenmiş bölüm ve alanlardır[cite: 87]."
+    "description": "Ada, yayaların geçme ve durmalarına, taşıtlardan inip binmelerine yarayan, trafik akımını düzenleme ve trafik güvenliğini sağlama amacıyla yapılmış olan, araçların bulunamayacağı, koruyucu tertibatla belirlenmiş bölüm ve alanlardır."
   },
   {
     "id": 3308,
@@ -3998,7 +3998,7 @@
       { "text": "Gizli buzlanma olabileceğini", "isTrue": true },
       { "text": "Çığ tehlikesi olduğunu", "isTrue": false }
     ],
-    "description": "Bu işaret (T-37), yol yüzeyinde özellikle köprü, viyadük ve gölgelik alanlarda, görünürde olmasa bile buzlanma tehlikesi olabileceği konusunda sürücüleri uyarır[cite: 375]."
+    "description": "Bu işaret (T-37), yol yüzeyinde özellikle köprü, viyadük ve gölgelik alanlarda, görünürde olmasa bile buzlanma tehlikesi olabileceği konusunda sürücüleri uyarır."
   },
   {
     "id": 3309,
@@ -4011,7 +4011,7 @@
       { "text": "Otopark", "isTrue": false },
       { "text": "Akaryakıt İstasyonu", "isTrue": true }
     ],
-    "description": "Akaryakıt İstasyonu, araçların akaryakıt, yağ ve basınçlı hava gibi ihtiyaçlarının karşılandığı yerdir[cite: 122]."
+    "description": "Akaryakıt İstasyonu, araçların akaryakıt, yağ ve basınçlı hava gibi ihtiyaçlarının karşılandığı yerdir."
   },
   {
     "id": 3310,
@@ -4024,10 +4024,10 @@
       { "text": "Rakım bilgisi", "isTrue": false },
       { "text": "Bir sonraki yerleşim yerine olan mesafe", "isTrue": true }
     ],
-    "description": "Meskun Mahal Levhaları (B-9 serisi), il, ilçe veya köy gibi bir yerleşim biriminin başladığını, adını, nüfusunu ve rakımını bildirir. Bir sonraki yerleşim yerine olan mesafe, 'Mesafe Levhaları' ile gösterilir[cite: 500, 505, 511]."
+    "description": "Meskun Mahal Levhaları (B-9 serisi), il, ilçe veya köy gibi bir yerleşim biriminin başladığını, adını, nüfusunu ve rakımını bildirir. Bir sonraki yerleşim yerine olan mesafe, 'Mesafe Levhaları' ile gösterilir."
   },
  {
-    "id": 3241,
+    "id": 3311,
     "category": "Trafik ve Çevre",
     "question": "Duruş mesafesi aşağıdakilerden hangilerinin toplamından oluşur?",
     "image_url": null,
@@ -4040,7 +4040,7 @@
     "description": "Duruş mesafesi, sürücünün tehlikeyi fark ettiği andan itibaren aracın tamamen durmasına kadar katettiği mesafedir. Bu mesafe, intikal mesafesi (sürücünün tepki verene kadar katettiği yol) ile fren mesafesinin (frene bastıktan sonra aracın durana kadar katettiği yol) toplamıdır."
   },
   {
-    "id": 3242,
+    "id": 3312,
     "category": "Trafik ve Çevre",
     "question": "Takip mesafesini kontrol etmek için kullanılan ve bir aracın 2 saniyede katettiği yol uzunluğunu ölçmeye yarayan yöntem aşağıdakilerden hangisidir?",
     "image_url": null,
@@ -4053,7 +4053,7 @@
     "description": "Takip mesafesi, bir aracın 2 saniyede katettiği yol uzunluğu kadardır. Bu sürenin sürücü tarafından pratik olarak tespitinde '88-89' sayma yöntemi kullanılır."
   },
   {
-    "id": 3243,
+    "id": 3313,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki işaretlerden hangisi 'Tehlikeli Viraj Yön Levhası'dır ve virajın keskinliğini belirtir?",
     "image_url": null,
@@ -4066,7 +4066,7 @@
     "description": "Tehlikeli viraj yön levhaları (T-33 serisi), genellikle sarı-siyah renkli olup, virajın yönünü ve keskinliğini belirtmek için kullanılır ve sürücüleri yavaşlamaları konusunda uyarır."
   },
   {
-    "id": 3244,
+    "id": 3314,
     "category": "Trafik ve Çevre",
     "question": "Sürücü ve yanındaki oturma yerleri dışında başka oturma yeri de bulunabilen, sürücü bölümü gövde ile birleşik kamyonetlere ne ad verilir?",
     "image_url": null,
@@ -4079,7 +4079,7 @@
     "description": "Sürücü ve yanındaki oturma yerleri dışında başka oturma yeri de bulunabilen, sürücü bölümü gövde ile birleşik kamyonetlere panelvan denir."
   },
   {
-    "id": 3245,
+    "id": 3315,
     "category": "Trafik ve Çevre",
     "question": "Karayolunda seyreden araçların yoldan çıkmasını veya savrulmasını önlemek için kullanılan metal, beton veya çelik halatlı düzeneklere ne ad verilir?",
     "image_url": null,
@@ -4092,7 +4092,7 @@
     "description": "Oto korkuluklar, karayolunda seyreden araçların yoldan çıkma, savrulma gibi durumlarını önlemek için belirli yükseklikte darbe emici özelliğe sahip metal, beton veya çelik halatlı düzeneklerdir."
   },
   {
-    "id": 3246,
+    "id": 3316,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki 'Traktör Giremez' levhası hangi grup işaretlerdendir?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Ftraktor-giremez-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -4105,7 +4105,7 @@
     "description": "Genellikle yuvarlak ve kırmızı çerçeveli olan bu tür işaretler, bir yasaklama veya kısıtlama bildirir ve 'Trafik Tanzim İşaretleri' grubuna aittir. Bu işaret (TT-15), traktörlerin bu yola girmesini yasaklar."
   },
   {
-    "id": 3247,
+    "id": 3317,
     "category": "Trafik ve Çevre",
     "question": "Kış şartlarında yolun banket bitim noktalarını belirleyerek güvenli trafik akışını sağlamak için dikilmiş direklere ne ad verilir?",
     "image_url": null,
@@ -4118,7 +4118,7 @@
     "description": "Kar direkleri, kış şartlarında karla kaplı yolda, yolun sınırlarını belirlemek ve güvenli bir trafik akışını sağlamak için yolun banket bitim noktalarına belirli aralıklarla dikilmiş direklerdir."
   },
   {
-    "id": 3248,
+    "id": 3318,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, sürücünün geçilmekte olduğu sırada yapması gereken doğru bir davranıştır?",
     "image_url": null,
@@ -4131,7 +4131,7 @@
     "description": "Geçilmekte olan araç sürücüsü, hızını artırmamalı, bulunduğu şeridi izlemeli, dar yollarda sağa yanaşmalı ve gerekirse yavaşlayarak geçişi kolaylaştırmalıdır."
   },
   {
-    "id": 3249,
+    "id": 3319,
     "category": "Trafik ve Çevre",
     "question": "Azami hızı 45 km/s'i, silindir hacmi 50 santimetreküpü geçmeyen motorlu taşıtlara ne ad verilir?",
     "image_url": null,
@@ -4144,7 +4144,7 @@
     "description": "Motorlu Bisiklet (Moped), azami hızı 45 kilometreyi, içten yanmalı motorlu ise silindir hacmi 50 santimetreküpü, elektrik motorlu ise azami nominal güç çıkışı 4 kilovatı geçmeyen iki veya üç tekerlekli taşıtlardır."
   },
   {
-    "id": 3250,
+    "id": 3320,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki 'Girişi Olmayan Yol Kavşağı' levhası sürücüye neyi bildirir?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fgirisi-olmayan-yol-kavsagi-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -4157,7 +4157,7 @@
     "description": "Bu bilgi işareti (B-2a), ilerideki kavşakta bulunan ve girilmesi yasak olan yolu önceden bildirerek sürücülerin yanlış yola girmesini engeller."
   },
   {
-    "id": 3251,
+    "id": 3321,
     "category": "Trafik ve Çevre",
     "question": "Yolcu taşıma araçlarının duraklarını belirten levhalara her iki yönden kaç metre mesafe içinde duraklamak yasaktır?",
     "image_url": null,
@@ -4170,7 +4170,7 @@
     "description": "PDF'in 120. sayfasında, 'otobüs, tramvay ve taksi duraklarında duraklamak yasaktır' denmektedir. Ancak bu, bu araçların yolcu indirme-bindirme amaçlı duraklamalarını kapsamaz. Diğer özel araçlar için bu alanlarda duraklamak yasaktır. 15 metre kuralı ise 'Park Etme' yasağı için geçerlidir."
   },
   {
-    "id": 3252,
+    "id": 3322,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, hız sınırlayıcı cihaz bulundurmak ve kullanmak zorunda olan araçlardandır?",
     "image_url": null,
@@ -4183,7 +4183,7 @@
     "description": "Azami ağırlığı 12 tonu geçen kamyon ve çekiciler ile azami ağırlığı 10 tonu geçen otobüslerde hız sınırlayıcı cihaz bulundurulması ve kullanılması zorunludur."
   },
   {
-    "id": 3253,
+    "id": 3323,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki aracın sürücüsü, yokuş yukarı park ederken, kaldırım varsa tekerleklerini hangi yöne çevirmelidir?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Farac-nasil-park-edilir.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -4196,7 +4196,7 @@
     "description": "Eğimli yollarda park etme kurallarına göre, yokuş yukarı (çıkış eğiminde) park ederken el freni çekilir ve vites 1'e takılır. Kaldırım varsa, frenin boşalması durumunda aracın geriye kayıp yola çıkmasını engellemek için ön tekerlekler sola (yola doğru) çevrilir, böylece tekerlek kaldırıma dayanır."
   },
   {
-    "id": 3254,
+    "id": 3324,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki araçlardan hangisinde, sürüş sırasında sürücünün koruma başlığı ve koruma gözlüğü takması zorunludur?",
     "image_url": null,
@@ -4209,7 +4209,7 @@
     "description": "Motosiklet ve motorlu bisiklet sürücülerinin koruma başlığı kullanmaları zorunludur. Ancak koruma gözlüğü zorunluluğu spesifik olarak motosiklet sürücüleri için belirtilmiştir."
   },
   {
-    "id": 3255,
+    "id": 3325,
     "category": "Trafik ve Çevre",
     "question": "Yasaklanmış yerlerde park edilen bir araç, yetkililerce kaldırılırken sahibi gelirse nasıl bir işlem yapılır?",
     "image_url": null,
@@ -4222,7 +4222,7 @@
     "description": "Araç kaldırılıp götürülmeden veya götürüldüğü esnada sahibinin gelmesi durumunda, trafik idari para cezası karar tutanağı kendisine tebliğ edilmek ve varsa yapılan masraflar ödettirilmek suretiyle araç sahibine teslim edilir."
   },
   {
-    "id": 3256,
+    "id": 3326,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tanzim işareti ne anlama gelir?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fondaki-tasiti-belirli-mesafeden-daha-yakin-takip-etmek-yasaktir-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -4235,7 +4235,7 @@
     "description": "Bu işaret (TT-25), öndeki taşıtın levhada belirtilen mesafeden (örneğin 70 metre) daha yakın takip edilmesinin yasak olduğunu bildirir."
   },
   {
-    "id": 3257,
+    "id": 3327,
     "category": "Trafik ve Çevre",
     "question": "Okul taşıtlarında, öğrencilere iniş ve binişlerde yardımcı olmak üzere bulundurulması zorunlu olan rehber personelin en az kaç yaşını doldurmuş olması gerekir?",
     "image_url": null,
@@ -4248,7 +4248,7 @@
     "description": "Okul taşıtlarında araç içi düzeni sağlamak, iniş ve binişlerde öğrencilere yardımcı olmak üzere 22 yaşını doldurmuş ve lise mezunu rehber personel bulundurulması zorunludur."
   },
   {
-    "id": 3258,
+    "id": 3328,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki davranışlardan hangisi, bisiklet, motorlu bisiklet ve motosiklet sürücüleri için yasaktır?",
     "image_url": null,
@@ -4261,7 +4261,7 @@
     "description": "Bu araçların sürülmesi sırasında başka araçlara tutunularak sürülmesi, akrobatik hareketler yapılması, elde bagaj taşınması gibi davranışlar yasaktır."
   },
   {
-    "id": 3259,
+    "id": 3329,
     "category": "Trafik ve Çevre",
     "question": "Karayolu kenar taşlarında (kedi gözü), yolun sağındaki taşlarda hangi renk yansıtıcı malzeme bulunur?",
     "image_url": null,
@@ -4274,7 +4274,7 @@
     "description": "Karayolu kenar taşlarında, yolun sağındaki taşlarda kırmızı, solundaki taşlarda ise beyaz reflektif malzeme bulunur."
   },
   {
-    "id": 3260,
+    "id": 3330,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki otoyol bilgi levhası ne anlama gelir?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fotoyol-yaklasim-levhasi-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -4287,7 +4287,7 @@
     "description": "Bu levha (Otoyol Yaklaşım Levhası), otoyol girişine belirli bir mesafe (örneğin 1000m, 500m) kaldığını bildirir ve sürücüleri hazırlar."
   },
   {
-    "id": 3261,
+    "id": 3331,
     "category": "Trafik ve Çevre",
     "question": "Üzerinde insan veya yük bulunmayan ve akaryakıt deposu dolu olan bir aracın, taşıması zorunlu alet ve donanımı ile birlikte toplam ağırlığına ne denir?",
     "image_url": null,
@@ -4300,7 +4300,7 @@
     "description": "Yüksüz Ağırlık, üzerinde insan veya yük bulunmayan ve akaryakıt deposu dolu olan bir aracın taşıması zorunlu alet, edevat ve donanımı ile birlikte toplam ağırlığıdır."
   },
   {
-    "id": 3262,
+    "id": 3332,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, yorgun ve dalgın araç kullanmanın potansiyel bir sonucudur?",
     "image_url": null,
@@ -4313,7 +4313,7 @@
     "description": "Yorgun, uykusuz ve dalgın araç kullanmak, sürücünün algılama ve dikkat yeteneğini ciddi şekilde düşürür. Bu durum, trafik işaretlerinin, tehlikelerin veya yoldaki diğer unsurların fark edilmemesine ve dolayısıyla kazalara yol açabilir. Bu konu, PDF'in 'Trafik Psikolojisi' bölümünde ele alınmaktadır."
   },
   {
-    "id": 3263,
+    "id": 3333,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki işaretlerden hangisi 'İleriden Sola Mecburi Yön'ü bildirir?",
     "image_url": null,
@@ -4326,7 +4326,7 @@
     "description": "Bu mecburi yön levhası (TT-35h), sürücülerin düz gidemeyeceğini veya sağa dönemeyeceğini, ilerideki ilk fırsatta sola dönmek zorunda olduklarını bildirir."
   },
   {
-    "id": 3264,
+    "id": 3334,
     "category": "Trafik ve Çevre",
     "question": "Bir otomobilin arkasına takılan ve azami yüklü ağırlığı 750 kg'ı geçmeyen römorka ne ad verilir?",
     "image_url": null,
@@ -4339,7 +4339,7 @@
     "description": "Hafif Römork, azami yüklü ağırlığı 750 kg'ı geçmeyen römork veya yarı römorktur."
   },
   {
-    "id": 3265,
+    "id": 3335,
     "category": "Trafik ve Çevre",
     "question": "Okul taşıtlarında, öğrencilerin kolayca yetişebileceği camlar ve pencereler nasıl olmalıdır?",
     "image_url": null,
@@ -4352,7 +4352,7 @@
     "description": "Okul taşıtlarında güvenlik amacıyla, öğrencilerin kolayca yetişebileceği camlar ve pencereler sabit olmalıdır."
   },
   {
-    "id": 3266,
+    "id": 3336,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki yerlerin hangisinde park etmek, diğerlerine göre daha az tehlikelidir?",
     "image_url": null,
@@ -4365,7 +4365,7 @@
     "description": "Dönemeçler, tepe üstleri gibi görüşün kısıtlı olduğu yerler ve geçiş yolları park etmek için yasak ve tehlikelidir. En güvenli park yeri, bu amaç için özel olarak tasarlanmış ve çizgilerle belirlenmiş otopark alanlarıdır."
   },
   {
-    "id": 3267,
+    "id": 3337,
     "category": "Trafik ve Çevre",
     "question": "Sürücülerin, trafik kurallarına aykırı hareketleri sonucu aldıkları ceza puanları nereye kaydedilir?",
     "image_url": null,
@@ -4378,7 +4378,7 @@
     "description": "İhlal edilen her bir trafik kuralı için, ihlalin özelliğine göre 5’ten 20’ye kadar ceza puanı verilir ve bu puanlar Emniyet Genel Müdürlüğü tarafından tutulan sürücü belgesi siciline kaydedilir."
   },
   {
-    "id": 3268,
+    "id": 3338,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki yol çizgilerine göre, 1 numaralı şeritteki araç sürücüsü ne yapabilir?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fkesikli-ve-devamli-yol-cizgisi.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -4391,7 +4391,7 @@
     "description": "Yan yana kesikli ve devamlı yol çizgileri bulunduğunda, sürücüler kendilerine en yakın olan çizginin anlamına göre hareket eder. 1 numaralı aracın tarafında kesikli çizgi olduğundan, bu sürücü kurallara uymak şartıyla sollama yapabilir."
   },
   {
-    "id": 3269,
+    "id": 3339,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki durumlardan hangisinde sürücü, hızını azaltmak zorunda değildir?",
     "image_url": null,
@@ -4404,7 +4404,7 @@
     "description": "Sürücüler; kavşaklara, dönemeçlere, yaya-okul-demiryolu geçitlerine, tünellere, dar köprü ve menfezlere, tepe üstlerine ve görüşün yetersiz olduğu yerlere yaklaşırken hızlarını azaltmak zorundadırlar."
   },
   {
-    "id": 3270,
+    "id": 3340,
     "category": "Trafik ve Çevre",
     "question": "Virajlara girerken aşağıdakilerden hangisinin yapılması yanlıştır?",
     "image_url": null,
@@ -4417,7 +4417,7 @@
     "description": "Dönemeçlere yaklaşırken ve dönemeçli yollarda ilerlerken öndeki aracı geçmek yasaktır. Viraja girerken hız azaltılır ve kendi şeridinde seyredilir."
   },
   {
-    "id": 3271,
+    "id": 3341,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki araçlardan hangisi, geçiş üstünlüğüne sahip değildir?",
     "image_url": null,
@@ -4430,7 +4430,7 @@
     "description": "Sarı renkli tepe lambası geçiş üstünlüğü hakkı vermez. Bu ışık, diğer sürücüleri, yol bakım aracı, kurtarıcı gibi özel durumlu bir aracın varlığına karşı uyarmak içindir."
   },
   {
-    "id": 3272,
+    "id": 3342,
     "category": "Trafik ve Çevre",
     "question": "Özel izin belgesi ile karayoluna çıkan araçların, yerleşim yeri dışındaki bölünmüş yollarda azami hızı saatte kaç kilometredir?",
     "image_url": null,
@@ -4443,7 +4443,7 @@
     "description": "Hız sınırları tablosuna göre, tehlikeli madde taşıyan araçlar ve özel izin belgesi ile karayoluna çıkan araçların yerleşim yeri dışındaki bölünmüş yollarda azami hızı 50 km/saattir."
   },
   {
-    "id": 3273,
+    "id": 3343,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki işaretlerden hangisi 'bölünmüş yol' başlangıcını bildirir?",
     "image_url": null,
@@ -4456,7 +4456,7 @@
     "description": "Bu bilgi işareti (B-48'e benzer bir anlama sahip), ilerideki yolun bir ayırıcı ile bölünmüş yol haline geldiğini ve sürücülerin yolun sağından gitmeleri gerektiğini bildirir."
   },
   {
-    "id": 3274,
+    "id": 3344,
     "category": "Trafik ve Çevre",
     "question": "Sürücünün, yolculuk öncesi yapması gereken en önemli hazırlıklardan biri nedir?",
     "image_url": null,
@@ -4469,7 +4469,7 @@
     "description": "Güvenli bir sürüş için en temel gereklilik sürücünün kendisidir. Yola çıkmadan önce yorgun, uykusuz, stresli veya hasta olmamak, yani zihinsel ve fiziksel olarak sürüşe hazır olmak, kazaları önlemedeki en kritik adımdır. Bu konu, 'Trafik Psikolojisi' başlığı altında ele alınmıştır."
   },
   {
-    "id": 3275,
+    "id": 3345,
     "category": "Trafik ve Çevre",
     "question": "Karayolunda bozulup kalan bir otobüs, nasıl işaretlenmelidir?",
     "image_url": null,
@@ -4482,7 +4482,7 @@
     "description": "Arızalanan otobüs, kamyon ve çekicilerde; aracın ön ve arkasına 30'ar metre mesafeye, diğer sürücülerin 150 metreden görebileceği şekilde birer reflektör konulmalı ve ayrıca 150x25 cm ebadında engel işareti ile işaretleme yapılmalıdır."
   },
   {
-    "id": 3276,
+    "id": 3346,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki durumlardan hangisinde sürücü asli kusurlu sayılmaz?",
     "image_url": null,
@@ -4495,7 +4495,7 @@
     "description": "Sürücülerin veya yayaların kural dışı hareketleri veya taşıtların teknik arızaları bir başka sürücüyü tehlikeye düşürmüş ve bu sürücü, oluşması muhtemel bir kazayı önlemek, can ve mal güvenliğini korumak amacı ile bir kuralı ihlal etmeye mecbur kalmışsa, asli kusurlu sayılamaz."
   },
   {
-    "id": 3277,
+    "id": 3347,
     "category": "Trafik ve Çevre",
     "question": "Aracın ışık donanımı üzerinde, yönetmelikte belirtilen esaslara aykırı nitelikte değişiklik yapmak (örneğin renkli far takmak) hakkında ne söylenebilir?",
     "image_url": null,
@@ -4508,7 +4508,7 @@
     "description": "Yönetmelikte belirlenen esaslara aykırı nitelikte ışık takılması ve kullanılması yasaktır."
   },
   {
-    "id": 3278,
+    "id": 3348,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki yol durumunda 2 numaralı araç sürücüsünün, 1 numaralı aracı geçmesi neden yasaktır?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fgecme-yasagi-olan-yerler.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -4521,7 +4521,7 @@
     "description": "Görüşün yeterli olmadığı tepe üstlerine yaklaşırken öndeki aracı geçmek yasaktır. Yol çizgileri kesikli olsa bile, görüş mesafesi güvenli bir sollama için yeterli değilse geçiş yapılmamalıdır."
   },
   {
-    "id": 3279,
+    "id": 3349,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki bilgilerden hangisi, aracın 'Trafik Belgesi' üzerinde yer alır?",
     "image_url": null,
@@ -4534,7 +4534,7 @@
     "description": "Trafik belgesi, tescil işlemleri tamamlanmış araçların trafiğe çıkarılmasına müsaade edilen ve muayene sürelerini belirleyen bir belgedir. Her muayene sonrası geçerlilik tarihi bu belgeye işlenir."
   },
   {
-    "id": 3280,
+    "id": 3350,
     "category": "Trafik ve Çevre",
     "question": "Bir sürücü, önündeki aracın aniden durması sonucu arkadan çarparsa, genellikle hangi kuralı ihlal ettiği için asli kusurlu sayılır?",
     "image_url": null,
@@ -4547,7 +4547,7 @@
     "description": "Arkadan çarpmak, asli kusur sayılan hallerdendir. Bu tür kazalar genellikle, sürücünün önündeki araçla arasında yeterli ve güvenli takip mesafesini bırakmamasından kaynaklanır."
   },
   {
-    "id": 3281,
+    "id": 3351,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki tanzim işaretlerinden hangisi, taşıt trafiğine kapalı bir yolu belirtir?",
     "image_url": null,
@@ -4560,7 +4560,7 @@
     "description": "Bu işaret (TT-19), o yola bisiklet ve hayvanla çekilen araçlar dışındaki taşıtların girmesinin yasak olduğunu, yani yolun taşıt trafiğine kapalı olduğunu bildirir."
   },
   {
-    "id": 3282,
+    "id": 3352,
     "category": "Trafik ve Çevre",
     "question": "Trafik kazalarında yaralanıp sağlık kuruluşuna sevk edilenlerden, kazadan sonraki 30 gün içinde ölenlerin kayıtlarını tutmak ve Emniyet Genel Müdürlüğü'ne bildirmek hangi kurumun görevidir?",
     "image_url": null,
@@ -4573,7 +4573,7 @@
     "description": "Sağlık Bakanlığı'nın görevleri arasında, trafik kazalarında yaralanıp sağlık kuruluşuna sevk edilenlerden kazanın sebep ve tesiriyle otuz gün içinde ölenlerin kayıtlarını tutmak ve bunları Emniyet Genel Müdürlüğüne bildirmek de yer alır."
   },
   {
-    "id": 3283,
+    "id": 3353,
     "category": "Trafik ve Çevre",
     "question": "Hız tespit cihazlarının yerini tespit eden veya sürücüyü uyaran cihazları (radar dedektörü) araçta bulundurmanın cezası nedir?",
     "image_url": null,
@@ -4586,7 +4586,7 @@
     "description": "Hız sınırlarının aşılıp aşılmadığını tespit etmekte kullanılan cihazların yerini tespit eden her türlü cihazın imali, ithali ve araçlarda bulundurulması yasaktır. Bu cihazları araçlarında bulunduranlara hafif para cezası ve 4-6 ay hafif hapis cezası verilir."
   },
   {
-    "id": 3284,
+    "id": 3354,
     "category": "Trafik ve Çevre",
     "question": "İki yönlü bir yolda, her iki tarafında da banket varsa, yayalar hangi banketten yürümelidir?",
     "image_url": null,
@@ -4599,7 +4599,7 @@
     "description": "Her iki tarafında banket bulunan ve yaya yolu olmayan yollarda, yayalar karşıdan gelen trafiği görebilmek için kendi gidiş yönlerine göre sol banketten yürümek zorundadırlar."
   },
   {
-    "id": 3285,
+    "id": 3355,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki levha ne anlama gelmektedir?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fotoyol-sonu-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -4612,7 +4612,7 @@
     "description": "Bu işaret, otoyol rejiminin ve otoyol için geçerli olan özel kuralların (asgari hız, girme yasakları vb.) sona erdiğini bildirir."
   },
   {
-    "id": 3286,
+    "id": 3356,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki belgelerden hangisi, bir motorlu aracın işletilmesinin üçüncü şahıslara vereceği zararları karşılamak üzere yapılır?",
     "image_url": null,
@@ -4625,7 +4625,7 @@
     "description": "Zorunlu Mali Sorumluluk Sigortası, bir motorlu aracın işletilmesi sırasında bir kimsenin ölümüne, yaralanmasına veya bir şeyin zarara uğramasına neden olması halinde, o aracı işletenin sorumluluğunu karşılamak üzere yapılan zorunlu bir sigortadır."
   },
   {
-    "id": 3287,
+    "id": 3357,
     "category": "Trafik ve Çevre",
     "question": "Yolcu taşıyan ve geçiş üstünlüğüne sahip olmayan bir araç, geçiş üstünlüğü hakkını hangi durumda kullanabilir?",
     "image_url": null,
@@ -4638,7 +4638,7 @@
     "description": "Cankurtaran dışında, yaralı ve acil hasta taşıyan ve geçiş üstünlüğüne sahip oldukları ayrım işaretiyle belirlenmemiş olan araçlar, geçiş üstünlüğü hakkını, gereksiz olmamak şartı ile kendilerine taşıt yolu üzerinde yer açılmasını sağlamak için yeterli şekilde ses cihazlarını ve ışık işaretlerini kullanarak kullanabilirler."
   },
   {
-    "id": 3288,
+    "id": 3358,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki yükleme şekillerinden hangisi yasaktır?",
     "image_url": null,
@@ -4651,7 +4651,7 @@
     "description": "Çamurluk, basamak, kasa kenarı, araç üstü, bagaj merdiveni gibi dış kısımlarda ve yük üzerinde yolcu taşınması kesinlikle yasaktır."
   },
   {
-    "id": 3289,
+    "id": 3359,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki gibi bir tali yol kavşağına yaklaşan anayoldaki sürücü ne yapmalıdır?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fanayol-tali-yol-kavsagi-isareti-ve-anlami.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -4664,7 +4664,7 @@
     "description": "Bu levha, anayolda seyreden sürücüye ileride bir tali yol kavşağı olduğunu ve geçiş önceliğinin kendisinde olduğunu bildirir. Ancak her kavşağa yaklaşırken hız azaltmak ve dikkatli olmak temel bir kuraldır. Tali yoldan çıkabilecek araçlara karşı tedbirli olunmalıdır."
   },
   {
-    "id": 3290,
+    "id": 3360,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, trafik kazası riskini artıran kişilik özelliklerinden biridir?",
     "image_url": null,
@@ -4677,7 +4677,7 @@
     "description": "Paylaşma, başkalarına saygı ve bencillik duyguları sürücülükle doğrudan ilişkilidir. Bencil, saygısız ve sabırsız sürücülerin kural ihlali yapma ve kaza yapma riskleri daha yüksektir. Bu konu, 'Trafik Psikolojisi' bölümünde ele alınmıştır."
   },
   {
-    "id": 3291,
+    "id": 3361,
     "category": "Trafik ve Çevre",
     "question": "Yolcu taşıyan otobüslerin duraklarını belirten levhalara her iki yönden kaç metre mesafe içinde park etmek yasaktır?",
     "image_url": null,
@@ -4690,7 +4690,7 @@
     "description": "Park etmenin yasak olduğu yerler arasında, yolcu taşıma araçlarının duraklarını belirten levhalara her iki yönden 15 metre mesafe içi de bulunmaktadır."
   },
   {
-    "id": 3292,
+    "id": 3362,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki işaretlerden hangisi 'gizli buzlanma' tehlikesine karşı sürücüyü uyarır?",
     "image_url": null,
@@ -4703,7 +4703,7 @@
     "description": "Bu tehlike uyarı işareti (T-37), yol yüzeyinde özellikle köprü, viyadük ve gölgelik alanlarda, görünürde olmasa bile buzlanma tehlikesi olabileceği konusunda sürücüleri uyarır."
   },
   {
-    "id": 3293,
+    "id": 3363,
     "category": "Trafik ve Çevre",
     "question": "Trafik kazasında kusur oranları belirlenirken, tam kusur puanı kaç olarak esas alınır?",
     "image_url": null,
@@ -4716,7 +4716,7 @@
     "description": "Trafik kazalarına karışan sürücülerin kusur oranları; 100 veya 8 sayısı, tam kötü puan olarak esas alınarak hesaplanır."
   },
   {
-    "id": 3294,
+    "id": 3364,
     "category": "Trafik ve Çevre",
     "question": "Arızalı bir aracı çekerken, çeken ve çekilen araçta kimlerin bulunması zorunludur?",
     "image_url": null,
@@ -4729,7 +4729,7 @@
     "description": "Çeken ve çekilen araçlarla ilgili kurallara göre; her iki araç boş olmalı, yolcu ve yük bulunmamalı, her iki araç da sürücülerinin yönetiminde olmalıdır."
   },
   {
-    "id": 3295,
+    "id": 3365,
     "category": "Trafik ve Çevre",
     "question": "Kavşaklara yaklaşan sürücülerin, aşağıdakilerden hangisini yapması zorunludur?",
     "image_url": null,
@@ -4742,7 +4742,7 @@
     "description": "Kavşaklara yaklaşan sürücüler, yavaşlamak, dikkatli olmak, geçiş hakkı olan araçların önce geçmesine imkan vermek zorundadırlar."
   },
   {
-    "id": 3296,
+    "id": 3366,
     "category": "Trafik ve Çevre",
     "question": "Bir otomobilin yerleşim yeri dışındaki iki yönlü yolda azami hızı 90 km/s ise, arkasına hafif römork taktığında azami hızı kaç km/s olur?",
     "image_url": null,
@@ -4755,7 +4755,7 @@
     "description": "Araçlara römork veya yarı römork takıldığında azami hız sınırından saatte 10 km/s düşülmesi gerekir. Bu durumda 90 - 10 = 80 km/s olur."
   },
   {
-    "id": 3297,
+    "id": 3367,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, araçların tescilinin yapılabilmesi için gerekli belgelerden biri değildir?",
     "image_url": null,
@@ -4768,7 +4768,7 @@
     "description": "Yeni aracın tescilinin yapılabilmesi için; aracın faturası, taşıt alım vergisi ödeme belgesi, teknik belge, zorunlu mali sorumluluk sigorta belgesi gibi araca ait belgeler gereklidir. Sürücünün sağlık raporu ise ehliyet alırken gereklidir, araç tescilinde istenmez."
   },
   {
-    "id": 3298,
+    "id": 3368,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tanzim işareti ne anlama gelir?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fsola-donulmez-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -4781,7 +4781,7 @@
     "description": "Bu trafik tanzim işareti (TT-26b), ilerideki kavşakta veya yolda sola dönüş yapmanın yasak olduğunu bildirir."
   },
   {
-    "id": 3299,
+    "id": 3369,
     "category": "Trafik ve Çevre",
     "question": "Ticari amaçla yük ve yolcu taşımacılığı yapan sürücüler, devamlı olarak en fazla kaç saat araç sürebilirler?",
     "image_url": null,
@@ -4794,7 +4794,7 @@
     "description": "Ticari amaçla yük ve yolcu taşımacılığı yapan sürücüler, 24 saatlik herhangi bir süre içinde toplam olarak 9 saatten ve devamlı olarak 4,5 saatten fazla araç süremezler. 4,5 saatlik devamlı sürüşten sonra 45 dakika dinlenmek zorunludur."
   },
   {
-    "id": 3300,
+    "id": 3370,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, belediye trafik birimlerinin görev ve yetkilerinden biridir?",
     "image_url": null,
@@ -4807,7 +4807,7 @@
     "description": "Belediye trafik birimlerinin görevleri arasında, kendi sorumluluk alanındaki yolları trafik düzeni ve güvenliğini sağlayacak durumda bulundurmak, yol ve kavşak düzenlemeleri ile gerekli işaretlemeleri yapmak bulunur."
   },
   {
-    "id": 3301,
+    "id": 3371,
     "category": "Trafik ve Çevre",
     "question": "Bir aracın plakası, geceleyin en az kaç metre mesafeden okunacak şekilde aydınlatılmış olmalıdır?",
     "image_url": null,
@@ -4820,7 +4820,7 @@
     "description": "Aracın plakası 20 metre mesafeden okunacak şekilde aydınlatılmış olmalıdır."
   },
   {
-    "id": 3302,
+    "id": 3372,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki ifadelerden hangisi, trafik adabı açısından bir sürücüde bulunması gereken bir özellik değildir?",
     "image_url": null,
@@ -4833,7 +4833,7 @@
     "description": "Trafik adabı; sabır, hoşgörü, saygı ve sorumluluk gibi erdemleri içerir. Bencillik ve sürekli başkalarını suçlama eğilimi, trafik adabına aykırı olup, çatışma ve kaza riskini artırır. Bu konu, 'Trafik Psikolojisi' bölümünde ele alınmıştır."
   },
   {
-    "id": 3303,
+    "id": 3373,
     "category": "Trafik ve Çevre",
     "question": "Uluslararası yolcu taşımacılığı yapacak sürücülerin alması gereken mesleki yeterlilik belgesi hangisidir?",
     "image_url": null,
@@ -4846,7 +4846,7 @@
     "description": "Mesleki Yeterlilik Belgeleri'nden SRC1, uluslararası yolcu taşımacılığı için gereklidir."
   },
   {
-    "id": 3304,
+    "id": 3374,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki yerlerin hangisinde öndeki aracı geçmek (sollama yapmak) yasaktır?",
     "image_url": null,
@@ -4859,7 +4859,7 @@
     "description": "Öndeki aracı geçme yasağı olan yerler arasında; trafik işareti ile yasaklanmış yerler, görüşün yeterli olmadığı tepe üstleri, dönemeçler, kavşaklar, yaya/okul/demiryolu geçitleri, köprü ve tüneller bulunur."
   },
   {
-    "id": 3305,
+    "id": 3375,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki aracın sürücüsü, yokuş aşağı park ederken tekerleklerini hangi yöne çevirmelidir?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Farac-nasil-park-edilir.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -4872,7 +4872,7 @@
     "description": "Eğimli yollarda park etme kurallarına göre, yokuş aşağı (iniş eğiminde) park ederken el freni çekilir ve vites geriye takılır. Frenin boşalması durumunda aracın öne kaymasını ve kaldırıma dayanarak durmasını sağlamak için ön tekerlekler sağa (kaldırıma doğru) çevrilir."
   },
   {
-    "id": 3306,
+    "id": 3376,
     "category": "Trafik ve Çevre",
     "question": "Karayolunda bir birim olarak seyretmek üzere birbirine bağlanmış taşıtlara ne denir?",
     "image_url": null,
@@ -4885,7 +4885,7 @@
     "description": "Taşıt Katarı, karayolunda bir birim olarak seyretmek üzere birbirine bağlanmış taşıtlardır."
   },
   {
-    "id": 3307,
+    "id": 3377,
     "category": "Trafik ve Çevre",
     "question": "Geçiş üstünlüğüne sahip araçların ışıklı ve sesli uyarıları, en az kaç metreden görülebilir ve duyulabilir olmalıdır?",
     "image_url": null,
@@ -4898,7 +4898,7 @@
     "description": "Geçiş üstünlüğüne sahip araçların ışık ve sesi 150 metreden görülebilecek ve duyulabilecek şekilde olmalıdır."
   },
   {
-    "id": 3308,
+    "id": 3378,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki tanzim işaretlerinden hangisi, bir yasaklamanın veya kısıtlamanın sona erdiğini bildirir?",
     "image_url": null,
@@ -4911,7 +4911,7 @@
     "description": "Genellikle siyah-beyaz renkli, yuvarlak ve üzerinde yasaklanan sembolün gri renkte olduğu ve üstünde diyagonal bir çizgi bulunan levhalar (TT-32, TT-33, TT-34a, TT-34b vb.), daha önce belirtilmiş bir yasaklamanın veya kısıtlamanın sona erdiğini bildirir."
   },
   {
-    "id": 3309,
+    "id": 3379,
     "category": "Trafik ve Çevre",
     "question": "Yayaların, yaya geçitlerinden geçerken geçidin hangi bölümünden yürümeleri zorunludur?",
     "image_url": null,
@@ -4924,7 +4924,7 @@
     "description": "Yaya ve okul geçitlerinden geçerken, yayaların geçidin sağ bölümünden yürümeleri zorunludur."
   },
   {
-    "id": 3310,
+    "id": 3380,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, 'Trafik Kazası' olarak nitelendirilmez?",
     "image_url": null,
@@ -4936,7 +4936,7 @@
     ],
     "description": "Trafik kazası tanımı, karayolu üzerinde 'hareket halinde' olan bir veya birden fazla aracın karıştığı ölüm, yaralanma veya zararla sonuçlanmış olayları kapsar. Park halindeki bir aracın mekanik bir arıza yaşaması bu tanıma girmez."
   }, {
-    "id": 3311,
+    "id": 3381,
     "category": "Trafik ve Çevre",
     "question": "Araçların yüklü veya yüksüz olarak ağırlıklarının tartıldığı yere ne ad verilir?",
     "image_url": null,
@@ -4949,7 +4949,7 @@
     "description": "Araç Tartı İstasyonu, araçların yüklü veya yüksüz olarak tartıldığı yerdir."
   },
   {
-    "id": 3312,
+    "id": 3382,
     "category": "Trafik ve Çevre",
     "question": "Karayolunda yolcu veya yük taşıyabilecek şekilde imal edilmiş olmakla beraber, bütün tekerlekleri motordan güç alabilen motorlu taşıtlara ne denir?",
     "image_url": null,
@@ -4962,7 +4962,7 @@
     "description": "Arazi Taşıtı, karayolunda yolcu veya yük taşıyabilecek şekilde imal edilmiş olmakla beraber bütün tekerlekleri motordan güç alabilen motorlu taşıtlardır."
   },
   {
-    "id": 3313,
+    "id": 3383,
     "category": "Trafik ve Çevre",
     "question": "Okul taşıtlarında bulundurulması zorunlu olan rehber personelin (yardımcı) en az hangi eğitim seviyesinde olması gerekir?",
     "image_url": null,
@@ -4975,7 +4975,7 @@
     "description": "Okul taşıtlarında bulundurulması zorunlu olan rehber personelin 22 yaşını doldurmuş ve lise mezunu olması zorunludur."
   },
   {
-    "id": 3314,
+    "id": 3384,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki işaretlerden hangisi 'Kamyon Giremez' anlamındadır?",
     "image_url": null,
@@ -4988,7 +4988,7 @@
     "description": "Bu trafik tanzim işareti (TT-10a), bu yola kamyonların girmesinin yasak olduğunu bildirir."
   },
   {
-    "id": 3315,
+    "id": 3385,
     "category": "Trafik ve Çevre",
     "question": "Trafik denetimlerinde veya kaza sonrası yapılan alkol testini yaptırmayı reddeden sürücüye ne ceza verilir?",
     "image_url": null,
@@ -5001,7 +5001,7 @@
     "description": "Alkolün kandaki miktarını tespit amacıyla teknik cihazlar kullanılmasını kabul etmeyen sürücülere 2.078 TL (2014 yılı) idari para cezası verilir ve sürücü belgesi 2 yıl süre ile geri alınır."
   },
   {
-    "id": 3316,
+    "id": 3386,
     "category": "Trafik ve Çevre",
     "question": "Sürücünün, kendisini geçmek isteyen diğer araçların işaretini aldığında aşağıdakilerden hangisini yapması yanlıştır?",
     "image_url": null,
@@ -5014,7 +5014,7 @@
     "description": "Geçilmekte olan araç sürücüsünün, kendisini geçen aracın geçişini zorlaştırmamak için hızını artırması yasaktır."
   },
   {
-    "id": 3317,
+    "id": 3387,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki işaretlerden hangisi, 'Dönüş Adası Ek Levhası' olarak kullanılır?",
     "image_url": null,
@@ -5027,7 +5027,7 @@
     "description": "Dönüş adası ek levhası (T-35), dönel kavşaklardaki adaların orta kısımlarında kullanılır ve sürücülerin bu adanın etrafından dönmeleri gerektiğini belirtir."
   },
   {
-    "id": 3318,
+    "id": 3388,
     "category": "Trafik ve Çevre",
     "question": "Bir otomobilin arkasına takılı römorkun ışık donanımı bozuksa, geceleyin arkasına ne konulmalıdır?",
     "image_url": null,
@@ -5040,7 +5040,7 @@
     "description": "Çekilen aracın (römork dahil) ışık donanımı bozuk ise arkasına gündüz 20x20 cm boyutunda kırmızı bez, gece ise kırmızı ışık veya reflektör konulmalıdır."
   },
   {
-    "id": 3319,
+    "id": 3389,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, özel amaçla insan veya yük taşımak için imal edilmiş (itfaiye, cenaze aracı, kurtarıcı gibi) bir taşıttır?",
     "image_url": null,
@@ -5053,7 +5053,7 @@
     "description": "Özel Amaçlı Taşıt, özel amaçla insan veya yük taşımak için imal edilmiş; itfaiye, kurtarıcı, cenaze araçları, naklen yayın aracı gibi özel işlerde kullanılan motorlu taşıttır."
   },
   {
-    "id": 3320,
+    "id": 3390,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki gibi bir 'Yaya Geçidi'ne yaklaşan sürücünün, geçitte veya geçmek üzere olan bir yaya yoksa bile yapması gereken nedir?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fyaya-gecidi-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -5066,7 +5066,7 @@
     "description": "Yaya ve okul geçitlerine yaklaşan bütün sürücüler, geçitte yaya olsun veya olmasın, hızlarını azaltmak zorundadırlar."
   },
   {
-    "id": 3321,
+    "id": 3391,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, sürücünün yolculuğa başlamadan önce mutlaka kontrol etmesi gereken unsurlardan biri değildir?",
     "image_url": null,
@@ -5079,7 +5079,7 @@
     "description": "Sürüş güvenliği için yola çıkmadan önce lastikler, frenler, ışıklar, silecekler gibi hayati sistemlerin kontrol edilmesi gerekir. Döşeme temizliği ise sürüş güvenliğini doğrudan etkilemez."
   },
   {
-    "id": 3322,
+    "id": 3392,
     "category": "Trafik ve Çevre",
     "question": "Bir kazanç sağlama amacı olmayan, kişisel amaçlarla kullanılan taşıtlara ne ad verilir?",
     "image_url": null,
@@ -5092,7 +5092,7 @@
     "description": "Bir kazanç sağlama amacı olmayan taşıtlara 'Hususi Taşıt' denir."
   },
   {
-    "id": 3323,
+    "id": 3393,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tanzim işareti neyi bildirir?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fel-arabasi-giremez-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -5105,7 +5105,7 @@
     "description": "Bu işaret (TT-14), bu yola el arabalarının girmesinin yasak olduğunu bildirir."
   },
   {
-    "id": 3324,
+    "id": 3394,
     "category": "Trafik ve Çevre",
     "question": "Trafik kazalarında, olay yerindeki iz ve delillerin korunmasının en önemli nedeni nedir?",
     "image_url": null,
@@ -5118,7 +5118,7 @@
     "description": "Kazaya ait iz ve deliller (fren izi, cam kırıkları, araçların son duruş pozisyonu vb.), kazanın nasıl meydana geldiğini ve sürücülerin kusur oranlarını belirlemede hayati öneme sahiptir. Bu nedenle, yetkililer gelene kadar bu delillerin korunması gerekir."
   },
   {
-    "id": 3325,
+    "id": 3395,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, bir trafik kazası sonrası yapılması gerekenlerden biri değildir?",
     "image_url": null,
@@ -5131,7 +5131,7 @@
     "description": "Trafik kazasına karışanların sorumlulukları arasında durmak, güvenlik önlemi almak, yaralılara yardım etmek ve olayı yetkililere bildirmek bulunur. Kusur durumu belirlenmeden ve gerekli prosedürler tamamlanmadan olay yerinden ayrılmak yasaktır."
   },
   {
-    "id": 3326,
+    "id": 3396,
     "category": "Trafik ve Çevre",
     "question": "Tehlikeli madde taşıyan bir araç, duraklama yaptığında diğer araçlara en az kaç metre mesafe bırakmalıdır?",
     "image_url": null,
@@ -5144,7 +5144,7 @@
     "description": "Tehlikeli madde taşıyan araçlar, duraklama işlemi sırasında diğer araçlara 20 metre mesafe bırakarak duraklama yapmalıdır."
   },
   {
-    "id": 3327,
+    "id": 3397,
     "category": "Trafik ve Çevre",
     "question": "Geceleyin, yeterince aydınlatılmamış bir tünele girerken hangi ışıkların yakılması zorunludur?",
     "image_url": null,
@@ -5157,7 +5157,7 @@
     "description": "Uzağı gösteren ışıklar (uzun farlar), yerleşim birimleri dışındaki karayollarında geceleri seyrederken ve yeterince aydınlatılmamış tünellere girerken kullanılır."
   },
   {
-    "id": 3328,
+    "id": 3398,
     "category": "Trafik ve Çevre",
     "question": "Sürücü kurslarının açılmasına izin vermek ve bu kursları denetlemek hangi bakanlığın görevidir?",
     "image_url": null,
@@ -5170,7 +5170,7 @@
     "description": "Milli Eğitim Bakanlığı'nın görevleri arasında, motorlu araç sürücülerinin yetiştirilmesi için sürücü kursları açmak, özel sürücü kursu açılmasına izin vermek ve bu kursları denetlemek yer alır."
   },
   {
-    "id": 3329,
+    "id": 3399,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, 'tedbirsiz ve saygısız araç sürme' yasağı kapsamına girmez?",
     "image_url": null,
@@ -5183,7 +5183,7 @@
     "description": "Tedbirsiz ve saygısız araç sürme, başkalarını rahatsız eden veya tehlikeye atan davranışları içerir. Geçiş üstünlüğü olan bir araca yol vermek ise zorunlu ve saygılı bir davranıştır."
   },
   {
-    "id": 3330,
+    "id": 3400,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik görevlisinin sağ veya sol kolundan birini yukarı kaldırması ne anlama gelir?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Ftrafik-polisinin-isaretleri.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -5196,7 +5196,7 @@
     "description": "Trafik görevlisi sağ veya sol kolunu yukarı kaldırdığında, bu işaret yolun bütün yönlere kapalı olduğu anlamına gelir. Daha önce geçmekte olanlar kavşağı boşaltmalı, beklemekte olanlar ise harekete hazırlanmalıdır."
   },
   {
-    "id": 3331,
+    "id": 3401,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki araçlardan hangisinde ilk yardım çantası bulundurma zorunluluğu yoktur?",
     "image_url": null,
@@ -5209,7 +5209,7 @@
     "description": "İlk yardım çantası; motosiklet, motorlu bisiklet ve iş makinesi hariç bütün motorlu taşıtlarda bulundurulması zorunludur."
   },
   {
-    "id": 3332,
+    "id": 3402,
     "category": "Trafik ve Çevre",
     "question": "Bir sürücü, önündeki aracın güvenli bir şekilde geçilemeyeceği durumlarda ne yapmalıdır?",
     "image_url": null,
@@ -5222,7 +5222,7 @@
     "description": "Geçişin güvenli olmadığı durumlarda (yetersiz görüş, karşıdan gelen trafik, yasaklama levhası vb.) sürücü, takip mesafesini koruyarak sabırla uygun bir anı beklemelidir. Sabırsız ve agresif davranışlar kaza riskini artırır."
   },
   {
-    "id": 3333,
+    "id": 3403,
     "category": "Trafik ve Çevre",
     "question": "Zorunlu Mali Sorumluluk Sigortası'nın geçerlilik süresi ne kadardır?",
     "image_url": null,
@@ -5235,7 +5235,7 @@
     "description": "Zorunlu mali sorumluluk sigortasının süresi 12 aydır. Sigorta süresi dolunca yenilenmesi gerekir."
   },
   {
-    "id": 3334,
+    "id": 3404,
     "category": "Trafik ve Çevre",
     "question": "Resmi amaçla kullanılan taşıtlara ne ad verilir?",
     "image_url": null,
@@ -5248,7 +5248,7 @@
     "description": "Resmi amaçla kullanılan taşıtlara 'Resmi Taşıt' denir."
   },
   {
-    "id": 3335,
+    "id": 3405,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki işaretlerden hangisi 'Önceliği Olan Yön'ü bildirir?",
     "image_url": null,
@@ -5261,7 +5261,7 @@
     "description": "Bu bilgi işareti (B-37), dar bir yol kesiminde karşı yönden gelen sürücülerin, bu işareti gören sürücüye öncelik vermesi gerektiğini bildirir."
   },
   {
-    "id": 3336,
+    "id": 3406,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki yol durumunda, otomobil sürücüsü, önündeki traktörü geçebilir mi?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fdevamli-yol-cizgisi-nedir.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -5274,7 +5274,7 @@
     "description": "Devamlı yol çizgisi, bu çizgi boyunca hiçbir sebeple sol şeride geçilemeyeceğini ve üzerinden gidilemeyeceğini bildirir. Bu nedenle sollama yapmak yasaktır."
   },
   {
-    "id": 3337,
+    "id": 3407,
     "category": "Trafik ve Çevre",
     "question": "Trafik kazasına karışan sürücülerin, istendiğinde yetkililere hangi belgeleri göstermesi zorunludur?",
     "image_url": null,
@@ -5287,7 +5287,7 @@
     "description": "Kazaya karışanlar, istendiğinde kimlik ve adreslerini bildirmek, sürücü ve trafik belgeleri ile sigorta poliçelerini göstermek zorundadır."
   },
   {
-    "id": 3338,
+    "id": 3408,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki eylemlerden hangisi, 'paylaşma' ve 'başkalarına saygı' duygularının trafikteki bir yansımasıdır?",
     "image_url": null,
@@ -5300,7 +5300,7 @@
     "description": "Fermuar yöntemi, iki şeridin tek şeride düştüğü yerlerde araçların sırayla, bir sağdan bir soldan katılmasıdır. Bu yönteme uymak, sürücülerin birbirine saygı gösterdiğini ve yolu paylaştığını gösterir. Bu konu 'Trafik Psikolojisi' kapsamında değerlendirilir."
   },
   {
-    "id": 3339,
+    "id": 3409,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki işaretlerden hangisi, motorlu taşıtların giremeyeceğini bildirir?",
     "image_url": null,
@@ -5313,7 +5313,7 @@
     "description": "Bu trafik tanzim işareti (TT-18), o yola motorlu bisikletler hariç motorlu taşıtların girmesinin yasak olduğunu bildirir."
   },
   {
-    "id": 3340,
+    "id": 3410,
     "category": "Trafik ve Çevre",
     "question": "Psiko-teknik değerlendirme, alkollü araç kullanma suçunda kaçıncı tespitten sonra zorunlu hale gelir?",
     "image_url": null,
@@ -5326,7 +5326,7 @@
     "description": "Alkollü araç kullandığı üç veya üçten fazla kez tespit edilen sürücülerin ehliyetleri 5 yıl süre ile geri alınır ve ayrıca Psiko-teknik değerlendirmeye ve psikiyatri uzmanının muayenesine tabi tutulurlar."
   },
   {
-    "id": 3341,
+    "id": 3411,
     "category": "Trafik ve Çevre",
     "question": "Aracın motoru rölantide çalışırken egzozdan çıkan karbonmonoksit gazı oranı en fazla yüzde kaç olmalıdır?",
     "image_url": null,
@@ -5339,7 +5339,7 @@
     "description": "Araç motoru rölantide çalışırken egzozdan çıkan karbonmonoksit gazı %3,5'dan, araç hareket halindeyken ise %4,5'dan fazla olmamalıdır."
   },
   {
-    "id": 3342,
+    "id": 3412,
     "category": "Trafik ve Çevre",
     "question": "İki yönlü bir yolda, karşıdan gelen sürücünün görüşünü zorlaştırmamak için hangi ışıkların kullanılması gerekir?",
     "image_url": null,
@@ -5352,7 +5352,7 @@
     "description": "Yakını gösteren ışıklar (kısa farlar), yerleşim birimleri içinde, aydınlatmanın yeterli olduğu yerlerde ve özellikle karşı yönden gelen bir araçla karşılaşmalarda kullanılır."
   },
   {
-    "id": 3343,
+    "id": 3413,
     "category": "Trafik ve Çevre",
     "question": "Kavşak içinde şerit değiştirmek ile ilgili aşağıdakilerden hangisi doğrudur?",
     "image_url": null,
@@ -5365,7 +5365,7 @@
     "description": "Sürücüler, kavşaklara yaklaşırken yerleşim yerlerinde 30 metre, yerleşim yerleri dışında 150 metre mesafe içinde ve kavşaklarda şerit değiştirmeleri yasaktır."
   },
   {
-    "id": 3344,
+    "id": 3414,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki yol çizgileri ne anlama gelmektedir?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fayrilma-seridi-nedir.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -5378,7 +5378,7 @@
     "description": "Bu çizgiler, ana yoldan ayrılacak araçların güvenli bir şekilde yavaşlayarak çıkış yapmaları için ayrılmış olan yavaşlama (ayrılma) şeridini belirtir."
   },
   {
-    "id": 3345,
+    "id": 3415,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, 'İl Trafik Komisyonu'nun görevlerinden biridir?",
     "image_url": null,
@@ -5391,7 +5391,7 @@
     "description": "İl ve İlçe Trafik Komisyonları; il sınırları içinde yerel ihtiyaç ve şartlara göre trafik düzeni ve güvenliğini sağlamak amacıyla gerekli tedbirleri alır."
   },
   {
-    "id": 3346,
+    "id": 3416,
     "category": "Trafik ve Çevre",
     "question": "Bir sürücünün, kırmızı ışıkta beklerken, ışık yeşile döner dönmez arkasındaki aracın kendisine korna çalmasına sinirlenip ani fren yapması, trafik adabı açısından nasıl bir davranıştır?",
     "image_url": null,
@@ -5404,7 +5404,7 @@
     "description": "Trafikte yaşanan bir olumsuzluğa, başka bir olumsuz ve tehlikeli davranışla karşılık vermek (misilleme), hem trafik kurallarına (ani ve gereksiz yavaşlama/fren yapma yasağı) aykırıdır hem de trafik adabının temelini oluşturan sabır ve hoşgörüye tamamen terstir. Bu tür davranışlar zincirleme kazalara neden olabilir."
   },
   {
-    "id": 3347,
+    "id": 3417,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki işaretlerden hangisi 'tali yol'dan anayola yaklaşıldığını ve anayoldaki araçlara yol verilmesi gerektiğini bildirir?",
     "image_url": null,
@@ -5417,7 +5417,7 @@
     "description": "Hem 'DUR' levhası (TT-2) hem de 'Yol Ver' levhası (TT-1), bulundukları yolun tali yol olduğunu ve anayoldaki araçlara ilk geçiş hakkının verilmesi gerektiğini bildirir. 'DUR' levhası, durmanın zorunlu olduğunu ek olarak belirtir."
   },
   {
-    "id": 3348,
+    "id": 3418,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki durumların hangisinde, bir aracın muayene süresi dolmamış olsa bile yeniden muayeneye girmesi zorunludur?",
     "image_url": null,
@@ -5430,7 +5430,7 @@
     "description": "Muayene süresi dolmasa bile kazaya karışması sonucu yetkili zabıtaca muayenesi gerekli görülenler ile, araç üzerinde (LPG takılması gibi) değişiklik yapılması halinde muayenesi zorunludur."
   },
   {
-    "id": 3349,
+    "id": 3419,
     "category": "Trafik ve Çevre",
     "question": "Kavşaklarda trafik sıkışık olsa bile, sürücülerin hangi durumda kavşağa girmeleri yasaktır?",
     "image_url": null,
@@ -5443,7 +5443,7 @@
     "description": "Işıklı trafik işaretleri izin verse bile trafik akımı, kendisini kavşak içinde durmaya zorlayacak veya diğer doğrultudaki trafiğin geçişine engel olacak ise, sürücünün kavşağa girmeleri yasaktır."
   },
   {
-    "id": 3350,
+    "id": 3420,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki aracın sürücüsü, ilerideki köprüye yaklaşırken ne yapmalıdır?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fkopru-yaklasimi-isareti-ve-anlami.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -5456,7 +5456,7 @@
     "description": "Köprü yaklaşım levhaları (T-31a,b), sürücüleri köprüye yaklaştıkları konusunda uyarır. Sürücülerin bu gibi yerlere yaklaşırken hızlarını azaltmaları ve dikkatli olmaları gerekir. Özellikle dar köprülerde öndeki aracı geçmek yasaktır."
   },
   {
-    "id": 3351,
+    "id": 3421,
     "category": "Trafik ve Çevre",
     "question": "Bir aracın, trafik zorunlulukları dışında, insan indirmek-bindirmek veya eşya yüklemek-boşaltmak amacıyla kısa süreli durdurulmasına ne ad verilir?",
     "image_url": null,
@@ -5469,7 +5469,7 @@
     "description": "Duraklama, trafik zorunlulukları dışında araçların, insan indirmek-bindirmek, eşya yüklemek-boşaltmak veya beklemek amacı ile kısa bir süre için durdurulmasıdır."
   },
   {
-    "id": 3352,
+    "id": 3422,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, 'sürücü' tanımını doğru bir şekilde ifade eder?",
     "image_url": null,
@@ -5482,7 +5482,7 @@
     "description": "Sürücü, karayolunda motorlu veya motorsuz bir aracı sevk ve idare eden kişidir. Ticari olarak tescil edilmiş aracı süren kişiye ise 'şoför' denir."
   },
   {
-    "id": 3353,
+    "id": 3423,
     "category": "Trafik ve Çevre",
     "question": "Görüşün yetersiz olduğu tepe üstü ve dönemeçlerde, öndeki aracı geçmek ile ilgili aşağıdakilerden hangisi doğrudur?",
     "image_url": null,
@@ -5495,7 +5495,7 @@
     "description": "Öndeki aracı geçmenin yasak olduğu yerler arasında, görüşün yeterli olmadığı tepe üstlerine yaklaşırken ve dönemeçli yollarda ilerlerken geçiş yapmak bulunur."
   },
   {
-    "id": 3354,
+    "id": 3424,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki ceza türlerinden hangisi, trafik kurallarına aykırı hareket eden sürücülerin siciline işlenir?",
     "image_url": null,
@@ -5508,7 +5508,7 @@
     "description": "Trafik kurallarına aykırı hareket eden sürücülere para ve puan cezası verilir. İhlal edilen her bir trafik kuralı için, ihlalin özelliğine göre 5’ten 20’ye kadar ceza puanı verilir ve bu puanlar sürücü belgesi siciline kaydedilir."
   },
   {
-    "id": 3355,
+    "id": 3425,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki gibi bir kontrolsüz kavşakta, dönüş yapan 1 numaralı araç ile düz gitmekte olan 2 numaralı araç karşılaştığında, geçiş hakkı kimindir?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fkontrolsuz-kavsaklarda-gecis-hakki-siralamasi.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -5521,7 +5521,7 @@
     "description": "Genel geçiş hakkı kurallarına göre, dönüş yapan sürücüler, doğru geçmekte olan araçlara ilk geçiş hakkını vermek zorundadır."
   },
   {
-    "id": 3356,
+    "id": 3426,
     "category": "Trafik ve Çevre",
     "question": "Sisli, karlı ve sağanak yağmurlu havalar dışında, sis lambalarının diğer farlarla birlikte yakılması hakkında ne söylenebilir?",
     "image_url": null,
@@ -5534,7 +5534,7 @@
     "description": "Sis lambalarının; sisli, karlı ve sağanak yağmurlu havalar dışında ve diğer farlarla birlikte yakılması yasaktır."
   },
   {
-    "id": 3357,
+    "id": 3427,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki yerlerin hangisinde, kırmızı ışıkta durmak 'durma' hali olarak kabul edilir ve duraklama yasağını ihlal etmez?",
     "image_url": null,
@@ -5547,7 +5547,7 @@
     "description": "Durma, her türlü trafik zorunlulukları (kırmızı ışık, yol kapanması, polisin dur işareti vb.) nedeniyle aracın durdurulmasıdır. Bu durum, 'duraklama' yasağı kapsamında değildir."
   },
   {
-    "id": 3358,
+    "id": 3428,
     "category": "Trafik ve Çevre",
     "question": "Bir otomobilin arkasında, aracın boyunu en fazla kaç metre taşacak şekilde yükleme yapılabilir?",
     "image_url": null,
@@ -5560,7 +5560,7 @@
     "description": "Araçların yüklenmesinde, yükün aracın boyunu önden 1 metre, arkadan ise 2 metreden fazla aşacak şekilde yüklenmesi yasaktır."
   },
   {
-    "id": 3359,
+    "id": 3429,
     "category": "Trafik ve Çevre",
     "question": "Sürücü belgesi alındıktan sonra, monoküler (tek gözü gören) kişilerin hangi sıklıkla göz hekiminden sağlık raporu almaları zorunludur?",
     "image_url": null,
@@ -5573,7 +5573,7 @@
     "description": "Monoküler kişiler, sürücü belgesi aldıktan sonra her yıl bir göz hekiminden sağlık raporu almaları zorunludur."
   },
   {
-    "id": 3360,
+    "id": 3430,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki bölünmüş yolda, karşı yönden gelen trafik için ayrılmış sol taraftaki bölüme girmek hakkında ne söylenebilir?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fbolunmus-yol-isareti-ve-anlami.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -5586,7 +5586,7 @@
     "description": "Bölünmüş yollarda karşı yönden gelen trafik için ayrılmış yol kesimine girmek kesinlikle yasaktır ve asli kusur sayılan hallerdendir."
   },
   {
-    "id": 3361,
+    "id": 3431,
     "category": "Trafik ve Çevre",
     "question": "Araç sahibi, sürücüsünün kusurundan dolayı meydana gelen kazalarda hukuki olarak sorumlu mudur?",
     "image_url": null,
@@ -5599,7 +5599,7 @@
     "description": "Araç sahibi, araç sürücüsünün kusurundan sorumludur. Bu, işletenin sorumluluğu ilkesidir."
   },
   {
-    "id": 3362,
+    "id": 3432,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki durumlardan hangisi, sürücünün öfkesini kontrol edemediğini ve trafik adabına aykırı davrandığını gösterir?",
     "image_url": null,
@@ -5612,7 +5612,7 @@
     "description": "Trafikte yaşanan bir hataya karşı, fiziksel olarak müdahale etmeye çalışmak, önünü kesmek gibi davranışlar, öfke kontrolü eksikliğini ve trafik adabından uzak, tehlikeli bir davranışı gösterir."
   },
   {
-    "id": 3363,
+    "id": 3433,
     "category": "Trafik ve Çevre",
     "question": "Tehlikeli madde taşıyan araçlarda, mal sahibi ve hizmetlisinden başka yolcu bindirilmesi hakkında ne söylenebilir?",
     "image_url": null,
@@ -5625,7 +5625,7 @@
     "description": "Tehlikeli madde taşıyan araçlara, taşınan tehlikeli maddeden başka yük alınmaz ve mal sahibi ile hizmetlisinden başka yolcu bindirilmez."
   },
   {
-    "id": 3364,
+    "id": 3434,
     "category": "Trafik ve Çevre",
     "question": "İki yönlü dar bir yolda, bir otomobil ile bir minibüs karşılaştığında, hangisi diğerine geçiş kolaylığı sağlamalıdır?",
     "image_url": null,
@@ -5638,7 +5638,7 @@
     "description": "Düz eğimsiz, dar taşıt yollarında geçiş kolaylığı sağlama sırasına göre minibüs, kendisinden daha küçük olan otomobile yol vermek zorundadır."
   },
   {
-    "id": 3365,
+    "id": 3435,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi, 'harita okuma ve şehir bilgisi'nin sürücüye sağladığı faydalardan biridir?",
     "image_url": null,
@@ -5651,7 +5651,7 @@
     "description": "Sürücülerin, daha az yakıtla, daha kısa sürede bir yere ulaşabilmek için trafiğe çıkarken şehir planını veya haritayı dikkate almaları, hem zaman hem de yakıt tasarrufu sağlar."
   },
   {
-    "id": 3366,
+    "id": 3436,
     "category": "Trafik ve Çevre",
     "question": "Yol ve trafik durumuna göre, karayolunu kullananları uyarma amacıyla ses cihazlarının (korna) kullanılması hakkında ne söylenebilir?",
     "image_url": null,
@@ -5664,7 +5664,7 @@
     "description": "Araçlardaki ses cihazlarının; yakın ilerisi görülmeyen kavşak, dönemeç ve tepe üstü gibi yerlere yaklaşırken gelişi haber verme, yol ve trafik durumuna göre karayolunu kullananları uyarma ve geçme halleri dışında kullanılması yasaktır."
   },
   {
-    "id": 3367,
+    "id": 3437,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki aracın sürücüsü, ilerideki 'Dur' levhasını gördüğünde ne yapmalıdır?",
     "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fdur-levhasi-ne-anlama-gelir.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
@@ -5677,7 +5677,7 @@
     "description": "'DUR' levhası (TT-2), sürücünün mutlak suretle durmasını, kavşaktaki yolu kontrol etmesini ve yol müsait olduğunda hareket etmesini gerektirir. Sadece yavaşlamak yeterli değildir."
   },
   {
-    "id": 3370,
+    "id": 3438,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki işlemlerden hangisi, aracın çevreye verdiği zararı artırır?",
     "image_url": null,
@@ -5689,7 +5689,7 @@
     ],
     "description": "Temiz olmayan, standart dışı ve kalitesiz yakıtların kullanılması, aracın egzozundan çıkan zararlı gaz miktarını artırarak hava kirliliğine daha fazla neden olur."
   }, {
-    "id": 3311,
+    "id": 3439,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki trafik görevlisinin işareti ne anlama gelmektedir?",
     "image_url": "Görsel: Trafik görevlisi, yavaşlatmak istediği yöne dönük, kolunu omuz hizasında kaldırıp yavaşça aşağı yukarı sallıyor.",
@@ -5702,7 +5702,7 @@
     "description": "Trafik görevlisi, yavaşlatmak istediği yöne cephesi dönük durur ve sağ ya da sol kolunu omuzdan yere paralel oluncaya kadar kaldırıp 45-90 derece arasında yavaş yavaş sallar. Bu hareket trafiği yavaşlatma işaretidir."
   },
   {
-    "id": 3312,
+    "id": 3440,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi, geceleyin ışıklı işaret çubuğuyla yapılan bu hareketin anlamı nedir?",
     "image_url": "Görsel: Trafik görevlisi, ışıklı işaret çubuğunu vücudunun sağından soluna doğru 45 derecelik bir açıyla hareket ettiriyor.",
@@ -5715,7 +5715,7 @@
     "description": "Gece Dur İşareti, işaret çubuğunun vücudun sağından soluna doğru 45 derecelik bir açı ile hareket ettirilmesiyle verilir."
   },
   {
-    "id": 3313,
+    "id": 3441,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki 'Tehlikeli Devamlı Virajlar' levhasını gören sürücü ne yapmalıdır?",
     "image_url": "Görsel: İçinde 'S' şeklinde kıvrımlı bir ok olan üçgen tehlike uyarı levhası (T-2a).",
@@ -5728,7 +5728,7 @@
     "description": "Bu levha, ileride peş peşe tehlikeli virajların olduğunu bildirir. Sürücü hızını azaltmalı, takip mesafesini artırmalı ve bu kesimde sollama yapmaktan kaçınmalıdır."
   },
   {
-    "id": 3314,
+    "id": 3442,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki 'Anayol' levhasını (B-38) gören sürücü için aşağıdakilerden hangisi doğrudur?",
     "image_url": "Görsel: Sarı zeminli, baklava dilimi şeklinde anayol levhası.",
@@ -5741,7 +5741,7 @@
     "description": "Anayol işareti (B-38), sürücünün anayolda seyrettiğini ve ilerideki kavşaklarda tali yollardan gelen araçlara göre geçiş önceliğine sahip olduğunu bildirir."
   },
   {
-    "id": 3315,
+    "id": 3443,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir tırmanma şeridi olan yolda, 3 numaralı şerit hangi amaçla kullanılır?",
     "image_url": "Görsel: Sayfa 14'teki, ortada tırmanma şeridi olan, kamyon, minibüs ve otomobilin bulunduğu yol kesiti.",
@@ -5754,7 +5754,7 @@
     "description": "Tırmanma şeridi olan yollarda orta şerit, her iki yöndeki araçlar için de sadece geçiş amaçlıdır ve devamlı olarak işgal edilemez."
   },
   {
-    "id": 3316,
+    "id": 3444,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki durumda, kamyon sürücüsü köprünün altından geçebilir mi?",
     "image_url": "Görsel: Sayfa 29'daki, üzerinde '3.50 m' yükseklik sınırı levhası olan köprü ve köprüye yaklaşan bir kamyon.",
@@ -5767,7 +5767,7 @@
     "description": "Köprü üzerindeki 'Yüksekliği ... Metreden Fazla Olan Taşıt Giremez' (TT-21) levhası, gabari sınırlamasını bildirir. Kamyonun yüklü veya yüksüz yüksekliği bu değerden fazlaysa geçmesi yasaktır."
   },
   {
-    "id": 3317,
+    "id": 3445,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki motosiklet sürücüsü, trafik polisinin duruşuna göre ne yapmalıdır?",
     "image_url": "Görsel: Sayfa 42'deki sağdaki resim. Motosiklet, kavşakta duran ve kolları iki yana açık olan polisin ön tarafında duruyor.",
@@ -5780,7 +5780,7 @@
     "description": "Trafik görevlisinin ön ve arka cephesinde kalan araçlar durup beklemelidir. Motosiklet, polisin ön cephesinde olduğu için beklemek zorundadır."
   },
   {
-    "id": 3318,
+    "id": 3446,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki yol çizgileri sürücüye neyi bildirir?",
     "image_url": "Görsel: Sayfa 71'deki 'Yavaşlama Uyarı Çizgileri' resmi. Giderek sıklaşan enine çizgiler.",
@@ -5793,7 +5793,7 @@
     "description": "Yol üzerine çizilen ve sıklığı giderek artan bu enine çizgiler, sürücüyü ileride bir kavşak, ışık veya tehlikeli bir nokta olduğu konusunda uyarır ve yavaşlaması gerektiğini bildirir."
   },
   {
-    "id": 3319,
+    "id": 3447,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi sağa dönüş yapan bir sürücünün uyması gereken temel kural nedir?",
     "image_url": "Görsel: Sayfa 90'daki sağa dönüş şeması.",
@@ -5806,7 +5806,7 @@
     "description": "Araçların manevra kurallarına göre, sağa dönüşler dar bir kavisle, kendi şeridini koruyarak yapılmalıdır."
   },
   {
-    "id": 3320,
+    "id": 3448,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki durum, hangi geçiş hakkı kuralını açıklamaktadır?",
     "image_url": "Görsel: Sayfa 105'teki, kontrolsüz kavşakta soldaki aracın sağdan gelene yol verdiğini gösteren şema.",
@@ -5819,7 +5819,7 @@
     "description": "Trafik işareti bulunmayan (kontrolsüz) kavşaklarda, motorlu araçlardan soldaki sürücü, kendi sağından gelen araca ilk geçiş hakkını vermek zorundadır."
   },
   {
-    "id": 3321,
+    "id": 3449,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki levhalardan hangisi 'Okul Geçidi'ni, hangisi 'Yaya Geçidi'ni bildirir?",
     "image_url": "Görsel: Sayfa 15'teki, içinde biri çanta taşıyan iki insan figürü olan B-14b ve tek insan figürü olan B-14a işaretleri.",
@@ -5832,7 +5832,7 @@
     "description": "Genel yaya geçitleri tek insan figürü ile (B-14a), okul çevrelerindeki geçitler ise genellikle ellerinde çanta olan öğrenci figürleri ile (B-14b) belirtilir."
   },
   {
-    "id": 3322,
+    "id": 3450,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki yapı aşağıdakilerden hangisidir?",
     "image_url": "Görsel: Sayfa 16'daki üstteki resim (bir yolun diğerinin üstünden geçtiği köprü).",
@@ -5845,7 +5845,7 @@
     "description": "Üst Geçit, karayolunun diğer bir karayolu veya demiryolunu üstten geçmesini sağlayan yapıdır."
   },
   {
-    "id": 3323,
+    "id": 3451,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir kontrolsüz demiryolu geçidine yaklaşan sürücü, geçide kaç hat üzerinden ulaştığını hangi levhadan anlar?",
     "image_url": "Görsel: Sayfa 17'deki kontrolsüz demiryolu geçidi resimleri ve T-27a/T-27b levhaları.",
@@ -5858,7 +5858,7 @@
     "description": "Kontrolsüz demiryolu geçitlerinde, geçidin hemen başında bulunan 'X' şeklindeki (Andre Haçı) levhalar hat sayısını bildirir. Tek 'X' (T-27a) tek hattı, çift 'X' (T-27b) ise iki veya daha fazla hattı belirtir."
   },
   {
-    "id": 3324,
+    "id": 3452,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki yol ayrımında, anayoldan çıkmak için kullanılan ve yavaşlamaya yarayan şeride ne ad verilir?",
     "image_url": "Görsel: Sayfa 10'daki sağdaki, bir aracın anayoldan sağa doğru ayrıldığı şema.",
@@ -5871,7 +5871,7 @@
     "description": "Otoyoldan veya anayoldan çıkarken, trafiği tehlikeye düşürmeden güvenli bir şekilde yavaşlamak için yavaşlama (ayrılma) şeridi kullanılır."
   },
   {
-    "id": 3325,
+    "id": 3453,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki otopark türü, park yeri sınıflandırmasına göre hangisine girer?",
     "image_url": "Görsel: Sayfa 18'deki sağ üstteki resim (yol kenarında, açık alanda park etmiş araçlar).",
@@ -5884,7 +5884,7 @@
     "description": "Taşıt yolundaki veya buna bitişik alanlardaki park yerine 'Karayolu üzeri park yeri' denir."
   },
   {
-    "id": 3326,
+    "id": 3454,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki araç, yasalara uygun olarak hangi yükü taşıyor olabilir?",
     "image_url": "Görsel: Sayfa 28'deki, üzerinde alev alabilir madde işareti olan bir tanker.",
@@ -5897,7 +5897,7 @@
     "description": "Tankerler gibi özel donanımlı araçlar, patlayıcı, yanıcı, yakıcı veya kolayca ateş alıcı, zehirli veya radyoaktif maddeler gibi tehlikeli maddelerin taşınmasında kullanılır."
   },
   {
-    "id": 3327,
+    "id": 3455,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki kavşakta, trafik işaretlerine uyma önceliği sırası nasıl olmalıdır?",
     "image_url": "Görsel: Bir kavşakta hem trafik polisi, hem trafik ışığı, hem de 'Dur' levhası bulunuyor.",
@@ -5910,7 +5910,7 @@
     "description": "Trafik işaretlerine uyma öncelik sırası şöyledir: 1. Trafik görevlisi, 2. Işıklı ve sesli trafik işaretleri, 3. Trafik işaret levhaları, 4. Yol çizgileri."
   },
   {
-    "id": 3328,
+    "id": 3456,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir arızalanma durumunda, reflektörler aracın önüne ve arkasına kaçar metre uzağa konulmalıdır?",
     "image_url": "Görsel: Sayfa 135'teki, yol kenarında duran arızalı araç ve önüne-arkasına konulmuş reflektörler.",
@@ -5923,7 +5923,7 @@
     "description": "Arızalanan aracın ön ve arkasına 30 metre mesafede, diğer araç sürücülerinin ise 150 metre mesafeden açıkça görebilecekleri şekilde birer reflektör konulmalıdır."
   },
   {
-    "id": 3329,
+    "id": 3457,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir durumda, sürücünün takip mesafesini ayarlarken kullandığı '88-89' kuralı, yaklaşık kaç saniyelik bir süreyi ölçer?",
     "image_url": "Görsel: Sayfa 86'daki '2 Saniye kontrolü / 88-89' şeması.",
@@ -5936,7 +5936,7 @@
     "description": "Takip mesafesi, bir aracın en az 2 saniyede kat ettiği yol uzunluğu kadar olmalıdır. Bu sürenin pratik olarak tespiti için 'seksen sekiz, seksen dokuz' diye sayma yöntemi kullanılır."
   },
   {
-    "id": 3330,
+    "id": 3458,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki durum, hangi geçiş hakkı kuralını örneklendirir?",
     "image_url": "Görsel: Sayfa 108'deki, dönüş yapan aracın düz gitmekte olan araca yol verdiğini gösteren şema.",
@@ -5949,7 +5949,7 @@
     "description": "Kavşaklarda ilk geçiş hakkı kurallarına göre; dönüş yapan sürücüler, o yol üzerinde doğru (düz) geçmekte olan araçlara ilk geçiş hakkını vermek zorundadır."
   },
   {
-    "id": 3331,
+    "id": 3459,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir kavşakta, ambulansın geldiğini gören 2 numaralı araç sürücüsü ne yapmalıdır?",
     "image_url": "Görsel: Sayfa 113'teki, kavşakta ambulans gören araçların yolu açtığı şema.",
@@ -5962,7 +5962,7 @@
     "description": "Bütün sürücüler, geçiş üstünlüğüne sahip araçlara (ambulans, itfaiye, polis) ilk geçiş hakkını vermek, bu araçların kolayca ilerlemelerini sağlamak için taşıt yolu üzerinde yer açmak ve gerekiyorsa durmak zorundadır."
   },
   {
-    "id": 3332,
+    "id": 3460,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir yolda, iki otomobil karşılaştığında geçiş hakkı nasıl olmalıdır?",
     "image_url": "Görsel: Sayfa 117'deki, dar bir yolda iki aracın karşılaştığı şema. (Eğimsiz yol)",
@@ -5975,7 +5975,7 @@
     "description": "Düz eğimsiz, dar taşıt yollarında aksini gösteren bir işaret yoksa, geçiş kolaylığı sağlama sırasına göre (Otomobil, minibüs, kamyonet, otobüs, kamyon...) kendisinden öncelikli olan araca yol verilir. İki aynı tür araç karşılaştığında ise anlaşarak geçiş sağlanır."
   },
   {
-    "id": 3333,
+    "id": 3461,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi park etmiş araçlardan hangisi, park çizgilerine göre yanlış park etmiştir?",
     "image_url": "Görsel: Sayfa 73'teki, alt soldaki park alanı şeması.",
@@ -5988,7 +5988,7 @@
     "description": "Park yeri çizgileri, araçların duracakları yerleri belirlemek amacıyla çizilir. Görselde, 1 ve 3 numaralı araçlar çizgilerin içine düzgün bir şekilde park etmişken, 2 numaralı araç iki çizgiyi de ihlal ederek yanlış bir şekilde park etmiştir."
   },
   {
-    "id": 3334,
+    "id": 3462,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki 'kırmızı ışık' yandığında, sağa dönüşe izin veren 'yeşil oklu ışık' da yanıyorsa sürücü ne yapmalıdır?",
     "image_url": "Görsel: Sayfa 44'teki, kırmızı ışıkla birlikte yanan sağa yeşil oklu ışık şeması.",
@@ -6001,7 +6001,7 @@
     "description": "Işıklı oklar, dönüş yapan sürücülere hitap eder. Ana ışık kırmızı yanarken, oklu yeşil ışık yanıyorsa, sürücüler okun gösterdiği yöne dönüş yapabilirler, ancak diğer yönlere gidemezler."
   },
   {
-    "id": 3335,
+    "id": 3463,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki 'Duraklamak ve Park Etmek Yasaktır' levhasının anlamı nedir?",
     "image_url": "Görsel: Sayfa 57'deki, üzerinde tek çapraz çizgi olan 'Park Etmek Yasaktır' (P-1) ve çift çapraz çizgi olan 'Duraklamak ve Park Etmek Yasaktır' (P-2) levhaları.",
@@ -6014,7 +6014,7 @@
     "description": "Üzerinde tek çapraz çizgi olan levha (P-1) sadece 'Park Etmeyi' yasaklarken, çift çapraz çizgili bu levha (P-2) hem 'Park Etmeyi' hem de yolcu indirme-bindirme gibi kısa süreli 'Duraklamayı' yasaklar."
   },
   {
-    "id": 3336,
+    "id": 3464,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki bilgi levhası, sürücüye hangi coğrafi bilgi hakkında bilgi vermektedir?",
     "image_url": "Görsel: Sayfa 61'deki 'Sertavul Geçidi Rakım: 1610' yazan B-11a levhası.",
@@ -6027,7 +6027,7 @@
     "description": "Coğrafi Bilgi Levhaları (B-11a), dağ geçitlerinin adını ve deniz seviyesinden yüksekliğini (rakım) bildirir."
   },
   {
-    "id": 3337,
+    "id": 3465,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi 'iki yönlü trafiğe' sahip bir yolda, sürücü hangi şeridi sürekli olarak işgal etmemelidir?",
     "image_url": "Görsel: Sayfa 48'deki 'İki Yönlü Trafik' (T-19) levhası ve iki yönlü yol.",
@@ -6040,7 +6040,7 @@
     "description": "İki yönlü yollarda sürücüler, gidiş yönlerine göre yolun en sağından sürmek zorundadırlar. Sol şerit, karşı yönden gelen trafiğe aittir ve geçme (sollama) gibi istisnai durumlar dışında kesinlikle işgal edilmemelidir."
   },
   {
-    "id": 3338,
+    "id": 3466,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir bölünmüş yola tali yoldan giriş yapan bir araç, hangi araçlara yol vermelidir?",
     "image_url": "Görsel: Sayfa 100'deki, tali yoldan bölünmüş yola giriş yapan araç şeması.",
@@ -6053,7 +6053,7 @@
     "description": "Bölünmüş yola çıkan sürücüler, bu yoldan gelen araçlara ilk geçiş hakkını vermek zorundadır. Bu, hem sağdan hem de soldan (diğer yönden) gelen araçları kapsar."
   },
   {
-    "id": 3339,
+    "id": 3467,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki otoyol levhasında '40' ve '120' rakamları neyi ifade eder?",
     "image_url": "Görsel: Sayfa 64'teki 'Otoyol Rejimi' levhası.",
@@ -6066,7 +6066,7 @@
     "description": "Otoyol Rejimi levhası, otoyolda geçerli olan özel kuralları bildirir. Bu levhadaki '40' rakamı otoyoldaki asgari (minimum) hızı, '120' rakamı ise otomobiller için azami (maksimum) hızı gösterir."
   },
   {
-    "id": 3340,
+    "id": 3468,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir durumda, en sağ şeritteki kamyon, orta şeritteki otomobili geçebilir mi?",
     "image_url": "Görsel: Sayfa 88'deki, çok şeritli yolda sağdaki aracın soldakinden hızlı gittiği durum.",
@@ -6079,7 +6079,7 @@
     "description": "Çok şeritli yollarda, bir şeritteki taşıtın diğer şeritteki taşıttan daha hızlı gitmesi, şerit değiştirmemek kaydıyla, araç geçme (sollama) işlemi sayılmaz."
   },
   {
-    "id": 3341,
+    "id": 3469,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir kaza durumunda, kaza yerinde yaralı varsa, ilk olarak ne yapılmalıdır?",
     "image_url": "Görsel: Sayfa 7'deki kaza yeri resmi.",
@@ -6092,7 +6092,7 @@
     "description": "Bir kazada yaralı varsa, yapılacak ilk işlem, hem kendimizin hem de yaralının güvenliğini sağlamak için olay yerinde gerekli güvenlik önlemlerini (reflektör koyma, aracı sabitleme vb.) almak ve ardından derhal 112 Acil Yardım'ı aramaktır."
   },
   {
-    "id": 3342,
+    "id": 3470,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki trafik işaretinin anlamı nedir?",
     "image_url": "Görsel: Sayfa 5'teki, okul geçidi görevlisinin elindeki 'GEÇ' tabelası.",
@@ -6105,7 +6105,7 @@
     "description": "Okul geçidi görevlilerinin verecekleri işaret ve talimatlara uymak zorunludur. 'GEÇ' işareti, yayaların ve öğrencilerin güvenli bir şekilde karşıya geçebileceğini, sürücülerin ise durarak beklemesi gerektiğini bildirir."
   },
   {
-    "id": 3343,
+    "id": 3471,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki arızalı araç çekme işleminde, çekilen aracın freni bozuksa, iki araç arasındaki bağlantı nasıl olmalıdır?",
     "image_url": "Görsel: Sayfa 136'daki, arızalı araç çeken araçlar.",
@@ -6118,7 +6118,7 @@
     "description": "Çekilen aracın freni bozuk ise, iki araç arasındaki bağlantı 1 metrelik sert bir çeki demiri ile yapılmalıdır ve hız saatte 15 kilometreyi geçmemelidir."
   },
   {
-    "id": 3344,
+    "id": 3472,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi, bir aracın emniyet kemeri takılı olmadan kullanılması durumunda, olası bir kazada ne gibi bir sonuç beklenir?",
     "image_url": "Görsel: Sayfa 138'deki, emniyet kemeri ve çocuk koltuğu görselleri.",
@@ -6131,7 +6131,7 @@
     "description": "Emniyet kemeri, bir kaza anında sürücü ve yolcuların araç içinde savrulmasını, cama veya direksiyona çarpmasını engelleyerek hayat kurtaran en önemli pasif güvenlik donanımıdır. Takılmaması, yaralanma ve ölüm riskini büyük ölçüde artırır."
   },
   {
-    "id": 3345,
+    "id": 3473,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir bisikletin, ayrı bir bisiklet yolu olmasına rağmen taşıt yolunda sürülmesi hakkında ne söylenebilir?",
     "image_url": "Görsel: Sayfa 139'daki bisiklet resmi ve bisiklet yolu tanımı.",
@@ -6144,7 +6144,7 @@
     "description": "Ayrı bir bisiklet yolu olduğu halde, bisiklet ve motorlu bisikletlerin taşıt yollarında sürülmesi yasaktır."
   },
   {
-    "id": 3346,
+    "id": 3474,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir yaya, yaya yolu olmayan bir yolda yürürken, hangi davranışı güvenliğini en çok artırır?",
     "image_url": "Görsel: Sayfa 145'teki yaya kuralları.",
@@ -6157,7 +6157,7 @@
     "description": "Her iki tarafında banket bulunan ve yaya yolu olmayan yollarda, yayalar karşıdan gelen trafiği görebilmek ve tehlikelere karşı önlem alabilmek için kendi gidiş yönlerine göre sol banketten/yol kenarından yürümek zorundadırlar."
   },
   {
-    "id": 3347,
+    "id": 3475,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir maddi hasarlı kazada, taraflar anlaştıktan sonra ne yapmalıdır?",
     "image_url": "Görsel: Sayfa 147'deki kaza sonrası işlemler.",
@@ -6170,7 +6170,7 @@
     "description": "Kazaya karışan sürücülerin tümü anlaşırlarsa, trafik akışını engellememek için olay yerinin fotoğrafları çekilerek kazaya karışan araçlar taşıt yolu dışına çıkarılır ve “Maddi Hasarlı Trafik Kazası Tespit Tutanağını” düzenleyip imzalayarak olay yerinden ayrılabilirler."
   },
   {
-    "id": 3348,
+    "id": 3476,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir 'Araç Muayene İstasyonu'nda aşağıdakilerden hangisi kontrol edilmez?",
     "image_url": "Görsel: Sayfa 19'daki araç muayene istasyonu fotoğrafı.",
@@ -6183,7 +6183,7 @@
     "description": "Araç muayenesinde, aracın trafik güvenliğine uygun olup olmadığı kontrol edilir. Bu kontrole frenler, ışıklar, lastikler, direksiyon sistemi, egzoz emisyonu gibi unsurlar dahildir. Motor yağı seviyesi gibi periyodik bakım unsurları ise sürücünün sorumluluğundadır ve muayenede kontrol edilmez."
   },
   {
-    "id": 3349,
+    "id": 3477,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir durumda sürücü, öndeki araçla arasındaki mesafeyi ayarlarken hangi kurala uymalıdır?",
     "image_url": "Görsel: Sayfa 2'deki şehir içi trafik akışı fotoğrafı.",
@@ -6196,7 +6196,7 @@
     "description": "Sürücüler önlerinde giden araçları, güvenli ve yeterli bir mesafeden takip etmek zorundadır. Bu mesafe, kendi araçlarının kilometre cinsinden saatteki hızının en az yarısı kadar metredir veya 2 saniye kuralı ile kontrol edilir."
   },
   {
-    "id": 3350,
+    "id": 3478,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir paralel park manevrası sırasında, en çok dikkat edilmesi gereken husus nedir?",
     "image_url": "Görsel: Sayfa 6'daki paralel park yardım sistemi grafiği.",
@@ -6209,7 +6209,7 @@
     "description": "Paralel park, sürücünün hem önündeki, hem arkasındaki araçlarla hem de kaldırım ile olan mesafeyi sürekli kontrol ederek, yavaş ve dikkatli bir şekilde yapması gereken bir manevradır."
   },
 {
-    "id": 3371,
+    "id": 3479,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi karmaşık bir otoyol kavşağında, farklı yolları birbirine bağlayan bu yonca yaprağı şeklindeki yollara ne ad verilir?",
     "image_url": "Görsel: Sayfa 11'deki yonca yaprağı şeklindeki otoyol kavşağı fotoğrafı.",
@@ -6222,7 +6222,7 @@
     "description": "Bağlantı Yolu, taşıt yollarının birbirine bağlanmasını sağlayan, kavşak alanı dışında kalan ve bir yönlü trafiğe ayrılmış olan karayolu kısmıdır."
   },
   {
-    "id": 3372,
+    "id": 3480,
     "category": "Trafik ve Çevre",
     "question": "Geçiş üstünlüğüne sahip araçlarda (ambulans, itfaiye vb.) bulunan siren ve tepe lambası gibi özel işaretlerin, bu hakka sahip olmayan diğer araçlara takılarak kullanılması hakkında ne söylenebilir?",
     "image_url": null,
@@ -6235,7 +6235,7 @@
     "description": "Geçiş üstünlüğüne sahip araçlarda bulundurulması gereken siren, tepe lambası gibi donanımların, diğer araçlara takılarak kullanılması yasaktır."
   },
   {
-    "id": 3373,
+    "id": 3481,
     "category": "Trafik ve Çevre",
     "question": "Bir sürücünün, bir yıl içinde ilk defa 100 ceza puanını doldurması nedeniyle sürücü belgesi 2 ay süreyle geri alınmıştır. Sürücünün belgesini geri alabilmesi için ne yapması gerekir?",
     "image_url": null,
@@ -6248,7 +6248,7 @@
     "description": "Bir yıl içinde ilk defa 100 ceza puanını dolduran sürücülerin sürücü belgeleri 2 ay süre ile geri alınır ve bu sürücüler eğitime tabi tutulur. Eğitim, sürücü kursunda trafik dersi almayı içerir."
   },
   {
-    "id": 3374,
+    "id": 3482,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki 'Bölünmüş Yol Öncesi Yön Levhası' sürücüye neyi bildirir?",
     "image_url": "Görsel: Sayfa 63'teki, yolun ileride ikiye ayrıldığını ve her yöne ait bilgileri içeren B-48 levhası.",
@@ -6261,7 +6261,7 @@
     "description": "Bu levha, ileride yolun bir ayırıcı (refüj) ile bölüneceğini ve sürücülerin gidecekleri istikamete göre bu noktadan önce şeritlerini seçmeleri gerektiğini bildirir."
   },
   {
-    "id": 3375,
+    "id": 3483,
     "category": "Trafik ve Çevre",
     "question": "Bakımı yapılmamış araçların çevreye verdiği en büyük zarar aşağıdakilerden hangisidir?",
     "image_url": null,
@@ -6274,7 +6274,7 @@
     "description": "Bakımı yapılmamış araçlar, ayarları bozuk olduğu için normalden daha fazla yakıt yakar ve egzozlarından daha fazla zararlı gaz salarak hava kirliliğine önemli ölçüde olumsuz etki eder."
   },
   {
-    "id": 3376,
+    "id": 3484,
     "category": "Trafik ve Çevre",
     "question": "Aracın güvenle taşıyabileceği yükle birlikte olan ağırlığına ne denir?",
     "image_url": null,
@@ -6287,7 +6287,7 @@
     "description": "Azami Ağırlık, bir aracın güvenle taşıyabileceği yükle birlikte olan toplam ağırlığıdır."
   },
   {
-    "id": 3377,
+    "id": 3485,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi yaralanmalı bir trafik kazasında, sürücülerin yapması gereken ilk ve en önemli davranış hangisidir?",
     "image_url": "Görsel: Sayfa 7'deki devrilmiş araçların ve insanların olduğu kaza fotoğrafı.",
@@ -6300,7 +6300,7 @@
     "description": "Yaralanmalı bir kazada sürücülerin yükümlülükleri; durmak, trafik güvenliği için gerekli önlemleri almak, olayı görevlilere bildirmek ve yaralılara ilk yardımda bulunmaktır."
   },
   {
-    "id": 3378,
+    "id": 3486,
     "category": "Trafik ve Çevre",
     "question": "Bisiklet, motorlu bisiklet ve motosikletlerin yaya yollarında (kaldırımlarda) sürülmesi hakkında ne söylenebilir?",
     "image_url": null,
@@ -6313,7 +6313,7 @@
     "description": "Bu araçların yaya yollarında sürülmesi kesinlikle yasaktır."
   },
   {
-    "id": 3379,
+    "id": 3487,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir kontrolsüz kavşakta, geçiş hakkı sıralaması nasıl olmalıdır?",
     "image_url": "Görsel: Kontrolsüz bir kavşakta düz giden bir traktör, soldan gelen ve düz giden bir otomobil ve sağdan gelen ve düz giden bir otobüs var.",
@@ -6326,7 +6326,7 @@
     "description": "Kontrolsüz kavşaklarda geçiş hakkı sıralaması şöyledir: 1. Traktör ve iş makineleri, diğer motorlu araçlara yol verir. 2. Motorlu araçlardan soldaki, sağdan gelen araca yol verir. Bu durumda en sağdaki otobüs önce, sonra ortadaki otomobil, en son ise traktör geçer."
   },
   {
-    "id": 3380,
+    "id": 3488,
     "category": "Trafik ve Çevre",
     "question": "Görseldeki gibi bir kavşakta, geçiş üstünlüğüne sahip itfaiye aracı, düz gitmekte olan tramvay ve sola dönecek olan otomobil bulunmaktadır. Geçiş hakkı sıralaması nasıl olmalıdır?",
     "image_url": "Görsel: Bir kavşakta sirenleri çalan bir itfaiye, bir tramvay ve bir otomobil var.",
@@ -6338,4 +6338,5 @@
     ],
     "description": "Trafikte geçiş hakkı sıralamasında en üstün hak, görev halindeki geçiş üstünlüğüne sahip araçlardadır. Daha sonra, düz giden tramvay gelir. En son ise diğer araçlar, kendi aralarındaki kurallara göre geçer. Bu nedenle sıralama: 1. İtfaiye, 2. Tramvay, 3. Otomobil şeklindedir."
   }
+]
 
