@@ -6337,6 +6337,168 @@
       { "text": "İtfaiye - Otomobil - Tramvay", "isTrue": false }
     ],
     "description": "Trafikte geçiş hakkı sıralamasında en üstün hak, görev halindeki geçiş üstünlüğüne sahip araçlardadır. Daha sonra, düz giden tramvay gelir. En son ise diğer araçlar, kendi aralarındaki kurallara göre geçer. Bu nedenle sıralama: 1. İtfaiye, 2. Tramvay, 3. Otomobil şeklindedir."
+  },Harika, ehliyet sınavı hazırlığınızı tamamlamak için son 11 soruyu hazırladım. Bu set, PDF'teki önemli konuları ve görsel senaryoları pekiştirmenize yardımcı olacaktır. ID numaraları isteğiniz doğrultusunda 3489'dan başlayarak düzenlenmiştir.
+
+İşte son sorularınız:
+
+JSON
+
+[
+  {
+    "id": 3489,
+    "category": "Trafik ve Çevre",
+    "question": "Görseldeki gibi tehlikeli ve eğimli bir yolda karşılaşan inen ve çıkan araçlar için geçiş hakkı kuralı nedir?",
+    "image_url": "Görsel: Sayfa 118'deki, eğimli ve dar bir yolda karşılaşan iki aracı gösteren şema.",
+    "options": [
+      { "text": "Çıkan araç inen araca yol vermelidir.", "isTrue": false },
+      { "text": "İnen araç, çıkan araca yol vermelidir.", "isTrue": true },
+      { "text": "Yükü daha az olan araç diğerine yol vermelidir.", "isTrue": false },
+      { "text": "Daha büyük olan araç diğerine yol vermelidir.", "isTrue": false }
+    ],
+    "description": "Tehlikeli eğimli yollarda karşılaşma hallerinde, çıkan araç için geçiş güç veya mümkün değilse, güvenli geçişi sağlamak için inen araçlar çıkan araçlara yol vermek zorundadır."
+  },
+  {
+    "id": 3490,
+    "category": "Trafik ve Çevre",
+    "question": "Aşağıdaki işaretlerden hangisi, 'Mecburi Bisiklet Yolu'nu belirtir ve bisikletlilerin bu yolu kullanmak zorunda olduğunu gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Görsel: Kırmızı daire içinde bisiklet figürü.", "isTrue": false },
+      { "text": "Görsel: Kırmızı üçgen içinde bisiklet figürü.", "isTrue": false },
+      { "text": "Görsel: Mavi zeminli yuvarlak levha içinde bisiklet figürü.", "isTrue": true },
+      { "text": "Görsel: Mavi zeminli kare levha içinde bisiklet figürü.", "isTrue": false }
+    ],
+    "description": "Mavi zeminli yuvarlak levhalar, bir şeyin mecburi (zorunlu) olduğunu bildirir. İçinde bisiklet figürü olan bu levha, yolun sadece bisikletlilere ayrıldığını ve onların bu yolu kullanmak zorunda olduğunu belirtir."
+  },
+  {
+    "id": 3491,
+    "category": "Trafik ve Çevre",
+    "question": "Görseldeki gibi bir durumda, kırmızı ışıkta bekleyen sürücünün, ışık sarıya döner dönmez hemen hareket etmesi doğru mudur?",
+    "image_url": "Görsel: Sayfa 43'teki, kırmızıdan sonra sarıya dönen trafik ışığı.",
+    "options": [
+      { "text": "Evet, zamandan kazanır.", "isTrue": false },
+      { "text": "Hayır, yeşil ışığın yanmasını beklemeli ve harekete hazırlanmalıdır.", "isTrue": true },
+      { "text": "Evet, eğer önde araç yoksa hareket edebilir.", "isTrue": false },
+      { "text": "Hayır, korna çalarak diğer sürücüleri uyarmalıdır.", "isTrue": false }
+    ],
+    "description": "Kırmızı ışıkla birlikte yanan sarı ışık, yolun trafiğe açılmak üzere olduğunu bildirir. Bu durumda sürücüler hemen hareket etmemeli, harekete hazırlanmalıdır. Yeşil ışık yandıktan sonra güvenli bir şekilde geçiş yapılmalıdır."
+  },
+  {
+    "id": 3492,
+    "category": "Trafik ve Çevre",
+    "question": "Aşağıdakilerden hangisi, 'Fahri Trafik Müfettişi'nin görevlerinden biridir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sürücülere ceza kesmek.", "isTrue": false },
+      { "text": "Trafik kurallarını ihlal edenler hakkında tutanak düzenleyip trafik kuruluşuna teslim etmek.", "isTrue": true },
+      { "text": "Araçları durdurup kontrol etmek.", "isTrue": false },
+      { "text": "Trafik kazalarına müdahale etmek.", "isTrue": false }
+    ],
+    "description": "Fahri Trafik Müfettişleri, trafik kuralı ihlallerini tespit edip bu konuda suç ve ceza tutanağı düzenleyerek en geç bir hafta içinde herhangi bir trafik kuruluşuna teslim etmekle görevlidir. Doğrudan ceza kesme veya araç durdurma yetkileri yoktur."
+  },
+  {
+    "id": 3493,
+    "category": "Trafik ve Çevre",
+    "question": "Görseldeki gibi, üzerinde reflektif bir kuşak ve 'OKUL TAŞITI' yazısı bulunan bir araç, öğrenci indirip bindirirken arkasındaki 'DUR' ışığını yakmışsa, arkadan gelen sürücü ne yapmalıdır?",
+    "image_url": "Görsel: Sayfa 27'deki 'OKUL TAŞITI' yazılı ve arkasında 'DUR' levhası olan minibüs.",
+    "options": [
+      { "text": "Yavaşlayarak dikkatlice yanından geçmelidir.", "isTrue": false },
+      { "text": "Korna çalarak okul taşıtının hızlanmasını istemelidir.", "isTrue": false },
+      { "text": "Bu ışık yandığı sürece durmak zorundadır.", "isTrue": true },
+      { "text": "Sadece soldan geçiş yapabilir.", "isTrue": false }
+    ],
+    "description": "Okul taşıtı sürücüleri öğrenci indirme-bindirme işlemi sırasında aracın arkasındaki 'DUR' yazılı kırmızı ışığı yakmak zorundadır. Diğer araç sürücüleri ise bu ışık yandığı sürece durmak zorundadır."
+  },
+  {
+    "id": 3494,
+    "category": "Trafik ve Çevre",
+    "question": "Yerleşim yeri dışındaki karayollarında, geceleri seyrederken, karşıdan bir araç gelmediği ve önü yeterince aydınlık olmadığı durumlarda hangi farlar kullanılmalıdır?",
+    "image_url": null,
+    "options": [
+      { "text": "Kısa farlar (25 metreyi aydınlatan)", "isTrue": false },
+      { "text": "Uzun farlar (100 metreyi aydınlatan)", "isTrue": true },
+      { "text": "Sadece park lambaları", "isTrue": false },
+      { "text": "Sis lambaları", "isTrue": false }
+    ],
+    "description": "Uzağı gösteren ışıklar (uzun farlar), yerleşim birimleri dışındaki karayollarında geceleri seyrederken, yeterli aydınlatma olmayan tünellere girerken ve benzeri yerlerde kullanılır."
+  },
+  {
+    "id": 3495,
+    "category": "Trafik ve Çevre",
+    "question": "Görseldeki gibi bir durumda, 'Yol Ver' levhasının olduğu tali yoldan çıkan motosiklet sürücüsü, anayoldaki otomobile göre nasıl davranmalıdır?",
+    "image_url": "Görsel: Sayfa 13'teki ortadaki resim. Anayoldaki otomobil ile tali yoldaki motosiklet.",
+    "options": [
+      { "text": "Hızını artırarak otomobilden önce kavşağa girmelidir.", "isTrue": false },
+      { "text": "Geçiş hakkı kendisinin olduğu için durmadan devam etmelidir.", "isTrue": false },
+      { "text": "Otomobilin geçmesini beklemelidir.", "isTrue": true },
+      { "text": "Korna çalarak otomobili yavaşlatmalıdır.", "isTrue": false }
+    ],
+    "description": "Tali yoldan anayola çıkan sürücüler, anayoldan gelen araçlara ilk geçiş hakkını vermek zorundadır. Motosiklet sürücüsü, 'Yol Ver' levhasının bulunduğu tali yolda olduğu için anayoldaki otomobilin geçişini beklemelidir."
+  },
+  {
+    "id": 3496,
+    "category": "Trafik ve Çevre",
+    "question": "Aşağıdaki araçlardan hangisinin, yerleşim birimleri içindeki karayollarında park etmesi, bir trafik işareti ile izin verilmedikçe yasaktır?",
+    "image_url": null,
+    "options": [
+      { "text": "Otomobil", "isTrue": false },
+      { "text": "Minibüs", "isTrue": false },
+      { "text": "Kamyon, çekici ve otobüs", "isTrue": true },
+      { "text": "Kamyonet", "isTrue": false }
+    ],
+    "description": "Bir trafik işareti ile izin verilmedikçe kamyon, çekici, otobüs, lastik tekerlekli traktör ve iş makinelerinin yerleşim birimleri içindeki karayollarında park etmesi yasaktır."
+  },
+  {
+    "id": 3497,
+    "category": "Trafik ve Çevre",
+    "question": "Görseldeki gibi tehlikeli madde taşıyan bir araç, arızalandığında alınması gereken özel önlem nedir?",
+    "image_url": "Görsel: Sayfa 131'deki tehlikeli madde taşıyan araçlar.",
+    "options": [
+      { "text": "Sadece reflektör koymak yeterlidir.", "isTrue": false },
+      { "text": "Sürücü aracı terk edebilir.", "isTrue": false },
+      { "text": "İşaretleme işleminden sonra aracın bir görevli tarafından gözetim altında tutulması zorunludur.", "isTrue": true },
+      { "text": "En yakın yerleşim yerine çekilmelidir.", "isTrue": false }
+    ],
+    "description": "Tehlikeli madde taşıyan araçlar arızalandığında, normal işaretleme (reflektör vb.) işleminden sonra, araç kesinlikle bir görevlinin gözetimi altında tutulmalıdır."
+  },
+  {
+    "id": 3498,
+    "category": "Trafik ve Çevre",
+    "question": "Yaralanmalı veya ölümlü bir trafik kazasına karışan sürücünün, olayı en yakın zabıtaya veya sağlık kuruluşuna bildirmemesi hangi sonucu doğurur?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece sigorta primleri artar.", "isTrue": false },
+      { "text": "Bu bir yükümlülük ihlalidir ve yasal işlem gerektirir.", "isTrue": true },
+      { "text": "Kusur oranı artar.", "isTrue": false },
+      { "text": "Herhangi bir sonucu olmaz.", "isTrue": false }
+    ],
+    "description": "Kazaya karışanların yükümlülükleri arasında olayı görevlilere bildirmek vardır. Özellikle yaralanmalı ve ölümlü kazalarda bu yükümlülüğün yerine getirilmemesi, sürücünün hukuki sorumluluğunu artırır ve ayrı bir suç teşkil eder."
+  },
+  {
+    "id": 3499,
+    "category": "Trafik ve Çevre",
+    "question": "Görseldeki gibi bir sollama manevrası sırasında, 2 numaralı araç sürücüsü, geçişi tamamladığını nasıl anlar ve ne zaman sağ şeride geçmelidir?",
+    "image_url": "Görsel: Sayfa 88'deki sollama şeması.",
+    "options": [
+      { "text": "1 numaralı aracı geçer geçmez hemen sağa geçmelidir.", "isTrue": false },
+      { "text": "Geçtiği aracı (1 numara) geriyi görme aynasından gördükten sonra sağa sinyal vererek geçmelidir.", "isTrue": true },
+      { "text": "1 numaralı araç sürücüsü korna çalınca geçmelidir.", "isTrue": false },
+      { "text": "Sol şeritte seyrine devam etmelidir.", "isTrue": false }
+    ],
+    "description": "Geçiş (sollama) işlemi; geçilen araç geriyi görme aynasından tamamen görülünceye kadar geçiş şeridinde ilerlenir ve daha sonra sağa sinyal verilerek sağ şeride girilerek tamamlanır."
+  },
+  {
+    "id": 3500,
+    "category": "Trafik ve Çevre",
+    "question": "Sürücü belgesi, alkollü araç kullanma nedeniyle birinci defada ne kadar süreyle geri alınır?",
+    "image_url": null,
+    "options": [
+      { "text": "3 ay", "isTrue": false },
+      { "text": "6 ay", "isTrue": true },
+      { "text": "1 yıl", "isTrue": false },
+      { "text": "2 yıl", "isTrue": false }
+    ],
+    "description": "Belirtilen değerden fazla alkol alarak araç kullandığı birinci defada tespit edilen sürücünün sürücü belgesi 6 ay süre ile geri alınır."
   }
 ]
 
