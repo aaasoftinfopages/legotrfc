@@ -10,7 +10,7 @@
       { "text": "Önce 112 aranır (Bildirme), sonra yaralıya müdahale edilir (Kurtarma) ve en son çevre güvenliği alınır.", "isTrue": false },
       { "text": "Sıralamanın bir önemi yoktur, herhangi birinden başlanabilir.", "isTrue": false }
     ],
-    [cite_start]"description": "İlk yardımın temel uygulamaları KBK olarak kısaltılır. Doğru ve güvenli bir müdahale için önce KORUMA (olay yerinin güvenliğini sağlama), ardından BİLDİRME (112'yi arama) ve son olarak KURTARMA (yaralıya müdahale) adımları izlenmelidir. [cite: 51, 52, 56, 57]"
+    "description": "İlk yardımın temel uygulamaları KBK olarak kısaltılır. Doğru ve güvenli bir müdahale için önce KORUMA (olay yerinin güvenliğini sağlama), ardından BİLDİRME (112'yi arama) ve son olarak KURTARMA (yaralıya müdahale) adımları izlenmelidir."
   },
   {
     "id": 3502,
@@ -23,7 +23,7 @@
       { "text": "10 saniye", "isTrue": true },
       { "text": "1 dakika", "isTrue": false }
     ],
-    "description": "Solunumu değerlendirmek için ilk yardımcı, kulağını hastanın ağzına yaklaştırarak, göğüs hareketlerine bakar, solunum sesini dinler ve soluğu yanağında hissetmeye çalışır. [cite_start]Bu değerlendirme 10 saniye sürmelidir. [cite: 121, 309]"
+    "description": "Solunumu değerlendirmek için ilk yardımcı, kulağını hastanın ağzına yaklaştırarak, göğüs hareketlerine bakar, solunum sesini dinler ve soluğu yanağında hissetmeye çalışır. Bu değerlendirme 10 saniye sürmelidir."
   },
   {
     "id": 3503,
@@ -36,7 +36,7 @@
       { "text": "Dakikada 80 bası / 4 cm", "isTrue": false },
       { "text": "Dakikada 100 bası / 5 cm", "isTrue": true }
     ],
-    [cite_start]"description": "Yetişkinlerde etkili bir dış kalp masajı için göğüs kemiği 5 cm (yandan bakıldığında göğüs yüksekliğinin 1/3'ü kadar) çöktürülmeli ve bu işlem dakikada 100 bası hızında uygulanmalıdır. [cite: 433]"
+    "description": "Yetişkinlerde etkili bir dış kalp masajı için göğüs kemiği 5 cm (yandan bakıldığında göğüs yüksekliğinin 1/3'ü kadar) çöktürülmeli ve bu işlem dakikada 100 bası hızında uygulanmalıdır. "
   },
   {
     "id": 3504,
@@ -49,7 +49,7 @@
       { "text": "Kanın açık kırmızı renkli ve kalp atımlarıyla uyumlu, fışkırır tarzda olması", "isTrue": true },
       { "text": "Kanamanın kendiliğinden kolayca durması", "isTrue": false }
     ],
-    "description": "Atardamar kanamaları, oksijence zengin kan taşıdığı için açık renklidir ve kalbin pompalama ritmine uygun olarak kesik kesik ve fışkırarak akar. [cite_start]En tehlikeli kanama türüdür. [cite: 581]"
+    "description": "Atardamar kanamaları, oksijence zengin kan taşıdığı için açık renklidir ve kalbin pompalama ritmine uygun olarak kesik kesik ve fışkırarak akar. En tehlikeli kanama türüdür."
   },
   {
     "id": 3505,
@@ -62,7 +62,7 @@
       { "text": "Kırık durumunda, kemikleri sabitlemek için verilir.", "isTrue": false },
       { "text": "Bayılma durumunda, kişi oturtularak verilir.", "isTrue": false }
     ],
-    "description": "Bu pozisyon, kanamanın, korkunun veya ciddi yaralanmaların neden olduğu şok durumlarında uygulanır. [cite_start]Kazazede sırt üstü yatırılır ve ayakları 30 cm yukarı kaldırılarak yaşamsal organlara kan gitmesi sağlanır. [cite: 623, 627, 672]"
+    "description": "Bu pozisyon, kanamanın, korkunun veya ciddi yaralanmaların neden olduğu şok durumlarında uygulanır. Kazazede sırt üstü yatırılır ve ayakları 30 cm yukarı kaldırılarak yaşamsal organlara kan gitmesi sağlanır."
   },
   {
     "id": 3506,
@@ -75,7 +75,7 @@
       { "text": "Sırtın ortasına, kürek kemiklerinin arasına", "isTrue": false },
       { "text": "Kalçaların üzerine", "isTrue": false }
     ],
-    "description": "Heimlich manevrasında ilk yardımcı, hastanın arkasına geçer. Bir elini yumruk yaparak baş parmağını midenin üst kısmına, yani göğüs kemiğinin altına yerleştirir. [cite_start]Diğer eliyle de bu yumruğu kavrayarak kuvvetle arkaya ve yukarı doğru bastırır. [cite: 523, 524]"
+    "description": "Heimlich manevrasında ilk yardımcı, hastanın arkasına geçer. Bir elini yumruk yaparak baş parmağını midenin üst kısmına, yani göğüs kemiğinin altına yerleştirir. Diğer eliyle de bu yumruğu kavrayarak kuvvetle arkaya ve yukarı doğru bastırır."
   },
   {
     "id": 3507,
@@ -88,7 +88,7 @@
       { "text": "Uzuv kopması olduğunda veya baskı noktalarına basının yetersiz kaldığı şiddetli kanamalarda", "isTrue": true },
       { "text": "Her türlü iç kanama şüphesinde", "isTrue": false }
     ],
-    "description": "Turnike, son çare olarak başvurulan bir yöntemdir. [cite_start]Çok sayıda yaralının olduğu, ilk yardımcının tek olduğu durumlar, yaralının güç koşullarda taşınacağı durumlar, uzuv kopmaları ve baskı noktalarına basıncın kanamayı durdurmaya yetmediği durumlarda uygulanır. [cite: 636, 637, 638, 639, 640, 641]"
+    "description": "Turnike, son çare olarak başvurulan bir yöntemdir. Çok sayıda yaralının olduğu, ilk yardımcının tek olduğu durumlar, yaralının güç koşullarda taşınacağı durumlar, uzuv kopmaları ve baskı noktalarına basıncın kanamayı durdurmaya yetmediği durumlarda uygulanır."
   },
   {
     "id": 3508,
@@ -101,7 +101,7 @@
       { "text": "Şok Pozisyonu", "isTrue": false },
       { "text": "Kaşık Tekniği", "isTrue": false }
     ],
-    [cite_start]"description": "Rentek manevrası, kaza geçirmiş bir yaralıyı, eğer yangın, patlama veya solunum durması gibi acil bir tehlike varsa omuriliğe zarar vermeden araçtan çıkarmak için kullanılır. [cite: 809, 810, 811]"
+    "description": "Rentek manevrası, kaza geçirmiş bir yaralıyı, eğer yangın, patlama veya solunum durması gibi acil bir tehlike varsa omuriliğe zarar vermeden araçtan çıkarmak için kullanılır."
   },
   {
     "id": 3509,
@@ -114,7 +114,7 @@
       { "text": "Olay yerinde yapılan Temel Yaşam Desteği (TYD)", "isTrue": true },
       { "text": "Hastane acil servislerinde yapılan müdahale", "isTrue": false }
     ],
-    [cite_start]"description": "Hayat kurtarma zincirinin halkaları sırasıyla: 1. Halka: Sağlık kuruluşuna haber verme, 2. Halka: Olay yerinde yapılan Temel Yaşam Desteği, 3. Halka: Ambulans ekiplerince yapılan müdahale, 4. Halka: Hastane acil servisleridir. [cite: 104, 105, 106, 107]"
+    "description": "Hayat kurtarma zincirinin halkaları sırasıyla: 1. Halka: Sağlık kuruluşuna haber verme, 2. Halka: Olay yerinde yapılan Temel Yaşam Desteği, 3. Halka: Ambulans ekiplerince yapılan müdahale, 4. Halka: Hastane acil servisleridir."
   },
   {
     "id": 3510,
@@ -127,7 +127,7 @@
       { "text": "Kişiye dokunulmaz ve öksürmeye teşvik edilir.", "isTrue": true },
       { "text": "Ağzından su verilir.", "isTrue": false }
     ],
-    "description": "Kısmi tıkanıklıkta kişi nefes alabilir, konuşabilir ve en önemlisi öksürebilir. Bu durumda yapılacak en doğru müdahale, kişinin kendi kendine cismi çıkarması için onu öksürmeye teşvik etmektir. [cite_start]Müdahale edilmemelidir. [cite: 503, 504, 505, 506, 507]"
+    "description": "Kısmi tıkanıklıkta kişi nefes alabilir, konuşabilir ve en önemlisi öksürebilir. Bu durumda yapılacak en doğru müdahale, kişinin kendi kendine cismi çıkarması için onu öksürmeye teşvik etmektir. Müdahale edilmemelidir."
   },
   {
     "id": 3511,
@@ -140,7 +140,7 @@
       { "text": "Şok pozisyonu verilir.", "isTrue": false },
       { "text": "Koma pozisyonu verilir.", "isTrue": false }
     ],
-    "description": "Delici göğüs yaralanması olan bilinçli bir hastaya, nefes almasını kolaylaştırmak için yarı oturur pozisyon verilir. [cite_start]Bu pozisyon, akciğerler üzerindeki baskıyı azaltır. [cite: 698, 699]"
+    "description": "Delici göğüs yaralanması olan bilinçli bir hastaya, nefes almasını kolaylaştırmak için yarı oturur pozisyon verilir. Bu pozisyon, akciğerler üzerindeki baskıyı azaltır."
   },
    {
     "id": 3512,
@@ -308,7 +308,7 @@
       { "text": "Doğal deliklerden olan kanama", "isTrue": false },
       { "text": "Kılcal damar kanaması", "isTrue": false }
     ],
-    [cite_start]"description": "Kanamalar vücutta aktığı bölgeye göre üçe ayrılır: Dış kanamalar (kanın vücut dışına akması), İç kanamalar (kanın vücut boşluklarına akması) ve Doğal deliklerden olan kanamalar (kulak, burun, ağız vb.). [cite: 576, 577, 578]"
+    "description": "Kanamalar vücutta aktığı bölgeye göre üçe ayrılır: Dış kanamalar (kanın vücut dışına akması), İç kanamalar (kanın vücut boşluklarına akması) ve Doğal deliklerden olan kanamalar (kulak, burun, ağız vb.)."
   },
   {
     "id": 3525,
@@ -321,7 +321,7 @@
       { "text": "Üçüncü derece donuk", "isTrue": true },
       { "text": "Dördüncü derece donuk", "isTrue": false }
     ],
-    "description": "Üçüncü derece donuk, en ciddi evredir. Bu aşamada dokular tamamen ölmüştür ve geriye dönüşü olmayan bir hasar meydana gelmiştir. [cite_start]Canlı ve sağlıklı deriden kesin hatları ile ayrılan siyah bir bölge oluşur. [cite: 732]"
+    "description": "Üçüncü derece donuk, en ciddi evredir. Bu aşamada dokular tamamen ölmüştür ve geriye dönüşü olmayan bir hasar meydana gelmiştir. Canlı ve sağlıklı deriden kesin hatları ile ayrılan siyah bir bölge oluşur."
   },
   {
     "id": 3526,
@@ -334,7 +334,7 @@
       { "text": "Düzenli spor yapan sağlıklı gençler", "isTrue": true },
       { "text": "Hamileler ve normal kilosunun çok üzerinde olanlar", "isTrue": false }
     ],
-    "description": "Sıcak çarpması için belirli risk grupları vardır. [cite_start]Bunlar arasında kalp, tansiyon, diyabet gibi kronik hastalığı olanlar, çocuklar, yaşlılar, hamileler ve aşırı kilolu kişiler bulunur. [cite: 724]"
+    "description": "Sıcak çarpması için belirli risk grupları vardır. Bunlar arasında kalp, tansiyon, diyabet gibi kronik hastalığı olanlar, çocuklar, yaşlılar, hamileler ve aşırı kilolu kişiler bulunur."
   },
   {
     "id": 3527,
@@ -347,7 +347,7 @@
       { "text": "Burkulma", "isTrue": false },
       { "text": "İncinme", "isTrue": false }
     ],
-    "description": "Çıkık, eklem yüzeylerinin kalıcı olarak ayrılması durumudur ve kendiliğinden normal konumuna dönemez. [cite_start]Yoğun ağrı, şişlik ve eklemde gözle görülür bir şekil bozukluğu ile karakterizedir. [cite: 744]"
+    "description": "Çıkık, eklem yüzeylerinin kalıcı olarak ayrılması durumudur ve kendiliğinden normal konumuna dönemez. Yoğun ağrı, şişlik ve eklemde gözle görülür bir şekil bozukluğu ile karakterizedir."
   },
   {
     "id": 3528,
@@ -360,7 +360,7 @@
       { "text": "Eklemi bulunduğu şekilde tespit edip hareket ettirmemek ve tıbbi yardım istemek.", "isTrue": true },
       { "text": "Hastayı yürümeye teşvik etmek.", "isTrue": false }
     ],
-    "description": "Çıkıkta ilk yardımın temel kuralı, eklemi yerine oturtmaya kesinlikle çalışmamaktır. [cite_start]Eklem bulunduğu pozisyonda hareketsiz hale getirilmeli (tespit edilmeli) ve hemen tıbbi yardım (112) istenmelidir. [cite: 746]"
+    "description": "Çıkıkta ilk yardımın temel kuralı, eklemi yerine oturtmaya kesinlikle çalışmamaktır. Eklem bulunduğu pozisyonda hareketsiz hale getirilmeli (tespit edilmeli) ve hemen tıbbi yardım (112) istenmelidir."
   },
   {
     "id": 3529,
@@ -373,7 +373,7 @@
       { "text": "Kopan parça sıcak su dolu bir kapta taşınmalıdır.", "isTrue": false },
       { "text": "Kopan parçaya herhangi bir işlem yapmadan doğrudan hastaneye götürülmelidir.", "isTrue": false }
     ],
-    "description": "Kopan uzuv parçasının canlılığını korumak için, önce temiz ve su geçirmez bir torbaya konulur. Daha sonra bu torba, içinde 1 ölçek suya 2 ölçek buz bulunan ikinci bir torbanın içine konularak taşınır. [cite_start]Bu yöntem, parçanın donmasını engellerken soğuk kalmasını sağlar. [cite: 665, 666]"
+    "description": "Kopan uzuv parçasının canlılığını korumak için, önce temiz ve su geçirmez bir torbaya konulur. Daha sonra bu torba, içinde 1 ölçek suya 2 ölçek buz bulunan ikinci bir torbanın içine konularak taşınır. Bu yöntem, parçanın donmasını engellerken soğuk kalmasını sağlar."
   },
   {
     "id": 3530,
@@ -386,7 +386,7 @@
       { "text": "Altın Beşik Yöntemi", "isTrue": true },
       { "text": "Kaşık Tekniği", "isTrue": false }
     ],
-    "description": "Bu taşıma tekniği 'Altın Beşik Yöntemi' olarak adlandırılır. İki, üç veya dört elle uygulanabilir. [cite_start]Genellikle bilinci açık ve ciddi bir yaralanması olmayan, yardım edebilen hastaları taşımak için kullanılır. [cite: 826]"
+    "description": "Bu taşıma tekniği 'Altın Beşik Yöntemi' olarak adlandırılır. İki, üç veya dört elle uygulanabilir. Genellikle bilinci açık ve ciddi bir yaralanması olmayan, yardım edebilen hastaları taşımak için kullanılır."
   },
   {
     "id": 3531,
@@ -399,7 +399,7 @@
       { "text": "Havale", "isTrue": false },
       { "text": "Koma", "isTrue": true }
     ],
-    "description": "Koma, dışarıdan gelen uyarılara karşı tepkinin azalması ya da yok olması ile ortaya çıkan uzun süreli bilinç kaybıdır. [cite_start]Bayılmadan farkı, daha derin ve uzun süreli olması ve hayati reflekslerin kaybolmasıdır. [cite: 759]"
+    "description": "Koma, dışarıdan gelen uyarılara karşı tepkinin azalması ya da yok olması ile ortaya çıkan uzun süreli bilinç kaybıdır. Bayılmadan farkı, daha derin ve uzun süreli olması ve hayati reflekslerin kaybolmasıdır."
   },
   {
     "id": 3532,
@@ -412,7 +412,7 @@
       { "text": "100-120", "isTrue": false },
       { "text": "120-140", "isTrue": false }
     ],
-    "description": "Yaşam bulgularından biri olan nabız, yetişkin bir kişide normalde dakikada 60-100 atım arasındadır. [cite_start]Çocuklarda bu değer 100-120, bebeklerde ise 100-140'tır. [cite: 247, 248, 249]"
+    "description": "Yaşam bulgularından biri olan nabız, yetişkin bir kişide normalde dakikada 60-100 atım arasındadır. Çocuklarda bu değer 100-120, bebeklerde ise 100-140'tır."
   },
   {
     "id": 3533,
@@ -425,7 +425,7 @@
       { "text": "Hasta/yaralı sayısı ve durumları", "isTrue": false },
       { "text": "Hasta/yaralının sosyal güvencesi", "isTrue": true }
     ],
-    [cite_start]"description": "112 aranırken sakin olunmalı; net ve anlaşılır bir şekilde olayın olduğu adres, arayanın kimliği, yaralı sayısı ve durumu, yapıldıysa hangi ilk yardımın uygulandığı gibi hayati bilgiler verilir. [cite: 71, 72, 73, 74, 75, 76, 77]"
+    "description": "112 aranırken sakin olunmalı; net ve anlaşılır bir şekilde olayın olduğu adres, arayanın kimliği, yaralı sayısı ve durumu, yapıldıysa hangi ilk yardımın uygulandığı gibi hayati bilgiler verilir."
   },
   {
     "id": 3534,
@@ -438,7 +438,7 @@
       { "text": "Karşılıklı Durarak Kaldırma", "isTrue": false },
       { "text": "Rentek Manevrası", "isTrue": false }
     ],
-    "description": "Köprü tekniği, yaralıya iki taraftan ulaşılabildiğinde dört ilk yardımcı tarafından uygulanır. [cite_start]Üç yardımcı yaralının üzerine bacaklarını açarak çömelir ve onu kaldırır, dördüncü yardımcı ise sedyeyi bacaklarının arasından iterek yerleştirir. [cite: 834]"
+    "description": "Köprü tekniği, yaralıya iki taraftan ulaşılabildiğinde dört ilk yardımcı tarafından uygulanır. Üç yardımcı yaralının üzerine bacaklarını açarak çömelir ve onu kaldırır, dördüncü yardımcı ise sedyeyi bacaklarının arasından iterek yerleştirir."
   },
   {
     "id": 3535,
@@ -451,7 +451,7 @@
       { "text": "Oda sıcaklığında bir küvete sokulur.", "isTrue": false },
       { "text": "Tıbbi yardım (112) istenir.", "isTrue": false }
     ],
-    "description": "Ateşli havalede amaç vücut ısısını düşürmektir. Bu nedenle hastanın üzeri örtülmemeli, aksine soyularak ıslak ve ılık kompresler uygulanmalıdır. [cite_start]Ateşin düşmemesi durumunda oda sıcaklığında duş aldırılabilir. [cite: 773]"
+    "description": "Ateşli havalede amaç vücut ısısını düşürmektir. Bu nedenle hastanın üzeri örtülmemeli, aksine soyularak ıslak ve ılık kompresler uygulanmalıdır. Ateşin düşmemesi durumunda oda sıcaklığında duş aldırılabilir."
   },
   {
     "id": 3536,
@@ -464,7 +464,7 @@
       { "text": "Diyafram", "isTrue": false },
       { "text": "Mide", "isTrue": true }
     ],
-    "description": "Solunum sistemi; solunum yolları (burun, yutak, gırtlak, soluk borusu) ve akciğerlerden oluşur. [cite_start]Mide, sindirim sistemi organıdır. [cite: 173, 174, 181, 184, 230]"
+    "description": "Solunum sistemi; solunum yolları (burun, yutak, gırtlak, soluk borusu) ve akciğerlerden oluşur. Mide, sindirim sistemi organıdır."
   },
   {
     "id": 3537,
@@ -477,7 +477,7 @@
       { "text": "Yaralının tansiyonunu takip etmek.", "isTrue": false },
       { "text": "Sadece istatistiki bir bilgi toplamak.", "isTrue": false }
     ],
-    "description": "Turnike uygulanan zamanın kaydedilmesi hayati önem taşır. Çünkü uzun süre sıkılı kalan bir turnike, uzvun tamamen ölmesine (nekroz) neden olabilir. [cite_start]Sağlık ekipleri bu saate bakarak turnikenin ne kadar süredir takılı olduğunu anlar ve 15-20 dakikada bir gevşetilmesi gerektiğini bilirler. [cite: 661, 662]"
+    "description": "Turnike uygulanan zamanın kaydedilmesi hayati önem taşır. Çünkü uzun süre sıkılı kalan bir turnike, uzvun tamamen ölmesine (nekroz) neden olabilir. Sağlık ekipleri bu saate bakarak turnikenin ne kadar süredir takılı olduğunu anlar ve 15-20 dakikada bir gevşetilmesi gerektiğini bilirler. "
   },
   {
     "id": 3538,
@@ -490,7 +490,7 @@
       { "text": "Yaraya bolca su dökülür.", "isTrue": false },
       { "text": "Hemen turnike uygulanır.", "isTrue": false }
     ],
-    "description": "Açık kırıklarda enfeksiyon riski çok yüksektir. [cite_start]Bu nedenle tespit (sabitleme) işlemine geçmeden önce, yaranın üzeri temiz bir bezle kapatılarak dış ortamla teması kesilmelidir. [cite: 740]"
+    "description": "Açık kırıklarda enfeksiyon riski çok yüksektir. Bu nedenle tespit (sabitleme) işlemine geçmeden önce, yaranın üzeri temiz bir bezle kapatılarak dış ortamla teması kesilmelidir."
   },
   {
     "id": 3539,
@@ -503,7 +503,7 @@
       { "text": "15 dakika boyunca kalp masajı yaptıktan sonra.", "isTrue": false },
       { "text": "112'yi aramak yerine yakındaki birinden yardım istenir.", "isTrue": false }
     ],
-    "description": "Yetişkinlerden farklı olarak, çocuk ve bebeklerde solunum durması daha sık görüldüğü için hemen müdahaleye başlanır. [cite_start]Eğer ilk yardımcı yalnızsa, önce 5 tur (yaklaşık 2 dakika) 30:2 oranında kalp masajı ve yapay solunum yapar, ardından 112'yi kendisi arar. [cite: 464, 490]"
+    "description": "Yetişkinlerden farklı olarak, çocuk ve bebeklerde solunum durması daha sık görüldüğü için hemen müdahaleye başlanır. Eğer ilk yardımcı yalnızsa, önce 5 tur (yaklaşık 2 dakika) 30:2 oranında kalp masajı ve yapay solunum yapar, ardından 112'yi kendisi arar."
   },
   {
     "id": 3540,
@@ -516,7 +516,7 @@
       { "text": "Önce kendi güvenliğini sağlayıp elektrik akımını kesmek (sigortayı indirmek).", "isTrue": true },
       { "text": "Hemen kalp masajına başlamak.", "isTrue": false }
     ],
-    "description": "Elektrik çarpmalarında ilk kural, kendi can güvenliğini sağlamaktır. Yaralıya dokunmadan önce mutlaka elektrik akımı kesilmelidir. [cite_start]Aksi takdirde ilk yardımcı da akıma kapılabilir. [cite: 721]"
+    "description": "Elektrik çarpmalarında ilk kural, kendi can güvenliğini sağlamaktır. Yaralıya dokunmadan önce mutlaka elektrik akımı kesilmelidir. Aksi takdirde ilk yardımcı da akıma kapılabilir."
   },
   {
     "id": 3541,
@@ -542,7 +542,7 @@
       { "text": "Olay yerinde teşhis koyup ilaç tedavisi başlamak.", "isTrue": true },
       { "text": "Kendi can güvenliğini tehlikeye atmamak.", "isTrue": false }
     ],
-    "description": "İlk yardımcı, sağlık personeli değildir. Görevi, profesyonel yardım gelene kadar hayat kurtarmak veya durumun kötüleşmesini önlemektir. [cite_start]Teşhis koymak, ilaç vermek gibi tıbbi müdahaleler ilk yardımcının görevi ve yetkisi dışındadır. [cite: 28, 34, 95, 96, 97, 98, 101, 102, 103]"
+    "description": "İlk yardımcı, sağlık personeli değildir. Görevi, profesyonel yardım gelene kadar hayat kurtarmak veya durumun kötüleşmesini önlemektir. Teşhis koymak, ilaç vermek gibi tıbbi müdahaleler ilk yardımcının görevi ve yetkisi dışındadır."
   },
   {
     "id": 3543,
@@ -555,7 +555,7 @@
       { "text": "Burkulma", "isTrue": true },
       { "text": "Ezilme", "isTrue": false }
     ],
-    "description": "Burkulma, eklem yüzeylerinin anlık olarak ayrılmasıdır. Genellikle zorlamalar sonucu oluşur ve belirtileri ağrı, kızarma, şişlik ve işlev kaybıdır. [cite_start]Çıkıktan farkı, ayrılmanın 'kalıcı' değil, 'anlık' olmasıdır. [cite: 741, 742]"
+    "description": "Burkulma, eklem yüzeylerinin anlık olarak ayrılmasıdır. Genellikle zorlamalar sonucu oluşur ve belirtileri ağrı, kızarma, şişlik ve işlev kaybıdır. Çıkıktan farkı, ayrılmanın 'kalıcı' değil, 'anlık' olmasıdır."
   },
   {
     "id": 3544,
@@ -568,7 +568,7 @@
       { "text": "Boşaltım Sistemi", "isTrue": true },
       { "text": "Sinir Sistemi", "isTrue": false }
     ],
-    "description": "Boşaltım sistemi; böbrekler, idrar borusu, idrar kesesi ve idrar kanallarından oluşur. [cite_start]Temel görevi kanı süzerek zararlı maddeleri atmak ve vücudun sıvı-elektrolit dengesini korumaktır. [cite: 198, 199]"
+    "description": "Boşaltım sistemi; böbrekler, idrar borusu, idrar kesesi ve idrar kanallarından oluşur. Temel görevi kanı süzerek zararlı maddeleri atmak ve vücudun sıvı-elektrolit dengesini korumaktır."
   },
   {
     "id": 3545,
@@ -581,7 +581,7 @@
       { "text": "Rentek Manevrası", "isTrue": false },
       { "text": "İtfaiyeci Yöntemi", "isTrue": false }
     ],
-    "description": "Kaşık tekniği, adını ilk yardımcıların ellerini yaralının altından aynı anda kaşık gibi geçirmelerinden alır. [cite_start]Özellikle yaralının sadece bir tarafında çalışma alanı olduğunda ve 3 kişiyle sedyeye aktarmak gerektiğinde kullanılır. [cite: 830]"
+    "description": "Kaşık tekniği, adını ilk yardımcıların ellerini yaralının altından aynı anda kaşık gibi geçirmelerinden alır. Özellikle yaralının sadece bir tarafında çalışma alanı olduğunda ve 3 kişiyle sedyeye aktarmak gerektiğinde kullanılır."
   },
   {
     "id": 3546,
@@ -594,7 +594,7 @@
       { "text": "41-42°C üstü ve 34,5°C altı", "isTrue": true },
       { "text": "43°C üstü ve 32°C altı", "isTrue": false }
     ],
-    "description": "Normal vücut ısısı 36,5°C'dir. Vücut ısısının 41-42°C'nin üstüne çıkması (hipertermi) veya 34,5°C'nin altına düşmesi (hipotermi) tehlikeli bir durumu ifade eder. [cite_start]31,0°C ve altı ise ölümcül kabul edilir. [cite: 271, 272, 273, 274]"
+    "description": "Normal vücut ısısı 36,5°C'dir. Vücut ısısının 41-42°C'nin üstüne çıkması (hipertermi) veya 34,5°C'nin altına düşmesi (hipotermi) tehlikeli bir durumu ifade eder. 31,0°C ve altı ise ölümcül kabul edilir."
   },
   {
     "id": 3547,
@@ -607,7 +607,7 @@
       { "text": "Baskı bırakılıp kanamanın kendi kendine durması beklenir.", "isTrue": false },
       { "text": "Yara yıkanır ve tekrar bez konulur.", "isTrue": false }
     ],
-    "description": "Kanayan bir yarada, yara üzerine konan ilk bez, pıhtılaşmanın temelini oluşturur. Bu bezi kaldırmak, oluşan pıhtıyı bozarak kanamayı tekrar başlatır. [cite_start]Bu nedenle ilk bez kaldırılmaz, gerekirse üzerine ikinci bir bez konularak basınç artırılır. [cite: 617]"
+    "description": "Kanayan bir yarada, yara üzerine konan ilk bez, pıhtılaşmanın temelini oluşturur. Bu bezi kaldırmak, oluşan pıhtıyı bozarak kanamayı tekrar başlatır. Bu nedenle ilk bez kaldırılmaz, gerekirse üzerine ikinci bir bez konularak basınç artırılır."
   },
   {
     "id": 3548,
@@ -620,7 +620,7 @@
       { "text": "Acil tedaviyi doktor ve sağlık personeli, ilk yardımı ise bu konuda eğitim almış herkes yapabilir.", "isTrue": true },
       { "text": "İlk yardım ücretli, acil tedavi ücretsizdir.", "isTrue": false }
     ],
-    "description": "Temel fark uygulayıcı personeldir. Acil tedavi, özel eğitim almış sağlık personeli (doktor, paramedik vb.) tarafından tıbbi araç-gereç ve ilaç kullanılarak yapılan müdahaledir. [cite_start]İlk yardım ise, bu konuda eğitim almış herkesin, olay yerinde bulduğu malzemelerle yaptığı ilaçsız uygulamalardır. [cite: 35, 38, 40]"
+    "description": "Temel fark uygulayıcı personeldir. Acil tedavi, özel eğitim almış sağlık personeli (doktor, paramedik vb.) tarafından tıbbi araç-gereç ve ilaç kullanılarak yapılan müdahaledir. İlk yardım ise, bu konuda eğitim almış herkesin, olay yerinde bulduğu malzemelerle yaptığı ilaçsız uygulamalardır."
   },
   {
     "id": 3549,
@@ -633,7 +633,7 @@
       { "text": "Yaralıya kesin teşhis koymak.", "isTrue": true },
       { "text": "Hasta/yaralının durumunun kötüleşmesini önlemek.", "isTrue": false }
     ],
-    "description": "İlk yardımın amaçları; hayati tehlikeyi ortadan kaldırmak, yaşamsal fonksiyonların devamını sağlamak, durumun kötüye gitmesini engellemek ve iyileşmeyi kolaylaştırmaktır. [cite_start]Kesin bir hastalık teşhisi koymak, ilk yardımcının değil, doktorun görevidir. [cite: 46, 47, 50, 48, 49]"
+    "description": "İlk yardımın amaçları; hayati tehlikeyi ortadan kaldırmak, yaşamsal fonksiyonların devamını sağlamak, durumun kötüye gitmesini engellemek ve iyileşmeyi kolaylaştırmaktır. Kesin bir hastalık teşhisi koymak, ilk yardımcının değil, doktorun görevidir. "
   },
   {
     "id": 3550,
@@ -646,7 +646,7 @@
       { "text": "Kemikler, eklemler ve kaslar", "isTrue": true },
       { "text": "Akciğerler, soluk borusu ve diyafram", "isTrue": false }
     ],
-    "description": "Vücudun desteklenmesini ve hareket etmesini sağlayan sistem Hareket Sistemi'dir. [cite_start]Bu sistem kemikler, eklemler ve kaslardan oluşur. [cite: 128, 129, 130, 131, 132, 133, 134, 135]"
+    "description": "Vücudun desteklenmesini ve hareket etmesini sağlayan sistem Hareket Sistemi'dir. Bu sistem kemikler, eklemler ve kaslardan oluşur."
   },
   {
     "id": 3551,
@@ -659,7 +659,7 @@
       { "text": "3", "isTrue": false },
       { "text": "5", "isTrue": false }
     ],
-    "description": "Yetişkinlerde ve çocuklarda temel yaşam desteği (TYD) döngüsü, 30 kalp masajını takiben 2 kurtarıcı soluk verilmesi şeklindedir. [cite_start]Bu döngü 30:2 olarak ifade edilir ve yardım gelene kadar tekrarlanır. [cite: 438]"
+    "description": "Yetişkinlerde ve çocuklarda temel yaşam desteği (TYD) döngüsü, 30 kalp masajını takiben 2 kurtarıcı soluk verilmesi şeklindedir. Bu döngü 30:2 olarak ifade edilir ve yardım gelene kadar tekrarlanır."
   },
   {
     "id": 3552,
@@ -672,7 +672,7 @@
       { "text": "Sıcak battaniyelere sarılır.", "isTrue": false },
       { "text": "Sadece ambulansın gelmesi beklenir.", "isTrue": false }
     ],
-    "description": "Suda boğulmalarda zaman kaybetmeden müdahale esastır. Yuttuğu suyu çıkarmak için zaman harcanmaz. [cite_start]Yaralı sert bir zemine yatırılır ve hemen Temel Yaşam Desteği (30 kalp masajı, 2 yapay solunum) uygulamasına başlanır ve 112'ye haber verilir. [cite: 801]"
+    "description": "Suda boğulmalarda zaman kaybetmeden müdahale esastır. Yuttuğu suyu çıkarmak için zaman harcanmaz. Yaralı sert bir zemine yatırılır ve hemen Temel Yaşam Desteği (30 kalp masajı, 2 yapay solunum) uygulamasına başlanır ve 112'ye haber verilir."
   },
   {
     "id": 3553,
@@ -685,7 +685,7 @@
       { "text": "Yaralının yaşının genç olması.", "isTrue": false },
       { "text": "Kanamamanın koyu renkli olması.", "isTrue": false }
     ],
-    "description": "Deri, vücudun mikroplara karşı en önemli savunma hattıdır. [cite_start]Bir travma sonucu deri ya da mukoza bütünlüğünün bozulması (yara oluşumu), mikropların vücuda girmesi için bir kapı açar ve bu da enfeksiyon riskini ciddi şekilde artırır. [cite: 689, 690]"
+    "description": "Deri, vücudun mikroplara karşı en önemli savunma hattıdır. Bir travma sonucu deri ya da mukoza bütünlüğünün bozulması (yara oluşumu), mikropların vücuda girmesi için bir kapı açar ve bu da enfeksiyon riskini ciddi şekilde artırır."
   },
   {
     "id": 3554,
@@ -698,7 +698,7 @@
       { "text": "Erken Defibrilasyon (Elektroşok)", "isTrue": false },
       { "text": "Erken İleri Yaşam Desteği", "isTrue": false }
     ],
-    "description": "'EARLY CPR' (Cardiopulmonary Resuscitation), Hayat Kurtarma Zincirinin ikinci halkasıdır ve 'Erken Temel Yaşam Desteği' anlamına gelir. [cite_start]Bu, profesyonel yardım gelene kadar yapılan kalp masajı ve yapay solunumdur. [cite: 106, 110, 111]"
+    "description": "'EARLY CPR' (Cardiopulmonary Resuscitation), Hayat Kurtarma Zincirinin ikinci halkasıdır ve 'Erken Temel Yaşam Desteği' anlamına gelir. Bu, profesyonel yardım gelene kadar yapılan kalp masajı ve yapay solunumdur."
   },
   {
     "id": 3555,
@@ -711,7 +711,7 @@
       { "text": "Sivri aletlerle oluşan, derinliği fazla olan yaralardır.", "isTrue": false },
       { "text": "Tüm dokuların parçalandığı yaralardır.", "isTrue": false }
     ],
-    "description": "Ezikli yaralar, künt bir travma (taş, yumruk, sopa vb.) sonucu oluşur. Doku zedelenmesi belirgindir, yara kenarları düzgün değildir ve genellikle kanama, kesik yaralara göre daha azdır. [cite_start]Ancak doku hasarı ve enfeksiyon riski fazladır. [cite: 691]"
+    "description": "Ezikli yaralar, künt bir travma (taş, yumruk, sopa vb.) sonucu oluşur. Doku zedelenmesi belirgindir, yara kenarları düzgün değildir ve genellikle kanama, kesik yaralara göre daha azdır. Ancak doku hasarı ve enfeksiyon riski fazladır."
   },
   {
     "id": 3556,
@@ -724,7 +724,7 @@
       { "text": "Çift kemikli bölgeler (ön kol, bacak).", "isTrue": false },
       { "text": "Boyun ve gövde.", "isTrue": false }
     ],
-    "description": "Turnike, atardamarı tek bir kemiğe karşı etkili bir şekilde sıkıştırabilmek için kolun üst kısmı (humerus) ve uyluk (femur) gibi tek kemikli bölgelere uygulanır. [cite_start]Ön kol ve bacak gibi çift kemikli bölgelere uygulanması, damarların tam sıkışmasını engelleyebileceği için genellikle tercih edilmez (uzuv kopması hariç). [cite: 652]"
+    "description": "Turnike, atardamarı tek bir kemiğe karşı etkili bir şekilde sıkıştırabilmek için kolun üst kısmı (humerus) ve uyluk (femur) gibi tek kemikli bölgelere uygulanır. Ön kol ve bacak gibi çift kemikli bölgelere uygulanması, damarların tam sıkışmasını engelleyebileceği için genellikle tercih edilmez (uzuv kopması hariç)."
   },
   {
     "id": 3557,
@@ -737,7 +737,7 @@
       { "text": "Yanan bölgedeki yüzük, bilezik gibi takıları çıkarmak.", "isTrue": false },
       { "text": "Oluşan su dolu kabarcıkları (bülleri) patlatmamak.", "isTrue": false }
     ],
-    "description": "Yanık üzerine yoğurt, diş macunu gibi maddeler sürmek, enfeksiyon riskini ciddi şekilde artırır ve yanığın derecesinin anlaşılmasını zorlaştırır. [cite_start]Doğru ilk yardım, yanan bölgeyi sadece soğuk su ile soğutmak ve temiz bir bezle örtmektir. [cite: 717]"
+    "description": "Yanık üzerine yoğurt, diş macunu gibi maddeler sürmek, enfeksiyon riskini ciddi şekilde artırır ve yanığın derecesinin anlaşılmasını zorlaştırır. Doğru ilk yardım, yanan bölgeyi sadece soğuk su ile soğutmak ve temiz bir bezle örtmektir."
   },
   {
     "id": 3558,
@@ -750,7 +750,7 @@
       { "text": "Hasta/yaralıyı olay yerinden derhal uzaklaştırmak.", "isTrue": true },
       { "text": "Kırıklara yerinde müdahale etmek.", "isTrue": false }
     ],
-    "description": "Kurtarma (Müdahale) aşamasında, tehlike olmadığı sürece hasta/yaralı yerinden hareket ettirilmez. Müdahale, olay yerinde sakin ve hızlı bir şekilde yapılır. [cite_start]Yaralıyı gereksiz yere hareket ettirmek, durumunun kötüleşmesine (özellikle omurga yaralanmalarında) neden olabilir. [cite: 81, 83, 85, 88, 357]"
+    "description": "Kurtarma (Müdahale) aşamasında, tehlike olmadığı sürece hasta/yaralı yerinden hareket ettirilmez. Müdahale, olay yerinde sakin ve hızlı bir şekilde yapılır. Yaralıyı gereksiz yere hareket ettirmek, durumunun kötüleşmesine (özellikle omurga yaralanmalarında) neden olabilir."
   },
   {
     "id": 3559,
@@ -763,7 +763,7 @@
       { "text": "Hızlı ve zayıf nabız, ciltte solukluk, soğukluk ve nemlilik (şok belirtileri).", "isTrue": true },
       { "text": "Yavaş ve derin solunum.", "isTrue": false }
     ],
-    "description": "İç kanama, kanın vücut içine akmasıdır ve gözle görülmez. Ancak kan kaybına bağlı olarak şok belirtileri ortaya çıkar. [cite_start]Bunlar arasında hızlı ve zayıf nabız, hızlı solunum, tansiyon düşüklüğü, soluk ve soğuk/nemli cilt, baş dönmesi ve huzursuzluk bulunur. [cite: 670, 630]"
+    "description": "İç kanama, kanın vücut içine akmasıdır ve gözle görülmez. Ancak kan kaybına bağlı olarak şok belirtileri ortaya çıkar. Bunlar arasında hızlı ve zayıf nabız, hızlı solunum, tansiyon düşüklüğü, soluk ve soğuk/nemli cilt, baş dönmesi ve huzursuzluk bulunur. "
   },
   {
     "id": 3560,
@@ -776,7 +776,7 @@
       { "text": "Sadece eklem bölgeleri sarılır.", "isTrue": false },
       { "text": "Kırık bölgeye masaj yapılır.", "isTrue": false }
     ],
-    "description": "Etkili bir tespit için, kırık kemiğin her iki ucundaki eklemin de hareketsiz hale getirilmesi gerekir. [cite_start]Bu nedenle, tespit materyali (atel) kırığın altındaki ve üstündeki eklemleri de içine alacak uzunlukta olmalıdır. [cite: 739, 750]"
+    "description": "Etkili bir tespit için, kırık kemiğin her iki ucundaki eklemin de hareketsiz hale getirilmesi gerekir. Bu nedenle, tespit materyali (atel) kırığın altındaki ve üstündeki eklemleri de içine alacak uzunlukta olmalıdır."
   },
   {
     "id": 3561,
@@ -789,7 +789,7 @@
       { "text": "Araçların kontağı kapatılır.", "isTrue": false },
       { "text": "Gaz kaçağı ihtimaline karşı sigara içilmesine izin verilmez.", "isTrue": false }
     ],
-    "description": "Koruma basamağının amacı hem yaralılar hem de ilk yardımcı için güvenli bir çevre oluşturmaktır. Meraklı kalabalık, hem müdahaleyi zorlaştırır hem de yeni kazalara neden olabilir. [cite_start]Bu nedenle meraklı kişiler olay yerinden uzaklaştırılmalıdır. [cite: 61, 347, 348, 349, 356, 360]"
+    "description": "Koruma basamağının amacı hem yaralılar hem de ilk yardımcı için güvenli bir çevre oluşturmaktır. Meraklı kalabalık, hem müdahaleyi zorlaştırır hem de yeni kazalara neden olabilir. Bu nedenle meraklı kişiler olay yerinden uzaklaştırılmalıdır."
   },
   {
     "id": 3562,
@@ -802,7 +802,7 @@
       { "text": "Kısa süreli ve geçici bilinç kaybıdır.", "isTrue": false },
       { "text": "Kontrol edilemeyen kas kasılmalarıdır.", "isTrue": false }
     ],
-    "description": "Şok, herhangi bir nedenle (kanama, kalp yetmezliği, alerji vb.) dolaşım sisteminin yetersiz kalması ve bu yüzden hayati organların (beyin, kalp, böbrekler) yeterince oksijen alamaması durumudur. [cite_start]Tansiyon düşüklüğü ile seyreder. [cite: 668]"
+    "description": "Şok, herhangi bir nedenle (kanama, kalp yetmezliği, alerji vb.) dolaşım sisteminin yetersiz kalması ve bu yüzden hayati organların (beyin, kalp, böbrekler) yeterince oksijen alamaması durumudur. Tansiyon düşüklüğü ile seyreder."
   },
   {
     "id": 3563,
@@ -815,7 +815,7 @@
       { "text": "Hava Yolu Açıklığı (Airway) - Baş Geri-Çene Yukarı pozisyonuyla", "isTrue": true },
       { "text": "Ambulans - 112'yi aramakla", "isTrue": false }
     ],
-    "description": "İlk yardımın ABC'sinde 'A' (Airway), Hava Yolu Açıklığını ifade eder. [cite_start]Özellikle bilinci kapalı kişilerde dilin geriye kaçarak soluk borusunu tıkamasını önlemek için 'Baş Geri-Çene Yukarı' pozisyonu verilerek hava yolu açılır. [cite: 119, 302]"
+    "description": "İlk yardımın ABC'sinde 'A' (Airway), Hava Yolu Açıklığını ifade eder. Özellikle bilinci kapalı kişilerde dilin geriye kaçarak soluk borusunu tıkamasını önlemek için 'Baş Geri-Çene Yukarı' pozisyonu verilerek hava yolu açılır."
   },
   {
     "id": 3564,
@@ -1348,7 +1348,7 @@
       { "text": "Olay yerinde 112'yi arama, malzeme getirme, trafiği yönlendirme gibi görevleri dağıtarak daha etkin ve hızlı bir müdahale sağlamak için.", "isTrue": true },
       { "text": "Yasal olarak tanık bulmak için.", "isTrue": false }
     ],
-    [cite_start]"description": "Bir kaza yerinde birden fazla işin aynı anda yapılması gerekebilir[cite: 86]. [cite_start]İlk yardımcı, çevredeki kişileri sakinleştirip onlara küçük görevler vererek (örn: 112'yi aratmak, ilk yardım çantasını getirtmek) hem olay yeri yönetimini sağlar hem de yaralıya odaklanmak için zaman kazanır[cite: 103]."
+    "description": "Bir kaza yerinde birden fazla işin aynı anda yapılması gerekebilir[cite: 86]. İlk yardımcı, çevredeki kişileri sakinleştirip onlara küçük görevler vererek (örn: 112'yi aratmak, ilk yardım çantasını getirtmek) hem olay yeri yönetimini sağlar hem de yaralıya odaklanmak için zaman kazanır."
   },
   {
     "id": 3605,
@@ -1361,7 +1361,7 @@
       { "text": "Beyin", "isTrue": true },
       { "text": "Mide", "isTrue": false }
     ],
-    "description": "Kalp durduğunda kan pompalanması durur. Oksijensizliğe en hassas organ beyindir. [cite_start]Müdahale edilmezse dakikalar içinde beyin hücreleri ölmeye başlar ve geriye dönüşü olmayan hasarlar oluşur[cite: 381]."
+    "description": "Kalp durduğunda kan pompalanması durur. Oksijensizliğe en hassas organ beyindir. Müdahale edilmezse dakikalar içinde beyin hücreleri ölmeye başlar ve geriye dönüşü olmayan hasarlar oluşur."
   },
   {
     "id": 3606,
@@ -1374,7 +1374,7 @@
       { "text": "Sol meme ucunun hemen altına.", "isTrue": false },
       { "text": "Mide boşluğunun üzerine.", "isTrue": false }
     ],
-    "description": "Doğru bası noktasını bulmak için, göğüs kemiğinin (iman tahtası) alt ve üst ucu bulunur. [cite_start]Bu kemiğin alt yarısının tam ortası, kalp masajı için bası uygulanacak bölgedir[cite: 428]."
+    "description": "Doğru bası noktasını bulmak için, göğüs kemiğinin (iman tahtası) alt ve üst ucu bulunur. Bu kemiğin alt yarısının tam ortası, kalp masajı için bası uygulanacak bölgedir."
   },
   {
     "id": 3607,
@@ -1387,7 +1387,7 @@
       { "text": "Ambulans ekiplerinin müdahalesi", "isTrue": false },
       { "text": "Hastane acil servisleri", "isTrue": false }
     ],
-    "description": "Hayat kurtarma zinciri, hayatta kalma oranını artıran kritik adımları temsil eder. [cite_start]Zincirin ilk ve en önemli halkası, profesyonel yardımın harekete geçirilmesi için derhal 112'nin aranarak sağlık kuruluşuna haber verilmesidir[cite: 105]."
+    "description": "Hayat kurtarma zinciri, hayatta kalma oranını artıran kritik adımları temsil eder. Zincirin ilk ve en önemli halkası, profesyonel yardımın harekete geçirilmesi için derhal 112'nin aranarak sağlık kuruluşuna haber verilmesidir."
   },
   {
     "id": 3608,
@@ -1400,7 +1400,7 @@
       { "text": "Sargının tepesi kalçanın altına konur.", "isTrue": false },
       { "text": "Sargı sadece yaralı bölgeyi kapatacak şekilde konulur.", "isTrue": false }
     ],
-    "description": "Kalçaya üçgen bandaj uygulamasında, bandajın kaymaması için bir bağlantı noktası oluşturulur. [cite_start]Tabanı uyluk çevresinde düğümlendikten sonra, tepesi hastanın beline sarılan ayrı bir beze veya kemere bağlanarak sabitlenir[cite: 687]."
+    "description": "Kalçaya üçgen bandaj uygulamasında, bandajın kaymaması için bir bağlantı noktası oluşturulur. Tabanı uyluk çevresinde düğümlendikten sonra, tepesi hastanın beline sarılan ayrı bir beze veya kemere bağlanarak sabitlenir."
   },
   {
     "id": 3609,
@@ -1413,7 +1413,7 @@
       { "text": "1 litre su - 1 çay kaşığı karbonat - 1 çay kaşığı tuz karışımı", "isTrue": true },
       { "text": "Ayran", "isTrue": false }
     ],
-    "description": "Geniş yanıklarda vücut çok fazla sıvı ve elektrolit kaybeder. [cite_start]Eğer hastanın bilinci açık, kusması yok ve hastane uzaksa, kaybedilen sıvıyı ve tuzu yerine koymak için 1 litre suya 1 çay kaşığı sofra tuzu ve 1 çay kaşığı karbonat karıştırılarak hazırlanan sıvı verilebilir[cite: 719]."
+    "description": "Geniş yanıklarda vücut çok fazla sıvı ve elektrolit kaybeder. Eğer hastanın bilinci açık, kusması yok ve hastane uzaksa, kaybedilen sıvıyı ve tuzu yerine koymak için 1 litre suya 1 çay kaşığı sofra tuzu ve 1 çay kaşığı karbonat karıştırılarak hazırlanan sıvı verilebilir."
   },
   {
     "id": 3610,
@@ -1426,7 +1426,7 @@
       { "text": "Sadece sırtına vurulur.", "isTrue": false },
       { "text": "Bilinci kapalı kişiye Heimlich manevrası uygulanmaz.", "isTrue": false }
     ],
-    "description": "Eğer tam tıkanıklık yaşayan bir kişi bilincini kaybederse, yere yatırılır. [cite_start]İlk yardımcı bacakları üzerine oturur ve bir elinin topuğunu göbek ile göğüs kemiği arasına yerleştirip diğer eliyle destekleyerek, kürek kemiklerine doğru eğik bir baskı uygular[cite: 531, 532, 533]."
+    "description": "Eğer tam tıkanıklık yaşayan bir kişi bilincini kaybederse, yere yatırılır. İlk yardımcı bacakları üzerine oturur ve bir elinin topuğunu göbek ile göğüs kemiği arasına yerleştirip diğer eliyle destekleyerek, kürek kemiklerine doğru eğik bir baskı uygular."
   },
   {
     "id": 3611,
@@ -1439,7 +1439,7 @@
       { "text": "Kafatası ve omurga yaralanmaları", "isTrue": true },
       { "text": "Yanıklar", "isTrue": false }
     ],
-    "description": "Kafatası ve omurga yaralanmaları, merkezi sinir sistemini doğrudan etkilediği ve geri döndürülemez hasarlara yol açabildiği için en ölümcül yaralanma türlerindendir. [cite_start]Trafik kazalarındaki ölümlerin büyük bir kısmı bu sebeple olmaktadır[cite: 707]."
+    "description": "Kafatası ve omurga yaralanmaları, merkezi sinir sistemini doğrudan etkilediği ve geri döndürülemez hasarlara yol açabildiği için en ölümcül yaralanma türlerindendir. Trafik kazalarındaki ölümlerin büyük bir kısmı bu sebeple olmaktadır."
   },
   {
     "id": 3612,
@@ -1452,7 +1452,7 @@
       { "text": "İlk yardımcının yorulması.", "isTrue": false },
       { "text": "Hasta/yaralıya 5 tur (30:2) masaj yapılması.", "isTrue": true }
     ],
-    [cite_start]"description": "Temel yaşam desteği, sağlık ekipleri gelene, hastada yaşam belirtileri (solunum, hareket vb.) görülene veya ilk yardımcı devam edemeyecek kadar yorulana kadar kesintisiz sürdürülür[cite: 439]. Belirli bir tur veya süre sonunda kendiliğinden bırakılmaz."
+    "description": "Temel yaşam desteği, sağlık ekipleri gelene, hastada yaşam belirtileri (solunum, hareket vb.) görülene veya ilk yardımcı devam edemeyecek kadar yorulana kadar kesintisiz sürdürülür. Belirli bir tur veya süre sonunda kendiliğinden bırakılmaz."
   },
   {
     "id": 3613,
@@ -1465,7 +1465,7 @@
       { "text": "Sadece hastanın kimlik bilgilerini öğrenmek.", "isTrue": false },
       { "text": "Yasal işlemleri başlatmak.", "isTrue": false }
     ],
-    [cite_start]"description": "Hasta/yaralının değerlendirilmesinin amacı; yaralanmanın ciddiyetini anlamak, hangi müdahalenin önce yapılması gerektiğini (örneğin solunum mu kanama mı) belirlemek ve bu doğrultuda doğru ilk yardım yöntemini seçmektir[cite: 277, 278]."
+    "description": "Hasta/yaralının değerlendirilmesinin amacı; yaralanmanın ciddiyetini anlamak, hangi müdahalenin önce yapılması gerektiğini (örneğin solunum mu kanama mı) belirlemek ve bu doğrultuda doğru ilk yardım yöntemini seçmektir."
   },
   {
     "id": 3614,
@@ -1478,7 +1478,7 @@
       { "text": "Yetişkinlerde olduğu gibi iki el kullanılarak uygulanabilir.", "isTrue": true },
       { "text": "Çocuklara kalp masajı uygulanmaz.", "isTrue": false }
     ],
-    "description": "Genel kural 1-8 yaş arası çocuklarda tek elle kalp masajı yapılmasıdır. [cite_start]Ancak, eğer çocuk iri yapılı ve bir yetişkin görünümündeyse, göğüs kemiğini yeterince (5 cm) çöktürebilmek için yetişkinlerdeki gibi iki elin kullanılması daha etkili olabilir[cite: 458]."
+    "description": "Genel kural 1-8 yaş arası çocuklarda tek elle kalp masajı yapılmasıdır. Ancak, eğer çocuk iri yapılı ve bir yetişkin görünümündeyse, göğüs kemiğini yeterince (5 cm) çöktürebilmek için yetişkinlerdeki gibi iki elin kullanılması daha etkili olabilir."
   },
   {
     "id": 3615,
@@ -1491,7 +1491,7 @@
       { "text": "Kanayan yaraya temiz bezle baskı uygulamak.", "isTrue": false },
       { "text": "Bayılan kişinin ayaklarını yukarı kaldırmak.", "isTrue": false }
     ],
-    "description": "Acil tedavi, doktor ve sağlık personeli tarafından yapılan tıbbi müdahaleleri içerir. Damar yolu açmak, serum takmak, ilaç uygulamak gibi işlemler acil tedavi kapsamındadır. [cite_start]Diğer şıklar ilk yardım uygulamalarıdır[cite: 30, 40]."
+    "description": "Acil tedavi, doktor ve sağlık personeli tarafından yapılan tıbbi müdahaleleri içerir. Damar yolu açmak, serum takmak, ilaç uygulamak gibi işlemler acil tedavi kapsamındadır. Diğer şıklar ilk yardım uygulamalarıdır."
   },
   {
     "id": 3616,
@@ -1504,7 +1504,7 @@
       { "text": "150/100 - 180/120 mm Hg", "isTrue": false },
       { "text": "Kan basıncı ilk yardımda ölçülmez.", "isTrue": false }
     ],
-    "description": "Kan basıncı, kalbin kasılma (büyük tansiyon) ve gevşeme (küçük tansiyon) anında damar duvarına yaptığı basınçtır. [cite_start]Normal değerleri sağlıklı bir yetişkin için yaklaşık olarak 100/50 ile 140/100 mm Hg arasındadır[cite: 244]."
+    "description": "Kan basıncı, kalbin kasılma (büyük tansiyon) ve gevşeme (küçük tansiyon) anında damar duvarına yaptığı basınçtır. Normal değerleri sağlıklı bir yetişkin için yaklaşık olarak 100/50 ile 140/100 mm Hg arasındadır."
   },
   {
     "id": 3617,
@@ -1517,7 +1517,7 @@
       { "text": "Daha hızlı hareket edebilmek.", "isTrue": false },
       { "text": "Yaralının üzerindeki eşyaların düşmesini engellemek.", "isTrue": false }
     ],
-    "description": "Yaralıyı taşırken tüm hareketler homojen ve düzgün olmalıdır. Özellikle ani dönme ve bükülmeler, var olan bir omurga yaralanmasını ağırlaştırabilir veya yeni bir yaralanmaya neden olabilir. [cite_start]Bu nedenle baş-boyun-gövde ekseni daima korunmalıdır[cite: 804]."
+    "description": "Yaralıyı taşırken tüm hareketler homojen ve düzgün olmalıdır. Özellikle ani dönme ve bükülmeler, var olan bir omurga yaralanmasını ağırlaştırabilir veya yeni bir yaralanmaya neden olabilir. Bu nedenle baş-boyun-gövde ekseni daima korunmalıdır."
   },
   {
     "id": 3618,
@@ -1530,7 +1530,7 @@
       { "text": "Yanmış deriyi kaldırmadan dikkatlice çıkarılmalı, yapışan yerler varsa kesilmelidir.", "isTrue": true },
       { "text": "Giysilere dokunulmamalıdır.", "isTrue": false }
     ],
-    "description": "Yanık bölgesindeki giysiler, ısıyı tutmaya devam edeceği için çıkarılmalıdır. Ancak deriye yapışmış olabilirler. [cite_start]Bu nedenle, yanmış deriyi kaldırmadan dikkatlice çıkarılmalı, eğer yapışmış kısımlar varsa bu bölgeler makasla kesilmelidir[cite: 717]."
+    "description": "Yanık bölgesindeki giysiler, ısıyı tutmaya devam edeceği için çıkarılmalıdır. Ancak deriye yapışmış olabilirler. Bu nedenle, yanmış deriyi kaldırmadan dikkatlice çıkarılmalı, eğer yapışmış kısımlar varsa bu bölgeler makasla kesilmelidir."
   },
   {
     "id": 3619,
@@ -1543,7 +1543,7 @@
       { "text": "Kol damarı", "isTrue": false },
       { "text": "Bacak damarı", "isTrue": true }
     ],
-    "description": "Vücutta nabız alınabilen çeşitli bölgeler vardır. [cite_start]Ayak sırtının ortasından geçen damar, bacak damarı (arteria dorsalis pedis) olarak bilinir ve buradan nabız kontrolü yapılabilir[cite: 255]."
+    "description": "Vücutta nabız alınabilen çeşitli bölgeler vardır. Ayak sırtının ortasından geçen damar, bacak damarı (arteria dorsalis pedis) olarak bilinir ve buradan nabız kontrolü yapılabilir."
   },
   {
     "id": 3620,
@@ -1556,7 +1556,7 @@
       { "text": "Sakin ve sessiz bir ortamda bulunmak", "isTrue": false },
       { "text": "Düzenli egzersiz yapmak", "isTrue": false }
     ],
-    "description": "Sara krizleri bazı durumlar tarafından tetiklenebilir. [cite_start]Sunumda belirtilen bu durumlar arasında uzun süreli açlık, uykusuzluk, kullanılan ilaçların doktor izni olmadan kesilmesi ve hormonal değişiklikler yer almaktadır[cite: 776]."
+    "description": "Sara krizleri bazı durumlar tarafından tetiklenebilir. Sunumda belirtilen bu durumlar arasında uzun süreli açlık, uykusuzluk, kullanılan ilaçların doktor izni olmadan kesilmesi ve hormonal değişiklikler yer almaktadır."
   },
   {
     "id": 3621,
@@ -1569,7 +1569,7 @@
       { "text": "Ağızdan yiyecek ve içecek verilmesi", "isTrue": true },
       { "text": "Yaşam bulgularının sık sık kontrol edilmesi", "isTrue": false }
     ],
-    "description": "İç kanaması olan bir yaralının her an ameliyata alınma ihtimali vardır. Ameliyat öncesi mide boş olmalıdır. Ayrıca yutma refleksi zayıflamış olabilir. [cite_start]Bu nedenlerle, iç kanama şüphesi olan bir hastaya ağızdan asla yiyecek veya içecek verilmez[cite: 632]."
+    "description": "İç kanaması olan bir yaralının her an ameliyata alınma ihtimali vardır. Ameliyat öncesi mide boş olmalıdır. Ayrıca yutma refleksi zayıflamış olabilir. Bu nedenlerle, iç kanama şüphesi olan bir hastaya ağızdan asla yiyecek veya içecek verilmez."
   },
   {
     "id": 3622,
@@ -1582,7 +1582,7 @@
       { "text": "Sağlam kulak üzerine yan yatırılır.", "isTrue": false },
       { "text": "Yarı oturur pozisyon verilir.", "isTrue": false }
     ],
-    [cite_start]"description": "Bilinci kapalı ve kulağından kan gelen (veya beyin omurilik sıvısı) bir yaralı, kanamanın dışarı akarak kafa içi basıncını artırmasını önlemek amacıyla kanayan kulak tarafına doğru yan yatırılır[cite: 675]."
+    "description": "Bilinci kapalı ve kulağından kan gelen (veya beyin omurilik sıvısı) bir yaralı, kanamanın dışarı akarak kafa içi basıncını artırmasını önlemek amacıyla kanayan kulak tarafına doğru yan yatırılır."
   },
   {
     "id": 3623,
@@ -1595,7 +1595,7 @@
       { "text": "5-7 kez", "isTrue": true },
       { "text": "10-15 kez", "isTrue": false }
     ],
-    "description": "Yabancı cisim çıkana veya hasta bilincini kaybedene kadar sırta vurma ve karına bası uygulama döngüsü devam eder. [cite_start]Karına bası hareketi her döngüde 5-7 kez tekrarlanır[cite: 526]."
+    "description": "Yabancı cisim çıkana veya hasta bilincini kaybedene kadar sırta vurma ve karına bası uygulama döngüsü devam eder. Karına bası hareketi her döngüde 5-7 kez tekrarlanır."
   },
   {
     "id": 3624,
@@ -1608,7 +1608,7 @@
       { "text": "Kaza sonuçlarının ağırlaşmasını önlemek için olay yerini değerlendirip güvenli bir çevre oluşturmak", "isTrue": true },
       { "text": "Sadece kanıtları korumak", "isTrue": false }
     ],
-    "description": "Koruma basamağı, kaza sonuçlarının daha da ağırlaşmasını önlemeyi hedefler. [cite_start]Bu, hem olay yerinde oluşabilecek ek tehlikeleri (yangın, patlama, ikinci kaza) belirleyerek herkes için güvenli bir çevre oluşturmayı, hem de mevcut durumu sabit tutmayı kapsar[cite: 59, 61]."
+    "description": "Koruma basamağı, kaza sonuçlarının daha da ağırlaşmasını önlemeyi hedefler. Bu, hem olay yerinde oluşabilecek ek tehlikeleri (yangın, patlama, ikinci kaza) belirleyerek herkes için güvenli bir çevre oluşturmayı, hem de mevcut durumu sabit tutmayı kapsar."
   },
   {
     "id": 3625,
@@ -1621,7 +1621,7 @@
       { "text": "Dolaşım (Nabız)", "isTrue": false },
       { "text": "Yara şekli", "isTrue": true }
     ],
-    "description": "Yaşam bulguları, hastanın hayati fonksiyonlarının devam edip etmediğini gösteren temel göstergelerdir. Bunlar; [cite_start]Bilinç, Solunum, Dolaşım (nabız, kan basıncı) ve Vücut Isısı'dır[cite: 237, 238, 239, 240, 241]. Yara şekli bir bulgudur ancak yaşamsal bir bulgu değildir."
+    "description": "Yaşam bulguları, hastanın hayati fonksiyonlarının devam edip etmediğini gösteren temel göstergelerdir. Bunlar; Bilinç, Solunum, Dolaşım (nabız, kan basıncı) ve Vücut Isısı'dır. Yara şekli bir bulgudur ancak yaşamsal bir bulgu değildir."
   },
   {
     "id": 3626,
@@ -1634,7 +1634,7 @@
       { "text": "Sadece bebeğin burnu kapatılarak ağzından üflenir.", "isTrue": false },
       { "text": "Bebeklere yapay solunum uygulanmaz.", "isTrue": false }
     ],
-    [cite_start]"description": "Bebeklerin yüz yapısı küçük olduğu için, etkili bir yapay solunum için ilk yardımcı ağzını bebeğin hem ağzını hem de burnunu tamamen kapatacak şekilde yerleştirir ve bebeğin göğsünü yükseltmeye yetecek kadar (ağız dolusu) nefes verir[cite: 484]."
+    "description": "Bebeklerin yüz yapısı küçük olduğu için, etkili bir yapay solunum için ilk yardımcı ağzını bebeğin hem ağzını hem de burnunu tamamen kapatacak şekilde yerleştirir ve bebeğin göğsünü yükseltmeye yetecek kadar (ağız dolusu) nefes verir."
   },
   {
     "id": 3627,
@@ -1647,7 +1647,7 @@
       { "text": "Solunum durması ve temel yaşam desteğine başlama gerekliliği.", "isTrue": false },
       { "text": "Olay yerinin güvenli olmaması (çökme riski, trafik vb.).", "isTrue": false }
     ],
-    "description": "Acil taşıma, omurilik yaralanması riskine rağmen, yaralının mevcut yerde kalmasının daha tehlikeli olduğu olağanüstü durumlarda yapılır. [cite_start]Kapalı bir kırık şüphesi hayati bir tehlike oluşturmadığı için, acil taşıma gerektirmez; yaralı hareket ettirilmemelidir[cite: 807]."
+    "description": "Acil taşıma, omurilik yaralanması riskine rağmen, yaralının mevcut yerde kalmasının daha tehlikeli olduğu olağanüstü durumlarda yapılır. Kapalı bir kırık şüphesi hayati bir tehlike oluşturmadığı için, acil taşıma gerektirmez; yaralı hareket ettirilmemelidir."
   },
   {
     "id": 3628,
@@ -1660,7 +1660,7 @@
       { "text": "İnsan vücudu ile ilgili temel bilgilere sahip olmalıdır.", "isTrue": true },
       { "text": "Sadece kendi bildiği yöntemleri uygulamalıdır.", "isTrue": false }
     ],
-    [cite_start]"description": "İyi bir ilk yardımcı, sakin ve pratik olmasının yanı sıra, doğru müdahaleyi yapabilmek için insan vücudunun temel yapısı ve işleyişi hakkında bilgi sahibi olmalıdır[cite: 103]."
+    "description": "İyi bir ilk yardımcı, sakin ve pratik olmasının yanı sıra, doğru müdahaleyi yapabilmek için insan vücudunun temel yapısı ve işleyişi hakkında bilgi sahibi olmalıdır."
   },
   {
     "id": 3629,
@@ -1673,7 +1673,7 @@
       { "text": "Daha estetik bir görünüm için.", "isTrue": false },
       { "text": "Bu şekilde daha az yorulmak için.", "isTrue": false }
     ],
-    "description": "Kalp masajında baskı, doğrudan göğüs kemiğinin üzerine uygulanmalıdır. Eller kenetlenip parmaklar yukarı kaldırılarak, baskı kuvvetinin sadece elin topuğuna (avuç ayası) odaklanması sağlanır. [cite_start]Bu, gücün dağılmasını önler ve parmakların kaburgalara baskı yaparak kırmasını engeller[cite: 431, 432]."
+    "description": "Kalp masajında baskı, doğrudan göğüs kemiğinin üzerine uygulanmalıdır. Eller kenetlenip parmaklar yukarı kaldırılarak, baskı kuvvetinin sadece elin topuğuna (avuç ayası) odaklanması sağlanır. Bu, gücün dağılmasını önler ve parmakların kaburgalara baskı yaparak kırmasını engeller."
   },
   {
     "id": 3630,
@@ -1686,7 +1686,7 @@
       { "text": "Kanaması durdurulamayan yaralar ve kas veya kemiğin göründüğü yaralar.", "isTrue": true },
       { "text": "Küçük bir morluk.", "isTrue": false }
     ],
-    "description": "Ciddi yaralanmalar, evde müdahale edilemeyecek ve profesyonel tıbbi yardım gerektiren durumlardır. [cite_start]Kanaması durdurulamayan, kas veya kemiğin göründüğü, delici aletlerle oluşan, yabancı cisim saplanmış ve insan/hayvan ısırığı olan yaralar bu gruba girer[cite: 694]."
+    "description": "Ciddi yaralanmalar, evde müdahale edilemeyecek ve profesyonel tıbbi yardım gerektiren durumlardır. Kanaması durdurulamayan, kas veya kemiğin göründüğü, delici aletlerle oluşan, yabancı cisim saplanmış ve insan/hayvan ısırığı olan yaralar bu gruba girer."
   },
   {
     "id": 3631,
@@ -1699,7 +1699,7 @@
       { "text": "Ağırlığın en fazla olduğu ve en çok dikkat gerektiren baş ve boyun kısmını tutan kişi.", "isTrue": true },
       { "text": "Ayak kısmını tutan kişi.", "isTrue": false }
     ],
-    "description": "Ekip halinde hasta taşırken, komutları verecek bir lider belirlenir. Bu kişi genellikle, en hassas bölge olan ve baş-boyun-gövde eksenini korumaktan sorumlu olan, baş kısmındaki ilk yardımcıdır. [cite_start]Tüm ekip onun komutlarına ('kaldırıyoruz', 'indiriyoruz' vb.) göre hareket eder[cite: 805]."
+    "description": "Ekip halinde hasta taşırken, komutları verecek bir lider belirlenir. Bu kişi genellikle, en hassas bölge olan ve baş-boyun-gövde eksenini korumaktan sorumlu olan, baş kısmındaki ilk yardımcıdır. Tüm ekip onun komutlarına ('kaldırıyoruz', 'indiriyoruz' vb.) göre hareket eder."
   },
   {
     "id": 3632,
@@ -1712,7 +1712,7 @@
       { "text": "Cismin üzerine bastırılarak kanama durdurulmaya çalışılır.", "isTrue": false },
       { "text": "Cisim oynatılarak gevşetilir.", "isTrue": false }
     ],
-    [cite_start]"description": "Yaraya saplanmış yabancı cisimler asla çıkarılmamalıdır[cite: 695]. Çünkü bu cisim, büyük bir damarı tıkamış olabilir ve çıkarılması halinde durdurulamayacak bir kanamaya yol açabilir. [cite_start]Cisim, etrafı desteklenerek sabitlenmeli ve cerrahi müdahale için hastaneye ulaştırılmalıdır[cite: 695]."
+    "description": "Yaraya saplanmış yabancı cisimler asla çıkarılmamalıdır. Çünkü bu cisim, büyük bir damarı tıkamış olabilir ve çıkarılması halinde durdurulamayacak bir kanamaya yol açabilir. Cisim, etrafı desteklenerek sabitlenmeli ve cerrahi müdahale için hastaneye ulaştırılmalıdır."
   },
   {
     "id": 3633,
@@ -1725,7 +1725,7 @@
       { "text": "Göğüsten başlayarak omuzlara, boyuna, çeneye ve sol kola", "isTrue": true },
       { "text": "Sadece sırta", "isTrue": false }
     ],
-    [cite_start]"description": "Kalp krizi (Miyokart Enfarktüsü) ağrısı tipik olarak göğüste veya mide boşluğunda başlar ve buradan omuzlara, boyuna, çeneye ve özellikle sol kola doğru yayılım gösterir[cite: 789]."
+    "description": "Kalp krizi (Miyokart Enfarktüsü) ağrısı tipik olarak göğüste veya mide boşluğunda başlar ve buradan omuzlara, boyuna, çeneye ve özellikle sol kola doğru yayılım gösterir."
   },
   {
     "id": 3634,
@@ -1738,7 +1738,7 @@
       { "text": "Suda boğulma.", "isTrue": false },
       { "text": "Deri yoluyla zehirlenme.", "isTrue": true }
     ],
-    [cite_start]"description": "Boğulma, vücuttaki dokulara yeterli oksijen gitmemesi durumudur[cite: 798]. [cite_start]Solunum yolunun tıkanması (yabancı cisim, dilin geriye kaçması, asılma), solunan havanın oksijensiz olması (gazla zehirlenme) veya akciğerlerin sıvı ile dolması (suda boğulma) gibi nedenlerle oluşur[cite: 799]. Deri yoluyla zehirlenme genellikle sistemik etkiler gösterir, doğrudan boğulmaya yol açmaz."
+    "description": "Boğulma, vücuttaki dokulara yeterli oksijen gitmemesi durumudur. Solunum yolunun tıkanması (yabancı cisim, dilin geriye kaçması, asılma), solunan havanın oksijensiz olması (gazla zehirlenme) veya akciğerlerin sıvı ile dolması (suda boğulma) gibi nedenlerle oluşur. Deri yoluyla zehirlenme genellikle sistemik etkiler gösterir, doğrudan boğulmaya yol açmaz."
   },
   {
     "id": 3635,
@@ -1751,7 +1751,7 @@
       { "text": "Vücut sıcaklığını düşürmek.", "isTrue": false },
       { "text": "Mide bulantısını önlemek.", "isTrue": false }
     ],
-    [cite_start]"description": "Bayılma, genellikle beyne giden kan akışının geçici olarak azalması sonucu oluşur[cite: 758]. [cite_start]Ayakları yukarı kaldırmak, yer çekimi sayesinde bacaklardaki kanın hayati organların bulunduğu gövdeye ve beyne yönlenmesini sağlayarak kişinin daha çabuk kendine gelmesine yardımcı olur[cite: 763]."
+    "description": "Bayılma, genellikle beyne giden kan akışının geçici olarak azalması sonucu oluşur. Ayakları yukarı kaldırmak, yer çekimi sayesinde bacaklardaki kanın hayati organların bulunduğu gövdeye ve beyne yönlenmesini sağlayarak kişinin daha çabuk kendine gelmesine yardımcı olur."
   },
   {
     "id": 3636,
@@ -1764,7 +1764,7 @@
       { "text": "Kasık", "isTrue": false },
       { "text": "Göbek deliği", "isTrue": true }
     ],
-    "description": "Baskı noktaları, atardamarların kemiğe yakın ve yüzeye yakın olduğu, üzerine basıldığında kan akışının yavaşlatılabileceği özel bölgelerdir. Boyun, köprücük kemiği üzeri, koltukaltı, kolun üst bölümü, kasık ve uyluk bu bölgelerdendir. [cite_start]Göbek deliği bir baskı noktası değildir[cite: 589, 590, 591, 592, 594, 595]."
+    "description": "Baskı noktaları, atardamarların kemiğe yakın ve yüzeye yakın olduğu, üzerine basıldığında kan akışının yavaşlatılabileceği özel bölgelerdir. Boyun, köprücük kemiği üzeri, koltukaltı, kolun üst bölümü, kasık ve uyluk bu bölgelerdendir. Göbek deliği bir baskı noktası değildir."
   },
   {
     "id": 3637,
@@ -1777,7 +1777,7 @@
       { "text": "Göze üflenmelidir.", "isTrue": false },
       { "text": "Göz kapatılıp beklenmelidir.", "isTrue": false }
     ],
-    [cite_start]"description": "Göze kaçan toz gibi küçük cisimler için göz ovulmamalıdır, bu korneayı çizebilir[cite: 793]. [cite_start]Gözün bol su ile yıkanması, hastanın gözünü kırpıştırmasının söylenmesi veya nemli, temiz bir bezin ucuyla cismin nazikçe alınmaya çalışılması doğru yöntemlerdir[cite: 793]."
+    "description": "Göze kaçan toz gibi küçük cisimler için göz ovulmamalıdır, bu korneayı çizebilir. Gözün bol su ile yıkanması, hastanın gözünü kırpıştırmasının söylenmesi veya nemli, temiz bir bezin ucuyla cismin nazikçe alınmaya çalışılması doğru yöntemlerdir."
   },
   {
     "id": 3638,
@@ -1790,7 +1790,7 @@
       { "text": "Tetanos", "isTrue": true },
       { "text": "Verem", "isTrue": false }
     ],
-    "description": "Toprak, pas gibi kirli ortamlarda bulunan tetanos mikrobu, özellikle derin ve kirli yaralardan vücuda girerek ölümcül olabilen bir enfeksiyona yol açar. [cite_start]Bu nedenle, deri bütünlüğünün bozulduğu tüm yaralanmalarda, yaralının tetanos aşısı durumu sorgulanmalı ve aşı olması için uyarılmalıdır[cite: 693]."
+    "description": "Toprak, pas gibi kirli ortamlarda bulunan tetanos mikrobu, özellikle derin ve kirli yaralardan vücuda girerek ölümcül olabilen bir enfeksiyona yol açar. Bu nedenle, deri bütünlüğünün bozulduğu tüm yaralanmalarda, yaralının tetanos aşısı durumu sorgulanmalı ve aşı olması için uyarılmalıdır."
   },
   {
     "id": 3639,
@@ -1803,7 +1803,7 @@
       { "text": "Hemen soğuk bir duşa sokulmalıdır.", "isTrue": false },
       { "text": "Hemen bir şeyler yemesi için zorlanmalıdır.", "isTrue": false }
     ],
-    "description": "Bayılan bir kişi kendine geldikten sonra hemen ayağa kaldırılmamalıdır. [cite_start]Dolaşımın tam olarak normale dönmesi için bir süre daha sırtüstü yatarak dinlenmesi sağlanır[cite: 764]. Ani kalkış, tekrar bayılmasına neden olabilir."
+    "description": "Bayılan bir kişi kendine geldikten sonra hemen ayağa kaldırılmamalıdır. Dolaşımın tam olarak normale dönmesi için bir süre daha sırtüstü yatarak dinlenmesi sağlanır. Ani kalkış, tekrar bayılmasına neden olabilir."
   },
   {
     "id": 3640,
@@ -1816,7 +1816,7 @@
       { "text": "Hastaya sıcak, alkolsüz içecekler vermek.", "isTrue": false },
       { "text": "Su toplamış bölgeleri patlatmamak.", "isTrue": false }
     ],
-    "description": "Donmuş doku son derece hassastır. Donuk bölgeyi ovmak, hassas kan damarlarına ve hücrelere daha fazla zarar vererek doku kaybını artırır. [cite_start]Donuk bölge kendi kendine, yavaş yavaş ısınmaya bırakılmalıdır[cite: 733]."
+    "description": "Donmuş doku son derece hassastır. Donuk bölgeyi ovmak, hassas kan damarlarına ve hücrelere daha fazla zarar vererek doku kaybını artırır. Donuk bölge kendi kendine, yavaş yavaş ısınmaya bırakılmalıdır."
   },
   {
     "id": 3641,
@@ -1829,7 +1829,7 @@
       { "text": "Kaşık Tekniği", "isTrue": false },
       { "text": "Altın Beşik Yöntemi", "isTrue": false }
     ],
-    "description": "Sandalye ile taşıma, özellikle merdiven gibi dar alanlarda yaralıyı taşımak için kullanılan etkili bir yöntemdir. İki ilk yardımcı tarafından uygulanır. [cite_start]Yaralının bilincinin açık olması ve oturabilmesi gerekir[cite: 829]."
+    "description": "Sandalye ile taşıma, özellikle merdiven gibi dar alanlarda yaralıyı taşımak için kullanılan etkili bir yöntemdir. İki ilk yardımcı tarafından uygulanır. Yaralının bilincinin açık olması ve oturabilmesi gerekir."
   },
   {
     "id": 3642,
@@ -1842,7 +1842,7 @@
       { "text": "Sadece gürültüyü azaltmak için.", "isTrue": false },
       { "text": "Yasal bir zorunluluk olduğu için.", "isTrue": false }
     ],
-    "description": "Olay yerindeki meraklı kalabalık, ilk yardımcının işini yapmasını zorlaştırır, yaralıya gereksiz sorular sorarak veya panik yaratarak durumunu kötüleştirebilir ve ambulans gibi acil durum ekiplerinin olay yerine ulaşmasını geciktirebilir. [cite_start]Bu nedenle uzaklaştırılmaları gerekir[cite: 360]."
+    "description": "Olay yerindeki meraklı kalabalık, ilk yardımcının işini yapmasını zorlaştırır, yaralıya gereksiz sorular sorarak veya panik yaratarak durumunu kötüleştirebilir ve ambulans gibi acil durum ekiplerinin olay yerine ulaşmasını geciktirebilir. Bu nedenle uzaklaştırılmaları gerekir."
   },
   {
     "id": 3643,
@@ -1855,7 +1855,7 @@
       { "text": "Yaralının kırığı varsa.", "isTrue": false },
       { "text": "Her zaman tercih edilen bir yöntemdir.", "isTrue": false }
     ],
-    [cite_start]"description": "Sürükleme yöntemleri (koltuk altından veya ayak bileklerinden tutarak), normalde yaralıyı hareket ettirmenin riskli olduğu durumlarda, olay yerindeki hayati bir tehlikeden dolayı başka çare kalmadığında başvurulan acil taşıma teknikleridir[cite: 807, 808]."
+    "description": "Sürükleme yöntemleri (koltuk altından veya ayak bileklerinden tutarak), normalde yaralıyı hareket ettirmenin riskli olduğu durumlarda, olay yerindeki hayati bir tehlikeden dolayı başka çare kalmadığında başvurulan acil taşıma teknikleridir."
   },
   {
     "id": 3644,
@@ -2518,7 +2518,7 @@
       { "text": "Havale", "isTrue": false },
       { "text": "Bayılma", "isTrue": false }
     ],
-    [cite_start]"description": "Şok, kan dolaşımının yetersizliği nedeniyle organ ve dokulara yeterli oksijenin gitmemesi durumudur. [cite: 668]"
+    "description": "Şok, kan dolaşımının yetersizliği nedeniyle organ ve dokulara yeterli oksijenin gitmemesi durumudur."
   },
   {
     "id": 3695,
@@ -2531,7 +2531,7 @@
       { "text": "Kolonya, soğan gibi maddeler koklatılır.", "isTrue": false },
       { "text": "Hastanın kasılmaları engellenmeye çalışılır.", "isTrue": false }
     ],
-    "description": "Sara krizinde hastanın hareketlerini engellemeye çalışmak veya çenesini açmaya çalışmak yaralanmalara neden olabilir. [cite_start]Güvenli bir ortam sağlayıp krizin bitmesini beklemek esastır. [cite: 779]"
+    "description": "Sara krizinde hastanın hareketlerini engellemeye çalışmak veya çenesini açmaya çalışmak yaralanmalara neden olabilir. Güvenli bir ortam sağlayıp krizin bitmesini beklemek esastır."
   },
   {
     "id": 3696,
@@ -2544,7 +2544,7 @@
       { "text": "Delici aletlerle oluşan yaralar", "isTrue": false },
       { "text": "Hafif bir morarma ve şişlik olan ezilmeler", "isTrue": true }
     ],
-    "description": "Kanaması durmayan, derin, yabancı cisim saplanmış, insan/hayvan ısırığı olan veya kas/kemiğin göründüğü yaralar ciddidir. [cite_start]Hafif ezilmeler genellikle ciddi yaralanma sayılmaz. [cite: 694]"
+    "description": "Kanaması durmayan, derin, yabancı cisim saplanmış, insan/hayvan ısırığı olan veya kas/kemiğin göründüğü yaralar ciddidir. Hafif ezilmeler genellikle ciddi yaralanma sayılmaz."
   },
   {
     "id": 3697,
@@ -2557,7 +2557,7 @@
       { "text": "Yüzüne su serpilerek", "isTrue": false },
       { "text": "Gözlerine ışık tutularak", "isTrue": false }
     ],
-    [cite_start]"description": "Bebeklerde bilinç kontrolü, yetişkinlerden farklı olarak, ayak tabanına nazikçe vurularak veya gıdıklanarak yapılır. [cite: 472]"
+    "description": "Bebeklerde bilinç kontrolü, yetişkinlerden farklı olarak, ayak tabanına nazikçe vurularak veya gıdıklanarak yapılır."
   },
   {
     "id": 3698,
@@ -2570,7 +2570,7 @@
       { "text": "Çünkü kar temiz değildir.", "isTrue": false },
       { "text": "Çünkü bu eski bir yöntemdir.", "isTrue": false }
     ],
-    "description": "Donmuş doku kırılgandır. [cite_start]Ovma işlemi, buz kristalleri nedeniyle hücre yapısına ve ince kan damarlarına zarar vererek doku hasarını artırır. [cite: 733]"
+    "description": "Donmuş doku kırılgandır. Ovma işlemi, buz kristalleri nedeniyle hücre yapısına ve ince kan damarlarına zarar vererek doku hasarını artırır."
   },
   {
     "id": 3699,
@@ -2583,7 +2583,7 @@
       { "text": "Yaralıyı daha az sarsmak.", "isTrue": false },
       { "text": "Sadece bir gelenek olduğu için.", "isTrue": false }
     ],
-    [cite_start]"description": "Yük kaldırırken bacak ve kalça gibi büyük ve kuvvetli kas gruplarını kullanmak, daha zayıf olan sırt kaslarına binen yükü azaltır ve ilk yardımcının kendini sakatlamasını önler. [cite: 803]"
+    "description": "Yük kaldırırken bacak ve kalça gibi büyük ve kuvvetli kas gruplarını kullanmak, daha zayıf olan sırt kaslarına binen yükü azaltır ve ilk yardımcının kendini sakatlamasını önler."
   },
   {
     "id": 3700,
@@ -2596,7 +2596,7 @@
       { "text": "Dinlenmekle geçmez, şiddetli ve uzun sürelidir.", "isTrue": true },
       { "text": "Sadece hareket halindeyken hissedilir.", "isTrue": false }
     ],
-    "description": "Kalp krizi ağrısı, kalp spazmından farklı olarak, istirahatle geçmeyen, genellikle 20 dakikadan uzun süren, şiddetli bir ağrıdır. [cite_start]Ağrının şiddeti nefes alıp vermekle değişmez. [cite: 789]"
+    "description": "Kalp krizi ağrısı, kalp spazmından farklı olarak, istirahatle geçmeyen, genellikle 20 dakikadan uzun süren, şiddetli bir ağrıdır. Ağrının şiddeti nefes alıp vermekle değişmez."
   },
   {
     "id": 3701,
@@ -2609,7 +2609,7 @@
       { "text": "Dizleri hizasından, bacaklarını kavrayarak", "isTrue": true },
       { "text": "Sadece kollarından", "isTrue": false }
     ],
-    [cite_start]"description": "Bu teknikte, iki ilk yardımcı göğüs hizasında karşılıklı dururken, üçüncü ilk yardımcı hastanın dizleri hizasında durur ve bacakları düz olacak şekilde kavrar. [cite: 837]"
+    "description": "Bu teknikte, iki ilk yardımcı göğüs hizasında karşılıklı dururken, üçüncü ilk yardımcı hastanın dizleri hizasında durur ve bacakları düz olacak şekilde kavrar."
   },
   {
     "id": 3702,
@@ -2622,7 +2622,7 @@
       { "text": "Kişinin bilinç durumu", "isTrue": false },
       { "text": "Vücut sıcaklığı", "isTrue": false }
     ],
-    [cite_start]"description": "Bir kanamanın ciddiyeti ve hayati tehlike oluşturma potansiyeli; ne kadar hızlı aktığına, ne kadar kan kaybedildiğine, kanamanın iç mi dış mı olduğuna ve kişinin genel fiziksel durumuna bağlıdır. [cite: 567]"
+    "description": "Bir kanamanın ciddiyeti ve hayati tehlike oluşturma potansiyeli; ne kadar hızlı aktığına, ne kadar kan kaybedildiğine, kanamanın iç mi dış mı olduğuna ve kişinin genel fiziksel durumuna bağlıdır."
   },
   {
     "id": 3703,
@@ -2635,7 +2635,7 @@
       { "text": "Eldeki olanakları değerlendirebilmek", "isTrue": false },
       { "text": "Teşhis koyup tedavi planlamak", "isTrue": true }
     ],
-    "description": "İlk yardımcı, sağlık profesyoneli değildir. Görevi, temel yaşam desteği ve durumun kötüleşmesini önleyici müdahalelerdir. [cite_start]Teşhis koymak, tedavi planlamak ve ilaç vermek doktorların görevidir. [cite: 103]"
+    "description": "İlk yardımcı, sağlık profesyoneli değildir. Görevi, temel yaşam desteği ve durumun kötüleşmesini önleyici müdahalelerdir. Teşhis koymak, tedavi planlamak ve ilaç vermek doktorların görevidir."
   },
   {
     "id": 3704,
@@ -2648,7 +2648,7 @@
       { "text": "Su, yaralının vücut ısısını çok düşürür.", "isTrue": false },
       { "text": "Böyle bir kural yoktur, su ile müdahale edilebilir.", "isTrue": false }
     ],
-    [cite_start]"description": "Akım kesilmemişse veya yaralının üzerinde hala elektrik yükü olma ihtimali varsa, suyun iletkenliği nedeniyle akım hem yaralının vücuduna yayılabilir hem de ilk yardımcıyı çarpabilir. [cite: 721]"
+    "description": "Akım kesilmemişse veya yaralının üzerinde hala elektrik yükü olma ihtimali varsa, suyun iletkenliği nedeniyle akım hem yaralının vücuduna yayılabilir hem de ilk yardımcıyı çarpabilir."
   },
   {
     "id": 3705,
@@ -2661,7 +2661,7 @@
       { "text": "Kırığın daha çabuk kaynaması için", "isTrue": false },
       { "text": "Tespit malzemesinin kaymasını önlemek için", "isTrue": false }
     ],
-    "description": "Atel gibi sert tespit malzemeleri doğrudan cilde temas ederse, baskı noktaları oluşturarak dolaşımı bozabilir, ağrıya neden olabilir veya cildi tahriş edebilir. [cite_start]Bu nedenle, atel ile cilt arasına yumuşak bir dolgu malzemesi konulur. [cite: 748]"
+    "description": "Atel gibi sert tespit malzemeleri doğrudan cilde temas ederse, baskı noktaları oluşturarak dolaşımı bozabilir, ağrıya neden olabilir veya cildi tahriş edebilir. Bu nedenle, atel ile cilt arasına yumuşak bir dolgu malzemesi konulur."
   },
   {
     "id": 3706,
@@ -2674,7 +2674,7 @@
       { "text": "Koma (yarı yüzükoyun-yan) pozisyonu", "isTrue": true },
       { "text": "Sırtüstü yatış pozisyonu", "isTrue": false }
     ],
-    [cite_start]"description": "Bilinci kapalı ancak solunumu olan bir kişiye, dilin geriye kaçmasını ve olası bir kusmuğun solunum yoluna kaçmasını önlemek amacıyla koma (derlenme) pozisyonu verilir. [cite: 765]"
+    "description": "Bilinci kapalı ancak solunumu olan bir kişiye, dilin geriye kaçmasını ve olası bir kusmuğun solunum yoluna kaçmasını önlemek amacıyla koma (derlenme) pozisyonu verilir"
   },
   {
     "id": 3707,
@@ -2687,7 +2687,7 @@
       { "text": "Küçük kabarcıklar şeklindedir.", "isTrue": false },
       { "text": "Kalp atımlarıyla uyumlu olarak kesik kesik akar.", "isTrue": false }
     ],
-    "description": "Toplardamarlar, oksijeni kullanılmış kanı taşıdığı için kanamaları koyu kırmızı renklidir. [cite_start]Basınçları atardamarlara göre daha düşük olduğu için kanama genellikle fışkırma yerine sürekli ve yayılan bir sızıntı şeklindedir. [cite: 582]"
+    "description": "Toplardamarlar, oksijeni kullanılmış kanı taşıdığı için kanamaları koyu kırmızı renklidir. Basınçları atardamarlara göre daha düşük olduğu için kanama genellikle fışkırma yerine sürekli ve yayılan bir sızıntı şeklindedir."
   },
   {
     "id": 3708,
@@ -2700,7 +2700,7 @@
       { "text": "Ambulans ekiplerince yapılan müdahale", "isTrue": true },
       { "text": "Hastane acil servisleri", "isTrue": false }
     ],
-    [cite_start]"description": "Hayat kurtarma zincirinin 3. halkası, olay yerine ulaşan ambulans ekiplerinin (paramedik, doktor) yaptığı profesyonel tıbbi müdahaleleri kapsar. [cite: 107]"
+    "description": "Hayat kurtarma zincirinin 3. halkası, olay yerine ulaşan ambulans ekiplerinin (paramedik, doktor) yaptığı profesyonel tıbbi müdahaleleri kapsar."
   },
   {
     "id": 3709,
@@ -2713,7 +2713,7 @@
       { "text": "Tespitin çok hızlı yapılması gerektiği.", "isTrue": false },
       { "text": "Tespitin estetik görünmesi gerektiği.", "isTrue": false }
     ],
-    "description": "Kırık veya çıkık bir uzvu zorlayarak düzeltmeye çalışmak, kemik uçlarının damar, sinir veya kaslara daha fazla zarar vermesine neden olabilir. [cite_start]Bu nedenle, uzuv bulunduğu anormal pozisyonda, zorlanmadan tespit edilmelidir. [cite: 749]"
+    "description": "Kırık veya çıkık bir uzvu zorlayarak düzeltmeye çalışmak, kemik uçlarının damar, sinir veya kaslara daha fazla zarar vermesine neden olabilir. Bu nedenle, uzuv bulunduğu anormal pozisyonda, zorlanmadan tespit edilmelidir."
   },
   {
     "id": 3710,
@@ -2726,7 +2726,7 @@
       { "text": "Yaralının tahmini tedavi masrafı", "isTrue": true },
       { "text": "Yapıldıysa, ne tür bir ilk yardım uygulandığı", "isTrue": false }
     ],
-    "description": "112'ye bildirimde, ambulansın doğru ve hızlı bir şekilde olay yerine ulaşması ve hazırlıklı olması için gerekli bilgiler verilir. [cite_start]Tedavi masrafı gibi konular bu bildirimin bir parçası değildir. [cite: 71]"
+    "description": "112'ye bildirimde, ambulansın doğru ve hızlı bir şekilde olay yerine ulaşması ve hazırlıklı olması için gerekli bilgiler verilir. Tedavi masrafı gibi konular bu bildirimin bir parçası değildir."
   },
   {
     "id": 3711,
@@ -2739,7 +2739,7 @@
       { "text": "Kişiye su içirmeye çalışmak", "isTrue": false },
       { "text": "Kişinin ceplerini karıştırarak kimliğini bulmak", "isTrue": false }
     ],
-    "description": "Herhangi bir ilk yardım müdahalesinden önce olay yerinin güvenliği sağlanır. Ardından, bayılan kişinin hayati fonksiyonları kontrol edilir. [cite_start]En öncelikli kontrol, solunumun devam edip etmediğidir (ABC değerlendirmesi). [cite: 611]"
+    "description": "Herhangi bir ilk yardım müdahalesinden önce olay yerinin güvenliği sağlanır. Ardından, bayılan kişinin hayati fonksiyonları kontrol edilir. En öncelikli kontrol, solunumun devam edip etmediğidir (ABC değerlendirmesi)."
   },
   {
     "id": 3712,
@@ -2752,7 +2752,7 @@
       { "text": "Çünkü patlatmak zordur.", "isTrue": false },
       { "text": "Çünkü iz kalmasına neden olur.", "isTrue": false }
     ],
-    "description": "Yanık sonucu oluşan büller (su kabarcıkları), steril bir ortam sağlayarak altındaki hassas dokuyu enfeksiyonlara karşı korur. [cite_start]Bu kabarcıkların patlatılması, derinin koruyucu bariyerini ortadan kaldırır ve mikropların girişini kolaylaştırır. [cite: 717]"
+    "description": "Yanık sonucu oluşan büller (su kabarcıkları), steril bir ortam sağlayarak altındaki hassas dokuyu enfeksiyonlara karşı korur. Bu kabarcıkların patlatılması, derinin koruyucu bariyerini ortadan kaldırır ve mikropların girişini kolaylaştırır."
   },
   {
     "id": 3713,
@@ -2778,7 +2778,7 @@
       { "text": "Damarları genişletmek.", "isTrue": false },
       { "text": "Vücut ısısını artırmak.", "isTrue": false }
     ],
-    "description": "Kanayan bir kol veya bacağı kalp seviyesinden yukarı kaldırmak, yer çekiminin etkisiyle kanın o bölgeye daha az gitmesini sağlar. [cite_start]Bu da kan basıncını düşürerek kanamanın yavaşlamasına ve durmasına yardımcı olur. [cite: 620]"
+    "description": "Kanayan bir kol veya bacağı kalp seviyesinden yukarı kaldırmak, yer çekiminin etkisiyle kanın o bölgeye daha az gitmesini sağlar. Bu da kan basıncını düşürerek kanamanın yavaşlamasına ve durmasına yardımcı olur."
   },
   {
     "id": 3715,
@@ -2791,7 +2791,7 @@
       { "text": "Bunun normal bir iyileşme belirtisi olduğu.", "isTrue": false },
       { "text": "Hastanın ağrı eşiğinin düşük olduğu.", "isTrue": false }
     ],
-    "description": "Tespit sonrası uzuvda morarma, soğukluk, solukluk, karıncalanma veya artan ağrı gibi belirtiler, sargıların dolaşımı engelleyecek kadar sıkı olduğunun (kompartman sendromu) işaretidir. [cite_start]Bu durumda sargılar derhal gevşetilmelidir. [cite: 739]"
+    "description": "Tespit sonrası uzuvda morarma, soğukluk, solukluk, karıncalanma veya artan ağrı gibi belirtiler, sargıların dolaşımı engelleyecek kadar sıkı olduğunun (kompartman sendromu) işaretidir. Bu durumda sargılar derhal gevşetilmelidir."
   },
   {
     "id": 3716,
@@ -2804,7 +2804,7 @@
       { "text": "Elmacık kemiğinin üzerine", "isTrue": false },
       { "text": "Yanağın üzerine", "isTrue": false }
     ],
-    "description": "Bu pozisyonu vermek için, bir el hastanın alnına konarak baş geriye doğru itilir. [cite_start]Diğer elin iki parmağı ise çenenin kemik kısmına yerleştirilerek çene yukarı doğru kaldırılır. [cite: 389]"
+    "description": "Bu pozisyonu vermek için, bir el hastanın alnına konarak baş geriye doğru itilir. Diğer elin iki parmağı ise çenenin kemik kısmına yerleştirilerek çene yukarı doğru kaldırılır."
   },
   {
     "id": 3717,
@@ -2817,7 +2817,7 @@
       { "text": "Dilaltı kalp ilacı (örn: İsordil)", "isTrue": true },
       { "text": "Kan sulandırıcı", "isTrue": false }
     ],
-    "description": "Kalp spazmı ve krizi geçiren hastaların genellikle doktorları tarafından reçete edilmiş dilaltı ilaçları bulunur. [cite_start]İlk yardımcı, hastanın bilinci açıksa, kendi ilacını almasına yardımcı olabilir. [cite: 790]"
+    "description": "Kalp spazmı ve krizi geçiren hastaların genellikle doktorları tarafından reçete edilmiş dilaltı ilaçları bulunur. İlk yardımcı, hastanın bilinci açıksa, kendi ilacını almasına yardımcı olabilir."
   },
   {
     "id": 3718,
@@ -2830,7 +2830,7 @@
       { "text": "Sırtta Taşıma", "isTrue": false },
       { "text": "Sürükleme Yöntemi", "isTrue": false }
     ],
-    [cite_start]"description": "Sandalye ile taşıma, dar alanlarda ve özellikle merdivenlerde yaralıyı güvenli bir şekilde taşımak için çok elverişli bir yöntemdir. [cite: 821, 829]"
+    "description": "Sandalye ile taşıma, dar alanlarda ve özellikle merdivenlerde yaralıyı güvenli bir şekilde taşımak için çok elverişli bir yöntemdir."
   },
   {
     "id": 3719,
@@ -2843,7 +2843,7 @@
       { "text": "Hipovolemik şok", "isTrue": true },
       { "text": "Toksik şok", "isTrue": false }
     ],
-    "description": "Hipovolemik şok, 'düşük hacim' anlamına gelir. [cite_start]Vücuttaki kan veya plazma gibi sıvıların aşırı kaybı sonucu dolaşımdaki kan hacminin azalmasıyla ortaya çıkar. [cite: 669]"
+    "description": "Hipovolemik şok, 'düşük hacim' anlamına gelir. Vücuttaki kan veya plazma gibi sıvıların aşırı kaybı sonucu dolaşımdaki kan hacminin azalmasıyla ortaya çıkar."
   },
   {
     "id": 3720,
@@ -2856,7 +2856,7 @@
       { "text": "Olay yerinden uzaklaşmalıdır.", "isTrue": false },
       { "text": "Uyuyup dinlenmelidir.", "isTrue": false }
     ],
-    "description": "İlk yardımcının en temel kuralı kendi güvenliğidir. Eğer ilk yardımcı da yaralıysa, başkasına yardım etmeden önce kendi durumunu kontrol etmeli ve hayati bir tehlikesi olmadığından emin olmalıdır. [cite_start]Aksi takdirde kendisi de yardıma muhtaç duruma düşebilir. [cite: 351]"
+    "description": "İlk yardımcının en temel kuralı kendi güvenliğidir. Eğer ilk yardımcı da yaralıysa, başkasına yardım etmeden önce kendi durumunu kontrol etmeli ve hayati bir tehlikesi olmadığından emin olmalıdır. Aksi takdirde kendisi de yardıma muhtaç duruma düşebilir."
   },
   {
     "id": 3721,
@@ -2869,7 +2869,7 @@
       { "text": "Rentek Manevrası", "isTrue": false },
       { "text": "Yarı Oturur Pozisyon", "isTrue": false }
     ],
-    "description": "Bu pozisyon, bilinci kapalı ancak solunumu olan yaralılara verilen Koma (Derlenme) Pozisyonudur. [cite_start]Amacı solunum yolunu açık tutmak ve kusma durumunda içeriğin akciğerlere kaçmasını engellemektir. [cite: 768]"
+    "description": "Bu pozisyon, bilinci kapalı ancak solunumu olan yaralılara verilen Koma (Derlenme) Pozisyonudur. Amacı solunum yolunu açık tutmak ve kusma durumunda içeriğin akciğerlere kaçmasını engellemektir."
   },
   {
     "id": 3722,
@@ -2882,7 +2882,7 @@
       { "text": "Yasal bir delil oluşturmak için.", "isTrue": false },
       { "text": "Yaralının yaşını tahmin etmek için.", "isTrue": false }
     ],
-    "description": "Turnike, uzva kan akışını tamamen kestiği için uzun süre kalması doku ölümüne neden olur. [cite_start]Saatin not edilmesi, sağlık ekiplerinin turnikenin ne kadar süredir bağlı olduğunu bilmesini ve 15-20 dakikada bir gevşetme protokolünü doğru uygulamalarını sağlar. [cite: 649, 661]"
+    "description": "Turnike, uzva kan akışını tamamen kestiği için uzun süre kalması doku ölümüne neden olur. Saatin not edilmesi, sağlık ekiplerinin turnikenin ne kadar süredir bağlı olduğunu bilmesini ve 15-20 dakikada bir gevşetme protokolünü doğru uygulamalarını sağlar"
   },
   {
     "id": 3723,
@@ -2895,7 +2895,7 @@
       { "text": "Sadece yaranın görünmesini engellemek.", "isTrue": false },
       { "text": "Kırık olup olmadığını anlamak.", "isTrue": false }
     ],
-    "description": "Yara üzerine konan beze yapılan bandajın iki temel amacı vardır: 1) Bezi yerinde sabitlemek. [cite_start]2) Bez aracılığıyla yara üzerine sürekli ve etkili bir basınç uygulayarak kanamanın kontrol altına alınmasına yardımcı olmak. [cite: 617, 695]"
+    "description": "Yara üzerine konan beze yapılan bandajın iki temel amacı vardır: 1) Bezi yerinde sabitlemek. 2) Bez aracılığıyla yara üzerine sürekli ve etkili bir basınç uygulayarak kanamanın kontrol altına alınmasına yardımcı olmak."
   },
   {
     "id": 3724,
@@ -2908,7 +2908,7 @@
       { "text": "Yaralı morarmaya başlayınca durulur.", "isTrue": false },
       { "text": "Sadece 5 tur yapıldıktan sonra bırakılır.", "isTrue": false }
     ],
-    "description": "Temel Yaşam Desteği kesintisiz bir uygulamadır. Sadece üç durumda sonlandırılır: 1) Sağlık ekipleri (112) gelip görevi devraldığında. 2) Yaralıda yaşama dair belirtiler (öksürme, normal solunum, hareket) geri geldiğinde. [cite_start]3) İlk yardımcı, devam edemeyecek kadar fiziksel olarak yorulduğunda. [cite: 439]"
+    "description": "Temel Yaşam Desteği kesintisiz bir uygulamadır. Sadece üç durumda sonlandırılır: 1) Sağlık ekipleri (112) gelip görevi devraldığında. 2) Yaralıda yaşama dair belirtiler (öksürme, normal solunum, hareket) geri geldiğinde. 3) İlk yardımcı, devam edemeyecek kadar fiziksel olarak yorulduğunda."
   },
   {
     "id": 3725,
@@ -2921,7 +2921,7 @@
       { "text": "Küçük kabarcıklar şeklinde, yavaş ve yüzeysel bir kanamadır.", "isTrue": true },
       { "text": "Durdurulması çok zordur.", "isTrue": false }
     ],
-    "description": "Kılcal damar kanamaları, en yüzeysel kanama türüdür. Genellikle basit sıyrıklarda görülür ve kanama küçük noktacıklar veya kabarcıklar şeklinde, yavaş bir sızıntı halindedir. [cite_start]Genellikle hayati tehlike oluşturmaz ve kolayca durdurulur. [cite: 583]"
+    "description": "Kılcal damar kanamaları, en yüzeysel kanama türüdür. Genellikle basit sıyrıklarda görülür ve kanama küçük noktacıklar veya kabarcıklar şeklinde, yavaş bir sızıntı halindedir. Genellikle hayati tehlike oluşturmaz ve kolayca durdurulur."
   },
   {
     "id": 3726,
@@ -2934,7 +2934,7 @@
       { "text": "Ciddi karın yaralanması veya iç kanama şüphesi", "isTrue": true },
       { "text": "Güneş yanığı", "isTrue": false }
     ],
-    "description": "Karın yaralanması veya iç kanama şüphesi olan bir hastanın her an ameliyata alınma ihtimali vardır. [cite_start]Genel anestezi için midenin boş olması gerektiğinden, bu tür yaralılara bilinci açık olsa bile ağızdan kesinlikle bir şey verilmez. [cite: 632, 702]"
+    "description": "Karın yaralanması veya iç kanama şüphesi olan bir hastanın her an ameliyata alınma ihtimali vardır. Genel anestezi için midenin boş olması gerektiğinden, bu tür yaralılara bilinci açık olsa bile ağızdan kesinlikle bir şey verilmez."
   },
   {
     "id": 3727,
@@ -2947,7 +2947,7 @@
       { "text": "Kaslar", "isTrue": false },
       { "text": "Damarlar", "isTrue": true }
     ],
-    "description": "Hareket sistemi; iskeleti oluşturan kemikler, kemiklerin birleştiği yerler olan eklemler ve hareketi sağlayan kaslardan oluşur. [cite_start]Damarlar, dolaşım sisteminin bir parçasıdır. [cite: 128]"
+    "description": "Hareket sistemi; iskeleti oluşturan kemikler, kemiklerin birleştiği yerler olan eklemler ve hareketi sağlayan kaslardan oluşur. Damarlar, dolaşım sisteminin bir parçasıdır."
   },
   {
     "id": 3728,
@@ -2960,7 +2960,7 @@
       { "text": "Bildirme (112'yi arama)", "isTrue": true },
       { "text": "Bandaj", "isTrue": false }
     ],
-    "description": "İlk yardımın temel uygulamaları Koruma, Bildirme ve Kurtarma'dır. [cite_start]KBK kısaltmasındaki 'B' harfi, olay yerinin güvenliği sağlandıktan sonra acil tıbbi yardım istemek için 112'nin aranması anlamına gelen 'Bildirme'yi temsil eder. [cite: 51, 56]"
+    "description": "İlk yardımın temel uygulamaları Koruma, Bildirme ve Kurtarma'dır. KBK kısaltmasındaki 'B' harfi, olay yerinin güvenliği sağlandıktan sonra acil tıbbi yardım istemek için 112'nin aranması anlamına gelen 'Bildirme'yi temsil eder."
   },
   {
     "id": 3729,
@@ -2973,7 +2973,7 @@
       { "text": "Kişinin bayılmasını önlemek için.", "isTrue": false },
       { "text": "Sadece ses çıkarıp çıkarmadığını anlamak için.", "isTrue": false }
     ],
-    "description": "Kısmi tıkanıklıkta, hava yolu tam kapanmamıştır. Bu durumda, öksürük refleksi akciğerlerdeki havayı kullanarak cisme basınç uygular ve dışarı atılmasını sağlar. [cite_start]Bu doğal mekanizmaya müdahale etmemek ve kişiyi öksürmeye teşvik etmek en doğru yaklaşımdır. [cite: 558]"
+    "description": "Kısmi tıkanıklıkta, hava yolu tam kapanmamıştır. Bu durumda, öksürük refleksi akciğerlerdeki havayı kullanarak cisme basınç uygular ve dışarı atılmasını sağlar. Bu doğal mekanizmaya müdahale etmemek ve kişiyi öksürmeye teşvik etmek en doğru yaklaşımdır."
   },
   {
     "id": 3730,
@@ -2986,7 +2986,7 @@
       { "text": "Karşılıklı Durarak Kaldırma", "isTrue": true },
       { "text": "İtfaiyeci Yöntemi", "isTrue": false }
     ],
-    [cite_start]"description": "Karşılıklı Durarak Kaldırma tekniği, özellikle omurga yaralanması şüphesinde, hastanın vücut eksenini bozmadan güvenli bir şekilde sedyeye aktarmak için tasarlanmıştır. [cite: 837]"
+    "description": "Karşılıklı Durarak Kaldırma tekniği, özellikle omurga yaralanması şüphesinde, hastanın vücut eksenini bozmadan güvenli bir şekilde sedyeye aktarmak için tasarlanmıştır."
   },
   {
     "id": 3731,
@@ -2999,7 +2999,7 @@
       { "text": "Kafatası ve beyin yaralanması", "isTrue": true },
       { "text": "El bileği burkulması", "isTrue": false }
     ],
-    "description": "Denge kaybı beyinciğin etkilendiğini, göz çevresindeki morluklar (rakun gözleri) ise kafatası tabanında bir kırık olabileceğini düşündüren ciddi belirtilerdir. [cite_start]Bu bulgular, bir kafa travması yaşandığının önemli göstergeleridir. [cite: 710]"
+    "description": "Denge kaybı beyinciğin etkilendiğini, göz çevresindeki morluklar (rakun gözleri) ise kafatası tabanında bir kırık olabileceğini düşündüren ciddi belirtilerdir. Bu bulgular, bir kafa travması yaşandığının önemli göstergeleridir."
   },
   {
     "id": 3732,
@@ -3012,7 +3012,7 @@
       { "text": "Çünkü bu kişiler güneşi daha çok sever.", "isTrue": false },
       { "text": "Çünkü bu kişilerin kan grupları farklıdır.", "isTrue": false }
     ],
-    "description": "Aşırı kilolu kişilerde yağ tabakası ısıyı hapsederken, aşırı zayıf kişilerde ise vücudun sıvı rezervi ve termoregülasyon (ısı düzenleme) kapasitesi daha düşük olabilir. [cite_start]Her iki durum da sıcak çarpması için bir risk faktörüdür. [cite: 724]"
+    "description": "Aşırı kilolu kişilerde yağ tabakası ısıyı hapsederken, aşırı zayıf kişilerde ise vücudun sıvı rezervi ve termoregülasyon (ısı düzenleme) kapasitesi daha düşük olabilir. Her iki durum da sıcak çarpması için bir risk faktörüdür"
   },
   {
     "id": 3733,
@@ -3025,7 +3025,7 @@
       { "text": "Sargı rulo yapılarak göğüs etrafına sarılır.", "isTrue": false },
       { "text": "Sargı sadece yarayı kapatacak şekilde konulur.", "isTrue": false }
     ],
-    "description": "Göğse üçgen bandaj uygulamasında, sargının geniş bir alanı kaplaması hedeflenir. Üçgenin tepesi omuza yerleştirilir ve sargı aşağıya doğru açılır. [cite_start]Sargının iki ucu göğsü çaprazlayarak sırtta düğümlenir. [cite: 684]"
+    "description": "Göğse üçgen bandaj uygulamasında, sargının geniş bir alanı kaplaması hedeflenir. Üçgenin tepesi omuza yerleştirilir ve sargı aşağıya doğru açılır. Sargının iki ucu göğsü çaprazlayarak sırtta düğümlenir."
   },
   {
     "id": 3734,
@@ -3038,7 +3038,7 @@
       { "text": "Alerjik reaksiyon", "isTrue": false },
       { "text": "Sadece psikolojik bir tepki", "isTrue": false }
     ],
-    "description": "Beyne giden oksijen miktarının azalmaya başlamasıyla, şokun erken evrelerinde kişide anlamsız bir endişe, huzursuzluk ve yerinde duramama hali görülebilir. [cite_start]Bu, vücudun tehlike sinyali verdiği önemli bir belirtidir. [cite: 670]"
+    "description": "Beyne giden oksijen miktarının azalmaya başlamasıyla, şokun erken evrelerinde kişide anlamsız bir endişe, huzursuzluk ve yerinde duramama hali görülebilir. Bu, vücudun tehlike sinyali verdiği önemli bir belirtidir."
   },
   {
     "id": 3735,
@@ -3051,7 +3051,7 @@
       { "text": "Kişinin sadece bayıldığı anlamına gelir, ayakları yukarı kaldırılır.", "isTrue": false },
       { "text": "Sadece ambulansın gelmesi beklenir.", "isTrue": false }
     ],
-    "description": "İlk yardımcılar nabız kontrolü yapmadığı için, bir kişinin bilincinin kapalı olması ve solunumunun durması, kalbinin de durduğu şeklinde yorumlanır. [cite_start]Bu durum, zaman kaybetmeden göğüs kompresyonlarına (kalp masajı) başlanmasını gerektiren en acil durumdur. [cite: 383, 395]"
+    "description": "İlk yardımcılar nabız kontrolü yapmadığı için, bir kişinin bilincinin kapalı olması ve solunumunun durması, kalbinin de durduğu şeklinde yorumlanır. Bu durum, zaman kaybetmeden göğüs kompresyonlarına (kalp masajı) başlanmasını gerektiren en acil durumdur."
   },
   {
     "id": 3736,
@@ -3064,7 +3064,7 @@
       { "text": "Sadece şiddetli ağrı", "isTrue": false },
       { "text": "Ciltte döküntüler", "isTrue": false }
     ],
-    "description": "Omurga, içinden geçen omuriliği korur. Omurgadaki bir kırık veya kayma, omuriliğe baskı yaparak veya onu zedeleyerek sinir iletimini kesintiye uğratabilir. [cite_start]Bu da yaralanma seviyesinin altında kısmi veya tam felce neden olabilir. [cite: 706]"
+    "description": "Omurga, içinden geçen omuriliği korur. Omurgadaki bir kırık veya kayma, omuriliğe baskı yaparak veya onu zedeleyerek sinir iletimini kesintiye uğratabilir. Bu da yaralanma seviyesinin altında kısmi veya tam felce neden olabilir."
   },
   {
     "id": 3737,
@@ -3077,7 +3077,7 @@
       { "text": "Üç ilk yardımcı tarafından uygulanır.", "isTrue": false },
       { "text": "Sadece bilinci kapalı hastalarda uygulanır.", "isTrue": false }
     ],
-    "description": "Bu teknik, iki ilk yardımcı gerektirir. Bir ilk yardımcı, yaralının arkasına geçerek koltuk altlarından kavrarken, ikinci ilk yardımcı yaralının bacaklarını dizlerinin altından tutar. [cite_start]Genellikle kısa mesafeli ve hızlı taşımalar için kullanılır. [cite: 821, 828]"
+    "description": "Bu teknik, iki ilk yardımcı gerektirir. Bir ilk yardımcı, yaralının arkasına geçerek koltuk altlarından kavrarken, ikinci ilk yardımcı yaralının bacaklarını dizlerinin altından tutar. Genellikle kısa mesafeli ve hızlı taşımalar için kullanılır."
   },
   {
     "id": 3738,
@@ -3090,7 +3090,7 @@
       { "text": "Sadece kanamayı durdurmak.", "isTrue": false },
       { "text": "Yaralıya ilaç vermek.", "isTrue": false }
     ],
-    [cite_start]"description": "Temel Yaşam Desteği (TYD), hayat kurtarmak amacıyla, solunumu ve kalbi durmuş bir kişiye, hava yolu açıklığı sağlandıktan sonra, dış kalp masajı ile kan pompalanmasını ve yapay solunum ile oksijen gitmesini sağlayan, ilaçsız ve ekipmansız uygulamaların bütünüdür. [cite: 386]"
+    "description": "Temel Yaşam Desteği (TYD), hayat kurtarmak amacıyla, solunumu ve kalbi durmuş bir kişiye, hava yolu açıklığı sağlandıktan sonra, dış kalp masajı ile kan pompalanmasını ve yapay solunum ile oksijen gitmesini sağlayan, ilaçsız ve ekipmansız uygulamaların bütünüdür."
   },
   {
     "id": 3739,
@@ -3103,7 +3103,7 @@
       { "text": "Sadece hastayı serinletmek.", "isTrue": false },
       { "text": "Derinin rengini normale döndürmek.", "isTrue": false }
     ],
-    "description": "Yanma eylemi, ısı kaynağı uzaklaştırıldıktan sonra da bir süre devam eder. [cite_start]Yanan bölgeyi soğuk su altında tutmak, dokularda biriken ısıyı dağıtarak yanığın derinleşmesini engeller ve sinir uçlarını uyuşturarak ağrıyı azaltır. [cite: 717]"
+    "description": "Yanma eylemi, ısı kaynağı uzaklaştırıldıktan sonra da bir süre devam eder. Yanan bölgeyi soğuk su altında tutmak, dokularda biriken ısıyı dağıtarak yanığın derinleşmesini engeller ve sinir uçlarını uyuşturarak ağrıyı azaltır."
   },
   {
     "id": 3740,
@@ -3116,7 +3116,7 @@
       { "text": "Sadece 112'yi aramalıdır.", "isTrue": false },
       { "text": "Tehlikenin geçmesini beklemelidir.", "isTrue": false }
     ],
-    "description": "Patlama veya zehirlenme gibi devam eden bir tehlike varsa, ilk yardımcının en öncelikli görevi hem kendi hem de çevredeki diğer kişilerin güvenliğini sağlamaktır. [cite_start]Bu, herkesi tehlikeli bölgeden uzaklaştırmayı gerektirir. [cite: 359]"
+    "description": "Patlama veya zehirlenme gibi devam eden bir tehlike varsa, ilk yardımcının en öncelikli görevi hem kendi hem de çevredeki diğer kişilerin güvenliğini sağlamaktır. Bu, herkesi tehlikeli bölgeden uzaklaştırmayı gerektirir."
   },
   {
     "id": 3741,
@@ -3129,7 +3129,7 @@
       { "text": "Çenenin tam altından", "isTrue": false },
       { "text": "Köprücük kemiğinin üzerinden", "isTrue": false }
     ],
-    "description": "Şah damarı (karotis arter), boyunda, gırtlak çıkıntısının (adem elması) her iki yanında bulunan ve nabzın en kuvvetli hissedildiği ana atardamarlardan biridir. [cite_start]İlk yardımcılar nabız kontrolü yapmaz ancak yerinin bilinmesi önemlidir. [cite: 251]"
+    "description": "Şah damarı (karotis arter), boyunda, gırtlak çıkıntısının (adem elması) her iki yanında bulunan ve nabzın en kuvvetli hissedildiği ana atardamarlardan biridir. İlk yardımcılar nabız kontrolü yapmaz ancak yerinin bilinmesi önemlidir. "
   },
   {
     "id": 3742,
@@ -3142,7 +3142,7 @@
       { "text": "Baş-boyun-gövde ekseni kesinlikle bozulmadan, bir bütün olarak hareket ettirilmelidir.", "isTrue": true },
       { "text": "Sadece bir kişi tarafından taşınmalıdır.", "isTrue": false }
     ],
-    "description": "Omurga yaralanması şüphesinde en önemli kural, baş, boyun ve gövdenin aynı hizada, bir bütün olarak hareket ettirilmesidir. Bu eksenin bozulması, omuriliğin zedelenmesine yol açabilir. [cite_start]Bu nedenle bu tür hastalar en az 3-4 kişiyle taşınır. [cite: 804]"
+    "description": "Omurga yaralanması şüphesinde en önemli kural, baş, boyun ve gövdenin aynı hizada, bir bütün olarak hareket ettirilmesidir. Bu eksenin bozulması, omuriliğin zedelenmesine yol açabilir. Bu nedenle bu tür hastalar en az 3-4 kişiyle taşınır. "
   },
   {
     "id": 3743,
@@ -3168,7 +3168,7 @@
       { "text": "İleri Yaşam Desteği", "isTrue": false },
       { "text": "Şok Tedavisi", "isTrue": false }
     ],
-    [cite_start]"description": "Hayat kurtarma amacı ile hava yolu açıklığı sağlandıktan sonra, solunumu ve/veya kalbi durmuş kişiye yapay solunum ile akciğerlerine oksijen gitmesini, dış kalp masajı ile kalpten kan pompalanmasını sağlamak için ilaçsız olarak yapılan müdahalelere Temel Yaşam Desteği (TYD) denir. [cite: 386]"
+    "description": "Hayat kurtarma amacı ile hava yolu açıklığı sağlandıktan sonra, solunumu ve/veya kalbi durmuş kişiye yapay solunum ile akciğerlerine oksijen gitmesini, dış kalp masajı ile kalpten kan pompalanmasını sağlamak için ilaçsız olarak yapılan müdahalelere Temel Yaşam Desteği (TYD) denir."
   },
   {
     "id": 3745,
@@ -3181,7 +3181,7 @@
       { "text": "Kurtarma", "isTrue": false },
       { "text": "Taşıma", "isTrue": false }
     ],
-    [cite_start]"description": "Koruma basamağının temel amacı, kaza sonuçlarının ağırlaşmasını önlemek için olay yerini değerlendirerek güvenli bir çevre oluşturmaktır. [cite: 59, 336]"
+    "description": "Koruma basamağının temel amacı, kaza sonuçlarının ağırlaşmasını önlemek için olay yerini değerlendirerek güvenli bir çevre oluşturmaktır."
   },
   {
     "id": 3746,
@@ -3194,7 +3194,7 @@
       { "text": "Solunum Sistemi", "isTrue": false },
       { "text": "Dolaşım Sistemi", "isTrue": true }
     ],
-    [cite_start]"description": "Dolaşım sistemi (kalp, kan damarları, kan), vücut dokularına oksijen, besin, hormon gibi elementleri taşır ve atık maddeleri toplar. [cite: 157]"
+    "description": "Dolaşım sistemi (kalp, kan damarları, kan), vücut dokularına oksijen, besin, hormon gibi elementleri taşır ve atık maddeleri toplar."
   },
   {
     "id": 3747,
@@ -3207,7 +3207,7 @@
       { "text": "GPS koordinatlarının bildirilmesi.", "isTrue": false },
       { "text": "Adres vermeden sadece yaralı durumu anlatılır.", "isTrue": false }
     ],
-    [cite_start]"description": "Ambulansın olay yerine en hızlı şekilde ulaşabilmesi için, net adresin yanı sıra, o yere yakın, herkes tarafından bilinen bir cadde, okul, AVM gibi bir yerin adının verilmesi, adresi bulmayı kolaylaştırır. [cite: 73]"
+    "description": "Ambulansın olay yerine en hızlı şekilde ulaşabilmesi için, net adresin yanı sıra, o yere yakın, herkes tarafından bilinen bir cadde, okul, AVM gibi bir yerin adının verilmesi, adresi bulmayı kolaylaştırır"
   },
   {
     "id": 3748,
@@ -3220,7 +3220,7 @@
       { "text": "100-140", "isTrue": true },
       { "text": "140-160", "isTrue": false }
     ],
-    "description": "Bebeklerde metabolizma daha hızlı olduğu için nabız sayısı yetişkinlere göre daha yüksektir. [cite_start]Normal değerler dakikada 100-140 atım arasındadır. [cite: 249]"
+    "description": "Bebeklerde metabolizma daha hızlı olduğu için nabız sayısı yetişkinlere göre daha yüksektir. Normal değerler dakikada 100-140 atım arasındadır."
   },
   {
     "id": 3749,
@@ -3233,7 +3233,7 @@
       { "text": "Bak-Dinle-Hisset yöntemi 10 saniye süreyle uygulanır.", "isTrue": true },
       { "text": "Tansiyonuna bakılır.", "isTrue": false }
     ],
-    "description": "Solunumu olan bir kişiye yapay solunum veya kalp masajı yapmak tehlikelidir. [cite_start]Bu nedenle müdahaleye başlamadan önce, Bak-Dinle-Hisset yöntemiyle 10 saniye boyunca solunumun olmadığına kesin olarak emin olunmalıdır. [cite: 309, 395]"
+    "description": "Solunumu olan bir kişiye yapay solunum veya kalp masajı yapmak tehlikelidir. Bu nedenle müdahaleye başlamadan önce, Bak-Dinle-Hisset yöntemiyle 10 saniye boyunca solunumun olmadığına kesin olarak emin olunmalıdır."
   },
   {
     "id": 3750,
@@ -3246,7 +3246,7 @@
       { "text": "30 dakikada bir", "isTrue": false },
       { "text": "Turnike asla gevşetilmez.", "isTrue": false }
     ],
-    "description": "Uzun süreli turnike uygulamaları, uzvun tamamen kansız kalarak ölmesine neden olabilir. [cite_start]Bunu önlemek için, sağlık ekibi ulaşana kadar her 15-20 dakikada bir turnike birkaç saniyeliğine gevşetilerek dokuların bir miktar kanlanması sağlanır. [cite: 650]"
+    "description": "Uzun süreli turnike uygulamaları, uzvun tamamen kansız kalarak ölmesine neden olabilir. Bunu önlemek için, sağlık ekibi ulaşana kadar her 15-20 dakikada bir turnike birkaç saniyeliğine gevşetilerek dokuların bir miktar kanlanması sağlanır."
   },
   {
     "id": 3751,
@@ -3259,7 +3259,7 @@
       { "text": "Solukluk ya da morarma", "isTrue": true },
       { "text": "Renk değişikliği olmaz.", "isTrue": false }
     ],
-    "description": "Şok durumunda dolaşım yetersizliğine bağlı olarak dokulara yeterli oksijen gitmez. [cite_start]Bu durum, özellikle dudak çevresi gibi hassas bölgelerde solukluk veya oksijensizliği gösteren morarma (siyanoz) şeklinde kendini gösterir. [cite: 670]"
+    "description": "Şok durumunda dolaşım yetersizliğine bağlı olarak dokulara yeterli oksijen gitmez. Bu durum, özellikle dudak çevresi gibi hassas bölgelerde solukluk veya oksijensizliği gösteren morarma (siyanoz) şeklinde kendini gösterir."
   },
   {
     "id": 3752,
@@ -3272,7 +3272,7 @@
       { "text": "Bölgeyi kuru bir bezle silmek.", "isTrue": false },
       { "text": "Bölgeye buz uygulamak.", "isTrue": false }
     ],
-    "description": "Kimyasal yanıklarda ilk amaç, kimyasal maddenin ciltle temasını en kısa sürede kesmek ve etkisini seyreltmektir. [cite_start]Bunun en etkili yolu, bölgeyi bol ve tazyiksiz suyla dakikalarca yıkamaktır. [cite: 720]"
+    "description": "Kimyasal yanıklarda ilk amaç, kimyasal maddenin ciltle temasını en kısa sürede kesmek ve etkisini seyreltmektir. Bunun en etkili yolu, bölgeyi bol ve tazyiksiz suyla dakikalarca yıkamaktır."
   },
   {
     "id": 3753,
@@ -3285,7 +3285,7 @@
       { "text": "Düşünme ve anlamayı sağlamak", "isTrue": false },
       { "text": "Kanı pompalamak", "isTrue": false }
     ],
-    [cite_start]"description": "Sinir sisteminin bir parçası olan beyincik, özellikle istemli kas hareketlerinin koordinasyonu, duruş ve dengeyi sağlamada kritik bir rol oynar. [cite: 162]"
+    "description": "Sinir sisteminin bir parçası olan beyincik, özellikle istemli kas hareketlerinin koordinasyonu, duruş ve dengeyi sağlamada kritik bir rol oynar."
   },
   {
     "id": 3754,
@@ -3298,7 +3298,7 @@
       { "text": "Sadece daha rahat sargı yapabilmek için.", "isTrue": false },
       { "text": "Tıbbi bir önemi yoktur.", "isTrue": false }
     ],
-    "description": "Yaralanan bir uzuv, bir süre sonra şişmeye başlar. [cite_start]Eğer parmaktaki yüzük veya koldaki bilezik gibi takılar çıkarılmazsa, şişlik arttıkça o bölgeyi sıkarak kan dolaşımını tamamen durdurabilir ve kangrene neden olabilir. [cite: 738]"
+    "description": "Yaralanan bir uzuv, bir süre sonra şişmeye başlar. Eğer parmaktaki yüzük veya koldaki bilezik gibi takılar çıkarılmazsa, şişlik arttıkça o bölgeyi sıkarak kan dolaşımını tamamen durdurabilir ve kangrene neden olabilir."
   },
   {
     "id": 3755,
@@ -3311,7 +3311,7 @@
       { "text": "Teşhis", "isTrue": false },
       { "text": "Temel Yaşam Desteği", "isTrue": true }
     ],
-    [cite_start]"description": "Temel Yaşam Desteği, kalbi ve solunumu durmuş bir kişiye, profesyonel yardım gelene kadar, sadece yapay solunum ve dış kalp masajı kullanarak yaşama şansı tanımak için yapılan ilaçsız uygulamalardır. [cite: 386]"
+    "description": "Temel Yaşam Desteği, kalbi ve solunumu durmuş bir kişiye, profesyonel yardım gelene kadar, sadece yapay solunum ve dış kalp masajı kullanarak yaşama şansı tanımak için yapılan ilaçsız uygulamalardır."
   },
   {
     "id": 3756,
@@ -3324,7 +3324,7 @@
       { "text": "Yaralının bilinci açıksa", "isTrue": false },
       { "text": "Yaralının omurga kırığı varsa", "isTrue": false }
     ],
-    [cite_start]"description": "Sürükleme yöntemleri, normal taşıma tekniklerinin uygulanamadığı çok dar alanlarda veya yangın, çökme gibi acil bir tehlikeden yaralıyı çok hızlı bir şekilde uzaklaştırmak gerektiğinde başvurulan bir acil taşıma tekniğidir. [cite: 806, 808]"
+    "description": "Sürükleme yöntemleri, normal taşıma tekniklerinin uygulanamadığı çok dar alanlarda veya yangın, çökme gibi acil bir tehlikeden yaralıyı çok hızlı bir şekilde uzaklaştırmak gerektiğinde başvurulan bir acil taşıma tekniğidir."
   },
   {
     "id": 3757,
@@ -3337,7 +3337,7 @@
       { "text": "Kulağın içine su dökülür.", "isTrue": false },
       { "text": "Hasta hemen yüzüstü yatırılır.", "isTrue": false }
     ],
-    "description": "Hafif kulak kanamalarında, kanın dışarı akmasını engellemek tehlikeli olabilir. Kulak içi temiz bir bezle silinir, içeriye bir şey sokulmaz ve tıkanmaz. [cite_start]Hasta sakinleştirilir ve doktora gitmesi sağlanır. [cite: 675]"
+    "description": "Hafif kulak kanamalarında, kanın dışarı akmasını engellemek tehlikeli olabilir. Kulak içi temiz bir bezle silinir, içeriye bir şey sokulmaz ve tıkanmaz. Hasta sakinleştirilir ve doktora gitmesi sağlanır."
   },
   {
     "id": 3758,
@@ -3350,7 +3350,7 @@
       { "text": "Hiçbir şey yapmadan beklemelidir.", "isTrue": false },
       { "text": "Olay yerini terk etmelidir.", "isTrue": false }
     ],
-    "description": "İlk yardımcının temel kuralı önce kendi güvenliğidir. [cite_start]Eğer kendisi de yaralıysa, başkasına yardım edebilecek durumda olup olmadığını anlamak için önce kendi durumunu değerlendirmelidir. [cite: 351]"
+    "description": "İlk yardımcının temel kuralı önce kendi güvenliğidir. Eğer kendisi de yaralıysa, başkasına yardım edebilecek durumda olup olmadığını anlamak için önce kendi durumunu değerlendirmelidir."
   },
   {
     "id": 3759,
@@ -3363,7 +3363,7 @@
       { "text": "Şok", "isTrue": false },
       { "text": "Koma", "isTrue": false }
     ],
-    [cite_start]"description": "Solunum durması, solunum hareketinin durması nedeniyle vücudun yaşamak için ihtiyacı olan oksijenden yoksun kalmasıdır. [cite: 374]"
+    "description": "Solunum durması, solunum hareketinin durması nedeniyle vücudun yaşamak için ihtiyacı olan oksijenden yoksun kalmasıdır."
   },
   {
     "id": 3760,
@@ -3376,7 +3376,7 @@
       { "text": "Sivri bir aletin batmasıyla oluşan yaradır.", "isTrue": false },
       { "text": "Cildin sürtünme sonucu soyulmasıdır.", "isTrue": false }
     ],
-    [cite_start]"description": "Parçalı yaralar, dokular üzerinde çekme etkisiyle meydana gelir ve tüm doku katmanları (deri, deri altı, kas vb.) zarar görebilir. [cite: 689]"
+    "description": "Parçalı yaralar, dokular üzerinde çekme etkisiyle meydana gelir ve tüm doku katmanları (deri, deri altı, kas vb.) zarar görebilir."
   },
   {
     "id": 3761,
@@ -3389,7 +3389,7 @@
       { "text": "Yarayı suyla yıkamak.", "isTrue": false },
       { "text": "Yaralının üzerini örtmek.", "isTrue": false }
     ],
-    "description": "Kanama kontrolünde sıralama önemlidir. Önce doğrudan baskı uygulanır. Bu yetersiz kalırsa, kanayan bölge yukarı kaldırılırken aynı zamanda o bölgeye giden ana damarın geçtiği basınç noktasına baskı uygulanır. [cite_start]Turnike en son çaredir. [cite: 619]"
+    "description": "Kanama kontrolünde sıralama önemlidir. Önce doğrudan baskı uygulanır. Bu yetersiz kalırsa, kanayan bölge yukarı kaldırılırken aynı zamanda o bölgeye giden ana damarın geçtiği basınç noktasına baskı uygulanır. Turnike en son çaredir."
   },
   {
     "id": 3762,
@@ -3402,7 +3402,7 @@
       { "text": "Kafatası ve beyin yaralanması", "isTrue": true },
       { "text": "Şeker koması", "isTrue": false }
     ],
-    [cite_start]"description": "Başa alınan bir darbe sonrası bilinç düzeyinde değişmeler, hafıza kaybı, baş ağrısı, bulantı, kusma ve denge kaybı gibi belirtiler, bir kafa travması ve olası beyin yaralanmasının önemli göstergeleridir. [cite: 710]"
+    "description": "Başa alınan bir darbe sonrası bilinç düzeyinde değişmeler, hafıza kaybı, baş ağrısı, bulantı, kusma ve denge kaybı gibi belirtiler, bir kafa travması ve olası beyin yaralanmasının önemli göstergeleridir."
   },
   {
     "id": 3763,
@@ -3415,7 +3415,7 @@
       { "text": "Mideyi havayla doldurmak.", "isTrue": false },
       { "text": "Sadece zaman kazanmak.", "isTrue": false }
     ],
-    "description": "Dış kalp masajı, oksijensiz kanı vücutta dolaştırır. Yapay solunum ise, bu kana akciğerler aracılığıyla oksijen yüklenmesini sağlar. [cite_start]Bu iki işlem birleşerek, beyin gibi hayati organlara oksijenli kanın gitmesini sağlar. [cite: 386]"
+    "description": "Dış kalp masajı, oksijensiz kanı vücutta dolaştırır. Yapay solunum ise, bu kana akciğerler aracılığıyla oksijen yüklenmesini sağlar. Bu iki işlem birleşerek, beyin gibi hayati organlara oksijenli kanın gitmesini sağlar."
   },
   {
     "id": 3764,
@@ -3428,7 +3428,7 @@
       { "text": "Gaz kaçağı olup olmadığını kontrol etmek.", "isTrue": false },
       { "text": "Yaralıya kalp masajı yapmak.", "isTrue": true }
     ],
-    "description": "Yaralıya kalp masajı yapmak 'Kurtarma (Müdahale)' aşamasının bir parçasıdır. [cite_start]'Koruma' aşaması ise, müdahaleye başlamadan önce olay yerinin herkes için güvenli hale getirilmesini içerir. [cite: 52, 57]"
+    "description": "Yaralıya kalp masajı yapmak 'Kurtarma (Müdahale)' aşamasının bir parçasıdır. 'Koruma' aşaması ise, müdahaleye başlamadan önce olay yerinin herkes için güvenli hale getirilmesini içerir. "
   },
   {
     "id": 3765,
@@ -3441,7 +3441,7 @@
       { "text": "Dolaşım Sistemi", "isTrue": false },
       { "text": "Boşaltım Sistemi", "isTrue": false }
     ],
-    [cite_start]"description": "Sindirim sistemi, ağızdan başlayarak yemek borusu, mide ve bağırsaklarla devam eden, besinlerin parçalanıp emilmesini sağlayan organlar bütünüdür. [cite: 214]"
+    "description": "Sindirim sistemi, ağızdan başlayarak yemek borusu, mide ve bağırsaklarla devam eden, besinlerin parçalanıp emilmesini sağlayan organlar bütünüdür."
   },
   {
     "id": 3766,
@@ -3454,7 +3454,7 @@
       { "text": "Üç", "isTrue": false },
       { "text": "Dört", "isTrue": false }
     ],
-    [cite_start]"description": "Altın beşik yöntemi, iki ilk yardımcının karşılıklı olarak ellerini kenetleyerek bir oturak oluşturması ve yaralıyı bu şekilde taşımasıdır. [cite: 826]"
+    "description": "Altın beşik yöntemi, iki ilk yardımcının karşılıklı olarak ellerini kenetleyerek bir oturak oluşturması ve yaralıyı bu şekilde taşımasıdır. "
   },
   {
     "id": 3767,
@@ -3467,7 +3467,7 @@
       { "text": "Tamamen durur.", "isTrue": false },
       { "text": "Hiçbir değişiklik olmaz.", "isTrue": false }
     ],
-    "description": "Şok durumunda vücut, dokulara daha fazla oksijen göndermeye çalışır. Bu telafi mekanizması nedeniyle solunum hızlanır. [cite_start]Ancak dolaşım yetersiz olduğu için solunum hareketleri zayıf ve yüzeysel kalır. [cite: 670]"
+    "description": "Şok durumunda vücut, dokulara daha fazla oksijen göndermeye çalışır. Bu telafi mekanizması nedeniyle solunum hızlanır. Ancak dolaşım yetersiz olduğu için solunum hareketleri zayıf ve yüzeysel kalır."
   },
   {
     "id": 3768,
@@ -3480,7 +3480,7 @@
       { "text": "Eklemde şekil bozukluğu", "isTrue": false },
       { "text": "Kemiğin deriden dışarı çıkması", "isTrue": true }
     ],
-    "description": "Kemiğin deriden dışarı çıkması 'açık kırık' belirtisidir. [cite_start]Çıkık ise eklem yüzeylerinin kalıcı olarak ayrılmasıdır ve belirtileri arasında yoğun ağrı, şişlik, işlev kaybı ve eklemde gözle görülür bir şekil bozukluğu bulunur. [cite: 745]"
+    "description": "Kemiğin deriden dışarı çıkması 'açık kırık' belirtisidir. Çıkık ise eklem yüzeylerinin kalıcı olarak ayrılmasıdır ve belirtileri arasında yoğun ağrı, şişlik, işlev kaybı ve eklemde gözle görülür bir şekil bozukluğu bulunur."
   },
   {
     "id": 3769,
@@ -3493,7 +3493,7 @@
       { "text": "Yaralının tansiyonunu belirtmek.", "isTrue": false },
       { "text": "Sadece bir işaret koymak.", "isTrue": false }
     ],
-    [cite_start]"description": "Çoklu yaralı olan olay yerlerinde, sağlık ekiplerinin triaj (önceliklendirme) yapmasını kolaylaştırmak ve turnike uygulanan hastaya özel dikkat göstermelerini sağlamak için, yaralının alnına veya görünen bir yerine 'T' harfi veya 'Turnike' kelimesi yazılır. [cite: 662]"
+    "description": "Çoklu yaralı olan olay yerlerinde, sağlık ekiplerinin triaj (önceliklendirme) yapmasını kolaylaştırmak ve turnike uygulanan hastaya özel dikkat göstermelerini sağlamak için, yaralının alnına veya görünen bir yerine 'T' harfi veya 'Turnike' kelimesi yazılır. "
   },
   {
     "id": 3770,
@@ -3506,7 +3506,7 @@
       { "text": "Omurga yaralanması şüphesi varsa ve olay yerinde acil bir tehlike yoksa", "isTrue": true },
       { "text": "Yaralının bilinci kapalıysa", "isTrue": false }
     ],
-    "description": "Omurga yaralanması şüphesi, yaralıyı hareket ettirmenin en riskli olduğu durumdur. Çünkü yanlış bir hareket kalıcı felce neden olabilir. [cite_start]Bu nedenle, olay yerinde yangın, patlama gibi hayati bir tehlike olmadığı sürece bu hastalar kesinlikle kımıldatılmaz. [cite: 357]"
+    "description": "Omurga yaralanması şüphesi, yaralıyı hareket ettirmenin en riskli olduğu durumdur. Çünkü yanlış bir hareket kalıcı felce neden olabilir. Bu nedenle, olay yerinde yangın, patlama gibi hayati bir tehlike olmadığı sürece bu hastalar kesinlikle kımıldatılmaz."
   },
   {
     "id": 3771,
@@ -3519,7 +3519,7 @@
       { "text": "Sadece genel kültürünü artırmak için.", "isTrue": false },
       { "text": "Yasal bir zorunluluk olduğu için.", "isTrue": false }
     ],
-    "description": "Temel anatomi ve fizyoloji bilgisi, ilk yardımcının, örneğin bir kanamada hangi damara nasıl bası yapacağını, bir kırıkta hangi kemiklerin etkilenebileceğini veya bir bilinç kaybında hava yolunun neden önemli olduğunu anlamasını sağlar. [cite_start]Bu da müdahalenin etkinliğini artırır. [cite: 103]"
+    "description": "Temel anatomi ve fizyoloji bilgisi, ilk yardımcının, örneğin bir kanamada hangi damara nasıl bası yapacağını, bir kırıkta hangi kemiklerin etkilenebileceğini veya bir bilinç kaybında hava yolunun neden önemli olduğunu anlamasını sağlar. Bu da müdahalenin etkinliğini artırır."
   },
   {
     "id": 3772,
@@ -3532,7 +3532,7 @@
       { "text": "Solunum yoluyla zehirlenme (Gazla zehirlenme)", "isTrue": true },
       { "text": "Enjeksiyon yoluyla zehirlenme", "isTrue": false }
     ],
-    [cite_start]"description": "Karbonmonoksit gibi zehirli gazların solunması, havadaki oksijenin yerini alarak veya vücudun oksijeni kullanma yeteneğini bozarak kimyasal bir boğulmaya (asfiksi) neden olur. [cite: 799]"
+    "description": "Karbonmonoksit gibi zehirli gazların solunması, havadaki oksijenin yerini alarak veya vücudun oksijeni kullanma yeteneğini bozarak kimyasal bir boğulmaya (asfiksi) neden olur."
   },
   {
     "id": 3773,
@@ -3545,7 +3545,7 @@
       { "text": "Beyincik ve omurilik soğanı", "isTrue": true },
       { "text": "Böbrekler", "isTrue": false }
     ],
-    "description": "Sinir sistemi; beyin, beyincik, omurilik ve omurilik soğanından oluşur. [cite_start]Bu yapılar vücudun ana kontrol merkezini meydana getirir. [cite: 162]"
+    "description": "Sinir sistemi; beyin, beyincik, omurilik ve omurilik soğanından oluşur. Bu yapılar vücudun ana kontrol merkezini meydana getirir."
   },
   {
     "id": 3774,
@@ -3558,7 +3558,7 @@
       { "text": "Ayak bileği etrafına", "isTrue": true },
       { "text": "Dizin üzerine", "isTrue": false }
     ],
-    [cite_start]"description": "Ayağa üçgen bandaj uygulamasında, bandajın tepesi parmakları kapattıktan sonra, iki ucu ayak bileği etrafında dolanarak sabit bir şekilde düğümlenir. [cite: 681]"
+    "description": "Ayağa üçgen bandaj uygulamasında, bandajın tepesi parmakları kapattıktan sonra, iki ucu ayak bileği etrafında dolanarak sabit bir şekilde düğümlenir."
   },
   {
     "id": 3775,
@@ -3571,7 +3571,7 @@
       { "text": "1/3'ü kadar", "isTrue": true },
       { "text": "1/2'si kadar", "isTrue": false }
     ],
-    "description": "Etkili bir kalp masajı için, göğüs kemiği 5 cm çöktürülmelidir. [cite_start]Bu da yandan bakıldığında göğüs yüksekliğinin yaklaşık 1/3'üne denk gelir. [cite: 433]"
+    "description": "Etkili bir kalp masajı için, göğüs kemiği 5 cm çöktürülmelidir. Bu da yandan bakıldığında göğüs yüksekliğinin yaklaşık 1/3'üne denk gelir."
   },
   {
     "id": 3776,
@@ -3597,7 +3597,7 @@
       { "text": "Fiziksel güç", "isTrue": false },
       { "text": "Soğukkanlılık", "isTrue": false }
     ],
-    "description": "İyi bir ilk yardımcı, sadece tıbbi müdahaleyi bilmekle kalmaz, aynı zamanda olay yerini yönetebilir. [cite_start]Çevredeki kişileri sakinleştirip onlara görevler vererek (112'yi aratmak, malzeme getirtmek vb.) durumu kontrol altına alması, iletişim ve organizasyon becerisini gösterir. [cite: 103]"
+    "description": "İyi bir ilk yardımcı, sadece tıbbi müdahaleyi bilmekle kalmaz, aynı zamanda olay yerini yönetebilir. Çevredeki kişileri sakinleştirip onlara görevler vererek (112'yi aratmak, malzeme getirtmek vb.) durumu kontrol altına alması, iletişim ve organizasyon becerisini gösterir."
   },
   {
     "id": 3778,
@@ -3610,7 +3610,7 @@
       { "text": "Kemiğin dışarı çıkması", "isTrue": false },
       { "text": "Morarma olmaması", "isTrue": false }
     ],
-    "description": "Şekil bozukluğu genellikle kırık ve çıkığa özgüdür. [cite_start]Ancak bu üç yaralanma türünün hepsinde, yaralanan bölgede ağrı, kanama ve ödeme bağlı şişlik ve uzvun normal şekilde kullanılamaması (işlev kaybı) ortak olarak görülür. [cite: 737, 741, 745]"
+    "description": "Şekil bozukluğu genellikle kırık ve çıkığa özgüdür. Ancak bu üç yaralanma türünün hepsinde, yaralanan bölgede ağrı, kanama ve ödeme bağlı şişlik ve uzvun normal şekilde kullanılamaması (işlev kaybı) ortak olarak görülür."
   },
   {
     "id": 3779,
@@ -3623,7 +3623,7 @@
       { "text": "Rentek Manevrası", "isTrue": false },
       { "text": "Altın Beşik Yöntemi", "isTrue": false }
     ],
-    [cite_start]"description": "Kaşık tekniği, 3 ilk yardımcının senkronize bir şekilde yaralının tek bir yanından ellerini altına geçirerek onu kaldırmasıdır ve özellikle dar alanlarda kullanılır. [cite: 830]"
+    "description": "Kaşık tekniği, 3 ilk yardımcının senkronize bir şekilde yaralının tek bir yanından ellerini altına geçirerek onu kaldırmasıdır ve özellikle dar alanlarda kullanılır. "
   },
   {
     "id": 3780,
@@ -3636,7 +3636,7 @@
       { "text": "Her ikisini de sadece doktorlar yapabilir.", "isTrue": false },
       { "text": "İlk yardım her zaman daha etkilidir.", "isTrue": false }
     ],
-    "description": "Temel farklardan biri uygulama yeridir. [cite_start]İlk yardım olay yerinde yapılırken, acil tedavi genellikle ambulans veya hastane gibi donanımlı ortamlarda sağlık profesyonelleri tarafından yapılır. [cite: 30, 35]"
+    "description": "Temel farklardan biri uygulama yeridir. İlk yardım olay yerinde yapılırken, acil tedavi genellikle ambulans veya hastane gibi donanımlı ortamlarda sağlık profesyonelleri tarafından yapılır."
   },
   {
     "id": 3781,
@@ -3649,7 +3649,7 @@
       { "text": "Yaralının konuşup konuşmadığı dinlenir.", "isTrue": false },
       { "text": "Çevredeki sesler dinlenir.", "isTrue": false }
     ],
-    [cite_start]"description": "Bak-Dinle-Hisset yönteminin 'Dinle' aşamasında, ilk yardımcı başını yaralının yüzüne yaklaştırır ve kulağıyla herhangi bir soluk alıp verme sesi olup olmadığını dinler. [cite: 309]"
+    "description": "Bak-Dinle-Hisset yönteminin 'Dinle' aşamasında, ilk yardımcı başını yaralının yüzüne yaklaştırır ve kulağıyla herhangi bir soluk alıp verme sesi olup olmadığını dinler."
   },
   {
     "id": 3782,
@@ -3662,7 +3662,7 @@
       { "text": "Sırtüstü yatırılıp ayakları yükseltilir.", "isTrue": false },
       { "text": "Sadece kendine gelmesi beklenir.", "isTrue": false }
     ],
-    "description": "Bilinci kapalı bir hastaya ağızdan bir şey vermek boğulmasına neden olabilir. [cite_start]Bu durumda, solunum yolunu açık tutmak için hastaya koma pozisyonu verilir ve acil tıbbi yardım (112) çağrılır. [cite: 783]"
+    "description": "Bilinci kapalı bir hastaya ağızdan bir şey vermek boğulmasına neden olabilir. Bu durumda, solunum yolunu açık tutmak için hastaya koma pozisyonu verilir ve acil tıbbi yardım (112) çağrılır."
   },
   {
     "id": 3783,
@@ -3675,7 +3675,7 @@
       { "text": "130-150", "isTrue": false },
       { "text": "Mümkün olduğunca hızlı", "isTrue": false }
     ],
-    "description": "Etkili bir kan dolaşımı sağlamak için, kalp masajı belirli bir hızda yapılmalıdır. [cite_start]Güncel kılavuzlar, yetişkinler, çocuklar ve bebekler için dakikada 100 ila 120 bası hızını önermektedir. [cite: 433]"
+    "description": "Etkili bir kan dolaşımı sağlamak için, kalp masajı belirli bir hızda yapılmalıdır. Güncel kılavuzlar, yetişkinler, çocuklar ve bebekler için dakikada 100 ila 120 bası hızını önermektedir."
   },
   {
     "id": 3784,
@@ -3688,7 +3688,7 @@
       { "text": "Ağızda köpüklenme", "isTrue": false },
       { "text": "Ciltte kuruluk ve kızarıklık", "isTrue": true }
     ],
-    "description": "Boğulma, oksijensizlik durumudur. Bu nedenle belirtileri arasında nefes darlığı, morarma, köpüklenme, bilinç bulanıklığı gibi durumlar görülür. [cite_start]Ciltte kuruluk ve kızarıklık genellikle boğulma belirtisi değildir. [cite: 800]"
+    "description": "Boğulma, oksijensizlik durumudur. Bu nedenle belirtileri arasında nefes darlığı, morarma, köpüklenme, bilinç bulanıklığı gibi durumlar görülür. Ciltte kuruluk ve kızarıklık genellikle boğulma belirtisi değildir."
   },
   {
     "id": 3785,
@@ -3701,7 +3701,7 @@
       { "text": "Kalça kemiği", "isTrue": false },
       { "text": "Köprücük kemiği", "isTrue": false }
     ],
-    [cite_start]"description": "Omurga (bel kemiği), başı ve gövdeyi destekleyen, içinden omuriliğin geçtiği ana iskelet yapısıdır. [cite: 138]"
+    "description": "Omurga (bel kemiği), başı ve gövdeyi destekleyen, içinden omuriliğin geçtiği ana iskelet yapısıdır."
   },
   {
     "id": 3786,
@@ -3714,7 +3714,7 @@
       { "text": "Baş geri-çene yukarı pozisyonu verilerek", "isTrue": true },
       { "text": "Ağzına üflenerek", "isTrue": false }
     ],
-    [cite_start]"description": "Bilinci kapalı kişilerde dilin geriye düşerek soluk borusunu tıkamasını önlemek için, ilk olarak baş geriye itilip çene yukarı kaldırılarak hava yolu açılır. [cite: 302]"
+    "description": "Bilinci kapalı kişilerde dilin geriye düşerek soluk borusunu tıkamasını önlemek için, ilk olarak baş geriye itilip çene yukarı kaldırılarak hava yolu açılır."
   },
   {
     "id": 3787,
@@ -3727,7 +3727,7 @@
       { "text": "Trafiğin sıkışık olması", "isTrue": false },
       { "text": "Yaralının bilincinin açık olması", "isTrue": false }
     ],
-    "description": "Rentek manevrası, yaralıyı araçtan çıkarırken omuriliğe zarar verme riski taşıyan bir yöntemdir. [cite_start]Bu risk, sadece yaralının araç içinde kalmasının daha tehlikeli olduğu durumlarda (solunum durması, yangın, patlama tehlikesi) göze alınır. [cite: 810]"
+    "description": "Rentek manevrası, yaralıyı araçtan çıkarırken omuriliğe zarar verme riski taşıyan bir yöntemdir. Bu risk, sadece yaralının araç içinde kalmasının daha tehlikeli olduğu durumlarda (solunum durması, yangın, patlama tehlikesi) göze alınır."
   },
   {
     "id": 3788,
@@ -3740,7 +3740,7 @@
       { "text": "Böbrekler", "isTrue": true },
       { "text": "Kalp ve damarlar", "isTrue": false }
     ],
-    "description": "Boşaltım sisteminin ana organları böbreklerdir. [cite_start]Böbrekler, kanı süzerek atık maddeleri (üre vb.) ve fazla suyu idrar olarak vücuttan atar, böylece vücudun iç dengesini (homeostaz) korur. [cite: 203]"
+    "description": "Boşaltım sisteminin ana organları böbreklerdir. Böbrekler, kanı süzerek atık maddeleri (üre vb.) ve fazla suyu idrar olarak vücuttan atar, böylece vücudun iç dengesini (homeostaz) korur."
   },
   {
     "id": 3789,
@@ -3753,7 +3753,7 @@
       { "text": "İç kanama", "isTrue": false },
       { "text": "Şok", "isTrue": false }
     ],
-    "description": "Omurga yaralanmaları, omuriliğin zedelenmesine yol açabilir. [cite_start]Omurilikteki sinirlerin etkilenmesi, o sinirlerin gittiği bölgelerde his kaybı, karıncalanma, uyuşma ve hareket kaybı gibi belirtilere neden olur. [cite: 710]"
+    "description": "Omurga yaralanmaları, omuriliğin zedelenmesine yol açabilir. Omurilikteki sinirlerin etkilenmesi, o sinirlerin gittiği bölgelerde his kaybı, karıncalanma, uyuşma ve hareket kaybı gibi belirtilere neden olur."
   },
   {
     "id": 3790,
@@ -3766,7 +3766,7 @@
       { "text": "Polisi aramak", "isTrue": false },
       { "text": "Yaralının elbiselerini çıkarmak", "isTrue": false }
     ],
-    "description": "Etkili bir ilk yardım, yaralıyla güvene dayalı bir iletişim kurmakla başlar. [cite_start]İlk yardımcı kendini tanıtarak, sakin ve güven verici bir ses tonuyla konuşarak yaralının korku ve endişelerini gidermeli, onunla iş birliği kurmalıdır. [cite: 329, 331, 612]"
+    "description": "Etkili bir ilk yardım, yaralıyla güvene dayalı bir iletişim kurmakla başlar. İlk yardımcı kendini tanıtarak, sakin ve güven verici bir ses tonuyla konuşarak yaralının korku ve endişelerini gidermeli, onunla iş birliği kurmalıdır."
   },
   {
     "id": 3791,
@@ -3805,7 +3805,7 @@
       { "text": "Yaralıyı hemen en yakın hastaneye götürmek", "isTrue": true },
       { "text": "Araçların kontağını kapatmak", "isTrue": false }
     ],
-    "description": "Yaralıyı olay yerinden taşımak bir 'Kurtarma' eylemidir. 'Koruma' eylemi ise, olay yerini güvenli hale getirmeyi içerir. [cite_start]Bu, yeni bir kaza olmasını önlemek için üçgen reflektör koymak, araç kontağını kapatmak gibi önlemleri kapsar. [cite: 336]"
+    "description": "Yaralıyı olay yerinden taşımak bir 'Kurtarma' eylemidir. 'Koruma' eylemi ise, olay yerini güvenli hale getirmeyi içerir. Bu, yeni bir kaza olmasını önlemek için üçgen reflektör koymak, araç kontağını kapatmak gibi önlemleri kapsar."
   },
   {
     "id": 3794,
