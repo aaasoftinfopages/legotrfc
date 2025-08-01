@@ -2,12 +2,12 @@
   {
     "id": 2651,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki gibi bir döner kavşakta, henüz kavşağa girmemiş olan 2 numaralı araç sürücüsü ne yapmalıdır? [Görsel: Döner kavşak içinde dönmekte olan 1 numaralı araç ve kavşağa girmek üzere olan 2 numaralı araç]",
-    "image_url": null,
+    "question": "Şekildeki gibi bir döner kavşakta, henüz kavşağa girmemiş olan 1 numaralı araç sürücüsü ne yapmalıdır?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural8_donel_kavsak.png",
     "options": [
       { "text": "Hızını artırarak hemen kavşağa girmelidir.", "isTrue": false },
-      { "text": "Kavşak içindeki 1 numaralı aracın geçişini beklemelidir.", "isTrue": true },
-      { "text": "Korna çalarak 1 numaralı aracı durdurmalıdır.", "isTrue": false },
+      { "text": "Kavşak içindeki 2 numaralı aracın geçişini beklemelidir.", "isTrue": true },
+      { "text": "Korna çalarak 2 numaralı aracı durdurmalıdır.", "isTrue": false },
       { "text": "Kavşağın boş olan sol şeridine girmelidir.", "isTrue": false }
     ],
     "description": "Döner kavşaklardaki temel kural, kavşak içinde dönmekte olan araçların geçiş önceliğine sahip olmasıdır. Kavşağa yaklaşan sürücüler, yavaşlamalı ve kavşak içindeki araçlara yol vermelidir."
@@ -28,8 +28,8 @@
   {
     "id": 2653,
     "category": "İlk Yardım",
-    "question": "Görseldeki ilk yardımcının, yaralının solunumunu değerlendirmek için kullandığı yöntemin adı nedir? [Görsel: İlk yardımcının, başını yaralının ağzına yaklaştırıp kulağıyla dinlediği, yanağıyla hissettiği ve gözüyle göğsüne baktığı pozisyon]",
-    "image_url": null,
+    "question": "Görseldeki ilk yardımcının, yaralının solunumunu değerlendirmek için kullandığı yöntemin adı nedir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/bakdinlehisset.png",
     "options": [
       { "text": "Heimlich Manevrası", "isTrue": false },
       { "text": "Bak-Dinle-Hisset Yöntemi", "isTrue": true },
@@ -55,7 +55,7 @@
     "id": 2655,
     "category": "Trafik ve Çevre",
     "question": "Kırmızı üçgen bir levha içinde, zıt yönlere bakan iki siyah ok figürü, sürücüye neyi bildirir?",
-    "image_url": null,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/ikiyonlu.png",
     "options": [
       { "text": "Karşıdan gelene yol verilmesi gerektiğini", "isTrue": false },
       { "text": "İki yönlü trafiğin başladığını", "isTrue": true },
@@ -106,8 +106,8 @@
   {
     "id": 2659,
     "category": "Motor ve Araç Tekniği",
-    "question": "Görseldeki gibi, bir aracın egzozundan yoğun mavi duman çıkması, hangi arızanın en belirgin işaretidir? [Görsel: Egzozundan mavi duman çıkan bir araç]",
-    "image_url": null,
+    "question": "Görseldeki gibi, bir aracın egzozundan yoğun mavi duman çıkması, hangi arızanın en belirgin işaretidir? ",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/egzozmavi.jpg",
     "options": [
       { "text": "Yakıt-hava karışımının zengin olması (Siyah duman)", "isTrue": false },
       { "text": "Motorun yağ yaktığı (Mavi duman)", "isTrue": true },
@@ -146,7 +146,7 @@
     "id": 2662,
     "category": "Trafik ve Çevre",
     "question": "Özellikle gece ve görüşün az olduğu durumlarda, virajın yönünü ve keskinliğini belirtmek için art arda dizilen sarı-siyah renkli ok şeklindeki levhaların adı nedir?",
-    "image_url": null,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/tehlikeliviraj.png",
     "options": [
       { "text": "Normal viraj levhası", "isTrue": false },
       { "text": "Tehlikeli viraj yön levhası", "isTrue": true },
@@ -158,8 +158,8 @@
   {
     "id": 2663,
     "category": "Motor ve Araç Tekniği",
-    "question": "Görseldeki gibi, bir aracın lastiğinin sadece iç veya sadece dış omuz kısmının aşırı derecede aşınması, hangi ayarın bozuk olduğunu gösterir? [Görsel: Sadece dış omuz kısmı aşınmış bir lastik]",
-    "image_url": null,
+    "question": "Görseldeki gibi, bir aracın lastiğinin sadece iç veya sadece dış omuz kısmının aşırı derecede aşınması, hangi ayarın bozuk olduğunu gösterir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/tekerlek.png",
     "options": [
       { "text": "Balans ayarı", "isTrue": false },
       { "text": "Rot ayarı (Kamber veya Toe ayarı)", "isTrue": true },
@@ -262,8 +262,8 @@
   {
     "id": 2671,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki yol üzerine çizilmiş oklar, o şeridi kullanan sürücülere neyi bildirir? [Görsel: Üzerinde 'ileri ve sola' okları bulunan bir şerit]",
-    "image_url": null,
+    "question": "Şekildeki yol üzerine çizilmiş oklar, o şeridi kullanan sürücülere neyi bildirir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/ilerivesola.png",
     "options": [
       { "text": "Şeridin sadece sola dönüş için olduğunu.", "isTrue": false },
       { "text": "Şeridi kullananların kavşakta sadece düz gidebileceğini veya sola dönebileceğini.", "isTrue": true },
@@ -380,7 +380,7 @@
     "id": 2680,
     "category": "Trafik ve Çevre",
     "question": "İçinde herhangi bir sembol olmayan, beyaz zemin üzerine tek bir kalın siyah çapraz çizgi bulunan trafik levhası ne anlama gelir?",
-    "image_url": null,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/yasaklarson.png",
     "options": [
       { "text": "Hız Sınırlaması Sonu", "isTrue": false },
       { "text": "Bütün Yasaklama ve Kısıtlamaların Sonu", "isTrue": true },
@@ -431,7 +431,7 @@
   {
     "id": 2684,
     "category": "Motor ve Araç Tekniği",
-    "question": "Görseldeki gibi, bir aracın akü kutup başlarının oksitlenmesi durumunda ne yapılmalıdır? [Görsel: Kutup başları oksitlenmiş bir akü]",
+    "question": "Bir aracın akü kutup başlarının oksitlenmesi durumunda ne yapılmalıdır?",
     "image_url": null,
     "options": [
       { "text": "Akü hemen değiştirilmelidir.", "isTrue": false },
@@ -457,8 +457,8 @@
   {
     "id": 2686,
     "category": "Trafik ve Çevre",
-    "question": "Kırmızı daire içinde bisiklet figürü olan trafik levhası ne anlama gelir?",
-    "image_url": null,
+    "question": "Şekildeki trafik levhası ne anlama gelir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/bisiklet_giremez.png",
     "options": [
       { "text": "Mecburi bisiklet yolu", "isTrue": false },
       { "text": "Bisiklet giremez", "isTrue": true },
@@ -480,19 +480,31 @@
     ],
     "description": "Turnikenin amacı, kanayan bölgeye giden ana atardamarı bir kemiğe doğru sıkıştırarak kan akışını kesmektir. Bu, en etkili şekilde, damarın tek bir kemik üzerinden geçtiği bölgelerde (kolun üst kısmı, bacağın üst kısmı) yapılır."
   },
-  {
-    "id": 2688,
-    "category": "Motor ve Araç Tekniği",
-    "question": "Görseldeki gibi, motorun soğutma suyunun sistem içinde dolaşımını sağlayan parçanın adı nedir? [Görsel: Motor bloğuna bağlı, kayışla dönen ve su hortumlarının girdiği parça]",
-    "image_url": null,
-    "options": [
-      { "text": "Termostat", "isTrue": false },
-      { "text": "Su pompası (Devridaim pompası)", "isTrue": true },
-      { "text": "Radyatör", "isTrue": false },
-      { "text": "Hararet müşürü", "isTrue": false }
-    ],
-    "description": "Su pompası veya devridaim pompası, hareketini vantilatör kayışı aracılığıyla krank milinden alır ve motor içinde ısınan suyu radyatöre, radyatörde soğuyan suyu da tekrar motora pompalayarak sürekli bir sirkülasyon sağlar."
-  },
+{
+  "id": 2688,
+  "category": "Motor ve Araç Tekniği",
+  "question": "Seyir hâlindeyken aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanması, aracın derhal durdurulmasını ve kontağın kapatılmasını gerektirir?",
+  "image_url": null,
+  "options": [
+    {
+      "text": "ABS ikaz ışığı",
+      "isTrue": false
+    },
+    {
+      "text": "Yağ basıncı ikaz ışığı",
+      "isTrue": true
+    },
+    {
+      "text": "Hava yastığı (Airbag) ikaz ışığı",
+      "isTrue": false
+    },
+    {
+      "text": "Silecek suyu seviyesi ikaz ışığı",
+      "isTrue": false
+    }
+  ],
+  "description": "Yağ basıncı ikaz ışığı, motordaki yağlama sisteminde ciddi bir sorun olduğunu gösterir. Motorun yağsız kalması, çok kısa sürede aşınmasına, aşırı ısınmasına ve kilitlenerek büyük hasar görmesine neden olabilir. Bu nedenle bu ışık yandığında araç derhal güvenli bir yere çekilmeli ve motor durdurulmalıdır."
+},
   {
     "id": 2689,
     "category": "Trafik ve Çevre",
@@ -520,18 +532,30 @@
     "description": "Bebeklerde Heimlich manevrası, 5 kez sırta vuru ve 5 kez göğüs kemiğine bası (kalp masajı gibi) şeklinde uygulanır. Bu döngü, cisim çıkana kadar devam eder."
   },
   {
-    "id": 2691,
-    "category": "Trafik ve Çevre",
-    "question": "İleride art arda gelen ve ilki sağa olan tehlikeli virajları bildiren trafik levhası hangisidir?",
-    "image_url": null,
-    "options": [
-      { "text": "Sağa tehlikeli viraj levhası", "isTrue": false },
-      { "text": "Sağa tehlikeli devamlı virajlar levhası", "isTrue": true },
-      { "text": "Kaygan yol levhası", "isTrue": false },
-      { "text": "Dönel kavşak levhası", "isTrue": false }
-    ],
-    "description": "Bu tehlike uyarı işareti, tek bir virajdan ziyade, ileride art arda gelen tehlikeli virajlar olduğunu bildirir. İlk virajın yönü, okun ilk kıvrıldığı yöndür."
-  },
+  "id": 2691,
+  "category": "Trafik ve Çevre",
+  "question": "Aksine bir işaret bulunmayan, kontrolsüz bir kavşakta karşılaşan motorlu araçlar için geçiş hakkı kuralı aşağıdakilerden hangisidir?",
+  "image_url": null,
+  "options": [
+    {
+      "text": "Motor gücü daha az olan araç, diğerine yol vermelidir.",
+      "isTrue": false
+    },
+    {
+      "text": "Daha hızlı gelen araç, ilk geçiş hakkına sahiptir.",
+      "isTrue": false
+    },
+    {
+      "text": "Soldaki araç, sağdan gelen araca yol vermelidir.",
+      "isTrue": true
+    },
+    {
+      "text": "Sağdaki araç, soldan gelen araca yol vermelidir.",
+      "isTrue": false
+    }
+  ],
+  "description": "Trafik kurallarına göre, herhangi bir işaretle veya trafik görevlisiyle yönetilmeyen kontrolsüz kavşaklarda 'sağdaki aracın geçiş üstünlüğü' kuralı geçerlidir. Bu kural uyarınca, her sürücü kendi sağından gelen araca yol vermek zorundadır. Dolayısıyla solda bulunan araç, sağındaki aracın geçmesini beklemelidir."
+}
   {
     "id": 2692,
     "category": "Motor ve Araç Tekniği",
@@ -613,7 +637,7 @@
   {
     "id": 2698,
     "category": "Trafik ve Çevre",
-    "question": "Kavşak ortalarında bulunan ve sarı renkli çapraz çizgilerle taranmış olan 'Box Junction' alanına, hangi durumda girilmesi yasaktır?",
+    "question": "Kavşak ortalarında bulunan ve sarı renkli çapraz çizgilerle taranmış olan alana, hangi durumda girilmesi yasaktır?",
     "image_url": null,
     "options": [
       { "text": "Her zaman yasaktır.", "isTrue": false },
