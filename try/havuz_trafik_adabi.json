@@ -1,0 +1,1949 @@
+[
+  {
+    "id": 4001,
+    "category": "Trafik Adabı",
+    "question": "Yağmurlu bir havada, su birikintisinden geçerken, kaldırımdaki yayaların üzerine su sıçratmamak için aracını yavaşlatan bir sürücünün bu davranışı, trafikteki hangi temel değere sahip olduğunu gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sabır", "isTrue": false },
+      { "text": "Empati ve Nezaket", "isTrue": true },
+      { "text": "Sorumluluk", "isTrue": false },
+      { "text": "Fedakarlık", "isTrue": false }
+    ],
+    "description": "Empati, bir olayda veya durumda kendini başka birinin yerine koyarak onun duygularını ve düşüncelerini doğru olarak anlamaktır. Sürücünün, yayanın ıslanacağını düşünerek yavaşlaması, empati kurduğunu ve nezaket gösterdiğini ifade eder."
+  },
+  {
+    "id": 4002,
+    "category": "Trafik Adabı",
+    "question": "Trafik kazası sonrası, kazaya karışan sürücülerden birinin 'Ben hatalıyım, masrafınızı karşılayacağım.' demesi hangi trafik adabı kuralına uygun bir davranıştır?",
+    "image_url": null,
+    "options": [
+      { "text": "Hoşgörü", "isTrue": false },
+      { "text": "Bencillik", "isTrue": false },
+      { "text": "Sorumluluk", "isTrue": true },
+      { "text": "Sabır", "isTrue": false }
+    ],
+    "description": "Sorumluluk, sürücünün kendi davranışlarının sonuçlarını üstlenmesidir. Kazada hatasını kabul edip gereğini yapmayı teklif etmek, sorumluluk sahibi bir sürücü davranışıdır."
+  },
+  {
+    "id": 4003,
+    "category": "Trafik Adabı",
+    "question": "Arkasından siren çalarak gelen bir ambulansa yol vermeyen sürücü, bu davranışı ile öncelikli olarak hangi hakkı ihlal etmektedir?",
+    "image_url": null,
+    "options": [
+      { "text": "Kamu hakkını", "isTrue": false },
+      { "text": "Çevre hakkını", "isTrue": false },
+      { "text": "Toplum hakkını", "isTrue": false },
+      { "text": "Yaşam hakkını", "isTrue": true }
+    ],
+    "description": "Ambulansın içindeki hastanın hayati tehlikesi olabilir. Ambulansa yol vermemek, hastanın sağlık kuruluşuna zamanında ulaşmasını engelleyerek onun yaşam hakkını tehlikeye atmak anlamına gelir."
+  },
+  {
+    "id": 4004,
+    "category": "Trafik Adabı",
+    "question": "Yoğun trafikte, acelesi olduğu için sürekli şerit değiştiren ve diğer araçların arasına girerek ilerlemeye çalışan bir sürücü için aşağıdakilerden hangisi söylenemez?",
+    "image_url": null,
+    "options": [
+      { "text": "Bencil bir sürücüdür.", "isTrue": false },
+      { "text": "Diğer sürücülerin hakkını ihlal etmektedir.", "isTrue": false },
+      { "text": "Empati düzeyi yüksek bir sürücüdür.", "isTrue": true },
+      { "text": "Trafik akışını tehlikeye atmaktadır.", "isTrue": false }
+    ],
+    "description": "Sürekli şerit değiştirerek (slalom yaparak) ilerlemek, hem diğer sürücülerin haklarını gasp eden bencil bir davranıştır hem de trafik güvenliğini tehlikeye atar. Bu davranış empati yoksunluğunun bir göstergesidir."
+  },
+  {
+    "id": 4005,
+    "category": "Trafik Adabı",
+    "question": "Trafikte kırmızı ışıkta beklerken, ışık sarıya döner dönmez önündeki araca korna çalan sürücünün bu davranışı için ne söylenebilir?",
+    "image_url": null,
+    "options": [
+      { "text": "Çok dikkatli bir sürücüdür.", "isTrue": false },
+      { "text": "Sabırsız bir sürücüdür.", "isTrue": true },
+      { "text": "Diğer sürücüyü teşvik etmektedir.", "isTrue": false },
+      { "text": "Trafik kurallarına çok hakimdir.", "isTrue": false }
+    ],
+    "description": "Trafikte sabır, sürücülerin beklemesi gereken durumlarda sakin kalarak aceleci ve tepkisel davranışlardan kaçınmasıdır. Işık sarıya döner dönmez korna çalmak, sabırsızlığın tipik bir örneğidir."
+  },
+  {
+    "id": 4006,
+    "category": "Trafik Adabı",
+    "question": "Trafikte, diğer sürücülerin yaptığı hataları anında cezalandırmaya çalışan ve sürekli öfkeli bir şekilde araç kullanan sürücü tipi aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sorumlu sürücü", "isTrue": false },
+      { "text": "Yardımsever sürücü", "isTrue": false },
+      { "text": "Saldırgan sürücü", "isTrue": true },
+      { "text": "Saygılı sürücü", "isTrue": false }
+    ],
+    "description": "Saldırgan sürücülük, trafikteki diğer yol kullanıcılarına karşı sürekli öfke, rekabet ve cezalandırma isteği ile araç kullanma davranışıdır. Bu sürücü tipi, trafik güvenliği için büyük bir risk oluşturur."
+  },
+  {
+    "id": 4007,
+    "category": "Trafik Adabı",
+    "question": "Dar bir yolda, karşı yönden gelen araca yol vermek için kendi hakkı olmasına rağmen yavaşlayıp kenara çekilen sürücünün bu davranışı hangisine örnektir?",
+    "image_url": null,
+    "options": [
+      { "text": "Feragat ve Fedakarlık", "isTrue": true },
+      { "text": "Sorumsuzluk", "isTrue": false },
+      { "text": "Bencillik", "isTrue": false },
+      { "text": "Sabırsızlık", "isTrue": false }
+    ],
+    "description": "Trafikte feragat, bir sürücünün trafik akışını rahatlatmak veya bir başkasına kolaylık sağlamak amacıyla kendi hakkından vazgeçmesidir. Bu, trafik adabının en önemli erdemlerinden biridir."
+  },
+  {
+    "id": 4008,
+    "category": "Trafik Adabı",
+    "question": "Geceleyin, yerleşim yeri dışında, aydınlatması yetersiz bir yolda karşı yönden gelen bir aracın sürücüsünün gözünü almamak için ne yapılmalıdır?",
+    "image_url": null,
+    "options": [
+      { "text": "Uzun farlar yakılır.", "isTrue": false },
+      { "text": "Kısa farlara geçilir.", "isTrue": true },
+      { "text": "Sadece park lambaları yakılır.", "isTrue": false },
+      { "text": "Selektör yapılır.", "isTrue": false }
+    ],
+    "description": "Karşı yönden gelen sürücünün görüşünü engellememek ve kaza riskini azaltmak, bir saygı ve güvenlik kuralıdır. Bu nedenle, karşıdan bir araç geldiğinde uzun farlar kapatılarak kısa farlara geçilmelidir."
+  },
+  {
+    "id": 4009,
+    "category": "Trafik Adabı",
+    "question": "Aracını, engelli vatandaşlar için ayrılmış bir park yerine park eden sürücü, aşağıdaki hak ihlallerinden hangisini yapmış olur?",
+    "image_url": null,
+    "options": [
+      { "text": "Toplum hakkı ihlali", "isTrue": false },
+      { "text": "Çevre hakkı ihlali", "isTrue": false },
+      { "text": "Kamu hakkı ihlali", "isTrue": false },
+      { "text": "Birey hakkı ihlali", "isTrue": true }
+    ],
+    "description": "Engelli park yerleri, o yere ihtiyacı olan engelli bireylerin kullanımına özel olarak tahsis edilmiştir. Bu yere park etmek, doğrudan o bireylerin hakkını gasp etmektir ve bir birey hakkı ihlalidir."
+  },
+  {
+    "id": 4010,
+    "category": "Trafik Adabı",
+    "question": "Trafik içinde yapılan hangi davranış, hoşgörülü bir sürücüye ait olabilir?",
+    "image_url": null,
+    "options": [
+      { "text": "Önüne çıkan bir yayaya öfkeyle bağırmak.", "isTrue": false },
+      { "text": "Acemi bir sürücünün stop ettirmesine anlayış göstermek.", "isTrue": true },
+      { "text": "Hatalı sollama yapan bir aracın önünü kesmek.", "isTrue": false },
+      { "text": "Park etmeye çalışan bir sürücüye sürekli korna çalmak.", "isTrue": false }
+    ],
+    "description": "Hoşgörü (tahammül), trafikteki diğer yol kullanıcılarının hata yapabileceğini kabul etmek ve bu hatalara karşı anlayışlı ve sabırlı olmaktır. Acemi bir sürücünün hatasına anlayış göstermek, hoşgörülü bir davranıştır."
+  },
+  {
+    "id": 4011,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, aracından dışarıya çöp atması hangi tür hak ihlaline girer?",
+    "image_url": null,
+    "options": [
+      { "text": "Yaşam hakkı ihlali", "isTrue": false },
+      { "text": "Birey hakkı ihlali", "isTrue": false },
+      { "text": "Çevre hakkı ihlali", "isTrue": true },
+      { "text": "Kamu hakkı ihlali", "isTrue": false }
+    ],
+    "description": "Çevreyi temiz tutmak, tüm toplumun ortak sorumluluğudur. Araçtan dışarı çöp atmak, çevreyi kirleterek hem doğaya hem de o çevrede yaşayan diğer insanlara karşı bir hak ihlalidir."
+  },
+  {
+    "id": 4012,
+    "category": "Trafik Adabı",
+    "question": "Sürücünün, trafik ortamında kendinden çok başkalarını düşünerek, onların iyiliği için risk alabilmesine ne ad verilir?",
+    "image_url": null,
+    "options": [
+      { "text": "Bencillik", "isTrue": false },
+      { "text": "Diğerkâmlık (Fedakarlık)", "isTrue": true },
+      { "text": "Öfke", "isTrue": false },
+      { "text": "Sabırsızlık", "isTrue": false }
+    ],
+    "description": "Diğerkâmlık, kendi çıkarından çok başkalarının iyiliğini düşünme erdemidir. Trafikte, zor durumdaki birine yardım etmek için zamanından ve yol hakkından fedakarlık etmek bu davranışa örnektir."
+  },
+  {
+    "id": 4013,
+    "category": "Trafik Adabı",
+    "question": "Trafikte yaşanan bir anlaşmazlıkta, sürücülerin araçlarından inip birbirleriyle kavga etmesi yerine, durumu konuşarak çözmeye çalışmaları hangi kavramın önemini vurgular?",
+    "image_url": null,
+    "options": [
+      { "text": "Rekabet", "isTrue": false },
+      { "text": "Monolog", "isTrue": false },
+      { "text": "Etkili iletişim ve diyalog", "isTrue": true },
+      { "text": "Beden dili", "isTrue": false }
+    ],
+    "description": "Trafik adabı, sorunların kaba kuvvetle değil, iletişim ve diyalog yoluyla çözülmesini gerektirir. Sürücülerin birbirini dinlemesi ve konuşarak anlaşması, trafikteki çatışmaları önler."
+  },
+  {
+    "id": 4014,
+    "category": "Trafik Adabı",
+    "question": "Öfkeli bir anında araç kullanmaya devam eden bir sürücüde, aşağıdakilerden hangisinin görülme olasılığı artar?",
+    "image_url": null,
+    "options": [
+      { "text": "Dikkat dağınıklığının azalması", "isTrue": false },
+      { "text": "Kural ihlali yapma eğiliminin azalması", "isTrue": false },
+      { "text": "Sabırlı ve hoşgörülü davranma", "isTrue": false },
+      { "text": "Riskli ve tehlikeli sürüş davranışları sergileme", "isTrue": true }
+    ],
+    "description": "Öfke, mantıklı düşünme ve doğru karar verme yeteneğini olumsuz etkiler. Öfkeli bir sürücünün dikkati dağılır, sabrı azalır, tehlikeleri algılaması zorlaşır ve kural ihlali yapma eğilimi artar."
+  },
+  {
+    "id": 4015,
+    "category": "Trafik Adabı",
+    "question": "Yaya geçidinden geçmekte olan bir öğrenci grubuna, yeşil ışık yansa bile ilk geçiş hakkını veren bir sürücünün bu davranışı neyi gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Trafik kurallarını bilmediğini", "isTrue": false },
+      { "text": "Yayaların her zaman hatalı olduğunu düşündüğünü", "isTrue": false },
+      { "text": "Trafik adabına ve insan hayatına verdiği önemi", "isTrue": true },
+      { "text": "Acelesi olmadığını", "isTrue": false }
+    ],
+    "description": "Trafik adabı, sadece yazılı kurallara uymak değil, aynı zamanda insan hayatına ve güvenliğine öncelik vermektir. Özellikle çocuklar, yaşlılar ve engelliler gibi korunmasız yol kullanıcılarına karşı daha duyarlı olmak, trafik adabının bir gereğidir."
+  },
+  {
+    "id": 4016,
+    "category": "Trafik Adabı",
+    "question": "Trafikte 'Beden Dili' hangi durumda etkili bir iletişim aracı olabilir?",
+    "image_url": null,
+    "options": [
+      { "text": "Diğer sürücüyü tehdit etmek için.", "isTrue": false },
+      { "text": "Hata yapan bir sürücüye gülümseyerek hoşgörü göstermek veya yol veren birine elle teşekkür etmek için.", "isTrue": true },
+      { "text": "Trafik polisine hakaret etmek için.", "isTrue": false },
+      { "text": "Hiçbir durumda etkili değildir.", "isTrue": false }
+    ],
+    "description": "Trafikte sözlü iletişim kurma imkanı kısıtlıdır. Bu nedenle, el hareketleri, mimikler ve gülümseme gibi beden dili unsurları, diğer sürücülerle olumlu (teşekkür, özür, hoşgörü) veya olumsuz iletişim kurmada önemli bir rol oynar."
+  },
+   {
+    "id": 4017,
+    "category": "Trafik Adabı",
+    "question": "Aracının periyodik bakımını (fren, lastik, egzoz vb.) zamanında yaptırmayan bir sürücü, hangi temel trafik adabı ilkesini ihmal etmektedir?",
+    "image_url": null,
+    "options": [
+      { "text": "Nezaket", "isTrue": false },
+      { "text": "Sorumluluk", "isTrue": true },
+      { "text": "Sabır", "isTrue": false },
+      { "text": "Hoşgörü", "isTrue": false }
+    ],
+    "description": "Sorumluluk, sadece trafikteki davranışları değil, aynı zamanda aracın güvenli ve çevreye zararsız bir durumda olmasını sağlamayı da kapsar. Bakımsız bir araç, hem kendisi hem de diğer yol kullanıcıları için bir risk oluşturur."
+  },
+  {
+    "id": 4018,
+    "category": "Trafik Adabı",
+    "question": "Trafikte 'diğerkâmlık' ne anlama gelmektedir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece kendi çıkarlarını düşünmek.", "isTrue": false },
+      { "text": "Kendi çıkarından önce başkalarının iyiliğini ve çıkarını düşünmek.", "isTrue": true },
+      { "text": "Sürekli diğer sürücülerle yarışmak.", "isTrue": false },
+      { "text": "Kurallara hiç uymamak.", "isTrue": false }
+    ],
+    "description": "Diğerkâmlık, fedakarlık ve özgecilikle aynı anlama gelir. Trafikte, zor durumdaki bir sürücüye veya yayaya yardım etmek için kendi önceliğinden veya zamanından vazgeçmek diğerkâmlık örneğidir."
+  },
+  {
+    "id": 4019,
+    "category": "Trafik Adabı",
+    "question": "Trafik görevlisinin, trafiği yönetirken verdiği işaretlere uymak, sürücünün hangi değere sahip olduğunu gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "İnatçılık", "isTrue": false },
+      { "text": "Sabırsızlık", "isTrue": false },
+      { "text": "Saygı ve Sorumluluk", "isTrue": true },
+      { "text": "Bencillik", "isTrue": false }
+    ],
+    "description": "Trafik görevlileri, trafiğin güvenli ve düzenli akışını sağlamakla yükümlüdür. Onların işaretlerine uymak, hem otoriteye saygıyı hem de trafik düzenine karşı sorumluluk bilincini gösterir."
+  },
+  {
+    "id": 4020,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdaki durumlardan hangisinde korna çalmak, trafik adabına uygun bir davranış olabilir?",
+    "image_url": null,
+    "options": [
+      { "text": "Tanıdık birini selamlamak için.", "isTrue": false },
+      { "text": "Kırmızı ışıkta bekleyen sürücüleri acele ettirmek için.", "isTrue": false },
+      { "text": "Bir tehlike anında diğer sürücüleri veya yayaları uyarmak için.", "isTrue": true },
+      { "text": "Gece vakti bir yerleşim yerinden geçerken.", "isTrue": false }
+    ],
+    "description": "Korna, bir iletişim aracıdır ancak keyfi kullanılmamalıdır. Temel ve doğru kullanım amacı, bir tehlikeyi haber vermek, kaza riskini önlemek gibi uyarı durumlarıdır."
+  },
+  {
+    "id": 4021,
+    "category": "Trafik Adabı",
+    "question": "Trafikte, sürücünün aracıyla bilerek bir hayvanı ezmesi veya yaralaması, en temel olarak hangi hakkın ihlalidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Kamu hakkı", "isTrue": false },
+      { "text": "Toplum hakkı", "isTrue": false },
+      { "text": "Yaşam hakkı ve Çevre hakkı", "isTrue": true },
+      { "text": "Birey hakkı", "isTrue": false }
+    ],
+    "description": "Trafik ortamı sadece insanlardan ve araçlardan oluşmaz. Hayvanlar da bu çevrenin bir parçasıdır ve onların da yaşam hakkı vardır. Bir hayvana kasten zarar vermek, hem o canlının yaşam hakkını hem de paylaştığımız çevre hakkını ihlal etmektir."
+  },
+  {
+    "id": 4022,
+    "category": "Trafik Adabı",
+    "question": "Öfkeli araç kullanmanın, sürücünün hangi yeteneğini zayıflattığı söylenemez?",
+    "image_url": null,
+    "options": [
+      { "text": "Doğru ve mantıklı karar verme yeteneğini", "isTrue": false },
+      { "text": "Tehlikeleri öngörme yeteneğini", "isTrue": false },
+      { "text": "Kural ihlali yapmama iradesini", "isTrue": false },
+      { "text": "Aracın motor gücünü kullanma yeteneğini", "isTrue": true }
+    ],
+    "description": "Öfke, sürücünün zihinsel yeteneklerini (dikkat, öngörü, karar verme) ve psikolojik durumunu (sabır, irade) olumsuz etkiler. Ancak aracın mekanik ve fiziksel kapasitesi (motor gücü, fren mesafesi vb.) sürücünün duygusal durumundan etkilenmez."
+  },
+  {
+    "id": 4023,
+    "category": "Trafik Adabı",
+    "question": "Yol kenarındaki bir trafik levhasına veya bariyere zarar veren bir sürücü, hangi hakkı ihlal etmiş olur?",
+    "image_url": null,
+    "options": [
+      { "text": "Kamu hakkı", "isTrue": true },
+      { "text": "Birey hakkı", "isTrue": false },
+      { "text": "Çevre hakkı", "isTrue": false },
+      { "text": "Yaşam hakkı", "isTrue": false }
+    ],
+    "description": "Trafik işaretleri, yollar, bariyerler gibi altyapı unsurları, kamuya yani tüm topluma ait olan ve vergilerle yapılan varlıklardır. Bunlara zarar vermek, doğrudan kamu hakkını ihlal etmektir."
+  },
+  {
+    "id": 4024,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, kendisini sollamaya çalışan başka bir araca inatla yol vermemesi, hatta hızını artırması hangi trafik adabı ilkesine aykırıdır?",
+    "image_url": null,
+    "options": [
+      { "text": "Saygı ve Hoşgörü", "isTrue": true },
+      { "text": "Sorumluluk", "isTrue": false },
+      { "text": "Yardımlaşma", "isTrue": false },
+      { "text": "Sabır", "isTrue": false }
+    ],
+    "description": "Trafikte saygı, diğer sürücülerin varlığını ve haklarını kabul etmektir. Sollama gibi kurallara uygun bir manevra yapmaya çalışan sürücüye zorluk çıkarmak, trafik güvenliğini tehlikeye atan saygısız ve hoşgörüsüz bir davranıştır."
+  },
+  {
+    "id": 4025,
+    "category": "Trafik Adabı",
+    "question": "Aşırı yorgun veya uykusuz bir şekilde araç kullanmaya devam etmek, sürücünün öncelikli olarak hangi ilkeyi ihlal ettiğini gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Nezaket", "isTrue": false },
+      { "text": "Sorumluluk", "isTrue": true },
+      { "text": "Empati", "isTrue": false },
+      { "text": "Sabır", "isTrue": false }
+    ],
+    "description": "Sorumlu bir sürücü, sadece dış etkenlere değil, kendi durumuna karşı da sorumludur. Yorgun ve uykusuzken araç kullanmanın kaza riskini artıracağını bilerek trafiğe çıkmak, hem kendine hem de diğer yol kullanıcılarına karşı büyük bir sorumsuzluktur."
+  },
+  {
+    "id": 4026,
+    "category": "Trafik Adabı",
+    "question": "Trafikte 'empati' kurabilen bir sürücüden beklenen davranış aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Her zaman kendi yol hakkını kullanır.", "isTrue": false },
+      { "text": "Diğer yol kullanıcılarının (yaşlı, çocuk, bisikletli vb.) durumlarını ve zorluklarını anlar ve ona göre davranır.", "isTrue": true },
+      { "text": "Sürekli korna çalarak diğerlerini uyarır.", "isTrue": false },
+      { "text": "Trafikteki hatalara anında karşılık verir.", "isTrue": false }
+    ],
+    "description": "Empati, kendini başkasının yerine koymaktır. Empati sahibi bir sürücü, yaşlı bir yayanın neden yavaş yürüdüğünü, bir bisikletlinin neden tedirgin olduğunu anlayarak onlara karşı daha dikkatli, sabırlı ve yardımcı bir tutum sergiler."
+  },
+  {
+    "id": 4027,
+    "category": "Trafik Adabı",
+    "question": "Sürücülerin, araç kullanırken cep telefonu ile konuşmaları, trafik adabının hangi temel kuralının ihlaline doğrudan bir örnektir?",
+    "image_url": null,
+    "options": [
+      { "text": "Saygı", "isTrue": false },
+      { "text": "Hoşgörü", "isTrue": false },
+      { "text": "Güvenli sürüş sorumluluğu", "isTrue": true },
+      { "text": "Yardımlaşma", "isTrue": false }
+    ],
+    "description": "Araç kullanırken cep telefonuyla ilgilenmek, sürücünün dikkatini dağıtarak kaza yapma riskini kat kat artırır. Güvenli bir sürüş için dikkatini tamamen yola verme sorumluluğunu ihlal eden tehlikeli bir davranıştır."
+  },
+  {
+    "id": 4028,
+    "category": "Trafik Adabı",
+    "question": "Aracından yüksek sesle müzik dinleyerek çevreyi rahatsız eden bir sürücü, hangi tür hak ihlalinde bulunmaktadır?",
+    "image_url": null,
+    "options": [
+      { "text": "Toplum hakkı ve Çevre hakkı (gürültü kirliliği)", "isTrue": true },
+      { "text": "Sadece birey hakkı", "isTrue": false },
+      { "text": "Kamu hakkı", "isTrue": false },
+      { "text": "Yaşam hakkı", "isTrue": false }
+    ],
+    "description": "Gürültü kirliliği, bir çevre sorunudur ve çevrede yaşayan tüm toplumu rahatsız eder. Yüksek sesle müzik dinlemek, hem çevre hakkını (gürültü kirliliği) hem de o çevrede yaşayan insanların (toplumun) huzur hakkını ihlal etmektir."
+  },
+  {
+    "id": 4029,
+    "category": "Trafik Adabı",
+    "question": "Bir duraktan yolcu almak için yola çıkmaya çalışan bir belediye otobüsüne yol vermek, trafik adabının hangi ilkesiyle en çok ilgilidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sabırsızlık", "isTrue": false },
+      { "text": "Rekabetçilik", "isTrue": false },
+      { "text": "Saygı ve Yardımlaşma", "isTrue": true },
+      { "text": "Bencillik", "isTrue": false }
+    ],
+    "description": "Toplu taşıma araçları, birçok insanın ulaşımını sağladığı için trafikte geçiş önceliğine sahiptir. Bu araçlara yol vermek ve hareketlerini kolaylaştırmak, hem yazılı bir kuraldır hem de diğer yolculara ve kamu hizmetine saygının bir gereğidir."
+  },
+  {
+    "id": 4030,
+    "category": "Trafik Adabı",
+    "question": "'Trafik adabı, sadece kurallara uymak değil, aynı zamanda diğer yol kullanıcılarına karşı düşünceli ve anlayışlı olmaktır.' Bu tanıma göre aşağıdakilerden hangisi trafik adabına uygun değildir?",
+    "image_url": null,
+    "options": [
+      { "text": "Hatalı park etmiş bir aracı, sürücüsü gelene kadar sabırla beklemek.", "isTrue": false },
+      { "text": "Geçiş hakkı kendinde olmasına rağmen, sıkışık bir kavşakta diğer sürücüye yol vermek.", "isTrue": false },
+      { "text": "Trafik sıkışıklığında sürekli korna çalarak tepki göstermek.", "isTrue": true },
+      { "text": "Okul geçidinde öğrencilerin tamamen karşıya geçmesini beklemek.", "isTrue": false }
+    ],
+    "description": "Trafik sıkışıklığında korna çalmak, durumu değiştirmeyeceği gibi, gürültü kirliliği yaratarak diğer sürücülerin stresini ve gerginliğini artırır. Bu, sabırsız ve düşüncesiz bir davranıştır."
+  },
+  {
+    "id": 4031,
+    "category": "Trafik Adabı",
+    "question": "Trafikte 'güvenli sürüş' için en temel unsur aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sürücünün aracının çok hızlı olması", "isTrue": false },
+      { "text": "Sürücünün tüm dikkatini yola ve çevresine vermesi", "isTrue": true },
+      { "text": "Sürücünün gideceği yolu çok iyi bilmesi", "isTrue": false },
+      { "text": "Sürücünün yalnız seyahat etmesi", "isTrue": false }
+    ],
+    "description": "Güvenli sürüşün temeli dikkattir. Cep telefonu, yemek yemek, başka şeylerle ilgilenmek gibi dikkati dağıtan unsurlar, sürücünün tehlikeleri fark etmesini ve tepki vermesini geciktirerek kaza riskini artırır."
+  },
+  {
+    "id": 4032,
+    "category": "Trafik Adabı",
+    "question": "Hatalı sollama yapan bir sürücüye, selektör yaparak veya el kol hareketleriyle öfkeyle tepki vermek yerine, onun hatasını fark etmesini beklemek ve sakin kalmak, hangi değeri gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Korkaklık", "isTrue": false },
+      { "text": "İlgisizlik", "isTrue": false },
+      { "text": "Hoşgörü ve Sabır", "isTrue": true },
+      { "text": "Tecrübesizlik", "isTrue": false }
+    ],
+    "description": "Trafikte herkes hata yapabilir. Önemli olan bu hatalara öfkeyle değil, hoşgörü ve sabırla yaklaşmaktır. Sakin kalmak, olası bir çatışmayı ve kazayı önler."
+  },
+  {
+    "id": 4033,
+    "category": "Trafik Adabı",
+    "question": "Bir yayanın veya başka bir sürücünün hakkını ihlal ettiğini fark eden bir sürücünün, elini kaldırarak veya gülümseyerek özür dilemesi, neyin göstergesidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Zayıflık göstergesidir.", "isTrue": false },
+      { "text": "Ergin ve sorumlu bir davranışın göstergesidir.", "isTrue": true },
+      { "text": "Alay ettiğinin göstergesidir.", "isTrue": false },
+      { "text": "Kural tanımadığının göstergesidir.", "isTrue": false }
+    ],
+    "description": "Hatasını fark edip özür dilemek, bir erdemdir. Trafikte bu tür bir nezaket davranışı, gerginliği azaltır, iletişimi güçlendirir ve daha pozitif bir trafik ortamı yaratır."
+  },
+  {
+    "id": 4034,
+    "category": "Trafik Adabı",
+    "question": "Trafik denetim görevlilerinin amacı aşağıdakilerden hangisi değildir?",
+    "image_url": null,
+    "options": [
+      { "text": "Trafik düzenini ve güvenliğini sağlamak.", "isTrue": false },
+      { "text": "Sürücüleri cezalandırarak gelir elde etmek.", "isTrue": true },
+      { "text": "Kurallara uymayanları tespit edip gerekli işlemleri yapmak.", "isTrue": false },
+      { "text": "Sürücüleri trafik kuralları konusunda eğitmek ve bilinçlendirmek.", "isTrue": false }
+    ],
+    "description": "Trafik denetimlerinin ve cezaların temel amacı, sürücüleri kurallara uymaya teşvik ederek trafik düzenini ve can güvenliğini sağlamaktır. Amaç, ceza yazmak değil, kural ihlallerini önlemektir."
+  },
+  {
+    "id": 4035,
+    "category": "Trafik Adabı",
+    "question": "Park yeri ararken yavaşlayan bir aracın arkasında sabırsızca beklemek yerine, ona park etmesi için yeterli zamanı ve alanı tanımak hangi davranışa örnektir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sabırlı ve hoşgörülü olmak", "isTrue": true },
+      { "text": "Zaman kaybetmek", "isTrue": false },
+      { "text": "Kuralları ihlal etmek", "isTrue": false },
+      { "text": "Bencillik", "isTrue": false }
+    ],
+    "description": "Her sürücü park yeri arama veya park etme gibi manevralar için zamana ihtiyaç duyar. Bu durumlarda sabırlı ve anlayışlı olmak, gereksiz stresi ve trafik sıkışıklığını önler."
+  },
+  {
+    "id": 4036,
+    "category": "Trafik Adabı",
+    "question": "Trafikte 'yazılı olmayan' ancak her sürücünün uyması beklenen saygı, hoşgörü ve yardımlaşma gibi kurallar bütününe ne ad verilir?",
+    "image_url": null,
+    "options": [
+      { "text": "Trafik Kanunu", "isTrue": false },
+      { "text": "Trafik Adabı", "isTrue": true },
+      { "text": "Sürücü Belgesi Yönetmeliği", "isTrue": false },
+      { "text": "Trafik İşaretleri", "isTrue": false }
+    ],
+    "description": "Trafik adabı, trafik kanunları ve yönetmelikleri gibi yazılı kuralların ötesinde, sürücülerin birbirlerine karşı gösterdiği nezaket, saygı, empati ve hoşgörü gibi yazılı olmayan, toplumsal kurallardır."
+  },
+  {
+    "id": 4037,
+    "category": "Trafik Adabı",
+    "question": "Kavşakta, geçiş hakkı kendisinde olmasına rağmen, ana yolun tıkanmaması için kavşağa girmeyip bekleyen sürücü hangi davranışı sergilemektedir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sorumlu ve bilinçli sürücü davranışı", "isTrue": true },
+      { "text": "Trafik kurallarını bilmeme", "isTrue": false },
+      { "text": "Acemilik", "isTrue": false },
+      { "text": "Korkaklık", "isTrue": false }
+    ],
+    "description": "Bilinçli bir sürücü, sadece kendi hakkını değil, trafik akışının bütününü düşünür. Kavşağı tıkayarak trafiği 'kilitlemek' yerine, hakkı olmasına rağmen beklemek, genel trafik düzenine karşı bir sorumluluk örneğidir."
+  },
+  {
+    "id": 4038,
+    "category": "Trafik Adabı",
+    "question": "Bir bisiklet sürücüsünü trafikte sıkıştırmak veya onu yok sayarak tehlikeli bir şekilde sollamak, hangi temel ilkenin ihlalidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Diğer yol kullanıcılarına saygı", "isTrue": true },
+      { "text": "Hız kurallarına uyma", "isTrue": false },
+      { "text": "Park kurallarına uyma", "isTrue": false },
+      { "text": "Araç bakımı sorumluluğu", "isTrue": false }
+    ],
+    "description": "Trafik ortamı tüm yol kullanıcıları (motorlu araçlar, bisikletliler, yayalar vb.) tarafından paylaşılır. Bisikletliler, trafikteki en korunmasız kullanıcılardandır. Onların varlığına ve yol hakkına saygı göstermek, trafik adabının ve güvenliğinin temel bir gereğidir."
+  },
+  {
+    "id": 4039,
+    "category": "Trafik Adabı",
+    "question": "Trafikte öfke kontrolünü sağlamakta zorlanan bir sürücü için en doğru davranış hangisidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Öfkesine neden olan sürücüyle yarışmak.", "isTrue": false },
+      { "text": "Mümkünse aracı güvenli bir yere çekip sakinleşmeyi beklemek.", "isTrue": true },
+      { "text": "Hızını artırarak olay yerinden uzaklaşmak.", "isTrue": false },
+      { "text": "Yüksek sesle müzik açarak rahatlamaya çalışmak.", "isTrue": false }
+    ],
+    "description": "Öfke anında araç kullanmak, hem sürücü hem de diğerleri için büyük bir risktir. En doğru davranış, öfkenin direksiyon başındaki muhakeme yeteneğini etkilemesini önlemek için, aracı güvenli bir yere çekip derin nefes almak ve sakinleştikten sonra yola devam etmektir."
+  },
+  {
+    "id": 4040,
+    "category": "Trafik Adabı",
+    "question": "Sürücünün, bir kaza anında, yaralılara yardım etmek veya yetkililere haber vermek yerine olay yerinden kaçması, hangi ilkenin en ağır ihlalidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sabır", "isTrue": false },
+      { "text": "Nezaket", "isTrue": false },
+      { "text": "Sorumluluk ve Yardımlaşma", "isTrue": true },
+      { "text": "Hoşgörü", "isTrue": false }
+    ],
+    "description": "Bir kazaya karışan veya tanık olan her sürücünün, yasal ve insani olarak yardım etme sorumluluğu vardır. Olay yerinden kaçmak, hem bu sorumluluktan hem de temel insani yardımlaşma duygusundan yoksun olunduğunu gösteren en ağır ihlallerden biridir."
+  },
+  {
+    "id": 4041,
+    "category": "Trafik Adabı",
+    "question": "Trafik kurallarına uymanın, sürücünün öncelikli olarak kime karşı sorumluluğu olduğunu gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece kendisine", "isTrue": false },
+      { "text": "Kendisine, sevdiklerine ve trafikteki diğer tüm insanlara", "isTrue": true },
+      { "text": "Sadece trafik polisine", "isTrue": false },
+      { "text": "Sadece aracın sahibine", "isTrue": false }
+    ],
+    "description": "Trafik kuralları, toplu yaşamın bir gereğidir ve herkesin can ve mal güvenliğini korumak için vardır. Kurallara uymak, sürücünün hem kendi canını, hem aracındaki sevdiklerini, hem de yoldaki diğer tüm bireyleri koruma sorumluluğudur."
+  },
+  {
+    "id": 4042,
+    "category": "Trafik Adabı",
+    "question": "Bir aracın arkasına çok yakın mesafeden takip etmek (tampona yapışmak), hangi hak ihlaline yol açar ve neden tehlikelidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Kamu hakkı; çünkü yola zarar verir.", "isTrue": false },
+      { "text": "Birey hakkı; çünkü öndeki sürücüyü taciz eder ve güvenli fren mesafesini ortadan kaldırır.", "isTrue": true },
+      { "text": "Çevre hakkı; çünkü gürültü yapar.", "isTrue": false },
+      { "text": "Toplum hakkı; çünkü herkesi yavaşlatır.", "isTrue": false }
+    ],
+    "description": "Yakın takip, öndeki sürücünün kişisel alanını ve güvenliğini ihlal eden bir birey hakkı ihlalidir. Aynı zamanda, ani bir fren durumunda durmak için yeterli mesafe bırakmadığından, arkadan çarpma ile sonuçlanan kazaların en önemli nedenlerinden biridir."
+  },
+  {
+    "id": 4043,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdaki ifadelerden hangisi trafik adabının temel amacını en iyi şekilde açıklar?",
+    "image_url": null,
+    "options": [
+      { "text": "Trafikteki sürücü sayısını azaltmak.", "isTrue": false },
+      { "text": "Daha fazla ceza yazılmasını sağlamak.", "isTrue": false },
+      { "text": "Trafik kurallarının denetlenmesini kolaylaştırmak.", "isTrue": false },
+      { "text": "Trafik ortamını daha güvenli, huzurlu ve saygılı bir hale getirmek.", "isTrue": true }
+    ],
+    "description": "Trafik adabının nihai amacı, sadece kazaları önlemek değil, aynı zamanda sürücülerin, yayaların ve diğer tüm yol kullanıcılarının stresten uzak, saygı ve anlayış içinde, güvenli bir ortamda seyahat etmelerini sağlamaktır."
+  },
+  {
+    "id": 4044,
+    "category": "Trafik Adabı",
+    "question": "Trafikte sabırlı olmak bir sürücüye ne kazandırır?",
+    "image_url": null,
+    "options": [
+      { "text": "Hiçbir şey kazandırmaz, sadece zaman kaybettirir.", "isTrue": false },
+      { "text": "Stres seviyesini düşürür, öfke kontrolünü kolaylaştırır ve kaza yapma riskini azaltır.", "isTrue": true },
+      { "text": "Daha hızlı yol almasını sağlar.", "isTrue": false },
+      { "text": "Diğer sürücüler üzerinde otorite kurmasını sağlar.", "isTrue": false }
+    ],
+    "description": "Sabır, trafik stresinin panzehiridir. Sabırlı bir sürücü, ani ve aceleci kararlar vermekten kaçınır, öfkeye kapılmaz ve daha sakin bir zihinle tehlikeleri daha kolay fark eder. Bu da kaza riskini önemli ölçüde azaltır."
+  },
+  {
+    "id": 4045,
+    "category": "Trafik Adabı",
+    "question": "Okul taşıtının 'DUR' lambası yanıp sönerken, arkasındaki ve karşıdan gelen sürücülerin durması, öncelikli olarak neyin bir gereğidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece bir nezaket kuralıdır.", "isTrue": false },
+      { "text": "Öğrencilerin can güvenliğini korumaya yönelik yasal bir zorunluluk ve bir sorumluluktur.", "isTrue": true },
+      { "text": "Sadece okul taşıtı şoförüne bir saygı göstergesidir.", "isTrue": false },
+      { "text": "Trafiği yavaşlatmak için bir yöntemdir.", "isTrue": false }
+    ],
+    "description": "Okul taşıtlarının 'DUR' lambası, öğrencilerin inip bindiği ve karşıdan karşıya geçebileceği anlamına gelir. Bu esnada tüm araçların durması, çocukların can güvenliğini sağlamak için konulmuş, hem yasal hem de vicdani bir zorunluluktur."
+  },
+  {
+    "id": 4046,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün sürekli olarak diğer sürücülerin hatalarını araması ve onları eleştirmesi, hangi olumsuz kişilik özelliğine işaret eder?",
+    "image_url": null,
+    "options": [
+      { "text": "Empati", "isTrue": false },
+      { "text": "Hoşgörüsüzlük", "isTrue": true },
+      { "text": "Yardımseverlik", "isTrue": false },
+      { "text": "Sorumluluk", "isTrue": false }
+    ],
+    "description": "Hoşgörülü bir sürücü, trafikte herkesin hata yapabileceğini kabul eder. Sürekli olarak başkalarının hatalarına odaklanmak ve onları yargılamak ise hoşgörü eksikliğinin ve çatışmacı bir kişilik yapısının göstergesidir."
+  },
+  {
+    "id": 4047,
+    "category": "Trafik Adabı",
+    "question": "Trafikte, bir sürücünün başka bir sürücünün hatasına öfkelenmesi durumunda, bu öfkenin temelinde genellikle hangi düşünce yatar?",
+    "image_url": null,
+    "options": [
+      { "text": "Engellenme hissi ve hakkının ihlal edildiği düşüncesi", "isTrue": true },
+      { "text": "Diğer sürücüye yardım etme isteği", "isTrue": false },
+      { "text": "Trafik kurallarını çok iyi bilmesi", "isTrue": false },
+      { "text": "Yolculuğun çok keyifli olması", "isTrue": false }
+    ],
+    "description": "Trafikteki öfkenin temel tetikleyicisi, genellikle bir sürücünün, başka bir sürücünün davranışı yüzünden engellendiğini, yavaşlatıldığını veya hakkının (yol hakkı, güvenlik hakkı vb.) gasp edildiğini düşünmesidir."
+  },
+  {
+    "id": 4048,
+    "category": "Trafik Adabı",
+    "question": "Trafik içinde, ambulans gibi bir geçiş üstünlüğüne sahip araca yol vermek için, emniyet şeridini kullanmak zorunda kalan bir sürücüye ceza yazılmaması, neyin bir göstergesidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Trafik kurallarının önemsiz olduğunun", "isTrue": false },
+      { "text": "Trafik adabının ve can güvenliğinin, bazen katı kurallardan daha öncelikli olabileceğinin", "isTrue": true },
+      { "text": "Emniyet şeridinin her zaman kullanılabileceğinin", "isTrue": false },
+      { "text": "Sürücünün şanslı olduğunun", "isTrue": false }
+    ],
+    "description": "Normalde emniyet şeridini kullanmak bir kural ihlalidir. Ancak, bir can kurtarmak için geçiş üstünlüğü olan bir araca yol vermek gibi daha üstün bir amaç (yaşam hakkına saygı) için bu kuralın anlık olarak ihlal edilmesi, trafik adabı ve mantığı çerçevesinde hoşgörülebilir bir durumdur."
+  },
+  {
+    "id": 4049,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, trafikte saygıyı öncelik haline getiren bir sürücünün davranışı olamaz?",
+    "image_url": null,
+    "options": [
+      { "text": "Yaşlı veya engelli yayalara daha fazla zaman tanımak.", "isTrue": false },
+      { "text": "Geçiş üstünlüğü olan araçlara yol vermek.", "isTrue": false },
+      { "text": "Trafik görevlilerinin işaretlerine uymak.", "isTrue": false },
+      { "text": "Sürekli olarak diğer sürücüleri eleştirmek ve onlarla yarışmak.", "isTrue": true }
+    ],
+    "description": "Saygı, diğer yol kullanıcılarının varlığını ve haklarını kabul etmektir. Sürekli eleştiri ve yarış hali, saygının tam tersi olan, üstünlük kurmaya ve çatışmaya dayalı bir tutumdur."
+  },
+  {
+    "id": 4050,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, trafikteki diğer insanlara zarar verme potansiyelinin farkında olarak araç kullanması, hangi bilince sahip olduğunu gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sorumluluk bilinci", "isTrue": true },
+      { "text": "Rekabet bilinci", "isTrue": false },
+      { "text": "Üstünlük bilinci", "isTrue": false },
+      { "text": "Kayıtsızlık", "isTrue": false }
+    ],
+    "description": "Sorumlu bir sürücü, kullandığı aracın bir hata anında başkalarının can ve mal güvenliği için ne kadar büyük bir tehlike oluşturabileceğinin farkındadır. Bu farkındalık, onu daha dikkatli ve kurallara uygun araç kullanmaya yönlendirir."
+  },
+  {
+    "id": 4051,
+    "category": "Trafik Adabı",
+    "question": "Karlı ve buzlu bir yolda, yolun durumunu dikkate alarak hızını normalin çok altına düşüren bir sürücü için ne söylenebilir?",
+    "image_url": null,
+    "options": [
+      { "text": "Trafiği yavaşlatan tecrübesiz bir sürücüdür.", "isTrue": false },
+      { "text": "Güvenliği ön planda tutan, sorumlu bir sürücüdür.", "isTrue": true },
+      { "text": "Cesaretsiz bir sürücüdür.", "isTrue": false },
+      { "text": "Aracı arızalı bir sürücüdür.", "isTrue": false }
+    ],
+    "description": "Trafik adabı, sadece diğer insanlara karşı değil, aynı zamanda yol ve hava koşullarına karşı da sorumlu olmayı gerektirir. Zorlu koşullarda hızını güvenli bir seviyeye indirmek, hem kendi hem de başkalarının güvenliğini düşünen sorumlu bir sürücü davranışıdır."
+  },
+  {
+    "id": 4052,
+    "category": "Trafik Adabı",
+    "question": "Trafikte iletişim kurarken, hangi aracın kullanımı diğerlerine göre daha az nezaket içerir ve daha çok bir uyarı veya tehlike anlamı taşır?",
+    "image_url": null,
+    "options": [
+      { "text": "Sinyal lambası", "isTrue": false },
+      { "text": "Korna", "isTrue": true },
+      { "text": "El ile teşekkür işareti", "isTrue": false },
+      { "text": "Kısa farlar", "isTrue": false }
+    ],
+    "description": "Sinyaller ve el hareketleri genellikle niyet belirtme veya nezaket için kullanılırken, korna (sesli ikaz cihazı) doğası gereği daha sert bir uyarıdır ve genellikle tehlike, ikaz gibi durumlar için kullanılır. Keyfi kullanımı rahatsız edicidir."
+  },
+  {
+    "id": 4053,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, arızalanan bir aracı yolun kenarına itmeye çalışan başka bir sürücüye yardım etmek için durması, hangi temel değere örnektir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sabır", "isTrue": false },
+      { "text": "Sadece sorumluluk", "isTrue": false },
+      { "text": "Yardımlaşma ve Dayanışma", "isTrue": true },
+      { "text": "Sadece saygı", "isTrue": false }
+    ],
+    "description": "Trafikte zor durumda kalan birine yardım eli uzatmak, toplumsal yaşamın bir gereği olan yardımlaşma ve dayanışma kültürünün trafikteki bir yansımasıdır."
+  },
+  {
+    "id": 4054,
+    "category": "Trafik Adabı",
+    "question": "Trafik kültüründe, sürücülerin birbirlerine karşı olumlu ve yapıcı bir dil kullanması neden önemlidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Çünkü yasalar bunu emreder.", "isTrue": false },
+      { "text": "Çünkü gerginliği ve çatışma riskini azaltır, daha huzurlu bir trafik ortamı yaratır.", "isTrue": true },
+      { "text": "Çünkü sürücülerin daha hızlı gitmesini sağlar.", "isTrue": false },
+      { "text": "Hiçbir önemi yoktur.", "isTrue": false }
+    ],
+    "description": "Trafikte kullanılan dil, ortamın genel atmosferini belirler. Nezaket ve saygı içeren bir iletişim dili, sürücüler arasındaki gerilimi azaltır ve olası anlaşmazlıkların kavgaya dönüşmesini engeller."
+  },
+  {
+    "id": 4055,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, trafikte bencillik göstergesi olan bir davranıştır?",
+    "image_url": null,
+    "options": [
+      { "text": "Fermuar (bir sağdan, bir soldan) yöntemine uyarak birleşen yollarda sıraya girmek.", "isTrue": false },
+      { "text": "Sadece kendi acelesi varmış gibi emniyet şeridini kullanarak ilerlemek.", "isTrue": true },
+      { "text": "Yaya geçidinde yayalara yol vermek.", "isTrue": false },
+      { "text": "Arızalanan bir araca yardım etmek.", "isTrue": false }
+    ],
+    "description": "Bencillik, sadece kendi çıkarlarını ve isteklerini düşünmektir. Kurallara uygun bir şekilde sırada bekleyen diğer sürücülerin hakkını gasp ederek emniyet şeridini kullanmak, tipik bir bencillik örneğidir."
+  },
+  {
+    "id": 4056,
+    "category": "Trafik Adabı",
+    "question": "Trafik kazalarının en büyük nedeninin insan faktörü olduğu düşünüldüğünde, trafik adabı eğitiminin temel amacı nedir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sürücülere daha iyi araçlar aldırmak.", "isTrue": false },
+      { "text": "Sürücülerin doğru tutum ve davranışları benimsemesini sağlayarak insan kaynaklı hataları en aza indirmek.", "isTrue": true },
+      { "text": "Yolları daha geniş hale getirmek.", "isTrue": false },
+      { "text": "Daha fazla trafik ışığı koymak.", "isTrue": false }
+    ],
+    "description": "Kazaların çoğu, kural ihlallerinden, dikkatsizlikten, sabırsızlıktan ve öfkeden, yani insani hatalardan kaynaklanır. Trafik adabı eğitimi, bu olumsuz tutum ve davranışları olumlu olanlarla değiştirerek kaza riskini azaltmayı hedefler."
+  },{
+    "id": 4057,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, sadece trafik polisi veya kamera (EDS) gördüğünde kurallara uyması, hangi bilincin yeterince gelişmediğini gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Ceza korkusu", "isTrue": false },
+      { "text": "Sorumluluk bilinci (Otokontrol)", "isTrue": true },
+      { "text": "Empati", "isTrue": false },
+      { "text": "Nezaket", "isTrue": false }
+    ],
+    "description": "Trafik adabı, denetim olmasa bile doğru olan davranışı sergilemektir. Sadece ceza korkusuyla kurallara uymak, kişinin bu kuralları içselleştirmediğini ve sorumluluk bilincinin (otokontrol) zayıf olduğunu gösterir."
+  },
+  {
+    "id": 4058,
+    "category": "Trafik Adabı",
+    "question": "Trafikte, bir motosiklet sürücüsünü fark eden otomobil sürücüsünün, ona daha fazla boşluk bırakarak ve ani manevralardan kaçınarak araç kullanması neden önemlidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Motosikletlerin daha hızlı olduğu için.", "isTrue": false },
+      { "text": "Motosikletlerin otomobillere göre daha az görünür ve daha savunmasız (dengesini kolay kaybedebilen) araçlar olduğu için.", "isTrue": true },
+      { "text": "Yasal bir zorunluluk olmadığı için önemli değildir.", "isTrue": false },
+      { "text": "Motosiklet sürücülerinin her zaman hatalı olduğu için.", "isTrue": false }
+    ],
+    "description": "Trafik adabı, savunmasız yol kullanıcılarına karşı daha dikkatli olmayı gerektirir. Motosikletler, boyutları nedeniyle daha zor fark edilebilir ve dış etkenlerden (rüzgar, yol bozuklukları) daha kolay etkilenebilirler. Onlara saygı duymak ve alan tanımak, kaza riskini azaltır."
+  },
+  {
+    "id": 4059,
+    "category": "Trafik Adabı",
+    "question": "Trafikte 'fermuar yöntemi' olarak bilinen birleşme kuralına uymayarak, sıranın en önüne geçmeye çalışan bir sürücü hangi davranışı sergilemektedir?",
+    "image_url": null,
+    "options": [
+      { "text": "Yardımseverlik", "isTrue": false },
+      { "text": "Saygı ve Hak ihlali", "isTrue": true },
+      { "text": "Sorumluluk", "isTrue": false },
+      { "text": "Empati", "isTrue": false }
+    ],
+    "description": "Fermuar yöntemi, iki şeridin tek şeride düştüğü yerlerde araçların sırayla (bir sağdan, bir soldan) katılmasıdır. Bu bir adalet ve saygı kuralıdır. Sıranın önüne geçmeye çalışmak, sırada bekleyen diğer sürücülerin hakkını ihlal etmektir."
+  },
+  {
+    "id": 4060,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, trafikte öfke duygusuna kapılan bir sürücünün yapmaması gereken bir davranıştır?",
+    "image_url": null,
+    "options": [
+      { "text": "Derin nefes alarak sakinleşmeye çalışmak.", "isTrue": false },
+      { "text": "Müziğin sesini kısıp dikkatini yola vermek.", "isTrue": false },
+      { "text": "Öfkesine neden olan sürücüyle inatlaşmak ve onu cezalandırmaya çalışmak.", "isTrue": true },
+      { "text": "Mümkünse aracı güvenli bir yere çekip mola vermek.", "isTrue": false }
+    ],
+    "description": "Trafikte öfke anında yapılacak en tehlikeli şey, öfkeyi başka bir sürücüye yönelterek çatışmayı tırmandırmaktır. Bu durum, 'saldırgan sürücülük' davranışına yol açar ve ciddi kazalara neden olabilir."
+  },
+  {
+    "id": 4061,
+    "category": "Trafik Adabı",
+    "question": "Trafikteki ışıklı ve sesli uyarı işaretlerini (korna, selektör) gereksiz yere ve sürekli kullanmak, hangi hak ihlaline neden olur?",
+    "image_url": null,
+    "options": [
+      { "text": "Yaşam hakkı", "isTrue": false },
+      { "text": "Kamu hakkı", "isTrue": false },
+      { "text": "Toplumun huzurunu bozma ve çevre (gürültü/ışık kirliliği) hakkı", "isTrue": true },
+      { "text": "Birey hakkı", "isTrue": false }
+    ],
+    "description": "İkaz sistemlerinin amacı tehlikeyi bildirmektir. Gereksiz kullanımı, gürültü ve ışık kirliliği yaratarak çevredeki insanların (toplumun) huzurunu bozar ve çevre hakkını ihlal eder."
+  },
+  {
+    "id": 4062,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdaki ifadelerden hangisi, trafik adabına sahip bir sürücünün düşünce yapısını yansıtır?",
+    "image_url": null,
+    "options": [
+      { "text": "'Bu yollar sadece bana ait.'", "isTrue": false },
+      { "text": "'Herkes hata yapabilir, önemli olan sakin kalıp kazayı önlemektir.'", "isTrue": true },
+      { "text": "'Hata yapan sürücü mutlaka cezasını çekmelidir.'", "isTrue": false },
+      { "text": "'Benim acelem var, herkes bana yol vermeli.'", "isTrue": false }
+    ],
+    "description": "Trafik adabı, hoşgörü ve empati üzerine kuruludur. Bu anlayışa sahip bir sürücü, diğer yol kullanıcılarının hata yapabileceğini kabul eder ve öfkeyle karşılık vermek yerine, güvenliği ön planda tutarak durumu idare eder."
+  },
+  {
+    "id": 4063,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, engelli bir bireyin karşıdan karşıya geçişini sabırla beklemesi, hangi temel değeri gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Saygı, Sabır ve Empati", "isTrue": true },
+      { "text": "Sadece sorumluluk", "isTrue": false },
+      { "text": "Sadece nezaket", "isTrue": false },
+      { "text": "Rekabetçilik", "isTrue": false }
+    ],
+    "description": "Savunmasız bir yol kullanıcısı olan engelli bir bireye karşı, onun yavaş hareket edebileceğini düşünmek (empati), ona zaman tanımak (sabır) ve geçiş hakkına öncelik vermek (saygı), trafik adabının gerektirdiği çok yönlü bir erdemdir."
+  },
+  {
+    "id": 4064,
+    "category": "Trafik Adabı",
+    "question": "Trafik kazasına karışan bir sürücünün, sigorta ve ruhsat gibi belgeleri diğer sürücüye göstermesi, hangi ilkenin bir gereğidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Hoşgörü", "isTrue": false },
+      { "text": "Yasal Sorumluluk", "isTrue": true },
+      { "text": "Sabır", "isTrue": false },
+      { "text": "Empati", "isTrue": false }
+    ],
+    "description": "Bir kaza sonrası, tarafların birbirleriyle yasal olarak gerekli olan bilgileri (ruhsat, ehliyet, sigorta) paylaşması, olayın yasal sürecinin doğru bir şekilde işlemesi için bir sorumluluktur."
+  },
+  {
+    "id": 4065,
+    "category": "Trafik Adabı",
+    "question": "Sürekli olarak emniyet şeridini ihlal eden sürücülerin, trafikte yarattığı en önemli ve tehlikeli sonuç nedir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece diğer sürücüleri sinirlendirmek.", "isTrue": false },
+      { "text": "Gerçekten ihtiyacı olan ambulans, itfaiye gibi acil durum araçlarının geçişini engelleyerek can kaybına neden olmak.", "isTrie": true },
+      { "text": "Trafik akışını hızlandırmak.", "isTrue": false },
+      { "text": "Kendi yakıt tüketimini artırmak.", "isTrue": false }
+    ],
+    "description": "Emniyet şeridi, adından da anlaşılacağı gibi, acil durumlar içindir. Bu şeridin gereksiz yere işgal edilmesi, bir hastayı taşıyan ambulansın veya bir yangına giden itfaiyenin gecikmesine, dolayısıyla insanların hayatını kaybetmesine veya daha büyük felaketlere yol açabilir."
+  },
+  {
+    "id": 4066,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, trafikte etkili bir iletişimin amacıdır?",
+    "image_url": null,
+    "options": [
+      { "text": "Diğer sürücülere üstünlük sağlamak.", "isTrue": false },
+      { "text": "Diğer sürücülerin niyetlerini anlamak ve kendi niyetini onlara doğru bir şekilde bildirmek.", "isTrue": true },
+      { "text": "Trafikte zaman geçirmek.", "isTrue": false },
+      { "text": "Sadece ceza yemekten kaçınmak.", "isTrue": false }
+    ],
+    "description": "Trafikte iletişim (sinyal, far, korna, beden dili kullanımı), sürücülerin birbirlerinin bir sonraki hamlesini tahmin etmelerini sağlar. Niyetlerin doğru bir şekilde bildirilmesi ve anlaşılması, belirsizliği ortadan kaldırır ve kaza riskini azaltır."
+  },
+  {
+    "id": 4067,
+    "category": "Trafik Adabı",
+    "question": "Gece vakti, bir yerleşim yeri içinde, gereksiz yere uzun farları yakarak ilerlemek, hangi trafik adabı kuralının ihlalidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Diğer sürücülere ve yayalara saygı", "isTrue": true },
+      { "text": "Yardımlaşma", "isTrue": false },
+      { "text": "Sabır", "isTrue": false },
+      { "text": "Sorumluluk", "isTrue": false }
+    ],
+    "description": "Yerleşim yerleri genellikle aydınlatıldığı için uzun farlara ihtiyaç duyulmaz. Uzun farları gereksiz yere kullanmak, hem öndeki aracın sürücüsünü aynadan rahatsız eder hem de karşıdan gelen sürücülerin ve yayaların gözünü alarak geçici körlüğe ve kaza riskine neden olur. Bu bir saygısızlıktır."
+  },
+  {
+    "id": 4068,
+    "category": "Trafik Adabı",
+    "question": "Trafik adabı açısından, 'denetim ve ceza korkusu olmadan kurallara uymak' ne anlama gelir?",
+    "image_url": null,
+    "options": [
+      { "text": "Kuralların içselleştirildiğini ve otokontrolün sağlandığını gösterir.", "isTrue": true },
+      { "text": "Sürücünün tecrübesiz olduğunu gösterir.", "isTrue": false },
+      { "text": "Kuralların gereksiz olduğunu düşündüğünü gösterir.", "isTrue": false },
+      { "text": "Sürücünün cezalardan habersiz olduğunu gösterir.", "isTrue": false }
+    ],
+    "description": "Gerçek trafik adabı ve sorumluluk bilinci, dış bir denetim mekanizması (polis, kamera vb.) olmasa bile, sürücünün doğru olan davranışı kendi iradesiyle sergilemesidir. Buna 'otokontrol' veya 'içselleştirilmiş sorumluluk' denir."
+  },
+  {
+    "id": 4069,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, başka bir sürücünün bilerek veya bilmeyerek yaptığı bir hatayı, onun acemiliğine veya dalgınlığına vererek sakin kalabilmesi hangi değeri yansıtır?",
+    "image_url": null,
+    "options": [
+      { "text": "Bencillik", "isTrue": false },
+      { "text": "Saldırganlık", "isTrue": false },
+      { "text": "Hoşgörü (Tahammül)", "isTrue": true },
+      { "text": "İlgisizlik", "isTrue": false }
+    ],
+    "description": "Hoşgörü, trafikteki diğer insanların mükemmel olmadığını ve hata yapabileceğini kabul etmektir. Bir hatayı kişisel bir saldırı olarak algılamak yerine, insani bir durum olarak görüp anlayışla karşılamak, hoşgörülü bir sürücünün özelliğidir."
+  },
+  {
+    "id": 4070,
+    "category": "Trafik Adabı",
+    "question": "Trafikte, bir aracın yayalara yeşil ışık yanarken yaya geçidinin üzerinde durması, hangi hak ihlallerine yol açar?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece çevre hakkı", "isTrue": false },
+      { "text": "Sadece kamu hakkı", "isTrue": false },
+      { "text": "Yayaların birey hakkı ve toplumun trafik düzeni hakkı", "isTrue": true },
+      { "text": "Sadece yaşam hakkı", "isTrue": false }
+    ],
+    "description": "Yaya geçidini işgal etmek, öncelikle yayaların güvenli geçiş hakkını (birey hakkı) gasp eder. Aynı zamanda, trafik akışını ve düzenini (toplum hakkı) de olumsuz etkiler."
+  },
+  {
+    "id": 4071,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, trafikte sabırlı davranmanın bir sonucu olamaz?",
+    "image_url": null,
+    "options": [
+      { "text": "Stresin azalması", "isTrue": false },
+      { "text": "Öfkenin kontrol altına alınması", "isTrue": false },
+      { "text": "Ani ve riskli manevralardan kaçınma", "isTrue": false },
+      { "text": "Diğer sürücülerle sürekli çatışma yaşama", "isTrue": true }
+    ],
+    "description": "Sabırlı olmak, trafikteki çatışmaların ana nedenlerinden olan aceleciliği ve tepkiselliği ortadan kaldırır. Bu nedenle, sabırlı sürücüler diğerleriyle daha az çatışma yaşar ve daha huzurlu bir sürüş deneyimi elde ederler."
+  },
+  {
+    "id": 4072,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, yolculuk öncesi aracının lastik havalarını, ışıklarını ve aynalarını kontrol etmesi, hangi ilkenin bir gereğidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Güvenli sürüş sorumluluğu", "isTrue": true },
+      { "text": "Empati", "isTrue": false },
+      { "text": "Hoşgörü", "isTrue": false },
+      { "text": "Saygı", "isTrue": false }
+    ],
+    "description": "Sorumlu bir sürücü, sadece direksiyon başındayken değil, yolculuğa başlamadan önce de güvenliği düşünür. Aracın seyahate hazır ve güvenli olduğundan emin olmak, hem sürücünün kendi can güvenliği hem de trafikteki diğer insanlara karşı bir sorumluluktur."
+  },
+  {
+    "id": 4073,
+    "category": "Trafik Adabı",
+    "question": "Trafik adabı açısından, 'hakkını korumak' ile 'inatlaşmak' arasındaki temel fark nedir?",
+    "image_url": null,
+    "options": [
+      { "text": "Hiçbir fark yoktur, ikisi de aynı anlama gelir.", "isTrue": false },
+      { "text": "Hakkını korumak kurallara uygun davranmayı, inatlaşmak ise haklı bile olsa bir çatışmayı ve riski göze almayı ifade eder.", "isTrue": true },
+      { "text": "Hakkını korumak bencillik, inatlaşmak ise saygıdır.", "isTrue": false },
+      { "text": "İnatlaşmak her zaman daha doğrudur.", "isTrue": false }
+    ],
+    "description": "Trafikte haklı olmak, her zaman o hakkı kullanmanın güvenli olduğu anlamına gelmez. Bazen, bir kazayı veya daha büyük bir sorunu önlemek için haklı olunan bir durumdan bile feragat etmek gerekir. Haklı olmak adına bir kazayı göze almak, 'inatlaşmak'tır ve trafik adabına aykırıdır."
+  },
+  {
+    "id": 4074,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, trafikteki gerginliği azaltmaya yönelik bir davranış değildir?",
+    "image_url": null,
+    "options": [
+      { "text": "Hata yapan bir sürücüye anlayışla gülümsemek.", "isTrue": false },
+      { "text": "Trafik sıkışıklığında sabırla beklemek.", "isTrue": false },
+      { "text": "Diğer sürücülerin manevralarını sürekli eleştirmek ve el kol hareketleri yapmak.", "isTrue": true },
+      { "text": "Acele ettiği anlaşılan bir sürücüye yol vermek.", "isTrue": false }
+    ],
+    "description": "Sürekli eleştirel bir tutum ve olumsuz beden dili kullanımı, trafikteki gerginliği ve stresi artırarak diğer sürücüleri de olumsuz etkiler ve çatışma riskini yükseltir."
+  },
+  {
+    "id": 4075,
+    "category": "Trafik Adabı",
+    "question": "Geçiş üstünlüğüne sahip bir aracın (ambulans, itfaiye) sirenini duyduğunda, sürücülerin 'fermuar yöntemi' ile yolu açması, neyin en güzel örneğidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Bencilliğin", "isTrue": false },
+      { "text": "Sadece kurallara uymanın", "isTrue": false },
+      { "text": "Toplumsal iş birliği ve sorumluluğun", "isTrue": true },
+      { "text": "Sabırsızlığın", "isTrue": false }
+    ],
+    "description": "Geçiş üstünlüğü olan bir araca yol açmak, sadece bir yasa gereği değil, aynı zamanda toplum olarak bir can kurtarmak veya bir felaketi önlemek için yapılan bir iş birliğidir. Bu, toplumsal sorumluluk ve dayanışmanın bir göstergesidir."
+  },
+  {
+    "id": 4076,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, kırmızı ışıkta duran bir aracın arkasında, aralarında yeterli mesafe bırakarak durması, öncelikle hangi olası riske karşı bir önlemdir?",
+    "image_url": null,
+    "options": [
+      { "text": "Aracın çalınması riskine karşı", "isTrue": false },
+      { "text": "Arkadan başka bir aracın çarpması durumunda, öndeki araca zincirleme bir şekilde çarpmamak için", "isTrue": true },
+      { "text": "Daha iyi bir görüş açısı sağlamak için", "isTrue": false },
+      { "text": "Motorun hararet yapmasını önlemek için", "isTrue": false }
+    ],
+    "description": "Duran araçların arkasında yeterli mesafe bırakmak, olası bir arkadan çarpma anında savrularak öndeki araca da çarpmayı (zincirleme kazayı) önler. Aynı zamanda, öndeki aracın arızalanması durumunda manevra yapıp yanından geçmek için de alan sağlar."
+  },
+  {
+    "id": 4077,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdaki ifadelerden hangisi, trafik adabında 'saygı' kavramını en iyi açıklar?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece kendinden yaşça büyüklere yol vermek.", "isTrue": false },
+      { "text": "Trafikteki tüm yol kullanıcılarının (yaya, bisikletli, sürücü) varlığını ve haklarını kabul etmek, onları rahatsız etmekten kaçınmak.", "isTrue": true },
+      { "text": "Sadece lüks araçlara yol vermek.", "isTrue": false },
+      { "text": "Trafik kurallarını hiç dikkate almamak.", "isTrue": false }
+    ],
+    "description": "Trafikte saygı, ayrıcalıksız bir şekilde tüm yol kullanıcılarını kapsar. Başkalarının yol haklarına, kişisel alanlarına ve güvenliklerine özen göstermek, onları rahatsız edici veya tehlikeye atıcı davranışlardan kaçınmak saygının temelidir."
+  },
+  {
+    "id": 4078,
+    "category": "Trafik Adabı",
+    "question": "Trafikte, 'ben dili' yerine 'sen dili' kullanmak (örn: 'Beni çok korkuttun' yerine 'Ne kadar dikkatsizsin!') neye yol açar?",
+    "image_url": null,
+    "options": [
+      { "text": "Anlaşmazlığın daha kolay çözülmesine", "isTrue": false },
+      { "text": "Karşıdaki kişinin savunmaya geçmesine ve çatışmanın büyümesine", "isTrue": true },
+      { "text": "Daha etkili bir iletişime", "isTrue": false },
+      { "text": "Karşıdaki kişinin hatasını anlamasına", "isTrue": false }
+    ],
+    "description": "'Sen dili' suçlayıcıdır ve karşıdaki kişiyi doğrudan hedef alır. Bu durum, kişinin savunmaya geçmesine veya öfkelenmesine neden olur. 'Ben dili' ise, davranışın sizin üzerinizdeki etkisini anlattığı için daha yapıcıdır ve iletişimi kolaylaştırır."
+  },
+  {
+    "id": 4079,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, dar bir sokakta, evlerin önündeki araç girişini kapatacak şekilde park etmesi, hangi hakkın ihlalidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Kamu hakkı", "isTrue": false },
+      { "text": "Çevre hakkı", "isTrue": false },
+      { "text": "O evde yaşayanların birey hakkı", "isTrue": true },
+      { "text": "Yaşam hakkı", "isTrue": false }
+    ],
+    "description": "Bir başkasının mülküne giriş-çıkışını engellemek, o kişinin en temel haklarından biri olan mülkiyet ve serbest hareket hakkını doğrudan ihlal etmektir. Bu, bir birey hakkı ihlalidir."
+  },
+  {
+    "id": 4080,
+    "category": "Trafik Adabı",
+    "question": "Trafik kazası, sadece maddi hasarla sonuçlanmış olsa bile, sürücülerin olay yerinde durup anlaşması ve gerekli işlemleri yapması, neyin bir gereğidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece bir zaman kaybıdır.", "isTrue": false },
+      { "text": "Hem yasal bir zorunluluk hem de ahlaki bir sorumluluktur.", "isTrue": true },
+      { "text": "Sadece ağır hasarlı kazalarda gereklidir.", "isTrue": false },
+      { "text": "Sadece sürücülerin isteğine bağlıdır.", "isTrue": false }
+    ],
+    "description": "Zarar ne kadar küçük olursa olsun, bir kazaya karışan sürücülerin durup zararı tespit etmeleri ve karşı tarafın hakkını korumak için gerekli yasal işlemleri (tutanak tutma, sigorta bilgilerini verme vb.) yapmaları yasal ve ahlaki bir sorumluluktur."
+  },
+  {
+    "id": 4081,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, trafikte 'nezaket' içeren bir davranış olarak kabul edilir?",
+    "image_url": null,
+    "options": [
+      { "text": "Şerit değiştirirken sinyal kullanmak.", "isTrue": true },
+      { "text": "Diğer sürücülerin önüne aniden kırmak.", "isTrue": false },
+      { "text": "Sürekli olarak uzun farları kullanmak.", "isTrue": false },
+      { "text": "Diğer sürücülerle göz teması kurmaktan kaçınmak.", "isTrue": false }
+    ],
+    "description": "Nezaket, düşünceli ve ince davranışlar sergilemektir. Şerit değiştirirken sinyal vermek, diğer sürücülere niyetinizi önceden bildirerek onların da pozisyon almasını sağlayan, hem bir kural hem de bir nezaket davranışıdır."
+  },
+  {
+    "id": 4082,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, trafikte yaşadığı bir olumsuzluk nedeniyle tüm gününü sinirli geçirmesi ve bu siniri diğer sürücülerden çıkarması, neyin kontrol edilemediğini gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Aracın hızının", "isTrue": false },
+      { "text": "Duygu ve düşüncelerin (Öfke Kontrolü)", "isTrue": true },
+      { "text": "Trafik kurallarının", "isTrue": false },
+      { "text": "Yol durumunun", "isTrue": false }
+    ],
+    "description": "Öfke kontrolü, sadece anlık tepkileri değil, aynı zamanda yaşanan olumsuz bir duygunun diğer zamanlara ve kişilere yansıtılmasını engellemeyi de içerir. Bir olaya duyulan öfkeyi, ilgisiz başka sürücülere yöneltmek, zayıf bir duygu kontrolünü gösterir."
+  },
+  {
+    "id": 4083,
+    "category": "Trafik Adabı",
+    "question": "Toplu taşıma araçlarına, okul servislerine veya ambulanslara yol vermek, trafikte neyin göstergesidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Bireysel çıkarların, toplumsal çıkarlardan daha önemli olduğunun.", "isTrue": false },
+      { "text": "Toplumsal yaşamın gerektirdiği saygı ve sorumluluk bilincinin.", "isTrue": true },
+      { "text": "Sürücünün acemi olduğunun.", "isTrue": false },
+      { "text": "Trafik kurallarının esnek olduğunun.", "isTrue": false }
+    ],
+    "description": "Bu araçlar, kamu hizmeti veya acil bir durum gibi toplumsal bir fayda için trafikte bulunmaktadır. Onlara öncelik tanımak, bireysel çıkarların ötesinde, toplumsal yaşama duyulan saygı ve sorumluluğun bir göstergesidir."
+  },
+  {
+    "id": 4084,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdaki davranışlardan hangisi, trafik güvenliğini tehlikeye atan bir 'saldırgan sürücülük' örneğidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Takip mesafesini korumak.", "isTrue": false },
+      { "text": "Hız sınırlarına uymak.", "isTrue": false },
+      { "text": "Başka bir sürücüyü sıkıştırarak veya önünü keserek taciz etmek.", "isTrue": true },
+      { "text": "Yayalara yol vermek.", "isTrue": false }
+    ],
+    "description": "Saldırgan sürücülük, aracın bir silah gibi kullanılarak diğer yol kullanıcılarını tehlikeye atma, taciz etme veya cezalandırma amacı taşıyan davranışlar bütünüdür. Sıkıştırma, ön kesme, ani fren yapma gibi hareketler bu davranışa örnektir."
+  },
+  {
+    "id": 4085,
+    "category": "Trafik Adabı",
+    "question": "Trafikte 'takip mesafesi' kuralına uymak, hangi temel trafik adabı ilkesiyle doğrudan ilişkilidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Hem kendi can güvenliğine hem de başkalarının can güvenliğine saygı.", "isTrue": true },
+      { "text": "Sadece bencillik.", "isTrue": false },
+      { "text": "Sadece sabır.", "isTrue": false },
+      { "text": "Sadece hoşgörü.", "isTrue": false }
+    ],
+    "description": "Yeterli takip mesafesi bırakmak, öndeki aracın ani bir durumda durabilmesi için kendinize zaman ve mesafe tanımaktır. Bu, hem kendi hayatınızı korumaya yönelik bir sorumluluk, hem de öndeki sürücünün güvenliğine duyulan bir saygıdır."
+  },
+  {
+    "id": 4086,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, aracı arızalandığında, diğer sürücüleri uyarmak için üçgen reflektör koyması, hangi bilincin bir ürünüdür?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece ceza alma korkusu.", "isTrue": false },
+      { "text": "Başkalarının güvenliğine karşı duyulan sorumluluk bilinci.", "isTrue": true },
+      { "text": "Empati eksikliği.", "isTrue": false },
+      { "text": "Nezaketsizlik.", "isTrue": false }
+    ],
+    "description": "Arızalanan bir araç, diğer sürücüler için potansiyel bir tehlikedir. Gerekli uyarı işaretlerini koyarak bu tehlikeyi diğerlerine bildirmek, sorumlu bir sürücünün hem yasal hem de ahlaki bir görevidir."
+  },
+  {
+    "id": 4087,
+    "category": "Trafik Adabı",
+    "question": "'Trafik, paylaşılan bir alandır ve bu alanda herkesin hakları ve sorumlulukları vardır.' Bu ifade, trafik adabının hangi temelini vurgular?",
+    "image_url": null,
+    "options": [
+      { "text": "Bireysellik ve rekabet", "isTrue": false },
+      { "text": "Toplumsal yaşam ve karşılıklı saygı", "isTrue": true },
+      { "text": "Hız ve güç", "isTrue": false },
+      { "text": "Cezasızlık", "isTrue": false }
+    ],
+    "description": "Trafik adabı, yolların bireysel bir yarış alanı değil, tüm toplumun ortak kullandığı bir yaşam alanı olduğu anlayışına dayanır. Bu alanda huzur ve güvenliğin sağlanması, herkesin birbirinin hakkına saygı göstermesiyle mümkündür."
+  },
+  {
+    "id": 4088,
+    "category": "Trafik Adabı",
+    "question": "Trafikte, bir hata yaptığında bunun sonuçlarını üstlenmek, hangi temel değere sahip olunduğunu gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sorumluluk", "isTrue": true },
+      { "text": "Sabır", "isTrue": false },
+      { "text": "Saygı", "isTrue": false },
+      { "text": "Empati", "isTrue": false }
+    ],
+    "description": "Sorumluluk, kişinin kendi eylemlerinin ve kararlarının sonuçlarına sahip çıkmasıdır. Trafikte hata yaptığında bunu kabul etmek ve gereğini yapmak, sorumluluk sahibi bir birey olmanın gereğidir."
+  },
+  {
+    "id": 4089,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, trafikte yaşanan stresi yönetmek için kullanılabilecek etkili bir yöntem değildir?",
+    "image_url": null,
+    "options": [
+      { "text": "Derin nefes alıp vermek.", "isTrue": false },
+      { "text": "Sakinleştirici bir müzik dinlemek.", "isTrue": false },
+      { "text": "Sorunun kaynağı olan sürücüyle tartışmaya girmek.", "isTrue": true },
+      { "text": "Mümkünse kısa bir mola vermek.", "isTrue": false }
+    ],
+    "description": "Stres ve öfke anında bir başkasıyla tartışmaya girmek, durumu daha da kötüleştirir ve çatışmayı tırmandırır. Stresi yönetmek için, odağı sorundan uzaklaştıran ve sakinleşmeyi sağlayan yöntemler (nefes egzersizi, mola vb.) kullanılmalıdır."
+  },
+  {
+    "id": 4090,
+    "category": "Trafik Adabı",
+    "question": "Trafik kurallarının var olma nedeni aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sürücülere zorluk çıkarmak.", "isTrue": false },
+      { "text": "Devlete gelir sağlamak.", "isTrue": false },
+      { "text": "Trafik ortamında düzeni, can ve mal güvenliğini sağlamak.", "isTrue": true },
+      { "text": "Sadece acemi sürücüleri eğitmek.", "isTrue": false }
+    ],
+    "description": "Trafik kuralları, milyonlarca insanın ve aracın bir arada, güven içinde hareket edebilmesi için oluşturulmuş toplumsal düzenin temelidir. Amacı, kargaşayı önlemek ve herkesin can ve mal güvenliğini en üst düzeyde korumaktır."
+  },
+  {
+    "id": 4091,
+    "category": "Trafik Adabı",
+    "question": "Trafikte, bir sürücünün yol verme veya şerit değiştirme gibi konularda kararsız davranması neye yol açabilir?",
+    "image_url": null,
+    "options": [
+      { "text": "Trafik akışını hızlandırır.", "isTrue": false },
+      { "text": "Diğer sürücülerin ne yapacağını tahmin edememesine ve kaza riskinin artmasına.", "isTrue": true },
+      { "text": "Diğer sürücüler tarafından takdir edilmesine.", "isTrue": false },
+      { "text": "Yakıt tasarrufu sağlamasına.", "isTrue": false }
+    ],
+    "description": "Trafikte öngörülebilirlik esastır. Kararsız ve tereddütlü manevralar, diğer sürücülerin sizin bir sonraki hamlenizi tahmin etmesini imkansız hale getirir. Bu belirsizlik, kaza riskini önemli ölçüde artırır."
+  },
+  {
+    "id": 4092,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, aracını yaya kaldırımına park etmesi, hangi hak ihlallerini beraberinde getirir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece kamu malına zarar verme", "isTrue": false },
+      { "text": "Yayaların güvenli alanını (birey hakkı) gasp etme ve onları tehlikeli olan taşıt yoluna inmeye zorlama", "isTrue": true },
+      { "text": "Sadece çevre kirliliği", "isTrue": false },
+      { "text": "Hiçbir hak ihlali oluşturmaz.", "isTrue": false }
+    ],
+    "description": "Yaya kaldırımları, adından da anlaşılacağı gibi, yayaların güvenle yürüyebilmesi için ayrılmış alanlardır. Bu alanı araçla işgal etmek, yayaların en temel hakkını gasp etmek ve onları tehlikeli olan taşıt yolunda yürümeye mecbur bırakarak can güvenliklerini tehlikeye atmaktır."
+  },
+  {
+    "id": 4093,
+    "category": "Trafik Adabı",
+    "question": "Trafik adabı, en genel tanımıyla, sürücülerin trafikteki ............ bütünüdür.",
+    "image_url": null,
+    "options": [
+      { "text": "hız yapma alışkanlıklarının", "isTrue": false },
+      { "text": "araç kullanma becerilerinin", "isTrue": false },
+      { "text": "tutum ve davranışlarının", "isTrue": true },
+      { "text": "kural ezberlerinin", "isTrue": false }
+    ],
+    "description": "Trafik adabı, bir sürücünün sadece kuralları bilmesi veya aracını iyi kullanması değil, bu bilgi ve beceriyi trafikteki diğer insanlara karşı doğru tutum ve davranışlarla (saygı, sabır, empati vb.) sergilemesidir."
+  },
+  {
+    "id": 4094,
+    "category": "Trafik Adabı",
+    "question": "Yaşlı bir sürücünün park manevrasını yavaş yapmasına korna çalarak tepki göstermek yerine, ona yardımcı olmak veya sabırla beklemek, hangi iki temel değeri bir arada gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sorumluluk ve Nezaket", "isTrue": false },
+      { "text": "Empati ve Sabır", "isTrue": true },
+      { "text": "Saygı ve Sorumluluk", "isTrue": false },
+      { "text": "Yardımlaşma ve Cesaret", "isTrue": false }
+    ],
+    "description": "Yaşlı bir sürücünün reflekslerinin daha yavaş olabileceğini düşünmek (empati) ve onun manevrasını tamamlaması için gerekli zamanı tanımak (sabır), olgun ve adaba uygun bir sürücü davranışıdır."
+  },
+  {
+    "id": 4095,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, trafikteki diğer sürücüleri sürekli olarak 'rakip' gibi görmesi, hangi olumsuz duruma yol açar?",
+    "image_url": null,
+    "options": [
+      { "text": "Daha güvenli bir sürüş ortamına", "isTrue": false },
+      { "text": "Trafikte yardımlaşma ve iş birliği ruhunun ortadan kalkmasına", "isTrue": true },
+      { "text": "Trafik kurallarına daha fazla uyulmasına", "isTrue": false },
+      { "text": "Trafik akışının hızlanmasına", "isTrue": false }
+    ],
+    "description": "Trafik, bir yarış değil, bir iş birliği ortamıdır. Sürekli rekabetçi bir tutum, sürücülerin birbirine yardım etmesini, yol vermesini ve anlayış göstermesini engeller. Bu da trafiği daha tehlikeli ve stresli bir hale getirir."
+  },
+  {
+    "id": 4096,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, trafik adabı açısından doğru bir iletişim yöntemi değildir?",
+    "image_url": null,
+    "options": [
+      { "text": "Şerit değiştirirken sinyal vermek.", "isTrue": false },
+      { "text": "Yol veren sürücüye teşekkür etmek.", "isTrue": false },
+      { "text": "Öndeki sürücüyü taciz etmek için sürekli selektör yapmak.", "isTrue": true },
+      { "text": "Tehlikeli bir durumda kısa bir süre korna çalmak.", "isTrue": false }
+    ],
+    "description": "Selektör (uzun farları yakıp söndürme), genellikle 'yol isteme' veya 'uyarı' anlamı taşır. Ancak bunun sürekli ve taciz edici bir şekilde kullanılması, bir iletişim yöntemi değil, saldırgan bir sürücülük davranışıdır ve diğer sürücüyü tehlikeye atabilir."
+  },
+  {
+    "id": 4097,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, yolu kullanırken çevreye ve doğaya zarar vermemeye özen göstermesi (gereksiz egzoz gazı salınımı yapmamak, çöp atmamak vb.), hangi hakkına saygı gösterdiğini ifade eder?",
+    "image_url": null,
+    "options": [
+      { "text": "Birey hakkı", "isTrue": false },
+      { "text": "Toplum hakkı", "isTrue": false },
+      { "text": "Kamu hakkı", "isTrue": false },
+      { "text": "Çevre hakkı", "isTrue": true }
+    ],
+    "description": "Trafik ortamı, aynı zamanda yaşadığımız çevrenin bir parçasıdır. Aracın bakımını yaptırarak egzoz salınımını kontrol altında tutmak, dışarıya çöp atmamak gibi davranışlar, herkesin ortak malı olan çevreye karşı bir sorumluluk ve saygı göstergesidir."
+  },
+  {
+    "id": 4098,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, trafikteki tüm kurallara uyması, öncelikle neyi sağlar?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece daha hızlı gitmesini", "isTrue": false },
+      { "text": "Hem kendi güvenliğini hem de diğer yol kullanıcılarının güvenliğini", "isTrue": true },
+      { "text": "Daha fazla yakıt tüketmesini", "isTrue": false },
+      { "text": "Diğer sürücüler tarafından sevilmemesini", "isTrue": false }
+    ],
+    "description": "Trafik kuralları, öngörülebilir ve güvenli bir trafik ortamı yaratmak için vardır. Bu kurallara uyan bir sürücü, hem kendisini olası tehlikelerden korur hem de diğer sürücülerin ve yayaların can ve mal güvenliğine katkıda bulunur."
+  },
+  {
+    "id": 4099,
+    "category": "Trafik Adabı",
+    "question": "Trafikte 'bedel ödeme' ve 'bedel ödetme' arasındaki fark nedir?",
+    "image_url": null,
+    "options": [
+      { "text": "Hiçbir fark yoktur.", "isTrue": false },
+      { "text": "Bedel ödeme, kişinin kendi hatasının sonucuna katlanması (sorumluluk); bedel ödetme ise, başkasının hatasını cezalandırmaya çalışmasıdır (saldırganlık).", "isTrue": true },
+      { "text": "Bedel ödeme cezadır, bedel ödetme ise uyarıdır.", "isTrue": false },
+      { "text": "İkisi de olumlu davranışlardır.", "isTrue": false }
+    ],
+    "description": "Sorumlu bir sürücü, yaptığı bir hatanın bedelini (ceza, hasar masrafı vb.) öder. Saldırgan bir sürücü ise, başkasının yaptığı bir hatanın bedelini ona ödetmeye çalışır (önünü kesmek, taciz etmek vb.). Trafik adabı, bedel ödemeyi gerektirir, bedel ödetmeyi ise kesinlikle reddeder."
+  },
+  {
+    "id": 4100,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, yolcularını indirip bindirmek için otobüs durağını işgal etmesi, hangi hakları ihlal eder?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece otobüs şoförünün birey hakkını", "isTrue": false },
+      { "text": "Toplu taşıma kullanan yolcuların (toplum hakkı) ve otobüs şoförünün (birey hakkı) haklarını", "isTrue": true },
+      { "text": "Sadece çevre hakkını", "isTrue": false },
+      { "text": "Hiçbir hak ihlali sayılmaz.", "isTrue": false }
+    ],
+    "description": "Otobüs durakları, toplu taşıma hizmetinin bir parçasıdır. Bu alanı işgal etmek, hem o hizmeti sunan otobüs şoförünün işini yapmasını (birey hakkı) engeller, hem de o hizmetten faydalanan tüm yolcuların (toplum hakkı) güvenli ve düzenli bir şekilde ulaşımını aksatır."
+  }, {
+    "id": 4101,
+    "category": "Trafik Adabı",
+    "question": "Aşırı sevinçli veya üzüntülü bir haber alan bir sürücünün, o an araç kullanmaya devam etmesi neden risklidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Aracın mekanik aksamına zarar verebilir.", "isTrue": false },
+      { "text": "Yoğun duygular, dikkati dağıtarak sağlıklı ve mantıklı karar verme yeteneğini olumsuz etkileyebilir.", "isTrue": true },
+      { "text": "Sadece yasal olarak yasaktır.", "isTrue": false },
+      { "text": "Hiçbir riski yoktur, devam edebilir.", "isTrue": false }
+    ],
+    "description": "Sadece öfke değil, aşırı sevinç, üzüntü gibi tüm yoğun duygular sürücünün dikkatini dağıtır, muhakeme yeteneğini zayıflatır ve risk algısını değiştirebilir. Bu nedenle, duygusal olarak yoğun anlarda aracı güvenli bir yere çekip sakinleşmek en doğrusudur."
+  },
+  {
+    "id": 4102,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, önünde ilerleyen ve üzerinde 'bebek var' çıkartması bulunan bir araca karşı nasıl bir tutum sergilemesi beklenir?",
+    "image_url": null,
+    "options": [
+      { "text": "Daha yakın takip etmesi", "isTrue": false },
+      { "text": "Sürekli korna çalarak acele ettirmesi", "isTrue": false },
+      { "text": "Daha sabırlı ve anlayışlı olması, takip mesafesini artırması", "isTrue": true },
+      { "text": "Sürekli selektör yaparak yol istemesi", "isTrue": false }
+    ],
+    "description": "Bu tür bir uyarı, o araçta küçük bir bebek olduğunu ve sürücünün ani fren veya manevralardan kaçınabileceğini belirtir. Empati sahibi bir sürücü, bu duruma anlayış gösterir, daha sabırlı davranır ve olası bir ani duruma karşı takip mesafesini artırır."
+  },
+  {
+    "id": 4103,
+    "category": "Trafik Adabı",
+    "question": "Bir cenaze konvoyu ile karşılaşan sürücüden trafik adabı gereği ne yapması beklenir?",
+    "image_url": null,
+    "options": [
+      { "text": "Konvoyun arasına girmeye çalışmak", "isTrue": false },
+      { "text": "Sürekli korna çalarak yolu açmalarını istemek", "isTrue": false },
+      { "text": "Sabır göstermek, korna çalmamak ve konvoyu geçmeye çalışmamak", "isTrue": true },
+      { "text": "Selektör yaparak hızla yanlarından geçmek", "isTrue": false }
+    ],
+    "description": "Cenaze konvoyları, toplumsal bir acıya ve yasa saygıyı ifade eder. Trafik adabı, bu tür özel durumlara karşı saygılı ve sabırlı olmayı gerektirir. Konvoyun düzenini bozacak veya saygısızlık olarak algılanacak davranışlardan kaçınılmalıdır."
+  },
+  {
+    "id": 4104,
+    "category": "Trafik Adabı",
+    "question": "Trafikte yardımlaşma kültürünün yaygın olduğu bir toplumda, aşağıdakilerden hangisinin görülmesi beklenir?",
+    "image_url": null,
+    "options": [
+      { "text": "Daha fazla trafik kazası", "isTrue": false },
+      { "text": "Trafik kazaları sonrası yaşanan olumsuzlukların azalması ve toplumsal dayanışmanın güçlenmesi", "isTrue": true },
+      { "text": "Sürücüler arasında daha fazla tartışma", "isTrue": false },
+      { "text": "Trafik akışının tamamen durması", "isTrue": false }
+    ],
+    "description": "Yardımlaşma, sadece arızalanan bir araca yardım etmek değil, aynı zamanda kaza sonrası mağdurlara destek olmayı da içerir. Bu kültürün yaygın olduğu yerlerde, trafik daha az stresli olur ve zor durumlarda insanlar birbirine destek olduğu için toplumsal bağlar güçlenir."
+  },
+  {
+    "id": 4105,
+    "category": "Trafik Adabı",
+    "question": "Yolculuk sırasında, diğer sürücüler tarafından yapılan olumlu bir davranışa (yol verme gibi) karşılık vermemek, neyin eksikliğini gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Nezaket ve teşekkür kültürünün", "isTrue": true },
+      { "text": "Sürüş tecrübesinin", "isTrue": false },
+      { "text": "Yol bilgisinin", "isTrue": false },
+      { "text": "Cesaretin", "isTrue": false }
+    ],
+    "description": "Trafik adabı, karşılıklı bir etkileşimdir. Size yapılan bir nezakete, en azından basit bir el hareketiyle veya gülümsemeyle teşekkür etmek, olumlu iletişim döngüsünü devam ettirir ve daha huzurlu bir trafik ortamı yaratır. Karşılık vermemek ise bir nezaketsizliktir."
+  },
+  {
+    "id": 4106,
+    "category": "Trafik Adabı",
+    "question": "Hangi davranış, sürücünün hem 'birey hakkını' hem de 'toplum hakkını' aynı anda ihlal ettiğini gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Yaya geçidinde yayaya yol vermek.", "isTrue": false },
+      { "text": "Tek yönlü bir sokağa ters yönden girerek hem karşıdan geleni (birey) tehlikeye atmak hem de trafik akışını (toplum) bozmak.", "isTrue": true },
+      { "text": "Aracının bakımını zamanında yaptırmak.", "isTrue": false },
+      { "text": "Sinyal vererek şerit değiştirmek.", "isTrue": false }
+    ],
+    "description": "Ters yöne girmek, o yönde kurallara uygun seyreden sürücülerin yol hakkını ve güvenliğini (birey hakkı) doğrudan tehlikeye atar. Aynı zamanda, bu kural dışı hareket trafik düzenini tamamen bozarak genel trafik akışını (toplum hakkı) da ihlal eder."
+  },
+  {
+    "id": 4107,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, diğer yol kullanıcılarının haklarına saygı göstermesi, en temelde neyi kabul ettiğini gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Kendisinin en iyi sürücü olduğunu", "isTrue": false },
+      { "text": "Trafik ortamının kişisel bir alan değil, paylaşılan bir yaşam alanı olduğunu", "isTrue": true },
+      { "text": "Trafik kurallarının gereksiz olduğunu", "isTrue": false },
+      { "text": "Diğer sürücülerin her zaman hatalı olduğunu", "isTrue": false }
+    ],
+    "description": "Saygılı bir sürücü, yolların sadece kendisine ait olmadığını, diğer sürücülerin, yayaların ve bisikletlilerin de o alanı kullanma hakkı olduğunu bilir ve bu bilinçle hareket eder."
+  },
+  {
+    "id": 4108,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, sürücünün trafikte 'otokontrolünü' kaybettiğini gösteren bir davranıştır?",
+    "image_url": null,
+    "options": [
+      { "text": "Tehlikeli bir durumda ani fren yapmak.", "isTrue": false },
+      { "text": "Yolun durumuna göre hızını ayarlamak.", "isTrue": false },
+      { "text": "Başka bir sürücünün hatasına, öfkeyle ve düşünmeden karşılık vermek.", "isTrue": true },
+      { "text": "Yolcu indirmek için güvenli bir yer aramak.", "isTrue": false }
+    ],
+    "description": "Otokontrol, kişinin duygularını ve tepkilerini mantık süzgecinden geçirerek yönetebilmesidir. Öfkeye kapılarak, sonuçlarını düşünmeden anında tepki vermek, otokontrolün kaybedildiğinin en net göstergesidir."
+  },
+  {
+    "id": 4109,
+    "category": "Trafik Adabı",
+    "question": "Arkadaşlarıyla birlikte seyahat eden genç bir sürücünün, normalden daha riskli ve hızlı araç kullanma eğilimi göstermesi, hangi psikolojik etkiyle açıklanabilir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sorumluluk bilinci", "isTrue": false },
+      { "text": "Empati yeteneği", "isTrue": false },
+      { "text": "Grup içinde kendini kanıtlama isteği ve grup baskısı", "isTrue": true },
+      { "text": "Hoşgörü", "isTrue": false }
+    ],
+    "description": "Özellikle genç sürücüler, yanlarındaki arkadaşlarına kendilerini kanıtlamak veya onlardan etkilenmek (grup baskısı) suretiyle normalde yapmayacakları riskli sürüş davranışları sergileyebilirler. Bu, trafik adabı açısından olgunlaşmamış bir tutumdur."
+  },
+  {
+    "id": 4110,
+    "category": "Trafik Adabı",
+    "question": "Trafikte, bir sürücünün yol hakkı kendisindeyken bile, bir kazayı önlemek için frene basması, neyin göstergesidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Hakkını bilmediğinin", "isTrue": false },
+      { "text": "Güvenli olanı, haklı olmaya tercih ettiğinin", "isTrue": true },
+      { "text": "Acemi olduğunun", "isTrue": false },
+      { "text": "Korkak olduğunun", "isTrue": false }
+    ],
+    "description": "Trafik adabında, 'haklı olmak' değil, 'güvende olmak' esastır. Bazen, başka bir sürücünün hatası nedeniyle oluşabilecek bir kazayı önlemek için kendi hakkından feragat etmek, en doğru ve sorumlu davranıştır."
+  },
+  {
+    "id": 4111,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, trafik ortamında 'stres' yaratan bir faktör değildir?",
+    "image_url": null,
+    "options": [
+      { "text": "Yoğun trafik ve sıkışıklık", "isTrue": false },
+      { "text": "Sürekli korna çalan ve taciz eden sürücüler", "isTrue": false },
+      { "text": "Kurallara uyan ve birbirine saygılı sürücüler", "isTrue": true },
+      { "text": "Gidilecek yere geç kalma endişesi", "isTrue": false }
+    ],
+    "description": "Stres, genellikle engellenme, belirsizlik ve tehlike algısından kaynaklanır. Kurallara uyan, öngörülebilir ve saygılı sürücülerin olduğu bir trafik ortamı, tam tersine stresi azaltan, huzurlu bir ortamdır."
+  },
+  {
+    "id": 4112,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, aracını park ederken, hem kendi aracının hem de diğer araçların rahatça çıkabileceği şekilde boşluk bırakması, hangi ilkenin bir gereğidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Bencillik", "isTrue": false },
+      { "text": "Diğer sürücülerin hakkına saygı ve düşünceli olma", "isTrue": true },
+      { "text": "Acelecilik", "isTrue": false },
+      { "text": "İlgisizlik", "isTrue": false }
+    ],
+    "description": "Doğru park etme, sadece aracınızı bir yere sığdırmak değildir. Aynı zamanda, sizden sonra gelecek veya yanınızda park etmiş olan diğer sürücülerin de haklarını ve manevra alanlarını düşünerek hareket etmeyi gerektiren bir saygı ve nezaket kuralıdır."
+  },
+  {
+    "id": 4113,
+    "category": "Trafik Adabı",
+    "question": "Sürücünün, bir anlık dikkatsizliği sonucu hata yapan başka bir sürücüye, onun art niyetli olmadığını düşünerek anlayış göstermesi, neyi ifade eder?",
+    "image_url": null,
+    "options": [
+      { "text": "Hoşgörü", "isTrue": true },
+      { "text": "Sorumsuzluk", "isTrue": false },
+      { "text": "Saldırganlık", "isTrue": false },
+      { "text": "Kayıtsızlık", "isTrue": false }
+    ],
+    "description": "Hoşgörü, trafikteki bir hatayı kasıtlı bir saldırı olarak değil, insani bir yanılgı olarak görebilme ve buna göre tepki verebilme olgunluğudur."
+  },
+  {
+    "id": 4114,
+    "category": "Trafik Adabı",
+    "question": "Trafik kurallarına uymayan bir sürücüyü, yasal yollarla (polise bildirme vb.) şikayet etmek yerine, kendi yöntemleriyle (önünü kesme, sıkıştırma) cezalandırmaya çalışmak, ne tür bir davranıştır?",
+    "image_url": null,
+    "options": [
+      { "text": "Sorumlu bir vatandaşlık görevidir.", "isTrue": false },
+      { "text": "Saldırgan sürücülük ve trafik magandalığıdır.", "isTrue": true },
+      { "text": "Etkili bir eğitim yöntemidir.", "isTrue": false },
+      { "text": "Trafik adabına uygun bir davranıştır.", "isTrue": false }
+    ],
+    "description": "Trafikte adaleti ve cezayı uygulama yetkisi sadece trafik denetim görevlilerine aittir. Sürücülerin kendi kendilerine adalet sağlamaya çalışması, trafik güvenliğini daha da tehlikeye atan, çatışmacı ve saldırgan bir davranıştır."
+  },
+  {
+    "id": 4115,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, trafik adabının bireye sağladığı faydalardan biridir?",
+    "image_url": null,
+    "options": [
+      { "text": "Gideceği yere daha hızlı varmasını sağlar.", "isTrue": false },
+      { "text": "Daha stresli ve gergin bir sürüş deneyimi yaşatır.", "isTrue": false },
+      { "text": "Daha az ceza ödemesini sağlar.", "isTrue": false },
+      { "text": "Daha sakin, huzurlu ve güvenli bir yolculuk yapmasını sağlar.", "isTrue": true }
+    ],
+    "description": "Trafik adabına uygun davranan (sabırlı, saygılı, hoşgörülü) bir sürücü, hem kendi stres seviyesini düşürür hem de diğer sürücülerle çatışma yaşama olasılığını azaltır. Bu da daha huzurlu ve güvenli bir sürüş deneyimi anlamına gelir."
+  },
+  {
+    "id": 4116,
+    "category": "Trafik Adabı",
+    "question": "Bir yol çalışması nedeniyle şerit daraldığında, sürücülerin bir sağdan bir soldan sırayla geçmesi (fermuar sistemi), neyin en iyi uygulamasıdır?",
+    "image_url": null,
+    "options": [
+      { "text": "Trafikte iş birliği ve adaletin", "isTrue": true },
+      { "text": "Sürücülerin yarışmasının", "isTrue": false },
+      { "text": "Acemi sürücülerin", "isTrue": false },
+      { "text": "Hız sınırlarının", "isTrue": false }
+    ],
+    "description": "Fermuar sistemi, şerit birleşmelerinde trafiğin kilitlenmesini önleyen, adil ve verimli bir yöntemdir. Bu kurala uymak, sürücülerin birbirlerinin hakkına saygı gösterdiği ve trafik akışı için iş birliği yaptığı anlamına gelir."
+  },
+  {
+    "id": 4117,
+    "category": "Trafik Adabı",
+    "question": "Sürücülerin, özellikle tünel ve kapalı otopark gibi alanlarda, gereksiz yere korna çalmaktan ve gürültü yapmaktan kaçınması, neye duyulan saygının bir gereğidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece kendi araçlarına", "isTrue": false },
+      { "text": "Toplumun ortak huzuruna ve çevreye", "isTrue": true },
+      { "text": "Hız sınırlarına", "isTrue": false },
+      { "text": "Sadece diğer sürücülere", "isTrue": false }
+    ],
+    "description": "Kapalı alanlarda ses çok daha fazla yankılanır ve rahatsız edici olur. Bu tür yerlerde gereksiz gürültü yapmak, hem o an orada bulunan diğer insanları (toplumu) rahatsız eder hem de bir gürültü kirliliği (çevre sorunu) oluşturur."
+  },
+  {
+    "id": 4118,
+    "category": "Trafik Adabı",
+    "question": "'Trafikte en önemli şey eve sağ salim dönmektir.' düşüncesine sahip bir sürücü, aşağıdakilerden hangisini yapmaz?",
+    "image_url": null,
+    "options": [
+      { "text": "Yol ve hava koşullarına göre hızını ayarlar.", "isTrue": false },
+      { "text": "Diğer sürücülerle gereksiz tartışmalara ve yarışlara girer.", "isTrue": true },
+      { "text": "Takip mesafesini korur.", "isTrue": false },
+      { "text": "Emniyet kemerini takar.", "isTrue": false }
+    ],
+    "description": "Güvenliği birinci öncelik olarak gören bir sürücü, egosunu ve öfkesini kontrol altında tutar. Diğer sürücülerle inatlaşmanın veya yarışmanın, can güvenliğini tehlikeye atan anlamsız bir risk olduğunu bilir ve bundan kaçınır."
+  },
+  {
+    "id": 4119,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, kırmızı ışığın yanma süresini bildiği için, ışık kırmızı yanarken kavşağa yavaşça ilerlemesi, hangi riski artırır?",
+    "image_url": null,
+    "options": [
+      { "text": "Yakıt tasarrufu sağlar.", "isTrue": false },
+      { "text": "Kavşaktan geçen yayaların veya diğer araçların önüne aniden çıkma riskini.", "isTrue": true },
+      { "text": "Diğer sürücülerin takdirini kazanır.", "isTrue": false },
+      { "text": "Hiçbir riski yoktur, zaman kazandırır.", "isTrue": false }
+    ],
+    "description": "Kırmızı ışık, 'dur' çizgisinin gerisinde kesin olarak durulması gerektiğini ifade eder. Işık kırmızı yanarken hareket etmek, o esnada geçiş hakkı olan bir yayanın veya başka bir aracın önüne çıkarak ciddi kazalara yol açabilecek bir kural ve adab ihlalidir."
+  },
+  {
+    "id": 4120,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, trafik adabı açısından, bir kazaya tanık olan bir sürücüden beklenen bir davranıştır?",
+    "image_url": null,
+    "options": [
+      { "text": "Durup olayı izlemek.", "isTrue": false },
+      { "text": "Olayın videosunu çekip paylaşmak.", "isTrue": false },
+      { "text": "Güvenli bir şekilde durup, durumu 112'ye bildirmek ve gerekiyorsa temel ilk yardım uygulamak.", "isTrue": true },
+      { "text": "Hiçbir şey olmamış gibi yoluna devam etmek.", "isTrue": false }
+    ],
+    "description": "Bir kazaya tanık olmak, hem insani hem de yasal bir sorumluluk yükler. Tanık olan sürücü, kendi güvenliğini sağladıktan sonra derhal 112'yi arayarak doğru bilgi vermeli ve eğer biliyorsa, yaralılara temel ilk yardım desteği sağlamalıdır. Bu, 'yardımlaşma' ve 'sorumluluk' ilkelerinin bir gereğidir."
+  },
+  {
+    "id": 4121,
+    "category": "Trafik Adabı",
+    "question": "Trafik içinde, diğer sürücülerin sizi görmesini ve niyetinizi anlamasını sağlamak, hangi temel güvenlik ilkesinin bir parçasıdır?",
+    "image_url": null,
+    "options": [
+      { "text": "Görünür olmak ve niyetini belli etmek", "isTrue": true },
+      { "text": "Her zaman hızlı olmak", "isTrue": false },
+      { "text": "Sadece kuralları ezberlemek", "isTrue": false },
+      { "text": "Diğer sürücüleri takip etmek", "isTrue": false }
+    ],
+    "description": "Güvenli sürüşün temel prensiplerinden biri 'gör ve görünür ol' ilkesidir. Farlarınızı, sinyallerinizi ve aracınızın konumunu doğru kullanarak, diğer sürücülerin sizi fark etmesini ve bir sonraki hamlenizi tahmin etmesini sağlamak, kaza riskini azaltır."
+  },
+  {
+    "id": 4122,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdaki ifadelerden hangisi 'bencil' bir sürücünün düşünce tarzını yansıtır?",
+    "image_url": null,
+    "options": [
+      { "text": "'Trafikte hepimiz birbirimize bağlıyız.'", "isTrue": false },
+      { "text": "'Benim yolum ve benim acelem, diğerlerinden daha önemli.'", "isTrue": true },
+      { "text": "'Yayalara öncelik vermek gerekir.'", "isTrue": false },
+      { "text": "'Herkes hata yapabilir, anlayışlı olmak lazım.'", "isTrue": false }
+    ],
+    "description": "Bencillik, başkalarının haklarını ve ihtiyaçlarını göz ardı ederek sadece kendi isteklerini ön planda tutmaktır. Trafikte bu düşünce yapısı, hak ihlallerine, kural tanımamazlığa ve tehlikeli sürüş davranışlarına yol açar."
+  },
+  {
+    "id": 4123,
+    "category": "Trafik Adabı",
+    "question": "Trafikte temel değerlere sahip bir sürücü, hangi durumda 'feragat' etmeyi düşünebilir?",
+    "image_url": null,
+    "options": [
+      { "text": "Her zaman ve her koşulda kendi yol hakkını kullanır.", "isTrue": false },
+      { "text": "Tıkanık bir kavşakta, trafik akışını rahatlatmak için geçiş hakkı kendinde olsa bile bekler.", "isTrue": true },
+      { "text": "Kendisini sollamaya çalışan araca asla yol vermez.", "isTrue": false },
+      { "text": "Her zaman en önde olmak için yarışır.", "isTrue": false }
+    ],
+    "description": "Feragat, kişinin kendi hakkından vazgeçmesidir. Bilinçli bir sürücü, bazen kendi hakkını kullanmanın trafiği daha da kötüleştireceğini öngörerek, genel akışın faydası için bu hakkından gönüllü olarak vazgeçebilir."
+  },
+  {
+    "id": 4124,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, trafikteki diğer insanlara karşı gösterdiği 'sabır' değerinin temelinde ne yatar?",
+    "image_url": null,
+    "options": [
+      { "text": "Aceleci ve tepkisel davranışlardan kaçınarak, beklemesi gereken durumları sakinlikle karşılama yeteneği.", "isTrue": true },
+      { "text": "Her zaman haklı olma isteği.", "isTrue": false },
+      { "text": "Diğer sürücülerden daha hızlı olma çabası.", "isTrue": false },
+      { "text": "Trafik kurallarını bilmemek.", "isTrue": false }
+    ],
+    "description": "Sabır, trafikteki gecikmeleri, beklemeleri ve diğer sürücülerin yavaşlığını, olgunluk ve sükunetle karşılama becerisidir. Öfke ve stresin en önemli panzehiridir."
+  },
+  {
+    "id": 4125,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, trafikte 'iletişim kazasına' bir örnektir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sağa dönecek bir sürücünün, sağa sinyal vermesi.", "isTrue": false },
+      { "text": "Sinyal vermeden aniden şerit değiştiren bir sürücü yüzünden, arkadaki sürücünün ani fren yapması.", "isTrue": true },
+      { "text": "Yol veren sürücüye, diğer sürücünün elle teşekkür etmesi.", "isTrue": false },
+      { "text": "Yaya geçidinde duran bir sürücü.", "isTrue": false }
+    ],
+    "description": "İletişim kazaları, sürücülerin niyetlerini birbirine doğru şekilde bildirmemesi veya yanlış anlaması sonucu oluşan tehlikeli durumlardır. Sinyal vermeden aniden manevra yapmak, diğer sürücüleri hazırlıksız yakalayan tipik bir iletişim kazasıdır."
+  },
+  {
+    "id": 4126,
+    "category": "Trafik Adabı",
+    "question": "Trafik adabı açısından, bir sürücünün en temel sorumluluğu nedir?",
+    "image_url": null,
+    "options": [
+      { "text": "Aracını temiz tutmak.", "isTrue": false },
+      { "text": "Gideceği yere en kısa sürede varmak.", "isTrue": false },
+      { "text": "Güvenli bir şekilde araç kullanmak ve kimseye zarar vermemek.", "isTrue": true },
+      { "text": "Diğer sürücülerden daha tecrübeli olduğunu göstermek.", "isTrue": false }
+    ],
+    "description": "Bir sürücünün, direksiyon başına geçtiği andan itibaren en temel ve öncelikli sorumluluğu, kendi can güvenliği de dahil olmak üzere, trafikteki hiç kimsenin canına veya malına zarar vermeyecek şekilde dikkatli ve kurallara uygun araç kullanmaktır."
+  },
+  {
+    "id": 4127,
+    "category": "Trafik Adabı",
+    "question": "Trafikte 'vücut dili' kullanılırken, hangi davranış gerginliği artırabilir?",
+    "image_url": null,
+    "options": [
+      { "text": "Hafifçe gülümsemek", "isTrue": false },
+      { "text": "El ile teşekkür etmek", "isTrue": false },
+      { "text": "Anlayışla baş sallamak", "isTrue": false },
+      { "text": "Sinirli bir şekilde el-kol hareketleri yapmak", "isTrue": true }
+    ],
+    "description": "Olumsuz ve agresif vücut dili, trafikteki anlaşmazlıkları tırmandıran en önemli faktörlerden biridir. Sinirli el-kol hareketleri, karşı taraf tarafından bir tehdit veya hakaret olarak algılanabilir ve istenmeyen olaylara yol açabilir."
+  },
+  {
+    "id": 4128,
+    "category": "Trafik Adabı",
+    "question": "Trafikte 'diğer yol kullanıcıları' ifadesi, aşağıdakilerden hangisini kapsamaz?",
+    "image_url": null,
+    "options": [
+      { "text": "Otomobil sürücülerini", "isTrue": false },
+      { "text": "Yayaları ve bisikletlileri", "isTrie": false },
+      { "text": "Yol kenarındaki binaları ve ağaçları", "isTrue": true },
+      { "text": "Motosiklet ve toplu taşıma aracı sürücülerini", "isTrue": false }
+    ],
+    "description": "'Diğer yol kullanıcıları' terimi, trafikte hareket halinde olan ve trafik kurallarından etkilenen tüm insanları (sürücüler, yayalar, yolcular) ve hayvanları içerir. Binalar ve ağaçlar, yolun bir parçasıdır ancak 'kullanıcı' değildir."
+  },
+  {
+    "id": 4129,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, trafikteki bir hatasından dolayı trafikten men edilmesi veya ehliyetine el konulması, hangi ilkenin bir sonucudur?",
+    "image_url": null,
+    "options": [
+      { "text": "Toplumun, tehlikeli sürücülere karşı korunması ve can güvenliğinin sağlanması", "isTrue": true },
+      { "text": "Sürücüyü ödüllendirme", "isTrue": false },
+      { "text": "Sadece devlete gelir sağlama", "isTrue": false },
+      { "text": "Sürücünün dinlenmesini sağlama", "isTrue": false }
+    ],
+    "description": "Trafik cezaları ve yaptırımları, sadece caydırıcılık amacı taşımaz. Aynı zamanda, trafikteki diğer insanların can güvenliğini sürekli olarak tehlikeye atan sürücülerin, bu tehlikeyi yaratmalarını geçici veya kalıcı olarak engelleme amacını da güder."
+  },
+  {
+    "id": 4130,
+    "category": "Trafik Adabı",
+    "question": "Trafikte, bir sürücünün sürekli olarak aracının camından dışarıya sigara izmariti atması, hangi iki hak ihlalini aynı anda oluşturur?",
+    "image_url": null,
+    "options": [
+      { "text": "Birey hakkı ve Kamu hakkı", "isTrue": false },
+      { "text": "Yaşam hakkı ve Toplum hakkı", "isTrue": false },
+      { "text": "Çevre hakkı (kirlilik) ve Kamu hakkı (yangın riski)", "isTrue": true },
+      { "text": "Sadece çevre hakkı", "isTrue": false }
+    ],
+    "description": "Sigara izmaritini dışarı atmak, çevreyi kirleterek 'çevre hakkını' ihlal eder. Aynı zamanda, özellikle kuru havalarda, bu izmarit bir ot veya orman yangınına neden olarak kamuya ait bir varlığa (orman) zarar verme potansiyeli taşır ve 'kamu hakkı' için de bir risk oluşturur."
+  },
+  {
+    "id": 4131,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, bir sürücünün empati kurma yeteneğinin zayıf olduğunu gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Yaşlı bir yayanın yavaş yürümesini anlayışla karşılamak.", "isTrue": false },
+      { "text": "Ambulansın içindeki hastanın durumunu düşünerek hemen yol vermek.", "isTrue": false },
+      { "text": "Bisikletli birini trafikte tehlike olarak görüp sürekli korna çalmak.", "isTrue": true },
+      { "text": "Yağmurda ıslanmamak için durağa sığınan yayaların önüne aracını park etmemek.", "isTrue": false }
+    ],
+    "description": "Empati, başkalarının durumunu ve ihtiyaçlarını anlayabilmektir. Bir bisikletlinin trafikte ne kadar savunmasız ve tedirgin olabileceğini düşünmeden, onu bir engel veya tehlike olarak görmek ve taciz etmek, empati yoksunluğunun bir göstergesidir."
+  },
+  {
+    "id": 4132,
+    "category": "Trafik Adabı",
+    "question": "Sürücünün, yol yapım çalışması olan bir bölgede, hızını düşürmesi ve çalışanlara karşı dikkatli olması, neyin bir gereğidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece trafik işaretlerine uymanın", "isTrue": false },
+      { "text": "Hem kurallara uymanın hem de yol işçilerinin yaşam hakkına saygının", "isTrue": true },
+      { "text": "Sadece merak etmenin", "isTrue": false },
+      { "text": "Sadece aracını korumanın", "isTrue": false }
+    ],
+    "description": "Yol yapım alanları, hem trafik akışının değiştiği hem de insanların çalıştığı tehlikeli bölgelerdir. Bu alanlarda yavaşlamak, hem uyarı levhalarına (kural) uymayı hem de orada çalışan işçilerin can güvenliğini (yaşam hakkına saygı) düşünmeyi gerektirir."
+  },
+  {
+    "id": 4133,
+    "category": "Trafik Adabı",
+    "question": "'Hiç kimse, başkalarını rahatsız edecek veya tehlikeye sokacak şekilde araç kullanamaz.' Bu ilke, trafik adabının hangi temelini oluşturur?",
+    "image_url": null,
+    "options": [
+      { "text": "Bencillik", "isTrue": false },
+      { "text": "Rekabet", "isTrue": false },
+      { "text": "Saygı ve Sorumluluk", "isTrue": true },
+      { "text": "Hız", "isTrue": false }
+    ],
+    "description": "Bu ifade, trafik adabının özünü oluşturur. Temelinde, trafikteki diğer bireylerin varlığına ve haklarına 'saygı' duymak ve onlara zarar vermeme 'sorumluluğu' yatar."
+  },
+  {
+    "id": 4134,
+    "category": "Trafik Adabı",
+    "question": "Karlı bir havada yokuşta kalan bir araca, diğer sürücülerin yardım ederek aracı itmesi, hangi trafik adabı değerine en iyi örnektir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sabır", "isTrue": false },
+      { "text": "Saygı", "isTrue": false },
+      { "text": "Yardımlaşma (Dayanışma)", "isTrue": true },
+      { "text": "Sorumluluk", "isTrue": false }
+    ],
+    "description": "Trafikte zor durumda kalan bir yol kullanıcısına, karşılık beklemeden yardım etmek, toplumsal dayanışmanın ve yardımlaşma kültürünün en güzel örneklerinden biridir."
+  },
+  {
+    "id": 4135,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, trafikteki diğer kişilerin haklarını ihlal etmesinin en temel nedeni aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Kuralları yeterince bilmemesi", "isTrue": false },
+      { "text": "Diğerlerini düşünmeden, bencilce davranması", "isTrue": true },
+      { "text": "Aracının çok güçlü olması", "isTrue": false },
+      { "text": "Yolun çok kalabalık olması", "isTrue": false }
+    ],
+    "description": "Trafikteki hak ihlallerinin temelinde genellikle bencillik yatar. Sürücünün, kendi istek ve ihtiyaçlarını, diğer insanların hak ve ihtiyaçlarından daha önemli görmesi, kural ihlallerini ve saygısız davranışları beraberinde getirir."
+  },
+  {
+    "id": 4136,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi, sürücünün öfkesini kontrol altına almasına yardımcı olmaz?",
+    "image_url": null,
+    "options": [
+      { "text": "Dikkatini dağıtacak başka bir şey düşünmek.", "isTrue": false },
+      { "text": "Olayı kişisel algılamaktan kaçınmak.", "isTrue": false },
+      { "text": "Hata yapan sürücüyle göz teması kurup onu sözlü olarak uyarmak.", "isTrue": true },
+      { "text": "Derin nefes alıp, 10'a kadar saymak.", "isTrue": false }
+    ],
+    "description": "Öfke anında, öfkenin kaynağı olan kişiyle doğrudan bir çatışmaya girmek, durumu daha da tırmandırır ve öfkenin artmasına neden olur. Sakinleşmek için çatışmadan kaçınmak ve dikkati başka yöne çekmek gerekir."
+  },
+  {
+    "id": 4137,
+    "category": "Trafik Adabı",
+    "question": "Trafik kazası geçirmiş ve şokta olan bir yaralıya, 'bir şeyin yok, iyisin' gibi gerçekçi olmayan sözler söylemek yerine nasıl yaklaşılmalıdır?",
+    "image_url": null,
+    "options": [
+      { "text": "Hiç konuşulmamalıdır.", "isTrue": false },
+      { "text": "Sakin ve güven veren bir ses tonuyla, 'yanındayım, yardım çağırdım' gibi destekleyici ifadeler kullanılmalıdır.", "isTrue": true },
+      { "text": "Sürekli sorular sorarak konuşturulmalıdır.", "isTrue": false },
+      { "text": "Kazanın nasıl olduğu anlattırılmalıdır.", "isTrue": false }
+    ],
+    "description": "Trafik adabı, kaza sonrası yaralılara psikolojik destek vermeyi de kapsar. Yaralıya yalan söylemek yerine, dürüst ama sakinleştirici bir dille, ona güvende olduğunu ve yardımın yolda olduğunu söylemek, paniğini azaltmaya yardımcı olur."
+  },
+  {
+    "id": 4138,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, varacağı yere birkaç dakika geç kalmayı göze alarak, bir yaya veya başka bir sürücüye yol vermesi, neyin göstergesidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Zaman yönetimini bilmediğinin", "isTrue": false },
+      { "text": "Can güvenliğini, zaman kazanmaktan daha önemli gördüğünün", "isTrue": true },
+      { "text": "Acemi olduğunun", "isTrue": false },
+      { "text": "Yolunu kaybettiğinin", "isTrue": false }
+    ],
+    "description": "Trafik adabına sahip bir sürücü, birkaç dakikalık bir zaman kazancının, bir insanın can güvenliğini riske atmaya değmeyeceğini bilir. Bu, güvenliği ve insan hayatını önceliklendiren olgun bir tutumdur."
+  },
+  {
+    "id": 4139,
+    "category": "Trafik Adabı",
+    "question": "Trafikte, bir sürücünün sürekli olarak aracının egzozunu patlatarak veya abartı egzoz kullanarak gürültü yapması, hangi adab kuralına temelden aykırıdır?",
+    "image_url": null,
+    "options": [
+      { "text": "Diğer insanlara ve çevreye saygı", "isTrue": true },
+      { "text": "Hız sınırlarına uyma", "isTrue": false },
+      { "text": "Takip mesafesi", "isTrue": false },
+      { "text": "Park kuralları", "isTrue": false }
+    ],
+    "description": "Abartı egzoz kullanımı, hem gürültü kirliliği yaratarak çevreye zarar verir hem de çevredeki insanları, özellikle de hasta, yaşlı ve çocukları rahatsız ederek toplumsal huzuru bozar. Bu, temel bir saygı kuralının ihlalidir."
+  },
+  {
+    "id": 4140,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdaki durumlardan hangisi, trafikte 'sabır' değerinin en çok test edildiği anlardan biridir?",
+    "image_url": null,
+    "options": [
+      { "text": "Açık ve boş bir otoyolda araç kullanmak.", "isTrue": false },
+      { "text": "Yoğun ve sıkışık bir şehir içi trafiğinde beklemek.", "isTrue": true },
+      { "text": "Aracını otoparka park etmek.", "isTrue": false },
+      { "text": "Yeşil ışıkta geçmek.", "isTrue": false }
+    ],
+    "description": "Sabır, özellikle ilerlemenin mümkün olmadığı veya çok yavaş olduğu durumlarda kendini gösterir. Yoğun ve sıkışık trafik, sürücülerin sabrının en çok zorlandığı ve aceleci, tepkisel davranışların en çok ortaya çıktığı durumlardır."
+  },
+  {
+    "id": 4141,
+    "category": "Trafik Adabı",
+    "question": "Trafikte, bir sürücünün diğer sürücülere karşı sürekli olarak üstünlük kurmaya çalışması, neyin göstergesidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Olgun ve sorumlu bir kişiliğin", "isTrue": false },
+      { "text": "Yüksek empati yeteneğinin", "isTrue": false },
+      { "text": "Güvensizlik ve kendini kanıtlama çabasının", "isTrue": true },
+      { "text": "Yüksek sürüş becerisinin", "isTrue": false }
+    ],
+    "description": "Trafikte sürekli yarışmak ve üstünlük kurmaya çalışmak, genellikle sürücünün kişisel güvensizliklerini ve kendini ispat etme ihtiyacını yansıtan, olgunlaşmamış ve tehlikeli bir tutumdur."
+  },
+  {
+    "id": 4142,
+    "category": "Trafik Adabı",
+    "question": "Trafik adabının temel amacı, sürücüler arasında bir ............ kültürü oluşturmaktır.",
+    "image_url": null,
+    "options": [
+      { "text": "yarışma", "isTrue": false },
+      { "text": "uzlaşma ve birlikte yaşama", "isTrue": true },
+      { "text": "ceza", "isTrue": false },
+      { "text": "korku", "isTrue": false }
+    ],
+    "description": "Trafik adabı, farklı karakter ve anlayıştaki milyonlarca insanın, ortak bir alanda, çatışmadan, kavga etmeden, birbirinin hakkına saygı göstererek bir arada bulunabilmesini sağlayan bir 'uzlaşma' kültürü yaratmayı hedefler."
+  },
+  {
+    "id": 4143,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, trafikteki diğer insanlara karşı davranışlarının, kendi ailesi ve sevdikleri tarafından izlendiğini düşünerek hareket etmesi, hangi mekanizmayı çalıştırdığını gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece ceza korkusu", "isTrue": false },
+      { "text": "Otokontrol ve sosyal sorumluluk", "isTrue": true },
+      { "text": "Bencillik", "isTrue": false },
+      { "text": "Saldırganlık", "isTrue": false }
+    ],
+    "description": "Bu düşünce, sürücünün davranışlarını sadece kurallar veya cezalar için değil, aynı zamanda sevdiklerine karşı olan sorumluluğu ve onlara iyi bir örnek olma isteğiyle de düzenlediğini gösterir. Bu, gelişmiş bir otokontrol ve sosyal sorumluluk işaretidir."
+  },
+  {
+    "id": 4144,
+    "category": "Trafik Adabı",
+    "question": "Trafikte, bir sürücünün yaptığı hata sonucu başka birinin hayatını kaybetmesi, hangi hakkın en ağır şekilde ihlal edilmesidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Kamu hakkı", "isTrue": false },
+      { "text": "Birey hakkı", "isTrue": false },
+      { "text": "Çevre hakkı", "isTrue": false },
+      { "text": "Yaşam hakkı", "isTrue": true }
+    ],
+    "description": "En temel ve kutsal hak, yaşam hakkıdır. Trafikte yapılan bir hata veya kural ihlali sonucu bir ölüme sebebiyet vermek, bir insanın en temel hakkı olan yaşama hakkını elinden almaktır ve en ağır hak ihlalidir."
+  },
+  {
+    "id": 4145,
+    "category": "Trafik Adabı",
+    "question": "Trafikte, diğer insanlara karşı kaba ve incitici davranışlardan kaçınarak, düşünceli ve nazik davranma eğilimi hangi temel değerle ifade edilir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sorumluluk", "isTrue": false },
+      { "text": "Nezaket", "isTrue": true },
+      { "text": "Sabır", "isTrue": false },
+      { "text": "Hoşgörü", "isTrue": false }
+    ],
+    "description": "Nezaket, trafikteki diğer yol kullanıcılarına karşı ince, düşünceli ve saygılı davranışlar sergilemektir. Sinyal vermek, teşekkür etmek, sıkıştırmamak gibi davranışlar nezaket örneğidir."
+  },
+  {
+    "id": 4146,
+    "category": "Trafik Adabı",
+    "question": "Aşırı duman çıkaran ve egzoz muayenesi yapılmamış bir araçla trafiğe çıkan sürücü, öncelikli olarak hangi iki hakkı ihlal etmektedir?",
+    "image_url": null,
+    "options": [
+      { "text": "Birey hakkı ve Yaşam hakkı", "isTrue": false },
+      { "text": "Kamu hakkı ve Birey hakkı", "isTrue": false },
+      { "text": "Çevre hakkı (hava kirliliği) ve Toplum hakkı (sağlık)", "isTrue": true },
+      { "text": "Sadece Kamu hakkı", "isTrue": false }
+    ],
+    "description": "Bakımsız bir araçla çevreyi normalden fazla kirletmek, herkesin ortak varlığı olan çevrenin hakkını ihlal etmektir. Aynı zamanda, bu kirli havayı soluyan diğer insanların, yani toplumun sağlığını da tehlikeye atmaktır."
+  },
+  {
+    "id": 4147,
+    "category": "Trafik Adabı",
+    "question": "Trafikte sakin ve olumlu bir ruh hali içinde olan bir sürücünün, aşağıdaki davranışlardan hangisini sergileme olasılığı daha yüksektir?",
+    "image_url": null,
+    "options": [
+      { "text": "Diğer sürücülerin hatalarına karşı daha hoşgörülü olmak.", "isTrue": true },
+      { "text": "Sürekli olarak diğer sürücülerle yarışmak.", "isTrue": false },
+      { "text": "Ani ve sert manevralar yapmak.", "isTrue": false },
+      { "text": "Gereksiz yere korna çalmak.", "isTrue": false }
+    ],
+    "description": "Sürücünün ruh hali, sürüş tarzını doğrudan etkiler. Sakin ve pozitif bir sürücü, stresi daha iyi yönetir, öfkeye kapılmaz ve diğer yol kullanıcılarının hatalarına karşı daha anlayışlı ve hoşgörülü bir tutum sergiler."
+  },
+  {
+    "id": 4148,
+    "category": "Trafik Adabı",
+    "question": "Bir sürücünün, önündeki aracı taciz etmek amacıyla uzun bir süre boyunca selektör yapması (uzun farları yakıp söndürmesi) neden adaba aykırıdır?",
+    "image_url": null,
+    "options": [
+      { "text": "Sadece aracın farlarına zarar verdiği için.", "isTrue": false },
+      { "text": "Çünkü bu davranış bir uyarıdan çok, öndeki sürücünün dikkatini dağıtan, strese sokan ve tehlike yaratan bir taciz olarak algılanır.", "isTrue": true },
+      { "text": "Çünkü selektör yapmak tamamen yasaktır.", "isTrue": false },
+      { "text": "Çünkü sadece ambulanslar selektör yapabilir.", "isTrue": false }
+    ],
+    "description": "Selektör, kısa süreli bir uyarı veya yol isteme aracı olabilir. Ancak sürekli ve tacizkar bir şekilde kullanılması, öndeki sürücünün paniğe kapılmasına, dikkatinin dağılmasına ve ani hatalar yapmasına neden olabilen saldırgan bir sürücülük davranışıdır."
+  },
+  {
+    "id": 4149,
+    "category": "Trafik Adabı",
+    "question": "Trafik adabı, sürücülerin yalnızca birbirlerine karşı değil, aynı zamanda ___________ karşı da sorumlu ve saygılı olmalarını gerektirir. Cümledeki boşluğa aşağıdakilerden hangisi en iyi şekilde uyar?",
+    "image_url": null,
+    "options": [
+      { "text": "sadece kendi araçlarına", "isTrue": false },
+      { "text": "sadece trafik polisine", "isTrue": false },
+      { "text": "trafiğin tüm unsurlarına (çevre, kamu malı, yayalar, hayvanlar)", "isTrue": true },
+      { "text": "sadece ailelerine", "isTrue": false }
+    ],
+    "description": "Trafik adabı bütüncül bir yaklaşımdır. Sadece sürücüler arası ilişkileri değil; yayalara, hayvanlara, kamu mallarına (yollar, işaretler) ve çevreye karşı olan tüm tutum ve davranışları kapsayan geniş bir ahlaki çerçevedir."
+  },
+  {
+    "id": 4150,
+    "category": "Trafik Adabı",
+    "question": "Aşağıdakilerden hangisi trafik adabının yazılı olmayan kurallarından biridir?",
+    "image_url": null,
+    "options": [
+      { "text": "Kırmızı ışıkta durmak", "isTrue": false },
+      { "text": "Hız sınırlarına uymak", "isTrue": false },
+      { "text": "Emniyet kemeri takmak", "isTrue": false },
+      { "text": "Zor durumdaki bir sürücüye yardım etmek (diğerkâmlık)", "isTrue": true }
+    ],
+    "description": "Kırmızı ışıkta durmak, hız sınırları ve emniyet kemeri gibi konular trafik kanunlarında açıkça belirtilmiş yazılı kurallardır. Ancak zor durumdaki birine yardım etmek gibi davranışlar, yasal bir zorunluluktan çok, sürücülerin vicdani sorumluluğuna ve ahlaki değerlerine dayanan, yazılı olmayan bir adab kuralıdır."
+  }
