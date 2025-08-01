@@ -18,8 +18,9 @@
     "question": "Supapların açılıp kapanmasını yöneten ve hareketini triger kayışı aracılığıyla krank milinden alan parçanın adı nedir?",
     "image_url": null,
     "options": [
-      { "text": "Krank mili", "isTrue": false },
       { "text": "Eksantrik (kam) mili", "isTrue": true },
+      { "text": "Krank mili", "isTrue": false },
+      
       { "text": "Aks mili", "isTrue": false },
       { "text": "Prizdirekt mili", "isTrue": false }
     ],
@@ -45,8 +46,9 @@
     "image_url": null,
     "options": [
       { "text": "Kamyon büyük olduğu için önceliklidir.", "isTrue": false },
-      { "text": "İnen kamyon sürücüsü, çıkan otomobil sürücüsüne yol vermelidir.", "isTrue": true },
+     
       { "text": "Çıkan otomobil, inen kamyona yol vermelidir.", "isTrue": false },
+       { "text": "İnen kamyon sürücüsü, çıkan otomobil sürücüsüne yol vermelidir.", "isTrue": true },
       { "text": "Kavşağa ilk giren araç önceliklidir.", "isTrue": false }
     ],
     "description": "Eğimli ve dar yollarda, yokuş yukarı çıkan bir aracın durup tekrar kalkış yapması, inen araca göre daha zordur. Bu nedenle trafik kuralı ve adabı, inen sürücünün, çıkan sürücüye yol vererek geçiş kolaylığı sağlamasını gerektirir."
@@ -70,8 +72,9 @@
     "question": "Aracın motor kaputunun altından beyaz buhar veya duman çıkması, öncelikle hangi sistemde bir sorun olduğunu gösterir?",
     "image_url": null,
     "options": [
-      { "text": "Yağlama sistemi", "isTrue": false },
       { "text": "Soğutma sistemi (Hararet)", "isTrue": true },
+      { "text": "Yağlama sistemi", "isTrue": false },
+      
       { "text": "Yakıt sistemi", "isTrue": false },
       { "text": "Fren sistemi", "isTrue": false }
     ],
@@ -84,9 +87,10 @@
     "image_url": null,
     "options": [
       { "text": "Yaralının daha hızlı iyileşmesini sağlar.", "isTrue": false },
-      { "text": "İlk yardımcının çalışmasını engeller ve sağlık ekiplerinin ulaşımını geciktirir.", "isTrue": true },
+      
       { "text": "Yaralıya moral verir.", "isTrue": false },
-      { "text": "Polisin delil toplamasını kolaylaştırır.", "isTrue": false }
+      { "text": "Polisin delil toplamasını kolaylaştırır.", "isTrue": false },
+      { "text": "İlk yardımcının çalışmasını engeller ve sağlık ekiplerinin ulaşımını geciktirir.", "isTrue": true },
     ],
     "description": "Kaza yerindeki meraklı kalabalık, yaralının etrafındaki havayı tüketir, ilk yardımcının hareket alanını kısıtlar ve en önemlisi, ambulans gibi acil yardım araçlarının olay yerine ulaşmasını engelleyerek zaman kaybına yol açar."
   },
@@ -123,8 +127,9 @@
     "image_url": null,
     "options": [
       { "text": "Sadece park etme hakkını", "isTrue": false },
-      { "text": "Yayaların güvenli bir şekilde yürüme ve geçiş hakkını", "isTrue": true },
+     
       { "text": "Sürücünün mülkiyet hakkını", "isTrue": false },
+       { "text": "Yayaların güvenli bir şekilde yürüme ve geçiş hakkını", "isTrue": true },
       { "text": "Hızlı geçiş hakkını", "isTrue": false }
     ],
     "description": "Yaya kaldırımları, adından da anlaşılacağı gibi, yayaların araç trafiğinden ayrı ve güvenli bir şekilde hareket etmeleri için ayrılmış alanlardır. Bu alanları araçla işgal etmek, yayaları tehlikeli olan taşıt yoluna inmeye zorlar ve onların en temel hakkı olan güvenli ulaşım hakkını gasp eder."
@@ -136,9 +141,10 @@
     "image_url": null,
     "options": [
       { "text": "Göğüs kemiğinin en üst ucu", "isTrue": false },
-      { "text": "Göğüs kemiğinin alt yarısının ortası", "isTrue": true },
+      
       { "text": "Sol meme başının üzeri", "isTrue": false },
-      { "text": "Midenin hemen üzeri", "isTrue": false }
+      { "text": "Midenin hemen üzeri", "isTrue": false },
+      { "text": "Göğüs kemiğinin alt yarısının ortası", "isTrue": true }
     ],
     "description": "Etkili bir kalp masajı için, basının doğrudan kalbin üzerine uygulanması gerekir. Bunun için en doğru anatomik nokta, göğüs kemiğinin (sternum) alt ve üst ucu hayali olarak belirlenerek, bu kemiğin alt yarısının tam ortasıdır."
   },
@@ -149,8 +155,9 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/tehlikeliviraj.png",
     "options": [
       { "text": "Normal viraj levhası", "isTrue": false },
-      { "text": "Tehlikeli viraj yön levhası", "isTrue": true },
+     
       { "text": "Mecburi yön levhası", "isTrue": false },
+       { "text": "Tehlikeli viraj yön levhası", "isTrue": true },
       { "text": "Hız sınırı levhası", "isTrue": false }
     ],
     "description": "Sarı-siyah renkli bu levhalar, sürücüyü virajın keskinliği konusunda uyarır. Levhaların sıklığı ve boyutu, virajın ne kadar tehlikeli olduğu hakkında fikir verir."
@@ -174,8 +181,9 @@
     "question": "Omurga yaralanması şüphesi olan bir yaralı sedyeye sabitlenirken, bağlama sırası hangi bölgelerden başlamalıdır?",
     "image_url": null,
     "options": [
-      { "text": "Önce ayaklar, sonra baş", "isTrue": false },
       { "text": "Önce göğüs ve kalça, sonra baş", "isTrue": true },
+      { "text": "Önce ayaklar, sonra baş", "isTrue": false },
+      
       { "text": "Önce baş, sonra göğüs", "isTrue": false },
       { "text": "Sıralama önemli değildir.", "isTrue": false }
     ],
@@ -188,8 +196,9 @@
     "image_url": null,
     "options": [
       { "text": "Otomobilin", "isTrue": false },
-      { "text": "Motosikletin", "isTrue": true },
+      
       { "text": "İkisi de durmalıdır.", "isTrue": false },
+      { "text": "Motosikletin", "isTrue": true },
       { "text": "Kavşağa ilk girenin", "isTrue": false }
     ],
     "description": "Temel kural, 'dönüş yapan araçların, düz gitmekte olan araçlara yol vermesi' gerektiğidir. Aracın cinsi (otomobil, motosiklet) bu kuralı değiştirmez. Bu nedenle, otomobil, motosikletin geçmesini beklemelidir."
@@ -201,8 +210,9 @@
     "image_url": null,
     "options": [
       { "text": "Sadece park etme hakkı", "isTrue": false },
-      { "text": "Engelli bireylerin erişim özgürlüğü hakkı", "isTrue": true },
+     
       { "text": "Sürücünün mülkiyet hakkı", "isTrue": false },
+       { "text": "Engelli bireylerin erişim özgürlüğü hakkı", "isTrue": true },
       { "text": "Hızlı geçiş hakkı", "isTrue": false }
     ],
     "description": "Engelli rampaları, bu bireylerin sosyal yaşama katılabilmeleri için kritik öneme sahiptir. Bu rampaları araçla kapatmak, bu bireylerin en temel seyahat ve erişim özgürlüğünü engellemektir."
@@ -214,8 +224,9 @@
     "image_url": null,
     "options": [
       { "text": "Motorun parçaları çalınabilir diye.", "isTrue": false },
-      { "text": "Kaputu aniden ve tamamen açmak, içeri bol oksijen girmesine ve alevlerin parlamasına neden olabileceği için.", "isTrue": true },
+     
       { "text": "Motorun soğuması gecikir diye.", "isTrue": false },
+       { "text": "Kaputu aniden ve tamamen açmak, içeri bol oksijen girmesine ve alevlerin parlamasına neden olabileceği için.", "isTrue": true },
       { "text": "Sigorta poliçesi zarar görebilir diye.", "isTrue": false }
     ],
     "description": "Motor yangınlarında kaputu aniden açmak, içeri giren oksijenle alevlerin bir anda parlamasına (backdraft) neden olarak ciddi yanıklara yol açabilir. Doğru olan, yangın söndürücüyü hazırladıktan sonra kaputu sadece hafifçe aralayıp içeri boşaltmaktır."
@@ -239,8 +250,9 @@
     "question": "Yokuşlu yollarda, ağır vasıtaların trafiği yavaşlatmasını önlemek amacıyla yolun sağına eklenen ve genellikle özel yol çizgileriyle belirtilen şeridin adı nedir?",
     "image_url": null,
     "options": [
+       { "text": "Tırmanma şeridi", "isTrue": true },
       { "text": "Emniyet şeridi", "isTrue": false },
-      { "text": "Tırmanma şeridi", "isTrue": true },
+     
       { "text": "Hızlanma şeridi", "isTrue": false },
       { "text": "Yavaşlama şeridi", "isTrue": false }
     ],
@@ -253,9 +265,10 @@
     "image_url": null,
     "options": [
       { "text": "Akü'nün bitmek üzere olması", "isTrue": false },
-      { "text": "O farın şasi (topraklama) bağlantısında sorun olması", "isTrue": true },
+     
       { "text": "Sigortanın atmak üzere olması", "isTrue": false },
-      { "text": "Alternatörün arızalı olması", "isTrue": false }
+      { "text": "Alternatörün arızalı olması", "isTrue": false },
+       { "text": "O farın şasi (topraklama) bağlantısında sorun olması", "isTrue": true }
     ],
     "description": "Genel bir elektrik sorunu genellikle her iki farı da etkiler. Tek bir farın sönük yanması, genellikle o fara özel bir soruna işaret eder. En yaygın nedenlerden biri, o farın elektrik devresini tamamlayan şasi bağlantısındaki bir gevşeklik veya paslanmadır."
   },
@@ -266,17 +279,18 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/ilerivesola.png",
     "options": [
       { "text": "Şeridin sadece sola dönüş için olduğunu.", "isTrue": false },
-      { "text": "Şeridi kullananların kavşakta sadece düz gidebileceğini veya sola dönebileceğini.", "isTrue": true },
+      
       { "text": "Şeridin hızlanma şeridi olduğunu.", "isTrue": false },
-      { "text": "Şeritte U dönüşü yapılabileceğini.", "isTrue": false }
+      { "text": "Şeritte U dönüşü yapılabileceğini.", "isTrue": false },
+      { "text": "Şeridi kullananların kavşakta sadece düz gidebileceğini veya sola dönebileceğini.", "isTrue": true },
     ],
     "description": "Bu yön okları, sürücülerin kavşağa gelmeden önce gidecekleri yöne uygun şeride girmelerini sağlamak amacıyla kullanılır. Bu şeride giren bir sürücü, kavşakta sağa dönemez veya başka bir manevra yapamaz."
   },
   {
     "id": 2672,
     "category": "İlk Yardım",
-    "question": "Görseldeki gibi, bir yaralının bacağındaki atardamar kanamasını durdurmak için, ilk yardımcı hangi noktaya baskı uygulamalıdır? [Görsel: Bacağında kanama olan bir yaralı ve vücudundaki bası noktaları]",
-    "image_url": null,
+    "question": "Görseldeki gibi, siyah okla işaretlenen yaralanma durumunda , ilk yardımcı hangi noktaya baskı uygulamalıdır?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/basinoktalari.png",
     "options": [
       { "text": "Koltuk altına", "isTrue": false },
       { "text": "Kasık bölgesinin iç kısmına", "isTrue": true },
@@ -292,9 +306,10 @@
     "image_url": null,
     "options": [
       { "text": "Kuru ve sıcak havada", "isTrue": false },
-      { "text": "Islak ve yağmurlu zeminde (suda kızaklama riski)", "isTrue": true },
+      
       { "text": "Karlı ve buzlu yolda", "isTrue": false },
-      { "text": "Mıcırlı yolda", "isTrue": false }
+      { "text": "Mıcırlı yolda", "isTrue": false },
+      { "text": "Islak ve yağmurlu zeminde (suda kızaklama riski)", "isTrue": true }
     ],
     "description": "Lastik dişlerinin temel görevi, suyu lastiğin altından tahliye etmektir. Dişler aşındığında bu tahliye yapılamaz ve araç, su birikintisi üzerinde bir kızak gibi kayarak (aquaplaning) tamamen kontrolsüz kalır. Bu durum özellikle ıslak zeminlerde çok tehlikelidir."
   },
@@ -330,8 +345,9 @@
     "question": "Bir yaralının bacağındaki kanama, üzerine bezle baskı uygulanmasına rağmen durmuyorsa, ikinci bir bez nasıl uygulanmalıdır?",
     "image_url": null,
     "options": [
-      { "text": "İlk bez kaldırılır ve yerine yeni bez konulur.", "isTrue": false },
       { "text": "İlk bez kaldırılmadan, üzerine ikinci bir bez konularak baskı artırılır.", "isTrue": true },
+      { "text": "İlk bez kaldırılır ve yerine yeni bez konulur.", "isTrue": false },
+      
       { "text": "Kanamalı bölgenin yanına yeni bir bez konulur.", "isTrue": false },
       { "text": "Bezi ıslatarak yaranın üzerine koymak gerekir.", "isTrue": false }
     ],
@@ -353,8 +369,8 @@
   {
     "id": 2678,
     "category": "Trafik ve Çevre",
-    "question": "Görseldeki gibi, yol üzerinde aralıklı kesik çizgilerle çevrilmiş ve genellikle kavşak içlerinde bulunan taranmış alanın anlamı nedir? [Görsel: Kavşak ortasında çapraz çizgilerle taranmış alan]",
-    "image_url": null,
+    "question": "Görseldeki gibi, yol üzerinde aralıklı kesik çizgilerle çevrilmiş ve genellikle kavşak içlerinde bulunan taranmış alanın anlamı nedir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kavsak_tarali_alan.png",
     "options": [
       { "text": "Park etme alanı", "isTrue": false },
       { "text": "Yaya geçidi", "isTrue": false },
@@ -369,8 +385,9 @@
     "question": "İlk yardımcı, bilinci kapalı ve solunumu olmayan yetişkin bir yaralıya tek başınaysa, 112'yi aramadan önce ne yapmalıdır?",
     "image_url": null,
     "options": [
-      { "text": "Hemen 112'yi arar, sonra kalp masajına başlar.", "isTrue": false },
       { "text": "Önce 5 tur (yaklaşık 2 dakika) kalp masajı ve suni solunum uyguladıktan sonra 112'yi arar.", "isTrue": true },
+      { "text": "Hemen 112'yi arar, sonra kalp masajına başlar.", "isTrue": false },
+      
       { "text": "Yaralıyı en yakın hastaneye götürmeye çalışır.", "isTrue": false },
       { "text": "112'yi aramaz, sadece kalp masajı yapar.", "isTrue": false }
     ],
@@ -383,9 +400,10 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/yasaklarson.png",
     "options": [
       { "text": "Hız Sınırlaması Sonu", "isTrue": false },
-      { "text": "Bütün Yasaklama ve Kısıtlamaların Sonu", "isTrue": true },
+      
       { "text": "Sollama Yasağı Sonu", "isTrue": false },
-      { "text": "Otoyol Sonu", "isTrue": false }
+      { "text": "Otoyol Sonu", "isTrue": false },
+      { "text": "Bütün Yasaklama ve Kısıtlamaların Sonu", "isTrue": true }
     ],
     "description": "Bu levha, daha önce başka levhalarla belirtilmiş olan tüm yerel yasakların (hız limiti, sollama yasağı vb.) o noktadan itibaren sona erdiğini bildirir."
   },
@@ -396,9 +414,10 @@
     "image_url": null,
     "options": [
       { "text": "Amortisör", "isTrue": false },
-      { "text": "Rotil", "isTrue": true },
+     
       { "text": "Aks körüğü", "isTrue": false },
-      { "text": "Fren kaliperi", "isTrue": false }
+      { "text": "Fren kaliperi", "isTrue": false },
+       { "text": "Rotil", "isTrue": true }
     ],
     "description": "Rotil, tekerleğin hem yukarı-aşağı salınım yapmasına hem de sağa-sola dönmesine olanak tanıyan çok önemli bir süspansiyon ve direksiyon sistemi parçasıdır."
   },
@@ -409,8 +428,9 @@
     "image_url": null,
     "options": [
       { "text": "Banket", "isTrue": false },
-      { "text": "Geriye dönüş cebi (U dönüşü cebi)", "isTrue": true },
+      
       { "text": "Tali yol", "isTrue": false },
+      { "text": "Geriye dönüş cebi (U dönüşü cebi)", "isTrue": true },
       { "text": "Hızlanma şeridi", "isTrue": false }
     ],
     "description": "Bölünmüş yollarda, sürücülerin güvenli bir şekilde 'U' dönüşü yapabilmeleri için, refüj üzerinde özel olarak tasarlanmış bu cepler bulunur."
@@ -422,8 +442,9 @@
     "image_url": null,
     "options": [
       { "text": "Dirseğin iç kısmına", "isTrue": false },
-      { "text": "Kolun iç kısmında, dirsek ile omuz arasına", "isTrue": true },
+      
       { "text": "El bileğinin üzerine", "isTrue": false },
+      { "text": "Kolun iç kısmında, dirsek ile omuz arasına", "isTrue": true },
       { "text": "Omuzun üzerine", "isTrue": false }
     ],
     "description": "Kola giden ana atardamar, kolun üst iç kısmından geçtiği için, bu noktaya yapılan baskı kan akışını etkili bir şekilde yavaşlatır."
@@ -447,8 +468,9 @@
     "question": "Bir sürücünün aracını, görme engelliler için tasarlanmış sarı kabartmalı yola park etmesi, hangi temel hakkın en ağır ihlalidir?",
     "image_url": null,
     "options": [
+       { "text": "Görme engelli bir bireyin, bağımsız ve güvenli hareket etme hakkı", "isTrue": true },
       { "text": "Sadece park etme hakkı", "isTrue": false },
-      { "text": "Görme engelli bir bireyin, bağımsız ve güvenli hareket etme hakkı", "isTrue": true },
+     
       { "text": "Sürücünün mülkiyet hakkı", "isTrue": false },
       { "text": "Hızlı geçiş hakkı", "isTrue": false }
     ],
@@ -461,9 +483,10 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/bisiklet_giremez.png",
     "options": [
       { "text": "Mecburi bisiklet yolu", "isTrue": false },
-      { "text": "Bisiklet giremez", "isTrue": true },
+     
       { "text": "Bisiklet geçebilir", "isTrue": false },
-      { "text": "Bisiklet park yeri", "isTrue": false }
+      { "text": "Bisiklet park yeri", "isTrue": false },
+       { "text": "Bisiklet giremez", "isTrue": true }
     ],
     "description": "Kırmızı daire şeklindeki levhalar bir yasağı belirtir. İçinde bisiklet figürü olan bu levha, o yola bisikletlerin girişinin yasak olduğunu gösterir."
   },
@@ -490,10 +513,7 @@
       "text": "ABS ikaz ışığı",
       "isTrue": false
     },
-    {
-      "text": "Yağ basıncı ikaz ışığı",
-      "isTrue": true
-    },
+   
     {
       "text": "Hava yastığı (Airbag) ikaz ışığı",
       "isTrue": false
@@ -501,6 +521,10 @@
     {
       "text": "Silecek suyu seviyesi ikaz ışığı",
       "isTrue": false
+    },
+     {
+      "text": "Yağ basıncı ikaz ışığı",
+      "isTrue": true
     }
   ],
   "description": "Yağ basıncı ikaz ışığı, motordaki yağlama sisteminde ciddi bir sorun olduğunu gösterir. Motorun yağsız kalması, çok kısa sürede aşınmasına, aşırı ısınmasına ve kilitlenerek büyük hasar görmesine neden olabilir. Bu nedenle bu ışık yandığında araç derhal güvenli bir yere çekilmeli ve motor durdurulmalıdır."
@@ -541,16 +565,16 @@
       "text": "Motor gücü daha az olan araç, diğerine yol vermelidir.",
       "isTrue": false
     },
-    {
-      "text": "Daha hızlı gelen araç, ilk geçiş hakkına sahiptir.",
-      "isTrue": false
-    },
+   
     {
       "text": "Soldaki araç, sağdan gelen araca yol vermelidir.",
       "isTrue": true
     },
     {
       "text": "Sağdaki araç, soldan gelen araca yol vermelidir.",
+      "isTrue": false
+    }, {
+      "text": "Daha hızlı gelen araç, ilk geçiş hakkına sahiptir.",
       "isTrue": false
     }
   ],
@@ -562,8 +586,9 @@
     "question": "Bir aracın lastiklerinin havası normalden az olduğunda, lastiğin yerdeki izi nasıl olur?",
     "image_url": null,
     "options": [
+       { "text": "Temas yüzeyi artar ve lastik daha fazla yayılır.", "isTrue": true },
       { "text": "Temas yüzeyi azalır.", "isTrue": false },
-      { "text": "Temas yüzeyi artar ve lastik daha fazla yayılır.", "isTrue": true },
+     
       { "text": "Temas yüzeyi değişmez.", "isTrue": false },
       { "text": "Sadece orta kısmı yere temas eder.", "isTrue": false }
     ],
@@ -575,8 +600,9 @@
     "question": "El bileğindeki bir atardamar kanamasını durdurmak için, yaranın üzerine yapılan baskı yetersiz kalırsa, hangi bası noktasına basınç uygulanmalıdır?",
     "image_url": null,
     "options": [
-      { "text": "Omuzun üzerine", "isTrue": false },
       { "text": "Kolun iç kısmına, dirsek ile omuz arasına", "isTrue": true },
+      { "text": "Omuzun üzerine", "isTrue": false },
+      
       { "text": "Köprücük kemiğinin üzerine", "isTrue": false },
       { "text": "Boynun yan tarafına", "isTrue": false }
     ],
@@ -615,9 +641,10 @@
     "image_url": null,
     "options": [
       { "text": "Motor arıza sistemi", "isTrue": false },
-      { "text": "Elektronik park freni (el freni) sistemi", "isTrue": true },
+     
       { "text": "Fren hidrolik sistemi", "isTrue": false },
-      { "text": "ABS sistemi", "isTrue": false }
+      { "text": "ABS sistemi", "isTrue": false },
+       { "text": "Elektronik park freni (el freni) sistemi", "isTrue": true }
     ],
     "description": "EPB (Electric Park Brake), modern araçlarda bulunan ve bir düğme ile kontrol edilen elektronik el freni sistemidir. Bu sistemde bir arıza olduğunda, gösterge panelinde ilgili bir ikaz ışığı yanar."
   },
@@ -628,8 +655,9 @@
     "image_url": null,
     "options": [
       { "text": "Yaralının daha rahat uyumasını sağlamak.", "isTrue": false },
-      { "text": "Başın sağa veya sola dönmesini engelleyerek boyun omurlarının hareketini kısıtlamak.", "isTrue": true },
+     
       { "text": "Yaralının kulağına su kaçmasını engellemek.", "isTrue": false },
+       { "text": "Başın sağa veya sola dönmesini engelleyerek boyun omurlarının hareketini kısıtlamak.", "isTrue": true },
       { "text": "Yaralının daha iyi duymasını sağlamak.", "isTrue": false }
     ],
     "description": "Başın her iki yanına konulan sert destekler, boynun dönme hareketini de engelleyerek tam bir hareketsizlik (immobilizasyon) sağlar ve olası bir felç riskini en aza indirir."
@@ -641,8 +669,9 @@
     "image_url": null,
     "options": [
       { "text": "Her zaman yasaktır.", "isTrue": false },
-      { "text": "Sürücünün, kavşak çıkışı açık olmadan bu alana girmesi", "isTrue": true },
+     
       { "text": "Sadece kırmızı ışıkta girilmesi", "isTrue": false },
+       { "text": "Sürücünün, kavşak çıkışı açık olmadan bu alana girmesi", "isTrue": true },
       { "text": "Sadece acele durumlarda girilebilir.", "isTrue": false }
     ],
     "description": "Bu sarı kutunun temel kuralı şudur: Eğer gideceğiniz yöndeki çıkışınız açık değilse, yeşil ışık yansa bile bu kutunun içine giremezsiniz. Amaç, kavşağın kilitlenmesini önlemektir."
@@ -667,9 +696,10 @@
     "image_url": null,
     "options": [
       { "text": "Azami hızın 70 km/s olduğu", "isTrue": false },
-      { "text": "70 km/s hız sınırlamasının sona erdiği", "isTrue": true },
+     
       { "text": "Asgari hızın 70 km/s olduğu", "isTrue": false },
-      { "text": "70 metreden yakın takip yasağı sonu", "isTrue": false }
+      { "text": "70 metreden yakın takip yasağı sonu", "isTrue": false },
+      { "text": "70 km/s hız sınırlamasının sona erdiği", "isTrue": true }
     ],
     "description": "Bu levha, daha önce belirtilmiş olan 70 km/s hız sınırının bittiğini ve yolun kendi genel hız limitlerine dönüldüğünü ifade eder."
   }
