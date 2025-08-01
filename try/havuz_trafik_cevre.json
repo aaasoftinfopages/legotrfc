@@ -16,7 +16,7 @@
     "id": 3002,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?",
-    "image_url": "https://www.meb.gov.tr/meb_iys_dosyalar/2022_09/20164821_T-3b.jpg",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/egim_cikis.png",
     "options": [
       { "text": "Tehlikeli iniş eğimli yol", "isTrue": false },
       { "text": "Tehlikeli çıkış eğimli yol", "isTrue": true },
@@ -44,10 +44,10 @@
     "question": "Aşağıdaki trafik tanzim işaretlerinden hangisi, kamyonların öndeki taşıtı geçmesinin yasak olduğunu bildirir?",
     "image_url": null,
     "options": [
-      { "text": "Görsel: Kırmızı daire içinde siyah kamyon figürü.", "isTrue": false },
-      { "text": "Görsel: Kırmızı daire içinde sollama yapan otomobil figürünün üstü siyah çizgiyle çizilmiş.", "isTrue": false },
-      { "text": "Görsel: Kırmızı daire içinde kırmızı otomobilin yanında siyah kamyon figürü.", "isTrue": true },
-      { "text": "Görsel: Kırmızı daire içinde iki otomobil yan yana, soldaki kırmızı.", "isTrue": false }
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/anayol_tali.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kamyan_giremez.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kamyon_sollama_yasak.png", "isTrue": true },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/sollamak_yasak.png", "isTrue": false }
     ],
     "description": "Bu işaret, kamyon sürücülerinin önlerindeki aracı geçmelerinin yasak olduğunu belirtir."
   },
@@ -94,7 +94,7 @@
     "id": 3008,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti ne anlama gelir?",
-    "image_url": "https://www.surucukurslari.com/data/files/1908587122_dur_levhasi_ne_anlama_gelir.jpg",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/gorsal3.png",
     "options": [
       { "text": "Yol ver", "isTrue": false },
       { "text": "Girişi olmayan yol", "isTrue": false },
@@ -146,7 +146,7 @@
     "id": 3012,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tehlike uyarı işareti sürücüye neyi bildirir?",
-    "image_url": "https://www.zoro.com/static/cms/beta/v1/K-13491_Brand_Evergreen_Content_Traffic_Signs_Symbol_Meanings_Header.jpeg",
+    "image_url": "/http://aaasoftinfopages.github.io/legotrfc/page/questions/kayganyol.png",
     "options": [
       { "text": "Yolda çalışma olduğunu", "isTrue": false },
       { "text": "Kaygan yol kesimine yaklaşıldığını", "isTrue": true },
@@ -185,7 +185,7 @@
     "id": 3015,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik görevlisinin duruş pozisyonuna göre hangi numaralı araçlar beklemelidir?",
-    "image_url": "https://i.ytimg.com/vi/s05t95bJg-E/maxresdefault.jpg",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kavsak3.png",
     "options": [
       { "text": "1 ve 3", "isTrue": false },
       { "text": "2 ve 4", "isTrue": true },
@@ -224,7 +224,7 @@
     "id": 3018,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti sürücüye neyi bildirir?",
-    "image_url": "https://i.ytimg.com/vi/q_GzGjBq5aU/maxresdefault.jpg",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/anayol_tali.png",
     "options": [
       { "text": "Anayol sonu", "isTrue": false },
       { "text": "Kontrolsüz kavşak", "isTrue": false },
@@ -312,18 +312,18 @@
     "description": "Tehlikeli madde taşıyan taşıtlar, yerleşim yeri dışında diğer araçları en az 50 metre mesafeden takip etmek zorundadır."
   },
   {
-    "id": 3025,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki park bilgi işaretine göre hangi araçlar yanlış park etmiştir?",
-    "image_url": "https://i.ytimg.com/vi/W4C6S4Y3o4g/maxresdefault.jpg",
-    "options": [
-      { "text": "Yalnız 3", "isTrue": true },
-      { "text": "1 ve 2", "isTrue": false },
-      { "text": "1 ve 3", "isTrue": false },
-      { "text": "2 ve 3", "isTrue": false }
-    ],
-    "description": "Park yeri levhasının altındaki panel, araçların park pozisyonunu gösterir. Bu görselde araçların yola dik park etmesi gerektiğini göstermektedir. 1 ve 2 numaralı araçlar doğru park ederken, 3 numaralı araç yola paralel park ederek kural ihlali yapmıştır."
-  },
+  "id": 3026,
+  "category": "Trafik ve Çevre",
+  "question": "Görseldeki trafik işaretinin anlamı nedir ve bu işaretin bulunduğu yerde aşağıdakilerden hangisi yapılabilir?",
+  "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/durmakveparketmekyasak.png",
+  "options": [
+    { "text": "Park etmek serbesttir, duraklamak yasaktır.", "isTrue": false },
+    { "text": "Yolcu indirmek amacıyla kısa süreli duraklamak serbesttir.", "isTrue": false },
+    { "text": "Kırmızı ışık gibi bir trafik zorunluluğu nedeniyle durmak serbesttir.", "isTrue": true },
+    { "text": "Aracı 1 dakikadan az bir süre için park etmek serbesttir.", "isTrue": false }
+  ],
+  [cite_start]"description": "Bu işaret 'Duraklamak ve Park Etmek Yasaktır' anlamına gelir[cite: 1015]. [cite_start]Bu, yolcu indirme-bindirme veya yük boşaltma gibi kısa süreli duraklamaların dahi yasak olduğu anlamına gelir[cite: 1015]. [cite_start]Ancak, kırmızı ışıkta beklemek veya polisin 'dur' işareti gibi trafik zorunlulukları nedeniyle aracın durdurulması 'durma' hali olarak kabul edilir ve bu yasak kapsamında değildir[cite: 27]."
+},
   {
     "id": 3026,
     "category": "Trafik ve Çevre",
