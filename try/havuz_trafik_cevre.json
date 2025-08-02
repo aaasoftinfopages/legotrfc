@@ -146,7 +146,7 @@
     "id": 3012,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tehlike uyarı işareti sürücüye neyi bildirir?",
-    "image_url": "/http://aaasoftinfopages.github.io/legotrfc/page/questions/kayganyol.png",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kayganyol.png",
     "options": [
       { "text": "Yolda çalışma olduğunu", "isTrue": false },
       { "text": "Kaygan yol kesimine yaklaşıldığını", "isTrue": true },
@@ -322,7 +322,7 @@
     { "text": "Kırmızı ışık gibi bir trafik zorunluluğu nedeniyle durmak serbesttir.", "isTrue": true },
     { "text": "Aracı 1 dakikadan az bir süre için park etmek serbesttir.", "isTrue": false }
   ],
-  [cite_start]"description": "Bu işaret 'Duraklamak ve Park Etmek Yasaktır' anlamına gelir[cite: 1015]. [cite_start]Bu, yolcu indirme-bindirme veya yük boşaltma gibi kısa süreli duraklamaların dahi yasak olduğu anlamına gelir[cite: 1015]. [cite_start]Ancak, kırmızı ışıkta beklemek veya polisin 'dur' işareti gibi trafik zorunlulukları nedeniyle aracın durdurulması 'durma' hali olarak kabul edilir ve bu yasak kapsamında değildir[cite: 27]."
+  "description": "Bu işaret 'Duraklamak ve Park Etmek Yasaktır' anlamına gelir[cite: 1015]. [cite_start]Bu, yolcu indirme-bindirme veya yük boşaltma gibi kısa süreli duraklamaların dahi yasak olduğu anlamına gelir[cite: 1015]. [cite_start]Ancak, kırmızı ışıkta beklemek veya polisin 'dur' işareti gibi trafik zorunlulukları nedeniyle aracın durdurulması 'durma' hali olarak kabul edilir ve bu yasak kapsamında değildir[cite: 27]."
 },
   {
     "id": 3026,
@@ -367,7 +367,7 @@
     "id": 3029,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tehlike uyarı işareti aşağıdakilerden hangisidir?",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Turkish_road_sign_31-a.svg/1200px-Turkish_road_sign_31-a.svg.png",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/donel_kavsak.png",
     "options": [
       { "text": "Kontrolsüz kavşak", "isTrue": false },
       { "text": "Dönel kavşak", "isTrue": true },
@@ -419,7 +419,7 @@
     "id": 3033,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti ne anlama gelir?",
-    "image_url": "https://trafik.gov.tr/kurumlar/trafik.gov.tr/ilave-isaret-panelleri/P-3a.png",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/durmakveparketmekyasak.png",
     "options": [
       { "text": "Park etmek yasaktır.", "isTrue": false },
       { "text": "Duraklamak ve park etmek yasaktır.", "isTrue": false },
@@ -484,7 +484,7 @@
     "id": 3038,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki yol çizgileri ne anlama gelmektedir?",
-    "image_url": "https://i.ytimg.com/vi/DqAGb2wVz7E/maxresdefault.jpg",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/yavaslama_cizgileri.png",
     "options": [
       { "text": "Yavaşlama uyarı çizgileri", "isTrue": true },
       { "text": "Bölünmüş yol başlangıcı", "isTrue": false },
@@ -549,7 +549,7 @@
     "id": 3043,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tehlike uyarı işareti ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fiki-yonlu-trafik-isareti-ve-anlami.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/iki_yonlu_trafik.png",
     "options": [
       { "text": "Sağdan daralan kaplama", "isTrue": false },
       { "text": "İki yönlü trafik", "isTrue": true },
@@ -627,7 +627,7 @@
     "id": 3049,
     "category": "Trafik ve Çevre",
     "question": "Taşıt yolu üzerine çizilen şekildeki çizgilerin anlamı nedir?",
-    "image_url": "https://i.ytimg.com/vi/bYmS4zXmY8U/maxresdefault.jpg",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/bolunmus_yol_baslangici.png",
     "options": [
       { "text": "Tırmanma şeridi", "isTrue": false },
       { "text": "Bölünmüş yol başlangıcı", "isTrue": true },
@@ -666,7 +666,7 @@
     "id": 3052,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik tanzim işareti, sürücülere neyi bildirir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fkar%25C5%259F%25C4%25B1dan-gelene-yol-ver-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAD",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/karsidangelene_yolver.png",
     "options": [
       { "text": "Taşıt trafiğine kapalı yolu", "isTrue": false },
       { "text": "Girişi olmayan yolu", "isTrue": false },
@@ -731,7 +731,7 @@
     "id": 3057,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik tanzim işareti neyi ifade eder?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FT%25C3%25BCrkiye%2527deki_trafik_i%25C5%259Faretleri&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/yuk7ton.png",
     "options": [
       { "text": "Azami hız sınırlaması", "isTrue": false },
       { "text": "Yüklü ağırlığı 7 tondan fazla olan taşıtın giremeyeceğini", "isTrue": true },
@@ -770,7 +770,7 @@
     "id": 3060,
     "category": "Trafik ve Çevre",
     "question": "Aksine bir durum yoksa, şekildeki gibi bölünmüş bir yolda seyreden kamyon sürücüsü hangi şeridi kullanmalıdır?",
-    "image_url": "https://i.ytimg.com/vi/bYmS4zXmY8U/maxresdefault.jpg",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kamyondoru.png",
     "options": [
       { "text": "En sol şeridi", "isTrue": false },
       { "text": "Orta şeridi", "isTrue": false },
@@ -783,7 +783,7 @@
     "id": 3061,
     "category": "Trafik ve Çevre",
     "question": "Trafik görevlisinin şekildeki işareti ne anlama gelmektedir?",
-    "image_url": "https://www.surucukurslari.com/data/files/1908587122_dur_levhasi_ne_anlama_gelir.jpg",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma1.png",
     "options": [
       { "text": "Hızlan", "isTrue": false },
       { "text": "Yavaşla", "isTrue": true },
@@ -848,7 +848,7 @@
     "id": 3066,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki bilgi işareti ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fhastane-trafik-i%25C5%259Fareti&psig=AOvVaw0WqP7V_s6iE9F4oT9X_J1m&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/hastane.jpg",
     "options": [
       { "text": "İlk yardım merkezi", "isTrue": false },
       { "text": "Sağlık ocağı", "isTrue": false },
@@ -887,7 +887,7 @@
     "id": 3069,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti hangi yolun başlangıcını belirtir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fotoyol-ba%25C5%259Flang%25C4%25B1c%25C4%25B1-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/gorsal9.png",
     "options": [
       { "text": "Bölünmüş yol", "isTrue": false },
       { "text": "Tek yönlü yol", "isTrue": false },
@@ -939,7 +939,7 @@
     "id": 3073,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik tanzim işareti ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/u_donusu_yapilmaz.png",
     "options": [
       { "text": "Sağa dönülmez", "isTrue": false },
       { "text": "Sola dönülmez", "isTrue": false },
@@ -990,8 +990,8 @@
   {
     "id": 3077,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki 'Duraklamak ve Park Etmek Yasaktır' levhasının bulunduğu bir yolda, aşağıdakilerden hangisi yapılabilir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fduraklamak-ve-park-etmek-yasakt%25C4%25B1r-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "question": "Duraklamak ve Park Etmek Yasaktır' levhasının bulunduğu bir yolda, aşağıdakilerden hangisi yapılabilir?",
+    "image_url": null,
     "options": [
       { "text": "Aracı kısa süreli bekletmek", "isTrue": false },
       { "text": "Yolcu indirmek", "isTrue": false },
@@ -1056,7 +1056,7 @@
     "id": 3082,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti ne anlama gelmektedir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fbisik0000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/bisiklet_giremez.png",
     "options": [
         { "text": "Bisiklet geçebilir", "isTrue": false },
         { "text": "Bisiklet yolu", "isTrue": false },
@@ -1121,7 +1121,7 @@
     "id": 3087,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki 'İki Yönlü Yol' levhası hangi grup işaretler arasında yer alır?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fiki-yonlu-trafik-isareti-ve-anlami.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/iki_yonlu_trafik.png",
     "options": [
         { "text": "Trafik Tanzim İşaretleri", "isTrue": false },
         { "text": "Tehlike Uyarı İşaretleri", "isTrue": true },
@@ -1173,7 +1173,7 @@
     "id": 3091,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tehlike uyarı işareti sürücüye neyi bildirir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fkontrols%25C3%25BCz-kav%25C5%259Fak-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kontrolsuz_kavsak.png",
     "options": [
         { "text": "Anayol-tali yol kavşağını", "isTrue": false },
         { "text": "Dönel kavşağı", "isTrue": false },
@@ -1251,7 +1251,7 @@
     "id": 3097,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fge%25C3%25A7me-yasa%25C4%259F%25C4%25B1-sonu-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/gecme_yasagi_sonu.png",
     "options": [
         { "text": "Öndeki taşıtı geçmek yasaktır", "isTrue": false },
         { "text": "Hız sınırlaması sonu", "isTrue": false },
@@ -1328,7 +1328,7 @@
     "id": 3103,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tehlike uyarı işareti ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fgev%25C5%259Fek-%25C5%2jRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/page/questions/gevsek_sev.png",
     "options": [
       { "text": "Kasisli yol", "isTrue": false },
       { "text": "Gevşek malzemeli zemin", "isTrue": false },
@@ -1393,7 +1393,7 @@
     "id": 3108,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik tanzim işareti neyi bildirir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fzincir-takmak-mecburidir-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/zincir_mec_sonu.png",
     "options": [
       { "text": "Kış lastiği takmanın zorunlu olduğunu", "isTrue": false },
       { "text": "Zincir takmanın yasak olduğunu", "isTrue": false },
@@ -1458,7 +1458,7 @@
     "id": 3113,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fanayol-sonu-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/anayol_sonu.png",
     "options": [
       { "text": "Anayol", "isTrue": false },
       { "text": "Anayol sonu", "isTrue": true },
@@ -1510,7 +1510,7 @@
     "id": 3117,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki gibi bir kontrolsüz kavşakta 1 numaralı araç sürücüsü ne yapmalıdır?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fkontrolsuz-kavsaklarda-gecis-hakki-siralamasi.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kavsak4.png",
     "options": [
       { "text": "Hızını artırıp kavşağa önce girmelidir.", "isTrue": false },
       { "text": "2 numaralı aracın geçmesini beklemelidir.", "isTrue": true },
@@ -1588,7 +1588,7 @@
     "id": 3123,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işaretinin bulunduğu yola hangi araç giremez?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Ftreyler-giremez-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/treyler_giremez.png",
     "options": [
       { "text": "Otomobil", "isTrue": false },
       { "text": "Kamyon", "isTrue": false },
@@ -1653,7 +1653,7 @@
     "id": 3128,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki duruma göre 2 numaralı aracın 1 numaralı aracı geçmesi ile ilgili hangisi söylenebilir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fkesikli-ve-devamli-yol-cizgisi.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/sollama.png",
     "options": [
       { "text": "Geçiş yapması yasaktır.", "isTrue": true },
       { "text": "Geçiş yapması serbesttir.", "isTrue": false },
@@ -1770,7 +1770,7 @@
     "id": 3137,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki aracın sürücüsü, dönel kavşaktan geriye dönüş yapmak için hangi şeridi izlemelidir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fdonel-kavsaklarda-gecis-hakki.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "",
     "options": [
         { "text": "1 numaralı şeridi", "isTrue": true },
         { "text": "2 numaralı şeridi", "isTrue": false },
