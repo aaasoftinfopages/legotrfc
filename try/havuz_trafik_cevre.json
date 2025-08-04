@@ -1668,10 +1668,10 @@
     "question": "Sürücünün yanındaki ön koltukta kaç yaşından küçük çocukların taşınması yasaktır?",
     "image_url": null,
     "options": [
-      { "text": "7", "isTrue": false },
       { "text": "10", "isTrue": true },
-      { "text": "12", "isTrue": false },
-      { "text": "15", "isTrue": false }
+      { "text": "11", "isTrue": false },
+      { "text": "14", "isTrue": false },
+      { "text": "17", "isTrue": false }
     ],
     "description": "Sürücünün yanındaki ön koltukta 10 yaşından küçük çocukların taşınması yasaktır."
   },
@@ -1681,10 +1681,10 @@
     "question": "Aşağıdaki trafik işaretlerinden hangisi 'Girişi Olmayan Yol' anlamındadır?",
     "image_url": null,
     "options": [
-      { "text": "Görsel: Ters üçgen levha.", "isTrue": false },
-      { "text": "Görsel: Sekizgen kırmızı 'DUR' levhası.", "isTrue": false },
-      { "text": "Görsel: Yuvarlak kırmızı zemin üzerine beyaz yatay bir şerit.", "isTrue": true },
-      { "text": "Görsel: İçi boş kırmızı yuvarlak levha.", "isTrue": false }
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/yolver.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/dur.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/giris_olmayan_yol.png", "isTrue": true },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/trafige_kapali.png", "isTrue": false }
     ],
     "description": "Yuvarlak kırmızı zemin üzerine beyaz yatay bir şeritten oluşan işaret (TT-4), o yola herhangi bir taşıtın girmesinin yasak olduğunu, yani 'Girişi Olmayan Yol' olduğunu bildirir."
   },
@@ -1770,7 +1770,7 @@
     "id": 3137,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki aracın sürücüsü, dönel kavşaktan geriye dönüş yapmak için hangi şeridi izlemelidir?",
-    "image_url": "",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/donelkavsak_geri_donus.png",
     "options": [
         { "text": "1 numaralı şeridi", "isTrue": true },
         { "text": "2 numaralı şeridi", "isTrue": false },
@@ -1819,18 +1819,18 @@
     "description": "Gabari, araçların yüklü veya yüksüz olarak karayolunda güvenli seyirlerini temin amacı ile uzunluk, genişlik ve yüksekliklerini belirleyen ölçülerdir."
   },
   {
-    "id": 3141,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki kavşakta 1 numaralı araç sürücüsünün 2 numaralı araca yol vermesinin nedeni aşağıdakilerden hangisidir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Ftali-yoldan-ana-yola-cikis.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
-    "options": [
-        { "text": "1 numaralı aracın daha yavaş olması", "isTrue": false },
-        { "text": "2 numaralı aracın sağda olması", "isTrue": false },
-        { "text": "1 numaralı aracın tali yolda, 2 numaralı aracın anayolda olması", "isTrue": true },
-        { "text": "2 numaralı aracın motorlu taşıt olması", "isTrue": false }
-    ],
-    "description": "1 numaralı aracın bulunduğu yolda 'Yol Ver' işareti bulunmaktadır, bu da o yolun tali yol olduğunu gösterir. 2 numaralı aracın bulunduğu yol ise anayoldur. Tali yoldan anayola çıkan sürücüler, anayoldaki araçlara yol vermek zorundadır."
-  },
+  "id": 3141,
+  "category": "Trafik ve Çevre",
+  "question": "Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?",
+  "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kamyonarac.png",
+  "options": [
+    { "text": "Geçiş önceliğini kendisi kullanmalı", "isTrue": false },
+    { "text": "Hızlanıp köprüye 1 numaralı araçtan önce girmeli", "isTrue": false },
+    { "text": "Geçiş önceliğini 1 numaralı araca vermeli", "isTrue": true },
+    { "text": "1 numaralı aracın daralan yol bölümüne girmemesi için selektör yaparak uyarmalı", "isTrue": false }
+  ],
+  "description": "İşaretsiz ve eğimsiz dar yollarda otomobilin kamyona geçiş önceliği vardır."
+},
   {
     "id": 3142,
     "category": "Trafik ve Çevre",
@@ -1874,7 +1874,7 @@
     "id": 3145,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki gibi yola çizilmiş yatay işaretleme ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fyaya-ge%25C3%25A7idi-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/yaya_geçidi_yol.png",
     "options": [
         { "text": "Bisiklet yolu", "isTrue": false },
         { "text": "Park yasağı çizgileri", "isTrue": false },
@@ -1951,15 +1951,15 @@
   {
     "id": 3151,
     "category": "Trafik ve Çevre",
-    "question": "Şekle göre 1 numaralı aracın sürücüsü ne yapmalıdır?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fgecis-ustunlugu-olan-araclar.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "question": "Şekle göre 2 numaralı aracın sürücüsü ne yapmalıdır?",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/daralnyol.png",
     "options": [
         { "text": "Korna çalıp yoluna devam etmelidir.", "isTrue": false },
-        { "text": "Geçiş üstünlüğüne sahip 2 numaralı araca yol vermek için derhal kavşağı boşaltıp güvenli bir mesafede beklemelidir.", "isTrue": true },
-        { "text": "Hızlanarak kavşağı terk etmelidir.", "isTrue": false },
-        { "text": "2 numaralı aracın arkasına takılarak gitmelidir.", "isTrue": false }
+        { "text": "Geçiş üstünlüğüne sahip 1 numaralı araca yol vermek için beklemelidir.", "isTrue": true },
+        { "text": "Hızlanarak 1 numaralı araca geçmelidir.", "isTrue": false },
+        { "text": "U dönüşü yapmalı", "isTrue": false }
     ],
-    "description": "Geçiş üstünlüğüne sahip bir aracın işaretini alan ve kavşakta bulunan bir sürücü, derhal kavşağı boşaltmak ve bu araçlar tamamen geçinceye kadar güvenli bir yerde beklemek zorundadır."
+    "description": "Daralan kısımda olan kişi yolda olana yol vermelidir."
   },
   {
     "id": 3152,
@@ -1991,7 +1991,7 @@
     "id": 3154,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tanzim işareti, kamyon sürücülerine neyi bildirir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fkamyonlar-icin-gecme-yasagi-sonu-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kamyonlaricinyasaksonu.png",
     "options": [
         { "text": "Öndeki taşıtı geçmenin yasak olduğunu", "isTrue": false },
         { "text": "Hız sınırlamasının sona erdiğini", "isTrue": false },
@@ -2056,7 +2056,7 @@
     "id": 3159,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki bilgi işareti sürücüye neyi bildirir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fdurak-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/durak.png",
     "options": [
       { "text": "Hastane", "isTrue": false },
       { "text": "Okul geçidi", "isTrue": false },
@@ -2110,10 +2110,10 @@
     "question": "Aşağıdaki işaret levhalarından hangisi, yolun her iki taraftan daraldığını bildirir?",
     "image_url": null,
     "options": [
-      { "text": "Görsel: Yolun sağdan daraldığını gösteren üçgen levha.", "isTrue": false },
-      { "text": "Görsel: Yolun soldan daraldığını gösteren üçgen levha.", "isTrue": false },
-      { "text": "Görsel: Yolun her iki taraftan daraldığını gösteren üçgen levha.", "isTrue": true },
-      { "text": "Görsel: İki yönlü trafiği gösteren üçgen levha.", "isTrue": false }
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/soldandaralma.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/sagdandaralma.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/herikiyerdendaralma.png", "isTrue": true },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/gevsek_malzemeli_zemin.png", "isTrue": false }
     ],
     "description": "Bu tehlike uyarı işareti (T-4a), ilerideki yol kesiminin her iki taraftan daralacağını, sürücülerin hızlarını azaltmaları ve dikkatli olmaları gerektiğini bildirir."
   },
@@ -2169,19 +2169,19 @@
     ],
     "description": "Bölünmüş karayolunda karşı yönden gelen trafiğin kullandığı şerit veya bağlantı yoluna girmek, asli kusur sayılan hallerdendir."
   },
-  {
-    "id": 3168,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki yol durumunda, kamyon sürücüsü için aşağıdakilerden hangisi yasaktır?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Ftirmama-seridi.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
-    "options": [
-      { "text": "Sağ şeritte ilerlemek", "isTrue": false },
-      { "text": "Orta şeridi kullanarak öndeki aracı geçmek", "isTrue": false },
-      { "text": "Geçiş yaptıktan sonra sürekli olarak orta şeritte ilerlemek", "isTrue": true },
-      { "text": "Hızını azaltmak", "isTrue": false }
-    ],
-    "description": "Tırmanma şeridi olan bu tür yollarda orta şerit sadece geçiş içindir. Geçiş tamamlandıktan sonra sürücülerin derhal kendi şeritlerine dönmeleri gerekir. Orta şeridin devamlı olarak işgal edilmesi yasaktır."
-  },
+ {
+  "id": 3168,
+  "category": "Trafik ve Çevre",
+  "question": "Şekle göre aşağıdakilerden hangisi yasaktır?",
+  "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kamyon.jpg",
+  "options": [
+    { "text": "Araçların takip mesafesine uyması", "isTrue": false },
+    { "text": "2 numaralı aracın 1 numaralı aracı geçmesi", "isTrue": false },
+    { "text": "3 numaralı kamyonun önündeki araçları geçmesi", "isTrue": true },
+    { "text": "2 numaralı aracın 1 numaralı aracı geçerken hızını arttırması", "isTrue": false }
+  ],
+  "description": "Görselde bulunan 'Kamyonlar İçin Öndeki Taşıtı Geçmek Yasaktır' levhası, 3 numaralı kamyonun önündeki araçları sollamasının yasak olduğunu açıkça belirtir. Diğer şıklardaki eylemler ise yasak değildir. 2 numaralı araç kamyon olmadığı için sollama yapabilir."
+},
   {
     "id": 3169,
     "category": "Trafik ve Çevre",
@@ -2263,7 +2263,7 @@
     "id": 3175,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tehlike uyarı işareti sürücüye neyi bildirir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fd%25C3%25BC%25C5%259F%25C3%25BCk-banket-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/dusukbanket.png",
     "options": [
       { "text": "Yolun kaygan olduğunu", "isTrue": false },
       { "text": "Düşük banket olduğunu", "isTrue": true },
@@ -2302,7 +2302,7 @@
     "id": 3178,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki 'Mecburi Asgari Hız Sonu' levhası ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fmecburi-asgari-h%25C4%25B1z-sonu-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/mecburi_sonu.png",
     "options": [
       { "text": "Belirtilen hızın üzerine çıkılması gerektiğini", "isTrue": false },
       { "text": "Azami hız sınırlamasının başladığını", "isTrue": false },
@@ -2367,7 +2367,7 @@
     "id": 3183,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki 'Jandarma' levhası hangi grup işaretlerdendir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fjandarma-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/jandarma.png",
     "options": [
       { "text": "Tehlike Uyarı İşaretleri", "isTrue": false },
       { "text": "Trafik Tanzim İşaretleri", "isTrue": false },
@@ -2431,15 +2431,15 @@
   {
     "id": 3188,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki yol çizgileri, tırmanma şeridi olan bir yolu göstermektedir. Bu yolda 3 numaralı şeridin kullanım amacı nedir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Ftirmama-seridi.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "question": "Şekildeki yol çizgileri, tırmanma şeridi olan bir yolu göstermektedir. Bu yolda 2 numaralı şeridin kullanım amacı nedir?",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/tirmanma_Seridi_Soru.png",
     "options": [
       { "text": "Sürekli olarak yavaş gitmek için", "isTrue": false },
       { "text": "Sadece geçiş (sollama) yapmak için", "isTrue": true },
       { "text": "Park etmek için", "isTrue": false },
       { "text": "Acil durumlar için", "isTrue": false }
     ],
-    "description": "Tırmanma şeridi bulunan yollarda orta şerit (burada 3 numara), sadece geçiş yapmak için kullanılır ve devamlı olarak işgal edilemez."
+    "description": "Tırmanma şeridi bulunan yollarda orta şerit (burada 2 numara), sadece geçiş yapmak için kullanılır ve devamlı olarak işgal edilemez."
   },
   {
     "id": 3189,
@@ -2473,10 +2473,10 @@
     "question": "Aşağıdaki işaretlerden hangisi 'Tehlikeli Madde Taşıyan Taşıt Giremez' anlamındadır?",
     "image_url": null,
     "options": [
-      { "text": "Görsel: Kırmızı daire içinde kamyon figürü.", "isTrue": false },
-      { "text": "Görsel: Kırmızı daire içinde patlama sembolü.", "isTrue": false },
-      { "text": "Görsel: Kırmızı daire içinde turuncu zeminli kamyon figürü.", "isTrue": true },
-      { "text": "Görsel: Kırmızı daire içinde su damlası sembolü.", "isTrue": false }
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kirletici_su.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/belirli_ptmt.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/tehlikeli_madde.png", "isTrue": true },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/treyler_giremez.png", "isTrue": false }
     ],
     "description": "Bu işaret (TT-16b), tehlikeli madde taşıyan taşıtların bu yola girmesinin yasak olduğunu belirtir."
   },
@@ -2523,7 +2523,7 @@
     "id": 3195,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki 'Şerit Düzenleme Levhası' neyi ifade eder?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2F%25C5%259Ferit-d%25C3%25BCzenleme-levhalar%25C4%25B1-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kavsak_oncesi.png",
     "options": [
       { "text": "İleride yolun tek şeride düşeceğini", "isTrue": false },
       { "text": "Kavşak öncesi gidilecek yöne göre uygun şeride girilmesi gerektiğini", "isTrue": true },
@@ -2562,7 +2562,7 @@
     "id": 3198,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki gibi bir demiryolu geçidine yaklaşan sürücü, yanıp sönen kırmızı ışık ve kapanmakta olan bariyeri gördüğünde ne yapmalıdır?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fkontroll%25C3%25BC-demiryolu-ge%25C3%25A7idi-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/trenyolu.png",
     "options": [
       { "text": "Hızlanarak bariyer kapanmadan geçmelidir.", "isTrue": false },
       { "text": "Durmalı ve demiryolu hattını kontrol ettikten sonra geçmelidir.", "isTrue": false },
@@ -2613,8 +2613,8 @@
   {
     "id": 3202,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki levha, bir tünel girişinde bulunuyorsa ve altında '1 km' yazan ek bir panel varsa, bu ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Ft%25C3%25BCnel-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "question": "Bir tünel girişinde bulunan tünel levhası  ve altında '1 km' yazan ek bir panel varsa, bu ne anlama gelir?",
+    "image_url": "",
     "options": [
       { "text": "Tünele 1 km kaldığını", "isTrue": false },
       { "text": "Tünelin uzunluğunun 1 km olduğunu", "isTrue": true },
@@ -2650,18 +2650,18 @@
     "description": "Kişinin ekonomik durumunun müsait olmaması durumunda para cezasının, ilk taksidinin peşin ödenmesi koşuluyla, 1 yıl içerisinde 4 eşit taksit halinde ödenmesine karar verilebilir."
   },
   {
-    "id": 3205,
-    "category": "Trafik ve Çevre",
-    "question": "Aşağıdaki işaretlerden hangisi 'Yaya Giremez' anlamındadır?",
-    "image_url": null,
-    "options": [
-      { "text": "Görsel: Mavi zeminli, içinde yaya figürü olan kare levha.", "isTrue": false },
-      { "text": "Görsel: Kırmızı çerçeveli, içinde yaya figürü olan üçgen levha.", "isTrue": false },
-      { "text": "Görsel: Kırmızı çerçeveli, içi boş yuvarlak levha.", "isTrue": false },
-      { "text": "Görsel: Kırmızı çerçeveli, içinde yaya figürü olan yuvarlak levha.", "isTrue": true }
-    ],
-    "description": "Kırmızı çerçeveli yuvarlak levhalar genellikle bir yasağı bildirir. İçinde yaya figürü olan bu işaret (TT-12), yayaların bu yola girmesinin yasak olduğunu belirtir."
-  },
+  "id": 3205,
+  "category": "Trafik ve Çevre",
+  "question": "Geceleyin, trafik polisinin ışıklı işaret çubuğunu şekildeki gibi hareket ettirmesinin anlamı nedir?",
+  "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/police/gecedonus.png",
+  "options": [
+    { "text": "Hızlan işareti", "isTrue": false },
+    { "text": "Dönüş işareti", "isTrue": true },
+    { "text": "Yavaşla işareti", "isTrue": false },
+    { "text": "Dur işareti", "isTrue": false }
+  ],
+  "description": "Trafik polisinin, ışıklı işaret çubuğunu omuz hizasında vücuduna paralel olarak yay şeklinde hareket ettirmesi, 'Gece Dönüş İşareti' anlamına gelir. Bu işareti gören sürücülerin, işaretin gösterdiği yöne doğru dönüş yapması veya o yöndeki trafiğin hareketleneceğini bilmesi gerekir."
+},
   {
     "id": 3206,
     "category": "Trafik ve Çevre",
@@ -2717,15 +2717,15 @@
   {
     "id": 3210,
     "category": "Trafik ve Çevre",
-    "question": "Şekle göre, 2 numaralı araç sürücüsü ne yapmalıdır?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fgecme-yasagi-olan-yerler.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "question": "Şekle göre, 1 numaralı araç sürücüsü ne yapmalıdır?",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/sollama_yasak.png",
     "options": [
       { "text": "Hızını artırarak 1 numaralı aracı geçmelidir.", "isTrue": false },
-      { "text": "1 numaralı aracı geçmesi yasaktır.", "isTrue": true },
+      { "text": "2 numaralı aracı geçmesi yasaktır.", "isTrue": true },
       { "text": "Sola sinyal verip hemen geçmelidir.", "isTrue": false },
       { "text": "Sağ banketten geçmelidir.", "isTrue": false }
     ],
-    "description": "Şekildeki 'Öndeki Taşıtı Geçmek Yasaktır' levhası (TT-27), 2 numaralı araç sürücüsünün, önündeki 1 numaralı aracı geçmesinin yasak olduğunu bildirir."
+    "description": "Şekildeki 'Öndeki Taşıtı Geçmek Yasaktır' levhası (TT-27), 1 numaralı araç sürücüsünün, önündeki 2 numaralı aracı geçmesinin yasak olduğunu bildirir."
   },
   {
     "id": 3211,
@@ -2757,11 +2757,11 @@
     "id": 3213,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik görevlisinin duruş pozisyonu ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Ftrafik-polisinin-isaretleri.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/police/hizlandirma2.jpg",
     "options": [
-      { "text": "Trafiği hızlandırma", "isTrue": false },
+      { "text": "Trafiği hızlandırma", "isTrue": true },
       { "text": "Trafiği yavaşlatma", "isTrue": false },
-      { "text": "Kol ve omuz istikametindeki araçlar geçebilir, ön ve arka istikamettekiler durmalıdır.", "isTrue": true },
+      { "text": "Kol ve omuz istikametindeki araçlar geçebilir, ön ve arka istikamettekiler durmalıdır.", "isTrue": false },
       { "text": "Tüm yönlere dur", "isTrue": false }
     ],
     "description": "Trafik görevlisinin en temel işaretlerinden biri olan bu duruşta, görevlinin kollarının ve omuzlarının gösterdiği yöndeki trafik akabilirken, ön ve arka cephesine bakan yöndeki trafik durmak zorundadır."
@@ -2822,7 +2822,7 @@
     "id": 3218,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işaretinin anlamı nedir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fokul-gecidi-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/okul_gecidi.png",
     "options": [
         { "text": "Yaya geçidi", "isTrue": false },
         { "text": "Hastane", "isTrue": false },
@@ -2926,7 +2926,7 @@
     "id": 3226,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tanzim işareti ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fb%25C3%25BCt%25C3%25BCn-yasaklama-ve-k%25C4%25B1s%25C4%25B1tlamalar%25C4%25B1n-sonu-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/butun_yasak_son.png",
     "options": [
       { "text": "Hız sınırlaması sonu", "isTrue": false },
       { "text": "Geçme yasağı sonu", "isTrue": false },
@@ -2988,18 +2988,18 @@
     "description": "Ulaştırma, Denizcilik ve Haberleşme Bakanlığı'nın görevleri arasında, araçların ağırlık ve boyut kontrollerini yapmak ve Karayolları Trafik Kanunu hükümlerine aykırı hareket edenler hakkında tutanak düzenlemek yer alır. (Not: PDF'te KGM de belirtilmiştir, ancak bu görev UDHB'ye de aittir)."
   },
   {
-    "id": 3231,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki demiryolu geçidine yaklaşım levhaları ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fdemiryolu-hemzemin-gecit-yaklasimi-sag-sol-trafik-i%25C5%259Fareti&psig=AOvVaw2gB8n8hQ3yG7E6H_G4yT6U&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjYg-6GzIIDFQAAAAAdAAAAABAI",
-    "options": [
-      { "text": "Geçidin kontrollü olduğunu", "isTrue": false },
-      { "text": "Geçidin kontrolsüz olduğunu", "isTrue": false },
-      { "text": "Demiryolu geçidine kalan mesafeyi", "isTrue": true },
-      { "text": "Geçitteki hat sayısını", "isTrue": false }
-    ],
-    "description": "Demiryolu hemzemin geçit yaklaşım levhaları (T-28, T-29, T-30), üzerlerindeki kırmızı çizgilerle geçide olan mesafeyi belirtir. Üç çizgi 300 metreyi, iki çizgi 200 metreyi, tek çizgi ise 100 metreyi ifade eder."
-  },
+  "id": 3231,
+  "category": "Trafik ve Çevre",
+  "question": "Şekle göre, geçme işlemi yapan 1 numaralı aracın sürücüsü için aşağıdakilerden hangileri söylenebilir?\n\nI- Geçiş kurallarına uyduğu\nII- Karşı yönden gelen aracın hızını dikkate almadığı\nIII- Geçilen araçtan yeterince uzaklaşmadan sağ şeride geçtiği",
+  "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/hataligecis.png",
+  "options": [
+    { "text": "Yalnız I", "isTrue": false },
+    { "text": "I ve II", "isTrue": false },
+    { "text": "II ve III", "isTrue": true },
+    { "text": "I, II ve III", "isTrue": false }
+  ],
+  "description": "Öndeki aracı geçen sürücünün, geçilen aracı dikiz aynasından görene kadar veya güvenli bir mesafe kadar uzaklaştıktan sonra şeridine dönmesi gerekir. Görselde 1 numaralı sürücü, geçtiği araca çok yakın bir mesafede sağ şeride girerek tehlikeli bir manevra yapmıştır (III doğru). Bu tehlikeli ve aceleci manevra, genellikle sürücünün karşıdan gelen trafiği (II) veya genel durumu doğru değerlendiremediğini gösterir. Sürücü geçiş kurallarına uymamıştır (I yanlış). Bu durumda söylenebilecek en doğru ifadeler II ve III'tür."
+}
   {
     "id": 3232,
     "category": "Trafik ve Çevre",
@@ -3110,10 +3110,10 @@
     "question": "Aşağıdaki işaretlerden hangisi 'Yol Ver' anlamındadır ve tali yoldan anayola çıkarken kullanılır?",
     "image_url": null,
     "options": [
-        { "text": "Görsel: Kırmızı sekizgen 'DUR' levhası.", "isTrue": false },
-        { "text": "Görsel: Tepesi aşağıda kırmızı çerçeveli boş bir üçgen levha.", "isTrue": true },
-        { "text": "Görsel: Sarı zeminli baklava dilimi şeklinde levha.", "isTrue": false },
-        { "text": "Görsel: Kırmızı daire içinde beyaz yatay çizgi olan levha.", "isTrue": false }
+        { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/dur.png", "isTrue": false },
+        { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/yolver.png", "isTrue": true },
+        { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/anayol.png", "isTrue": false },
+        { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/giris_olmayan_yol.png", "isTrue": false }
     ],
     "description": "Tepesi aşağıda olan ters üçgen şeklindeki bu işaret (TT-1), tali yoldan anayol kavşağına gelindiğini ve anayoldan geçen araçlara yol verilmesi gerektiğini bildirir. Fasılalı yanıp sönen sarı ışıkla aynı anlama gelir."
   },{
@@ -3146,7 +3146,7 @@
     "id": 3243,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tehlike uyarı işareti sürücüye neyi bildirir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Facilan-kopru-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/acilan_kopru.png",
     "options": [
       { "text": "Kasisli yolu", "isTrue": false },
       { "text": "Açılan köprüye yaklaşıldığını", "isTrue": true },
@@ -3182,18 +3182,18 @@
     "description": "Kazaya karışanların sorumlulukları arasında durmak, güvenlik önlemi almak, kaza yerindeki durumu değiştirmemek, olayı görevlilere bildirmek ve kaza yerinden ayrılmamak yer alır."
   },
   {
-    "id": 3246,
-    "category": "Trafik ve Çevre",
-    "question": "Aşağıdaki işaretlerden hangisi 'Sesli İkaz Cihazlarının Kullanımı Yasaktır' anlamına gelir?",
-    "image_url": null,
-    "options": [
-      { "text": "Görsel: Kırmızı daire içinde radyo figürü", "isTrue": false },
-      { "text": "Görsel: Kırmızı daire içinde korna (klakson) figürü", "isTrue": true },
-      { "text": "Görsel: Mavi daire içinde kulaklık figürü", "isTrue": false },
-      { "text": "Görsel: Kırmızı daire içinde megafon figürü", "isTrue": false }
-    ],
-    "description": "Bu trafik tanzim işareti (TT-30), sürücülerin sesli ikaz cihazlarını (korna) kullanmalarının yasak olduğunu bildirir."
-  },
+  "id": 3246,
+  "category": "Trafik ve Çevre",
+  "question": "Aracın gösterge panelinde bulunan şekildeki gösterge sürücüye neyi bildirir?",
+  "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kmgostergesi.png",
+  "options": [
+    { "text": "Aracın hızını", "isTrue": true },
+    { "text": "Yakıt miktarını", "isTrue": false },
+    { "text": "Motor sıcaklığını", "isTrue": false },
+    { "text": "Motor devir sayısını", "isTrue": false }
+  ],
+  "description": "Görseldeki gösterge, üzerinde 'Km/h' (saatte kilometre) birimi bulunan bir hız göstergesidir. Bu gösterge, aracın anlık olarak hangi hızda hareket ettiğini sürücüye bildirir. Diğer seçenekler (yakıt, sıcaklık, devir) araç gösterge panelinde farklı işaretlerle gösterilir."
+}
   {
     "id": 3247,
     "category": "Trafik ve Çevre",
@@ -3234,18 +3234,18 @@
     "description": "Yarı Römork, taşıdığı yükün ve kendi ağırlığının bir kısmının motorlu araç tarafından taşındığı römorktur."
   },
   {
-    "id": 3250,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki levha, bir gümrük kapısına yaklaşıldığını ve sürücünün ne yapması gerektiğini bildirir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fgumruk-durmadan-gecmek-yasaktir-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
-    "options": [
-      { "text": "Yavaşlaması gerektiğini", "isTrue": false },
-      { "text": "Durmadan geçmenin yasak olduğunu", "isTrue": true },
-      { "text": "Sadece ağır vasıtaların durması gerektiğini", "isTrue": false },
-      { "text": "Belgelerini hazırlaması gerektiğini", "isTrue": false }
-    ],
-    "description": "Bu trafik tanzim işareti (TT-31), sürücülerin gümrük kontrolü için durmadan geçmelerinin yasak olduğunu bildirir."
-  },
+  "id": 3250,
+  "category": "Trafik ve Çevre",
+  "question": "Şerit değiştirmek isteyen şekildeki 1 numaralı taşıt sürücüsü, sola sinyal vermeden önce aşağıdakilerden hangisini mutlaka yapmalıdır?",
+  "image_url": "sollama5.png",
+  "options": [
+    { "text": "Uzun hüzmeli farları yakarak seyretmeli", "isTrue": false },
+    { "text": "2 numaralı taşıtın geç işaretini beklemeli", "isTrue": false },
+    { "text": "İç ve dış aynalardan trafik durumunu kontrol etmeli", "isTrue": true },
+    { "text": "2 numaralı taşıta takip mesafesinden daha fazla yaklaşmalı", "isTrue": false }
+  ],
+  "description": "Güvenli bir şerit değiştirme işlemi için sürücünün yapması gereken ilk şey, geçmek istediği şeridin müsait olup olmadığını kontrol etmektir. Bu kontrol, iç ve dış dikiz aynaları kullanılarak yapılır. Şeridin güvenli olduğu tespit edildikten sonra sinyal verilir ve manevraya başlanır. Bu nedenle doğru cevap, aynaların kontrol edilmesidir."
+},
   {
     "id": 3251,
     "category": "Trafik ve Çevre",
@@ -3278,10 +3278,10 @@
     "question": "Aşağıdaki işaretlerden hangisi 'Kontrolsüz Demiryolu Geçidi (Tek Hat)' olduğunu bildirir?",
     "image_url": null,
     "options": [
-      { "text": "Görsel: İçinde çit sembolü olan üçgen levha.", "isTrue": false },
-      { "text": "Görsel: Üzerinde tek bir çapraz çizgi olan 'X' şeklindeki levha.", "isTrue": true },
-      { "text": "Görsel: Üzerinde iki çapraz çizgi olan 'X' şeklindeki levha.", "isTrue": false },
-      { "text": "Görsel: İçinde lokomotif sembolü olan üçgen levha.", "isTrue": false }
+      { "text": "kontrolsuz_demir_cifthat.png", "isTrue": false },
+      { "text": "kontrolsuz_demir_tekhat.png", "isTrue": true },
+      { "text": "demiryoluhemzemin2.png", "isTrue": false },
+      { "text": "demiryoluhemzemin.png", "isTrue": false }
     ],
     "description": "Demiryolu geçidinde bulunan ve 'Andre Haçı' olarak da bilinen, üzerinde tek bir çapraz çizgi olan 'X' şeklindeki levha (T-27a), geçidin kontrolsüz ve tek hatlı olduğunu bildirir."
   },
@@ -3289,7 +3289,7 @@
     "id": 3254,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki gibi bir kavşakta düz gitmek isteyen sürücü, hangi şeridi kullanmalıdır?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fdonel-kavsaklarda-gecis-hakki.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/donelkavsak_geri_donus.png",
     "options": [
       { "text": "1 numaralı şeridi", "isTrue": false },
       { "text": "2 numaralı şeridi", "isTrue": true },
