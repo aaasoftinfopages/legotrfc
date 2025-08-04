@@ -3337,19 +3337,19 @@
     ],
     "description": "Trafik belgesinin kaybolması, yıpranması veya muayene bölümlerinin bitmiş olması halinde, herhangi bir tescil biriminde yenilenir."
   },
-  {
-    "id": 3258,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki bilgi işareti sürücüye neyi bildirir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fturizm-danisma-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
-    "options": [
-      { "text": "İleride kütüphane olduğunu", "isTrue": false },
-      { "text": "İleride turizm danışma bürosu olduğunu", "isTrue": true },
-      { "text": "İnternet kafe olduğunu", "isTrue": false },
-      { "text": "Bilgi işlem merkezi olduğunu", "isTrue": false }
-    ],
-    "description": "Bu işaret (B-44), sürücülere ve yolculara turistik bilgi alabilecekleri bir danışma bürosunun yakınlarda olduğunu bildirir."
-  },
+ {
+  "id": 3258,
+  "category": "Trafik ve Çevre",
+  "question": "Şekildeki trafik bilgi işareti sürücüye neyi bildirir?",
+  "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/sol_yol_sonu.png",
+  "options": [
+    { "text": "Yolun sağdan daralacağını", "isTrue": false },
+    { "text": "Sadece soldaki şeridi kullananların ilerleyebileceğini", "isTrue": false },
+    { "text": "Yolun soldan daralacağını ve sağdaki şeride geçilmesi gerektiğini", "isTrue": true },
+    { "text": "İleride sağa tehlikeli viraj olduğunu", "isTrue": false }
+  ],
+  "description": "Bu şerit düzenleme levhası, sürücülere ilerideki sol şeridin trafiğe kapandığını veya sona erdiğini, bu nedenle sağdaki şeride geçerek yollarına devam etmeleri gerektiğini bildirir. Bu durum, yolun sol taraftan daralması olarak da ifade edilebilir."
+},
   {
     "id": 3259,
     "category": "Trafik ve Çevre",
@@ -3393,7 +3393,7 @@
     "id": 3262,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tehlike uyarı işareti neyi bildirir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fvahsi-hayvanlar-gecebilir-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/vahsihayvan.png",
     "options": [
       { "text": "İleride hayvanat bahçesi olduğunu", "isTrue": false },
       { "text": "Ehli hayvanların yola çıkabileceğini", "isTrue": false },
@@ -3458,7 +3458,7 @@
     "id": 3267,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tanzim işareti ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fotobus-giremez-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/otobus_giremez.png",
     "options": [
       { "text": "Otobüs durağı", "isTrue": false },
       { "text": "Otobüs giremez", "isTrue": true },
@@ -3523,7 +3523,7 @@
     "id": 3272,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tehlike uyarı işareti neyi bildirir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fyandan-ruzgar-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/yandanruzgar.png",
     "options": [
       { "text": "Sisli havayı", "isTrue": false },
       { "text": "Yandan rüzgarı", "isTrue": true },
@@ -3562,7 +3562,7 @@
     "id": 3275,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki bilgilerden hangisi, 'Türkiye Hız Sınırları Levhası'nda yer almaz?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fturkiye-hiz-sinirlari-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": null,
     "options": [
       { "text": "Yerleşim yeri içi hız sınırı", "isTrue": false },
       { "text": "Şehirler arası yoldaki hız sınırı", "isTrue": false },
@@ -3584,19 +3584,19 @@
     ],
     "description": "Trafik zabıtası, ışıklı işaret cihazları ve trafik işaret levhası bulunmayan kavşaklara kontrolsüz kavşak denir ve bu kavşaklarda genel geçiş hakkı kuralları uygulanır."
   },
-  {
-    "id": 3277,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki gibi bir demiryolu geçidine yaklaşan sürücü, öndeki aracı geçebilir mi?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fkontrolsuz-demiryolu-gecidi-isareti-ve-anlami.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
-    "options": [
-      { "text": "Evet, yol boşsa geçebilir.", "isTrue": false },
-      { "text": "Hayır, geçmesi yasaktır.", "isTrue": true },
-      { "text": "Sadece kontrollü geçitlerde geçebilir.", "isTrue": false },
-      { "text": "Sadece gündüzleri geçebilir.", "isTrue": false }
-    ],
-    "description": "Öndeki aracı geçmenin yasak olduğu yerler arasında demiryolu geçitlerine yaklaşırken ve bu geçitler üzerinde öndeki aracı geçmek de bulunur."
-  },
+{
+  "id": 3277,
+  "category": "Trafik ve Çevre",
+  "question": "Trafik uygun olsa bile şekildeki aracın hangi yöndeki hareketi kesinlikle yasaktır?",
+  "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kavsak55.png",
+  "options": [
+    { "text": "Sola dönmesi", "isTrue": false },
+    { "text": "Sağa dönmesi", "isTrue": false },
+    { "text": "U dönüşü yapması", "isTrue": true },
+    { "text": "Aynı yönde ilerlemesi", "isTrue": false }
+  ],
+  "description": "Görseldeki kavşakta 'U Dönüşü Yapmak Yasaktır' levhası bulunmaktadır. Bu trafik tanzim işareti, sürücünün bu noktada U dönüşü yapmasını kesin olarak yasaklar. Diğer yönlerde bir yasaklama levhası olmadığından, trafik müsaitse o yönlere gidilebilir."
+},
   {
     "id": 3278,
     "category": "Trafik ve Çevre",
@@ -3675,19 +3675,19 @@
     ],
     "description": "Bir kavşakta iken geçiş üstünlüğüne sahip bir aracın işaretini alan araç sürücüleri, derhal kavşağı boşaltmak ve gerekiyorsa emniyetli bir mesafe uzaklaştıktan sonra geçişi engellemeyecek şekilde durmak zorundadır."
   },
-  {
-    "id": 3284,
-    "category": "Trafik ve Çevre",
-    "question": "Aşağıdaki işaretlerden hangisi 'Refüj Başı Ek Levhası' olarak kullanılır ve sürücünün refüjün sağından gitmesi gerektiğini bildirir?",
-    "image_url": null,
-    "options": [
-      { "text": "Görsel: 'Dur' levhası", "isTrue": false },
-      { "text": "Görsel: Sarı zeminli, üzerinde sağa yatık siyah oklar bulunan dikdörtgen levha", "isTrue": true },
-      { "text": "Görsel: Mavi zeminli, sağa dönen beyaz oklu yuvarlak levha", "isTrue": false },
-      { "text": "Görsel: Kırmızı çerçeveli, içinde sola dönen siyah oklu üçgen levha", "isTrue": false }
-    ],
-    "description": "Refüj başı ek levhaları (T-34a,b), sürücülerin refüj veya adaların başlarında, engelin sağından veya solundan gitmeleri gerektiğini bildiren, genellikle sarı zeminli ve siyah oklu levhalardır."
-  },
+ {
+  "id": 3284,
+  "category": "Trafik ve Çevre",
+  "question": "Aksine bir durum yoksa, şekildeki motosiklet sürücüsü 60 km/saat hızla seyrederken önündeki araca en fazla kaç metre yaklaşabilir?",
+  "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/motosikletarac.png",
+  "options": [
+    { "text": "40", "isTrue": false },
+    { "text": "30", "isTrue": true },
+    { "text": "20", "isTrue": false },
+    { "text": "10", "isTrue": false }
+  ],
+  "description": "Güvenli takip mesafesi, genel bir kural olarak, aracın kilometre cinsinden hızının en az yarısı kadar metre olmalıdır. Bu kurala göre, 60 km/saat hızla giden bir aracın öndeki araçla arasında bırakması gereken minimum mesafe 60 / 2 = 30 metredir. Sürücü öndeki araca 30 metreden daha fazla yaklaşmamalıdır."
+},
   {
     "id": 3285,
     "category": "Trafik ve Çevre",
@@ -3730,13 +3730,13 @@
   {
     "id": 3288,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki yol durumunda, beyaz otomobil sürücüsü, önündeki kamyonu geçmek için sollama yapabilir mi?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Fkesikli-cizgi-nedir.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "question": "Şekildeki yol durumunda,  otomobil sürücüsü, önündeki kamyonu geçmek için harekete başladı bu durum doğru mu?",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kamyonu_sollama.jpg",
     "options": [
       { "text": "Hayır, çünkü kamyon büyük araçtır.", "isTrue": false },
       { "text": "Evet, çünkü yol çizgisi kesiklidir ve kurallara uymak şartıyla geçiş serbesttir.", "isTrue": true },
       { "text": "Hayır, çünkü yol virajlıdır.", "isTrue": false },
-      { "text": "Evet, ama sadece hızını %10 artırarak.", "isTrue": false }
+      { "text": "Evet, ama sadece hızını %10 azaltarak.", "isTrue": false }
     ],
     "description": "Kesik yol çizgisi, bu çizgi boyunca kurallara (görüş mesafesi, arkadan gelen trafik vb.) uymak şartıyla öndeki aracın geçilebileceğini bildirir."
   },
@@ -3772,10 +3772,10 @@
     "question": "Aşağıdaki işaretlerden hangisi 'Havaalanı/Havalimanı (Alçak Uçuş)' tehlikesini bildirir?",
     "image_url": null,
     "options": [
-      { "text": "Görsel: İçinde rüzgar tulumu olan üçgen levha.", "isTrue": false },
-      { "text": "Görsel: İçinde uçak figürü olan üçgen levha.", "isTrue": true },
-      { "text": "Görsel: İçinde helikopter figürü olan üçgen levha.", "isTrue": false },
-      { "text": "Görsel: İçinde yıldırım figürü olan üçgen levha.", "isTrue": false }
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/yandanruzgar.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/alcak_ucus.png", "isTrue": true },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/trafige_kapali.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kornayasak.jpg", "isTrue": false }
     ],
     "description": "Bu tehlike uyarı işareti (T-17), havaalanı yakınlarında alçak uçuş yapan uçakların olabileceğini ve bunların ani gürültüsünün sürücüleri ve hayvanları ürkütebileceğini bildirerek dikkatli olunmasını ister."
   },
@@ -3835,7 +3835,7 @@
     "id": 3296,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tanzim işareti ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fmoped-giremez-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/mopetgiremez.png",
     "options": [
       { "text": "Motosiklet giremez", "isTrue": false },
       { "text": "Bisiklet giremez", "isTrue": false },
@@ -3928,10 +3928,10 @@
     "question": "Aşağıdaki işaretlerden hangisi 'İleri ve Sağa Mecburi Yön'ü gösterir?",
     "image_url": null,
     "options": [
-      { "text": "Görsel: Mavi yuvarlak levha içinde yukarı ve sağa bakan iki beyaz ok.", "isTrue": true },
-      { "text": "Görsel: Mavi yuvarlak levha içinde sadece sağa bakan beyaz ok.", "isTrue": false },
-      { "text": "Görsel: Mavi yuvarlak levha içinde sadece yukarı bakan beyaz ok.", "isTrue": false },
-      { "text": "Görsel: Mavi yuvarlak levha içinde sağa ve sola bakan iki beyaz ok.", "isTrue": false }
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/ileri_ve_saga.png", "isTrue": true },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/ileri_ve_sola.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/solamecburi.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/sagamecburi.png", "isTrue": false }
     ],
     "description": "Bu mecburi yön levhası (TT-35d), sürücülerin kavşakta sadece ileri veya sağa gidebileceklerini, sola veya geriye dönemeyeceklerini bildirir."
   },
@@ -3991,7 +3991,7 @@
     "id": 3308,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tehlike uyarı işareti sürücüye neyi bildirir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fgizli-buzlanma-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/gizli_buzlanma.png",
     "options": [
       { "text": "Yoğun kar yağışı olacağını", "isTrue": false },
       { "text": "Yolun kaygan olduğunu", "isTrue": false },
@@ -4052,19 +4052,31 @@
     ],
     "description": "Takip mesafesi, bir aracın 2 saniyede katettiği yol uzunluğu kadardır. Bu sürenin sürücü tarafından pratik olarak tespitinde '88-89' sayma yöntemi kullanılır."
   },
-  {
-    "id": 3313,
-    "category": "Trafik ve Çevre",
-    "question": "Aşağıdaki işaretlerden hangisi 'Tehlikeli Viraj Yön Levhası'dır ve virajın keskinliğini belirtir?",
-    "image_url": null,
-    "options": [
-      { "text": "Görsel: İçinde sağa dönen kıvrımlı ok olan üçgen levha.", "isTrue": false },
-      { "text": "Görsel: Sarı-siyah renkli, yatay çizgili ve ok şeklinde olan levha.", "isTrue": true },
-      { "text": "Görsel: Mavi zeminli, sağa dönen beyaz oklu yuvarlak levha.", "isTrue": false },
-      { "text": "Görsel: Kırmızı daire içinde sağa dönüşün yasak olduğunu belirten levha.", "isTrue": false }
-    ],
-    "description": "Tehlikeli viraj yön levhaları (T-33 serisi), genellikle sarı-siyah renkli olup, virajın yönünü ve keskinliğini belirtmek için kullanılır ve sürücüleri yavaşlamaları konusunda uyarır."
-  },
+ {
+  "id": 3313,
+  "category": "Trafik ve Çevre",
+  "question": "Şekildeki kara yolu üzerine çizilmiş yatay işaretlemelere göre 1 numaralı araç sürücüsü nasıl davranmalıdır?",
+  "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/daralanyol.png",
+  "options": [
+    {
+      "text": "En sol şeride geçmeli",
+      "isTrue": false
+    },
+    {
+      "text": "Yavaşlamalı, sağ şeride girmeli",
+      "isTrue": true
+    },
+    {
+      "text": "Hızlanmalı, bulunduğu şeritte devam etmeli",
+      "isTrue": false
+    },
+    {
+      "text": "2 numaralı aracı uyararak yavaşlamasını sağlamalı",
+      "isTrue": false
+    }
+  ],
+  "description": "Yol üzerine çizilmiş olan ve 'sağa mecburi yön' anlamına gelen oklar, ileride sol şeridin sona ereceğini ve sürücünün yavaşlayarak güvenli bir şekilde sağ şeride geçmesi gerektiğini bildirir."
+},
   {
     "id": 3314,
     "category": "Trafik ve Çevre",
@@ -4094,8 +4106,8 @@
   {
     "id": 3316,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki 'Traktör Giremez' levhası hangi grup işaretlerdendir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Ftraktor-giremez-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "question": "'Traktör Giremez' levhası hangi grup işaretlerdendir?",
+    "image_url": null,
     "options": [
       { "text": "Tehlike Uyarı İşaretleri", "isTrue": false },
       { "text": "Bilgi İşaretleri", "isTrue": false },
@@ -4146,8 +4158,8 @@
   {
     "id": 3320,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki 'Girişi Olmayan Yol Kavşağı' levhası sürücüye neyi bildirir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fgirisi-olmayan-yol-kavsagi-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "question": "Şekildeki 'Girişi Olmayan Yol Kavşağı' levhaları sürücüye neyi bildirir?",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/girisi_olmayanyol.png",
     "options": [
       { "text": "Kavşaktaki tüm yolların tek yönlü olduğunu", "isTrue": false },
       { "text": "İlerideki kavşakta, belirtilen yöne dönüşün yasak olduğunu", "isTrue": false },
@@ -4186,7 +4198,7 @@
     "id": 3323,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki aracın sürücüsü, yokuş yukarı park ederken, kaldırım varsa tekerleklerini hangi yöne çevirmelidir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fblog%2Farac-nasil-park-edilir.html&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/yokusaraba.png",
     "options": [
       { "text": "Kaldırıma doğru (sağa)", "isTrue": false },
       { "text": "Yola doğru (sola)", "isTrue": true },
@@ -4225,7 +4237,7 @@
     "id": 3326,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tanzim işareti ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fondaki-tasiti-belirli-mesafeden-daha-yakin-takip-etmek-yasaktir-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/70m.png",
     "options": [
       { "text": "İki araç arasında en az 70 metre olmalıdır.", "isTrue": true },
       { "text": "Yolun uzunluğu 70 metredir.", "isTrue": false },
@@ -4277,7 +4289,7 @@
     "id": 3330,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki otoyol bilgi levhası ne anlama gelir?",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semboller.com%2Fsembol%2Fotoyol-yaklasim-levhasi-trafik-i%25C5%259Fareti&psig=AOvVaw08kR3L9p-g5eJ5iO3C8o8p&ust=1700000000000000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjRq-mGzIIDFQAAAAAdAAAAABAD",
+    "image_url": "",
     "options": [
       { "text": "Otoyolun sona erdiğini", "isTrue": false },
       { "text": "Otoyolun başlangıcını", "isTrue": false },
