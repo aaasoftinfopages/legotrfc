@@ -67,7 +67,7 @@
   },
   {
     "id": 7,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/dortelleyaralitasima.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/altinbesik.png",
     "question": "Görselde gösterilen 'Altın Beşik' (Dört Elle Taşıma) tekniği hangi durumdaki yaralılar için daha uygundur?",
     "options": [
       { "text": "Omurga kırığı şüphesi olanlar", "isTrue": false },
@@ -122,7 +122,7 @@
   },
   {
     "id": 12,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/itfayicetasimayontemi.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/itfayicetasima.png",
     "question": "İtfaiyeci yöntemi ile yaralı taşımanın en büyük avantajı nedir?",
     "options": [
       { "text": "Yaralının en rahat ettiği yöntem olması", "isTrue": false },
@@ -199,7 +199,7 @@
   },
   {
     "id": 19,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/sedyeiletasima.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/sedye_ile_tasima.png",
     "question": "Sedye ile yaralı taşırken genel kural olarak yaralının gidiş yönü nasıl olmalıdır?",
     "options": [
       { "text": "Başı önde olacak şekilde", "isTrue": false },
