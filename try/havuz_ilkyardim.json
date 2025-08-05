@@ -3070,10 +3070,10 @@
     "id": 3737,
     "category": "İlk Yardım",
     "question": "Aşağıdaki taşıma tekniğinin adı nedir?",
-    "image_url": "page/firstaid/teskereci_yontemi.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/teskereci_yontemi.png",
     "options": [
-      { "text": "Teskereci yöntemi", "isTrue": false },
-      { "text": "Altın beşik.", "isTrue": true },
+      { "text": "Teskereci yöntemi", "isTrue": true },
+      { "text": "Altın beşik.", "isTrue": false },
       { "text": "Köprü tekniği", "isTrue": false },
       { "text": "Sandalye yöntemi.", "isTrue": false }
     ],
@@ -3083,7 +3083,7 @@
     "id": 3738,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi 'Temel Yaşam Desteği'nin tanımıdır?",
-    "image_url": "https://i.ibb.co/3s8pP1g/image.png",
+    "image_url": null,
     "options": [
       { "text": "Yaralıyı hastaneye taşımak.", "isTrue": false },
       { "text": "Solunumu ve/veya kalbi durmuş kişiye, yapay solunum ve dış kalp masajı yaparak, hayati organlara kan ve oksijen gitmesini sağlamak için yapılan ilaçsız müdahalelerdir.", "isTrue": true },
@@ -3720,7 +3720,7 @@
     "id": 3787,
     "category": "İlk Yardım",
     "question": "Aşağıdaki durumlardan hangisi, Rentek manevrasının uygulanmasını gerektiren acil bir tehlike durumudur?",
-    "image_url": "",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/rentekmanevrasi.png",
     "options": [
       { "text": "Araçtaki yaralının kolunda kırık olması", "isTrue": false },
       { "text": "Araçta yangın tehlikesi olması veya yaralının solunumunun durması", "isTrue": true },
@@ -3733,7 +3733,7 @@
     "id": 3788,
     "category": "İlk Yardım",
     "question": "Vücutta kanı süzerek zararlı maddeleri atan ve iç dengeyi koruyan sistemin ana organları hangileridir?",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/rentekmanevrasi.png",
+    "image_url": null,
     "options": [
       { "text": "Akciğerler", "isTrue": false },
       { "text": "Karaciğer ve mide", "isTrue": false },
