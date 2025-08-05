@@ -116,11 +116,6 @@
     "description": "Görsel, şok durumundaki bir hastaya verilmesi gereken pozisyonu anlatmaktadır. Şok, kan dolaşımının yetersizliği durumudur. Hastanın sırtüstü yatırılması ve kanın hayati organlara gitmesini sağlamak için bacaklarının 30 cm kadar yukarı kaldırılması gerekir. Hastanın üzeri örtülerek vücut ısısı korunur."
   },
   {
-    "id": 24,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/sok2.png",
-    "description": "Bu görsel de şok pozisyonunu göstermektedir. Şok belirtileri gösteren (soluk cilt, hızlı ve zayıf nabız, hızlı solunum) bir kişiye uygulanacak ilk yardımı içerir. Yaralı sırtüstü yatırılır, bacakları yükseltilir ve sıcak tutulur."
-  },
-  {
     "id": 25,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/solunumaciktutmapozisyonu.png",
     "description": "Görsel, bilinci kapalı bir kişide solunum yolunu açık tutmak için kullanılan temel manevraları göstermektedir. Genellikle 'Baş Geri-Çene Yukarı' pozisyonu uygulanarak dilin soluk borusunu tıkaması önlenir. Bu, temel yaşam desteğinin ilk ve en önemli adımlarından biridir."
