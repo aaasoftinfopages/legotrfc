@@ -757,23 +757,23 @@
   {
     "id": 2581,
     "category": "İlk Yardım",
-    "question": "Aşağıdakilerden hangisi, omurga yaralanması şüphesi olan bir yaralı için en güvenli taşıma yöntemidir? [Görsel şıklarda çeşitli taşıma teknikleri gösterilmiştir]",
+    "question": "Aşağıdakilerden hangisi, omurga yaralanması şüphesi olan bir yaralı için en güvenli taşıma yöntemidir? ",
     "image_url": null,
     "options": [
       {
-        "text": "[Görsel: Baş-boyun-gövde ekseni bozulmadan, sert bir sedye üzerinde en az üç kişiyle taşınması]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/sedye_ile_tasima.png",
         "isTrue": true
       },{
-        "text": "[Görsel: Yaralının kucakta taşınması]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/kopruteknigi.png",
         "isTrue": false
       },
       
       {
-        "text": "[Görsel: İtfaiyeci yöntemi ile omuzda taşınması]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/itfayicetasima.png",
         "isTrue": false
       },
       {
-        "text": "[Görsel: İki kişiyle altın beşik yöntemiyle taşınması]",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/altinbesik.png",
         "isTrue": false
       }
     ],
