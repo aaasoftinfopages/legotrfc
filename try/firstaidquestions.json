@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/bascenepozisyonu.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/bas_cene_pozisyonu.png",
     "question": "Görselde gösterilen 'Baş Geri-Çene Yukarı' pozisyonunun temel amacı nedir?",
     "options": [
       { "text": "Kanamayı durdurmak", "isTrue": false },
