@@ -68,7 +68,7 @@
     "id": 2306,
     "category": "İlk Yardım",
     "question": "Resimde görülen uygulama hangi durumda yapılır?",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/bas_cene.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/bas_cene_pozisyonu.png",
     "options": [
       { "text": "Kan şekeri düştüğünde", "isTrue": false },
       { "text": "Kalp krizi geçirdiğinde", "isTrue": false },
