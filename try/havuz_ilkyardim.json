@@ -3,7 +3,7 @@
     "id": 3501,
     "category": "İlk Yardım",
     "question": "İlk yardımın temel uygulamaları olan Koruma, Bildirme ve Kurtarma (KBK) için doğru sıralama aşağıdakilerden hangisidir?",
-    "image_url": "https://i.ibb.co/6y4tW6x/image.png",
+    "image_url": null,
     "options": [
       { "text": "Önce kurtarma yapılır, sonra 112 bildirilir ve en son olay yeri korunur.", "isTrue": false },
       { "text": "Önce olay yeri güvenliği sağlanır (Koruma), sonra 112 aranır (Bildirme) ve en son yaralıya müdahale edilir (Kurtarma).", "isTrue": true },
@@ -16,7 +16,7 @@
     "id": 3502,
     "category": "İlk Yardım",
     "question": "Yetişkin bir kazazedenin solunumunu değerlendirmek için kullanılan 'Bak-Dinle-Hisset' yöntemi ne kadar süreyle uygulanmalıdır?",
-    "image_url": "https://i.ibb.co/PggW244/image.png",
+    "image_url": null,
     "options": [
       { "text": "1-2 saniye", "isTrue": false },
       { "text": "5 saniye", "isTrue": false },
@@ -55,7 +55,7 @@
     "id": 3505,
     "category": "İlk Yardım",
     "question": "Resimde gösterilen pozisyon hangi durumda ve nasıl uygulanır?",
-    "image_url": "https://i.ibb.co/Rvrz0Y2/image.png",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/sok.png",
     "options": [
       { "text": "Koma durumunda, solunum yolunu açmak için verilir.", "isTrue": false },
       { "text": "Şok durumunda, ayaklar 30 cm yukarı kaldırılarak verilir.", "isTrue": true },
@@ -81,7 +81,7 @@
     "id": 3507,
     "category": "İlk Yardım",
     "question": "Aşağıdaki durumlardan hangisinde turnike (boğucu sargı) uygulaması düşünülmelidir?",
-    "image_url": "https://i.ibb.co/K5025qL/image.png",
+    "image_url": null,
     "options": [
       { "text": "Tüm küçük kesiklerde kanamayı durdurmak için", "isTrue": false },
       { "text": "Burun kanamalarında", "isTrue": false },
@@ -94,7 +94,7 @@
     "id": 3508,
     "category": "İlk Yardım",
     "question": "Kaza yapmış bir araç içindeki yaralıyı, solunum durması veya yangın tehlikesi gibi acil durumlarda omuriliğine zarar vermeden çıkarmak için kullanılan manevranın adı nedir?",
-    "image_url": "https://i.ibb.co/hL6dCjV/image.png",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/firstaid/rentekmanevrasi.png",
     "options": [
       { "text": "Heimlich Manevrası", "isTrue": false },
       { "text": "Rentek Manevrası", "isTrue": true },
@@ -107,7 +107,7 @@
     "id": 3509,
     "category": "İlk Yardım",
     "question": "Hayat kurtarma zinciri 4 halkadan oluşur. İkinci halka aşağıdakilerden hangisidir?",
-    "image_url": "https://i.ibb.co/zXqGvM6/image.png",
+    "image_url": null,
     "options": [
       { "text": "Sağlık kuruluşuna haber verme", "isTrue": false },
       { "text": "Ambulans ekiplerince yapılan müdahale", "isTrue": false },
@@ -146,7 +146,7 @@
     "id": 3512,
     "category": "İlk Yardım",
     "question": "0-1 yaş arası bir bebekte solunum yolu tam tıkandıysa ve bebek bilinci yerindeyse, ilk yardım olarak ne yapılmalıdır?",
-    "image_url": "https://i.ibb.co/6PMLT61/image.png",
+    "image_url": null,
     "options": [
       { "text": "Doğrudan yetişkinlerdeki gibi Heimlich manevrası uygulanır.", "isTrue": false },
       { "text": "Bebek başı aşağıda olacak şekilde bir kol üzerine yatırılır, sırtına 5 kez vurulur ve ardından göğsüne 5 kez bası uygulanır.", "isTrue": true },
@@ -159,7 +159,7 @@
     "id": 3513,
     "category": "İlk Yardım",
     "question": "0-12 ay arası bir bebekte dış kalp masajı nereye ve nasıl uygulanır?",
-    "image_url": "https://i.ibb.co/VMy4v2h/image.png",
+    "image_url": null,
     "options": [
       { "text": "Göğüs kemiğinin üst ucuna, tek elin topuğuyla.", "isTrue": false },
       { "text": "İki meme başının ortasını birleştiren hayali çizginin altına, iki parmakla.", "isTrue": true },
@@ -289,7 +289,7 @@
     "id": 3523,
     "category": "İlk Yardım",
     "question": "Resimde görülen taşıma tekniğinin adı nedir ve hangi durumlarda kullanılır?",
-    "image_url": "https://i.ibb.co/3sN6Myn/image.png",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/firstaid/itfayicetasimayontemi.png",
     "options": [
       { "text": "İtfaiyeci Yöntemi - Bilinci kapalı yaralıları tek kişiyle taşımak için.", "isTrue": true },
       { "text": "Rentek Manevrası - Yaralıyı araçtan çıkarmak için.", "isTrue": false },
@@ -379,7 +379,7 @@
     "id": 3530,
     "category": "İlk Yardım",
     "question": "Resimdeki gibi iki ilk yardımcının elleriyle oluşturduğu taşıma tekniğinin adı nedir?",
-    "image_url": "https://i.ibb.co/L5k6pQW/image.png",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/firstaid/altinbesik.png",
     "options": [
       { "text": "İtfaiyeci Yöntemi", "isTrue": false },
       { "text": "Rentek Manevrası", "isTrue": false },
@@ -431,7 +431,7 @@
     "id": 3534,
     "category": "İlk Yardım",
     "question": "İlk yardımcının, omurilik yaralanması şüphesi olan bir kazazedeyi sedyeye yerleştirmek için birden fazla yardımcı ile uyguladığı, yaralının altından köprü kurarak sedyeyi yerleştirdiği taşıma tekniği hangisidir?",
-    "image_url": "https://i.ibb.co/D8d3S9x/image.png",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/firstaid/kopruteknigi.png",
     "options": [
       { "text": "Kaşık Tekniği", "isTrue": false },
       { "text": "Köprü Tekniği", "isTrue": true },
@@ -457,7 +457,7 @@
     "id": 3536,
     "category": "İlk Yardım",
     "question": "Solunum sistemi, vücuda gerekli olan gaz alışverişini yaparak hücrelerin oksijenlenmesini sağlar. Aşağıdakilerden hangisi solunum sistemi organlarından biri değildir?",
-    "image_url": "https://i.ibb.co/mHq33V4/image.png",
+    "image_url": null,
     "options": [
       { "text": "Akciğerler", "isTrue": false },
       { "text": "Soluk Borusu", "isTrue": false },
@@ -470,7 +470,7 @@
     "id": 3537,
     "category": "İlk Yardım",
     "question": "Turnike (boğucu sargı) uygulandıktan sonra, yaralının üzerine veya alnına 'T' harfi ve turnikenin uygulandığı saatin yazılmasının sebebi nedir?",
-    "image_url": "https://i.ibb.co/yQJmR8B/image.png",
+    "image_url": null,
     "options": [
       { "text": "Yaralının kimliğini belirlemek.", "isTrue": false },
       { "text": "Sağlık ekiplerine, uzvun ne kadar süredir kansız kaldığını bildirmek ve gevşetme zamanını takip etmek.", "isTrue": true },
@@ -574,7 +574,7 @@
     "id": 3545,
     "category": "İlk Yardım",
     "question": "Yaralıya sadece bir taraftan ulaşılabilen durumlarda, 3 ilk yardımcı tarafından uygulanan ve yaralının dizler üzerine alınarak sedyeye konulduğu taşıma tekniği hangisidir?",
-    "image_url": "https://i.ibb.co/3s8pP1g/image.png",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/firstaid/kasikteknigi.png",
     "options": [
       { "text": "Kaşık Tekniği", "isTrue": true },
       { "text": "Köprü Tekniği", "isTrue": false },
@@ -639,14 +639,14 @@
     "id": 3550,
     "category": "İlk Yardım",
     "question": "Resimde okla gösterilen ve vücudun hareketini sağlayan sistemin temel yapı taşları hangileridir?",
-    "image_url": "https://i.ibb.co/sW2h8jY/image.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kas_ve_iskelet_Sistemi.jpg",
     "options": [
       { "text": "Kalp, damarlar ve kan", "isTrue": false },
       { "text": "Beyin, omurilik ve sinirler", "isTrue": false },
       { "text": "Kemikler, eklemler ve kaslar", "isTrue": true },
       { "text": "Akciğerler, soluk borusu ve diyafram", "isTrue": false }
     ],
-    "description": "Vücudun desteklenmesini ve hareket etmesini sağlayan sistem Hareket Sistemi'dir. Bu sistem kemikler, eklemler ve kaslardan oluşur."
+    "description": "Vücudun desteklenmesini ve hareket etmesini sağlayan sistem Hareket Sistemi'dir(İskelet ve Kas). Bu sistem kemikler, eklemler ve kaslardan oluşur."
   },
   {
     "id": 3551,
@@ -690,8 +690,8 @@
   {
     "id": 3554,
     "category": "İlk Yardım",
-    "question": "Resimdeki 'Hayat Kurtarma Zinciri' halkalarından 'EARLY CPR' ne anlama gelmektedir?",
-    "image_url": "https://i.ibb.co/zXqGvM6/image.png",
+    "question": "Resimdeki 'Hayat Kurtarma Zinciri' halkalarından 2. ne anlama gelmektedir?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/hayat_kurtarma_zinciri.png",
     "options": [
       { "text": "Erken Haber Verme", "isTrue": false },
       { "text": "Erken Temel Yaşam Desteği", "isTrue": true },
@@ -782,7 +782,7 @@
     "id": 3561,
     "category": "İlk Yardım",
     "question": "Bir kaza sonrası olay yerinin güvenliğini sağlamak (Koruma) amacıyla aşağıdakilerden hangisi yapılmaz?",
-    "image_url": "https://i.ibb.co/6y4tW6x/image.png",
+    "image_url": null,
     "options": [
       { "text": "Olay yeri görünebilir şekilde üçgen reflektörlerle işaretlenir.", "isTrue": false },
       { "text": "Meraklı kalabalığın olay yerine yaklaşması sağlanır.", "isTrue": true },
@@ -808,7 +808,7 @@
     "id": 3563,
     "category": "İlk Yardım",
     "question": "İlkyardımın ABC'sinde 'A' neyi ifade eder ve nasıl sağlanır?",
-    "image_url": "https://i.ibb.co/vYc6hYJ/image.png",
+    "image_url": null,
     "options": [
       { "text": "Açık yara - Yaranın temizlenmesiyle", "isTrue": false },
       { "text": "Atardamar - Kanamayı durdurmakla", "isTrue": false },
@@ -885,8 +885,8 @@
   {
     "id": 3569,
     "category": "İlk Yardım",
-    "question": "Aşağıdakilerden hangisi, omurilik yaralanması şüphesiyle hareket ettirilmemesi gereken bir yaralıyı, 4 ilk yardımcı ile sedyeye yerleştirmek için kullanılan bir tekniktir?",
-    "image_url": "https://i.ibb.co/D8d3S9x/image.png",
+    "question": "Aşağıdakilerden hangisi, omurilik yaralanması şüphesiyle hareket ettirilmemesi gereken bir yaralıyı, 3-4 ilk yardımcı ile sedyeye yerleştirmek için kullanılan bir tekniktir?",
+    "image_url": ,
     "options": [
       { "text": "Altın Beşik Tekniği", "isTrue": false },
       { "text": "İtfaiyeci Tekniği", "isTrue": false },
@@ -899,7 +899,7 @@
     "id": 3570,
     "category": "İlk Yardım",
     "question": "Yaralı bir bölgeye tespit (atel) uygulanırken kullanılan malzemenin (sargı bezi, kravat vb.) genişliği en az ne kadar olmalıdır?",
-    "image_url": "https://i.ibb.co/K5025qL/image.png",
+    "image_url":null,
     "options": [
       { "text": "1-2 cm", "isTrue": false },
       { "text": "2-3 cm", "isTrue": false },
@@ -925,7 +925,7 @@
     "id": 3572,
     "category": "İlk Yardım",
     "question": "Aşağıdaki vücut sistemlerinden hangisi; bilinç, anlama, düşünme, hareketlerin uyumu ve denge gibi fonksiyonları sağlar?",
-    "image_url": "https://i.ibb.co/gPSr5Pq/image.png",
+    "image_url": null,
     "options": [
       { "text": "Dolaşım Sistemi", "isTrue": false },
       { "text": "Solunum Sistemi", "isTrue": false },
@@ -964,7 +964,7 @@
     "id": 3575,
     "category": "İlk Yardım",
     "question": "Bir olay yerini değerlendirmenin temel amaçları nelerdir?",
-    "image_url": "https://i.ibb.co/h7n1p3n/image.png",
+    "image_url": null,
     "options": [
       { "text": "Sadece yaralı sayısını belirlemek.", "isTrue": false },
       { "text": "Tekrar kaza olma riskini ortadan kaldırmak ve yaralı sayısı ile türlerini belirlemek.", "isTrue": true },
@@ -990,7 +990,7 @@
     "id": 3577,
     "category": "İlk Yardım",
     "question": "Resimde okla gösterilen ve kanı kalpten vücuda taşıyan damarlar hangileridir?",
-    "image_url": "https://i.ibb.co/LgB6Lty/image.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/atardamar_soru_1.jpg",
     "options": [
       { "text": "Toplardamarlar (Venler)", "isTrue": false },
       { "text": "Atardamarlar (Arterler)", "isTrue": true },
@@ -1055,7 +1055,7 @@
     "id": 3582,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi bir bataniye ve iki kiriş (kalas, sopa vb.) kullanılarak yapılan geçici sedye yöntemidir?",
-    "image_url": "https://i.ibb.co/3WqP49M/image.png",
+    "image_url": null,
     "options": [
       { "text": "Battaniyenin kenarlarının rulo yapılmasıyla oluşturulan sedye", "isTrue": false },
       { "text": "Battaniyenin yere serilip, üçte birinin kiriş üzerine katlandığı, ikinci kirişin de konularak kalan kısmın üzerine kapatıldığı sedye", "isTrue": true },
@@ -1094,7 +1094,7 @@
     "id": 3585,
     "category": "İlk Yardım",
     "question": "Ağızdan alınan besinlerin öğütülerek sindirilmesi ve vücuda dağıtılmasını sağlayan sistem hangisidir?",
-    "image_url": "https://i.ibb.co/C0wR4tM/image.png",
+    "image_url": null,
     "options": [
       { "text": "Solunum Sistemi", "isTrue": false },
       { "text": "Dolaşım Sistemi", "isTrue": false },
@@ -1211,7 +1211,7 @@
     "id": 3594,
     "category": "İlk Yardım",
     "question": "Yaralı bir dizi sarmak için üçgen sargı nasıl uygulanır?",
-    "image_url": "https://i.ibb.co/L89Yn2h/image.png",
+    "image_url": null,
     "options": [
       { "text": "Üçgenin tabanı dizin üstüne getirilir.", "isTrue": false },
       { "text": "Üçgenin tabanı dizin 3-4 parmak altına, ucu ise dizin üzerine gelecek şekilde yerleştirilir ve uçları dizin üstünde düğümlenir.", "isTrue": true },
@@ -1367,7 +1367,7 @@
     "id": 3606,
     "category": "İlk Yardım",
     "question": "Yetişkinlerde dış kalp masajı uygularken, bası noktası nasıl tespit edilir?",
-    "image_url": "https://i.ibb.co/b3j6Y3q/image.png",
+    "image_url": null,
     "options": [
       { "text": "Göğüs kemiğinin en üst ucuna.", "isTrue": false },
       { "text": "Göğüs kemiğinin alt ve üst ucu tespit edilerek alt yarısının ortasına.", "isTrue": true },
@@ -1380,7 +1380,7 @@
     "id": 3607,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, hayat kurtarma zincirinin ilk halkasıdır?",
-    "image_url": "https://i.ibb.co/zXqGvM6/image.png",
+    "image_url": null,
     "options": [
       { "text": "Olay yerinde Temel Yaşam Desteği uygulamak", "isTrue": false },
       { "text": "Sağlık kuruluşuna (112) haber vermek", "isTrue": true },
@@ -1393,7 +1393,7 @@
     "id": 3608,
     "category": "İlk Yardım",
     "question": "Yaralı bir kalçaya üçgen sargı uygulaması nasıl yapılır?",
-    "image_url": "https://i.ibb.co/f21wQ4M/image.png",
+    "image_url": null,
     "options": [
       { "text": "Sargı doğrudan kalçanın etrafına sarılır.", "isTrue": false },
       { "text": "Üçgenin tabanı uyluğun etrafında düğümlenir, tepesi ise bele sarılan bir kemer veya beze bağlanır.", "isTrue": true },
@@ -1471,7 +1471,7 @@
     "id": 3614,
     "category": "İlk Yardım",
     "question": "1-8 yaş arası bir çocukta, eğer görünümü bir yetişkine benziyorsa, dış kalp masajı nasıl uygulanmalıdır?",
-    "image_url": "https://i.ibb.co/3W6q06Z/image.png",
+    "image_url": null,
     "options": [
       { "text": "Sadece iki parmakla uygulanır.", "isTrue": false },
       { "text": "Her zaman tek elle uygulanır.", "isTrue": false },
@@ -1536,7 +1536,7 @@
     "id": 3619,
     "category": "İlk Yardım",
     "question": "Aşağıdaki nabız alma bölgelerinden hangisi, 'ayak sırtının ortasında' yer alır?",
-    "image_url": "https://i.ibb.co/D8L1x2d/image.png",
+    "image_url": null,
     "options": [
       { "text": "Şah damarı", "isTrue": false },
       { "text": "Ön-kol damarı", "isTrue": false },
@@ -1627,7 +1627,7 @@
     "id": 3626,
     "category": "İlk Yardım",
     "question": "Bebeklerde Temel Yaşam Desteği uygularken yapay solunum nasıl yapılır?",
-    "image_url": "https://i.ibb.co/VMy4v2h/image.png",
+    "image_url": null,
     "options": [
       { "text": "Sadece bebeğin ağzı kapatılarak burnundan üflenir.", "isTrue": false },
       { "text": "İlk yardımcının ağzı, bebeğin hem ağzını hem de burnunu içine alacak şekilde yerleştirilir ve nefes verilir.", "isTrue": true },
@@ -1640,7 +1640,7 @@
     "id": 3627,
     "category": "İlk Yardım",
     "question": "Aşağıdaki durumlardan hangisi, hasta veya yaralının acil taşıma teknikleri kullanılarak taşınmasını gerektiren bir tehlike durumu değildir?",
-    "image_url": "https://i.ibb.co/L5k6pQW/image.png",
+    "image_url": null,
     "options": [
       { "text": "Olay yerinde patlama veya yangın tehlikesi olması.", "isTrue": false },
       { "text": "Yaralının kolunda veya bacağında kapalı bir kırık şüphesi olması.", "isTrue": true },
@@ -1666,7 +1666,7 @@
     "id": 3629,
     "category": "İlk Yardım",
     "question": "Yetişkinlerde temel yaşam desteği sırasında, kalp masajı için ellerin parmakları neden birbirine kenetlenir ve göğüs kafesine temas ettirilmez?",
-    "image_url": "https://i.ibb.co/C5fLqK0/image.png",
+    "image_url": null,
     "options": [
       { "text": "Ellerin üşümesini engellemek için.", "isTrue": false },
       { "text": "Uygulanan gücün sadece elin topuğunda toplanmasını sağlamak ve kaburgalara baskı yapıp kırma riskini azaltmak için.", "isTrue": true },
@@ -1744,7 +1744,7 @@
     "id": 3635,
     "category": "İlk Yardım",
     "question": "Bir bayılma vakasında, bilinci kapalı ancak solunumu olan kişiye sırtüstü yatırılıp ayakları 30 cm yukarı kaldırılır. Bu uygulamanın amacı nedir?",
-    "image_url": "https://i.ibb.co/Rvrz0Y2/image.png",
+    "image_url": null,
     "options": [
       { "text": "Kişinin daha rahat nefes almasını sağlamak.", "isTrue": false },
       { "text": "Beyne giden kan akışını artırarak bilincin daha çabuk yerine gelmesini sağlamak.", "isTrue": true },
@@ -1757,7 +1757,7 @@
     "id": 3636,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, kanamayı durdurmak için uygulanan 'baskı noktası' değildir?",
-    "image_url": "https://i.ibb.co/D8L1x2d/image.png",
+    "image_url": null,
     "options": [
       { "text": "Boyun (Şah Damarı)", "isTrue": false },
       { "text": "Koltukaltı", "isTrue": false },
@@ -1821,13 +1821,13 @@
   {
     "id": 3641,
     "category": "İlk Yardım",
-    "question": "Aşağıdakilerden hangisi bir sandalyenin sedye olarak kullanıldığı taşıma tekniğidir?",
-    "image_url": "https://i.ibb.co/3kKqN1Y/image.png",
+    "question": "Şekildeki görsel neyi gösteriyor?",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kol_atelleme.png",
     "options": [
-      { "text": "Sandalye ile Taşıma", "isTrue": true },
-      { "text": "Köprü Tekniği", "isTrue": false },
-      { "text": "Kaşık Tekniği", "isTrue": false },
-      { "text": "Altın Beşik Yöntemi", "isTrue": false }
+      { "text": "Kol atelleme", "isTrue": true },
+      { "text": "Parmak atelleme", "isTrue": false },
+      { "text": "Bacak atelleme ", "isTrue": false },
+      { "text": "Köprücük kemiği atelleme", "isTrue": false }
     ],
     "description": "Sandalye ile taşıma, özellikle merdiven gibi dar alanlarda yaralıyı taşımak için kullanılan etkili bir yöntemdir. İki ilk yardımcı tarafından uygulanır. Yaralının bilincinin açık olması ve oturabilmesi gerekir."
   },
@@ -1835,7 +1835,7 @@
     "id": 3642,
     "category": "İlk Yardım",
     "question": "Bir kaza sonrası etraftaki meraklı kişilerin toplanmasının önlenmesi neden önemlidir?",
-    "image_url": "https://i.ibb.co/d22r7yJ/image.png",
+    "image_url": null,
     "options": [
       { "text": "Sadece olay yerinin fotoğrafının çekilmesini engellemek için.", "isTrue": false },
       { "text": "İlk yardımcının rahat çalışmasını engellemelerini ve yaralıya paniğe sevk etmelerini önlemek için.", "isTrue": true },
@@ -1887,7 +1887,7 @@
     "id": 3646,
     "category": "İlk Yardım",
     "question": "Bebeklerde tam tıkanıklıkta sırta 5 kez vurulduktan sonra cisim çıkmazsa, bir sonraki adım olarak ne yapılır?",
-    "image_url": "https://i.ibb.co/6PMLT61/image.png",
+    "image_url": null,
     "options": [
       { "text": "Tekrar sırtına 5 kez daha vurulur.", "isTrue": false },
       { "text": "Bebek diğer kol üzerine sırtüstü çevrilir ve göğüs kemiğine iki parmakla 5 kez bası uygulanır.", "isTrue": true },
@@ -1991,7 +1991,7 @@
     "id": 3654,
     "category": "İlk Yardım",
     "question": "Bir yaralıyı 'İtfaiyeci Yöntemi' ile omuzda taşırken, ilk yardımcının serbest kalan eliyle yaralının neresinden tutması gerekir?",
-    "image_url": "https://i.ibb.co/3sN6Myn/image.png",
+    "image_url": null,
     "options": [
       { "text": "Başından", "isTrue": false },
       { "text": "Sırtından", "isTrue": false },
@@ -2043,7 +2043,7 @@
     "id": 3658,
     "category": "İlk Yardım",
     "question": "Bir kaza sonrası yaralının sadece tek bir tarafına ulaşılabiliyorsa, onu 3 kişiyle sedyeye aktarmak için en uygun taşıma tekniği hangisidir?",
-    "image_url": "https://i.ibb.co/3s8pP1g/image.png",
+    "image_url": null,
     "options": [
       { "text": "Köprü Tekniği", "isTrue": false },
       { "text": "Kaşık Tekniği", "isTrue": true },
@@ -2082,7 +2082,7 @@
     "id": 3661,
     "category": "İlk Yardım",
     "question": "Bir yaralının solunumunu 'Bak-Dinle-Hisset' yöntemiyle değerlendirirken 'Bak' aşamasında ne kontrol edilir?",
-    "image_url": "https://i.ibb.co/PggW244/image.png",
+    "image_url": null,
     "options": [
       { "text": "Yaralının ten rengi", "isTrue": false },
       { "text": "Göğüs kafesinin solunumla birlikte inip kalkma hareketi", "isTrue": true },
@@ -2186,7 +2186,7 @@
     "id": 3669,
     "category": "İlk Yardım",
     "question": "Karşılıklı durarak kaldırma tekniği, özellikle hangi tür yaralanma şüphesinde kullanılır?",
-    "image_url": "https://i.ibb.co/3WqP49M/image.png",
+    "image_url": null,
     "options": [
       { "text": "Bilinç kaybı", "isTrue": false },
       { "text": "Omurilik yaralanmaları", "isTrue": true },
@@ -2240,10 +2240,10 @@
     "question": "Bir yaralının bilinci açık ancak şok belirtileri (soluk cilt, hızlı nabız) gösteriyorsa, hangi pozisyon verilir?",
     "image_url": "https://i.ibb.co/Rvrz0Y2/image.png",
     "options": [
-      { "text": "Koma pozisyonu", "isTrue": false },
-      { "text": "Şok pozisyonu (sırtüstü yatırıp ayakları 30 cm yükseltme)", "isTrue": true },
-      { "text": "Yarı oturur pozisyon", "isTrue": false },
-      { "text": "Yaralı yürütülür.", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/gorsal1.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/sok.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/normaldurus.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/gerigeriyaralitasima.png", "isTrue": false }
     ],
     "description": "Bilinci açık ancak şok belirtileri gösteren bir yaralıda, hayati organlara giden kan akışını artırmak amacıyla şok pozisyonu uygulanır. Hasta sırtüstü yatırılır, başının altına ince bir destek konulabilir ve bacakları 30 cm kadar yukarı kaldırılır."
   },
@@ -2277,7 +2277,7 @@
     "id": 3676,
     "category": "İlk Yardım",
     "question": "Yetişkin birine kalp masajı yaparken kolların pozisyonu nasıl olmalıdır?",
-    "image_url": "https://i.ibb.co/C5fLqK0/image.png",
+    "image_url": null,
     "options": [
       { "text": "Dirseklerden bükülmüş olmalıdır.", "isTrue": false },
       { "text": "Vücuda paralel olmalıdır.", "isTrue": false },
@@ -2290,7 +2290,7 @@
     "id": 3677,
     "category": "İlk Yardım",
     "question": "Bir battaniyeyi rulo yaparak geçici sedye oluşturma tekniği hangi durumlarda kullanılır?",
-    "image_url": "https://i.ibb.co/b3Kx8Fj/image.png",
+    "image_url": null,
     "options": [
       { "text": "Uzun mesafeli taşımalarda.", "isTrue": false },
       { "text": "Sadece omurga yaralanmalarında.", "isTrue": false },
@@ -2368,7 +2368,7 @@
     "id": 3683,
     "category": "İlk Yardım",
     "question": "Resimde görülen ve bir kişinin bilincini kaybettiği, yere düştüğü, genellikle kısa süreli ve yüzeysel olan durumun adı nedir?",
-    "image_url": "https://i.ibb.co/sK4F9qH/image.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/bayilma.png",
     "options": [
       { "text": "Koma", "isTrue": false },
       { "text": "Şok", "isTrue": false },
@@ -2446,7 +2446,7 @@
     "id": 3689,
     "category": "İlk Yardım",
     "question": "Ciddi bir kanaması olan ve şoktaki bir hastanın üzeri neden bir battaniye ile örtülür?",
-    "image_url": "https://i.ibb.co/3CgYdY7/image.png",
+    "image_url": null,
     "options": [
       { "text": "Yaralarının görünmesini engellemek için.", "isTrue": false },
       { "text": "Hastayı terleterek toksinleri atmasını sağlamak için.", "isTrue": false },
@@ -2601,13 +2601,13 @@
   {
     "id": 3701,
     "category": "İlk Yardım",
-    "question": "Omurilik yaralanması şüphesi olan ve sedyeye alınması gereken bir hastayı, 3 ilk yardımcı ile 'Karşılıklı Durarak Kaldırma' tekniğinde, üçüncü ilk yardımcı yaralının neresinden tutar?",
-    "image_url": "https://i.ibb.co/3WqP49M/image.png",
+    "question": "Aşağıdaki görsel hangi durumlarda uygulanır",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/koprucukkirik.png",
     "options": [
-      { "text": "Omuz ve ensesinden", "isTrue": false },
-      { "text": "Sırt ve kalçasından", "isTrue": false },
-      { "text": "Dizleri hizasından, bacaklarını kavrayarak", "isTrue": true },
-      { "text": "Sadece kollarından", "isTrue": false }
+      { "text": "Köprücük kemiği kırıklarında", "isTrue": true },
+      { "text": "Bacak kırıklarında", "isTrue": false },
+      { "text": "Kol kırıklarında ", "isTrue": false },
+      { "text": "Kafatası kırıklarında", "isTrue": false }
     ],
     "description": "Bu teknikte, iki ilk yardımcı göğüs hizasında karşılıklı dururken, üçüncü ilk yardımcı hastanın dizleri hizasında durur ve bacakları düz olacak şekilde kavrar."
   },
@@ -2693,7 +2693,7 @@
     "id": 3708,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, hayat kurtarma zincirinin 3. halkasıdır?",
-    "image_url": "https://i.ibb.co/zXqGvM6/image.png",
+    "image_url": null,
     "options": [
       { "text": "Sağlık kuruluşuna haber verme", "isTrue": false },
       { "text": "Olay yerinde Temel Yaşam Desteği", "isTrue": false },
@@ -2731,8 +2731,8 @@
   {
     "id": 3711,
     "category": "İlk Yardım",
-    "question": "Resimdeki gibi bir kişinin bilincini kaybetmesi durumunda, olay yerinde ilk yardımcının yapması gereken ilk işlem nedir?",
-    "image_url": "https://i.ibb.co/sK4F9qH/image.png",
+    "question": "Bir kişinin bilincini kaybetmesi durumunda, olay yerinde ilk yardımcının yapması gereken ilk işlem nedir?",
+    "image_url": null,
     "options": [
       { "text": "Hemen kişiyi oturtmaya çalışmak", "isTrue": false },
       { "text": "Çevrenin güvenliğini sağlamak ve ardından kişinin solunumunu kontrol etmek", "isTrue": true },
@@ -2771,7 +2771,7 @@
     "id": 3714,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, kanamayı durdurmak için kanayan bölgenin kalp seviyesinden yukarı kaldırılması (elevasyon) yönteminin temel prensibidir?",
-    "image_url": "https://i.ibb.co/3W6q06Z/image.png",
+    "image_url": null,
     "options": [
       { "text": "Kanın pıhtılaşmasını hızlandırmak.", "isTrue": false },
       { "text": "Yer çekiminden faydalanarak kanayan bölgeye giden kan basıncını ve kan akışını azaltmak.", "isTrue": true },
@@ -2794,18 +2794,18 @@
     "description": "Tespit sonrası uzuvda morarma, soğukluk, solukluk, karıncalanma veya artan ağrı gibi belirtiler, sargıların dolaşımı engelleyecek kadar sıkı olduğunun (kompartman sendromu) işaretidir. Bu durumda sargılar derhal gevşetilmelidir."
   },
   {
-    "id": 3716,
-    "category": "İlk Yardım",
-    "question": "Yetişkin bir hastaya 'Baş Geri-Çene Yukarı' pozisyonu verirken bir el alna, diğer elin iki parmağı nereye yerleştirilir?",
-    "image_url": "https://i.ibb.co/vYc6hYJ/image.png",
-    "options": [
-      { "text": "Gırtlağın üzerine", "isTrue": false },
-      { "text": "Çene kemiğinin üzerine", "isTrue": true },
-      { "text": "Elmacık kemiğinin üzerine", "isTrue": false },
-      { "text": "Yanağın üzerine", "isTrue": false }
-    ],
-    "description": "Bu pozisyonu vermek için, bir el hastanın alnına konarak baş geriye doğru itilir. Diğer elin iki parmağı ise çenenin kemik kısmına yerleştirilerek çene yukarı doğru kaldırılır."
-  },
+  "id": 3716,
+  "category": "İlk Yardım",
+  "question": "Şekildeki ilk yardım uygulaması hangi amaçla yapılır?",
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/bas_cene.png",
+  "options": [
+    { "text": "Solunum yolunu açmak", "isTrue": true },
+    { "text": "Kanamayı durdurmak", "isTrue": false },
+    { "text": "Şoka girmesini engellemek", "isTrue": false },
+    { "text": "Vücut ısısını düşürmek", "isTrue": false }
+  ],
+  "description": "Bilinci kapalı ancak solunumu olan kişilerde, dilin geriye kayıp solunum yolunu tıkamasını önlemek için uygulanan bu yönteme 'Baş-Çene Pozisyonu' denir. Bir el yaralının alnına konarak baş geriye itilir, diğer elin parmakları ile çene kemiğinden tutularak yukarı doğru kaldırılır."
+},
   {
     "id": 3717,
     "category": "İlk Yardım",
@@ -2862,7 +2862,7 @@
     "id": 3721,
     "category": "İlk Yardım",
     "question": "Resimde görülen ve bilinci kapalı kişiye uygulanan pozisyonun adı nedir?",
-    "image_url": "https://i.ibb.co/dGt7j0S/image.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/koma.png",
     "options": [
       { "text": "Şok Pozisyonu", "isTrue": false },
       { "text": "Koma Pozisyonu", "isTrue": true },
@@ -2888,7 +2888,7 @@
     "id": 3723,
     "category": "İlk Yardım",
     "question": "Açık bir yarayı temiz bir bezle kapattıktan sonra, yara üzerine bandaj uygulanmasının amacı nedir?",
-    "image_url": "https://i.ibb.co/Xz9t763/image.png",
+    "image_url": null,
     "options": [
       { "text": "Yaranın daha hızlı iyileşmesini sağlamak.", "isTrue": false },
       { "text": "Temiz bezin üzerine sabit bir basınç uygulayarak kanamayı durdurmaya yardımcı olmak ve bezi yerinde tutmak.", "isTrue": true },
@@ -2914,7 +2914,7 @@
     "id": 3725,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi bir 'kılcal damar kanaması' özelliğidir?",
-    "image_url": "https://i.ibb.co/h7n1p3n/image.png",
+    "image_url": null,
     "options": [
       { "text": "Fışkırır tarzda ve açık renklidir.", "isTrue": false },
       { "text": "Sızıntı şeklinde ve koyu renklidir.", "isTrue": false },
@@ -2940,7 +2940,7 @@
     "id": 3727,
     "category": "İlk Yardım",
     "question": "Aşağıdaki yapılardan hangisi, insan vücudunda 'Hareket Sistemi' içinde yer almaz?",
-    "image_url": "https://i.ibb.co/sW2h8jY/image.png",
+    "image_url": null,
     "options": [
       { "text": "Kemikler", "isTrue": false },
       { "text": "Eklemler", "isTrue": false },
@@ -2953,7 +2953,7 @@
     "id": 3728,
     "category": "İlk Yardım",
     "question": "İlk yardımın temel uygulaması olan KBK'daki 'B' harfi neyi ifade eder?",
-    "image_url": "https://i.ibb.co/6y4tW6x/image.png",
+    "image_url": null,
     "options": [
       { "text": "Bak-Dinle-Hisset", "isTrue": false },
       { "text": "Baskı", "isTrue": false },
@@ -2976,18 +2976,18 @@
     "description": "Kısmi tıkanıklıkta, hava yolu tam kapanmamıştır. Bu durumda, öksürük refleksi akciğerlerdeki havayı kullanarak cisme basınç uygular ve dışarı atılmasını sağlar. Bu doğal mekanizmaya müdahale etmemek ve kişiyi öksürmeye teşvik etmek en doğru yaklaşımdır."
   },
   {
-    "id": 3730,
-    "category": "İlk Yardım",
-    "question": "Sırtüstü yatan ve omurga yaralanması şüphesi olan bir hastayı sedyeye almak için, 3 ilk yardımcının hastanın yan yana dizilerek, baş-boyun-gövde eksenini bozmadan tek bir blok halinde kaldırdığı taşıma tekniği hangisidir?",
-    "image_url": "https://i.ibb.co/3WqP49M/image.png",
-    "options": [
-      { "text": "Köprü Tekniği", "isTrue": false },
-      { "text": "Sandalye ile Taşıma", "isTrue": false },
-      { "text": "Karşılıklı Durarak Kaldırma", "isTrue": true },
-      { "text": "İtfaiyeci Yöntemi", "isTrue": false }
-    ],
-    "description": "Karşılıklı Durarak Kaldırma tekniği, özellikle omurga yaralanması şüphesinde, hastanın vücut eksenini bozmadan güvenli bir şekilde sedyeye aktarmak için tasarlanmıştır."
-  },
+  "id": 3730,
+  "category": "İlk Yardım",
+  "question": "Baş ve omurga yaralanması olmayan, bilinci kapalı kazazedenin hava yolunu açmak için kazazedeye aşağıdaki baş pozisyonlarından hangisi verilir?",
+  "image_url": null,
+  "options": [
+    { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/bascene1.png", "isTrue": false },
+    { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/bascene2.png", "isTrue": false },
+    { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/bascene3.png", "isTrue": true },
+    { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/bascene4.png", "isTrue": false }
+  ],
+  "description": "Baş ve omurga yaralanması şüphesi olmayan, bilinci kapalı kişilerde solunum yolunu açmak için kullanılan temel yöntem 'Baş Geri-Çene Yukarı' pozisyonudur. Bu pozisyon, dilin geriye kayarak soluk borusunu tıkamasını engeller ve havanın akciğerlere rahatça ulaşmasını sağlar. Görseldeki C şıkkı bu doğru pozisyonu göstermektedir."
+},
   {
     "id": 3731,
     "category": "İlk Yardım",
@@ -3018,7 +3018,7 @@
     "id": 3733,
     "category": "İlk Yardım",
     "question": "Yaralı bir göğsü sarmak için üçgen sargı nasıl uygulanır?",
-    "image_url": "https://i.ibb.co/f21wQ4M/image.png",
+    "image_url": null,
     "options": [
       { "text": "Üçgenin tepesi yaralı omza yerleştirilir, tabanı ise sırtta düğümlenir.", "isTrue": true },
       { "text": "Üçgenin tabanı yaralı omza yerleştirilir.", "isTrue": false },
@@ -3069,13 +3069,13 @@
   {
     "id": 3737,
     "category": "İlk Yardım",
-    "question": "Bir yaralıyı 'Kollar ve Bacaklardan Tutarak Taşıma' tekniği kimler tarafından ve nasıl uygulanır?",
-    "image_url": "https://i.ibb.co/L5k6pQW/image.png",
+    "question": "Aşağıdaki taşıma tekniğinin adı nedir?",
+    "image_url": "page/firstaid/teskereci_yontemi.png",
     "options": [
-      { "text": "Tek ilk yardımcı tarafından uygulanır.", "isTrue": false },
-      { "text": "İki ilk yardımcı tarafından; biri koltuk altlarından, diğeri bacaklarından tutarak uygulanır.", "isTrue": true },
-      { "text": "Üç ilk yardımcı tarafından uygulanır.", "isTrue": false },
-      { "text": "Sadece bilinci kapalı hastalarda uygulanır.", "isTrue": false }
+      { "text": "Teskereci yöntemi", "isTrue": false },
+      { "text": "Altın beşik.", "isTrue": true },
+      { "text": "Köprü tekniği", "isTrue": false },
+      { "text": "Sandalye yöntemi.", "isTrue": false }
     ],
     "description": "Bu teknik, iki ilk yardımcı gerektirir. Bir ilk yardımcı, yaralının arkasına geçerek koltuk altlarından kavrarken, ikinci ilk yardımcı yaralının bacaklarını dizlerinin altından tutar. Genellikle kısa mesafeli ve hızlı taşımalar için kullanılır."
   },
@@ -3122,7 +3122,7 @@
     "id": 3741,
     "category": "İlk Yardım",
     "question": "Yetişkin bir hastada, şah damarından nabız kontrolü boynun neresinden yapılır?",
-    "image_url": "https://i.ibb.co/D8L1x2d/image.png",
+    "image_url": null,
     "options": [
       { "text": "Boynun tam arkasından, ense kökünden", "isTrue": false },
       { "text": "Gırtlağın (adem elması) her iki yanında bulunan çukurdan", "isTrue": true },
@@ -3174,7 +3174,7 @@
     "id": 3745,
     "category": "İlk Yardım",
     "question": "Bir kaza sonrası olay yerinde tekrar kaza olma riskini ortadan kaldırmak, ilk yardımın hangi temel uygulamasının amacıdır?",
-    "image_url": "https://i.ibb.co/6y4tW6x/image.png",
+    "image_url": null,
     "options": [
       { "text": "Koruma", "isTrue": true },
       { "text": "Bildirme", "isTrue": false },
@@ -3187,7 +3187,7 @@
     "id": 3746,
     "category": "İlk Yardım",
     "question": "Aşağıdaki vücut sistemlerinden hangisi dokulara oksijen, besin ve hormon taşıma görevini üstlenir?",
-    "image_url": "https://i.ibb.co/LgB6Lty/image.png",
+    "image_url": null,
     "options": [
       { "text": "Sinir Sistemi", "isTrue": false },
       { "text": "Hareket Sistemi", "isTrue": false },
@@ -3226,7 +3226,7 @@
     "id": 3749,
     "category": "İlk Yardım",
     "question": "Bir yaralıda Temel Yaşam Desteği'ne başlamadan önce, solunumun olmadığından kesinlikle emin olmak için hangi yöntem kullanılır?",
-    "image_url": "https://i.ibb.co/PggW244/image.png",
+    "image_url": null,
     "options": [
       { "text": "Göz bebeklerine bakılır.", "isTrue": false },
       { "text": "Vücut ısısı ölçülür.", "isTrue": false },
@@ -3278,7 +3278,7 @@
     "id": 3753,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi beyincik (cerebellum) organının temel görevlerinden biridir?",
-    "image_url": "https://i.ibb.co/gPSr5Pq/image.png",
+    "image_url": null,
     "options": [
       { "text": "Solunumu düzenlemek", "isTrue": false },
       { "text": "Hareketlerin uyumu ve dengeyi sağlamak", "isTrue": true },
@@ -3304,7 +3304,7 @@
     "id": 3755,
     "category": "İlk Yardım",
     "question": "Solunumu ve/veya kalbi durmuş kişiye, hayat kurtarma amacıyla yapılan ilaçsız müdahaleler bütününe ne denir?",
-    "image_url": "https://i.ibb.co/3s8pP1g/image.png",
+    "image_url": null,
     "options": [
       { "text": "Acil Tedavi", "isTrue": false },
       { "text": "Ameliyat", "isTrue": false },
@@ -3421,7 +3421,7 @@
     "id": 3764,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, olay yerini değerlendirirken 'Koruma' basamağı kapsamında yapılan bir uygulama değildir?",
-    "image_url": "https://i.ibb.co/6y4tW6x/image.png",
+    "image_url": null,
     "options": [
       { "text": "Olay yerini üçgen reflektörlerle işaretlemek.", "isTrue": false },
       { "text": "Araç kontağını kapatmak.", "isTrue": false },
@@ -3434,7 +3434,7 @@
     "id": 3765,
     "category": "İlk Yardım",
     "question": "Ağızdan alınan besinlerin öğütülerek sindirilmesi ve kan dolaşımı vasıtasıyla vücuda dağıtılmasını sağlayan sistem hangisidir?",
-    "image_url": "https://i.ibb.co/C0wR4tM/image.png",
+    "image_url": null,
     "options": [
       { "text": "Solunum Sistemi", "isTrue": false },
       { "text": "Sindirim Sistemi", "isTrue": true },
@@ -3443,19 +3443,19 @@
     ],
     "description": "Sindirim sistemi, ağızdan başlayarak yemek borusu, mide ve bağırsaklarla devam eden, besinlerin parçalanıp emilmesini sağlayan organlar bütünüdür."
   },
-  {
-    "id": 3766,
-    "category": "İlk Yardım",
-    "question": "Bir yaralıya 'Altın Beşik' yöntemiyle taşıma uygulamak için kaç ilk yardımcıya ihtiyaç vardır?",
-    "image_url": "https://i.ibb.co/L5k6pQW/image.png",
-    "options": [
-      { "text": "Bir", "isTrue": false },
-      { "text": "İki", "isTrue": true },
-      { "text": "Üç", "isTrue": false },
-      { "text": "Dört", "isTrue": false }
-    ],
-    "description": "Altın beşik yöntemi, iki ilk yardımcının karşılıklı olarak ellerini kenetleyerek bir oturak oluşturması ve yaralıyı bu şekilde taşımasıdır. "
-  },
+{
+  "id": 3766,
+  "category": "İlk Yardım",
+  "question": "Kalp atımları alınamayan yetişkin bir insana, şekildeki gibi pozisyon verilerek yapılan dış kalp masajında, göğüs kemiğine uygulanan baskı ne kadar çökme sağlamalıdır?",
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kalp_masaji.png",
+  "options": [
+    { "text": "1 cm", "isTrue": false },
+    { "text": "2 cm", "isTrue": false },
+    { "text": "5 cm", "isTrue": true },
+    { "text": "6 cm", "isTrue": false }
+  ],
+  "description": "Yetişkinlerde yapılan dış kalp masajında (göğüs kompresyonu), kalbin etkili bir şekilde kanı pompalayabilmesi için göğüs kemiğinin en az 5 cm çöktürülmesi hedeflenir. Baskının 6 cm'den daha derin olmamasına da dikkat edilmelidir. Bu nedenle doğru cevap 5 cm'dir."
+},
   {
     "id": 3767,
     "category": "İlk Yardım",
@@ -3486,7 +3486,7 @@
     "id": 3769,
     "category": "İlk Yardım",
     "question": "Bir kaza sonrası yaralının elbiselerinin üzerine 'turnike' veya 'T' harfinin yazılmasının amacı nedir?",
-    "image_url": "https://i.ibb.co/yQJmR8B/image.png",
+    "image_url": null,
     "options": [
       { "text": "Yaralının adının baş harfini belirtmek.", "isTrue": false },
       { "text": "Çok sayıda yaralı olduğunda, sağlık ekiplerinin turnike uygulanan hastayı kolayca ayırt etmesini sağlamak.", "isTrue": true },
@@ -3538,7 +3538,7 @@
     "id": 3773,
     "category": "İlk Yardım",
     "question": "Aşağıdaki yapılardan hangisi, beyin ve omurilik ile birlikte merkezi sinir sistemini oluşturur?",
-    "image_url": "https://i.ibb.co/gPSr5Pq/image.png",
+    "image_url": null,
     "options": [
       { "text": "Kalp", "isTrue": false },
       { "text": "Akciğerler", "isTrue": false },
@@ -3564,7 +3564,7 @@
     "id": 3775,
     "category": "İlk Yardım",
     "question": "Yetişkin bir hastaya dış kalp masajı yaparken, göğüs yüksekliğinin ne kadarı kadar çökme sağlanmalıdır?",
-    "image_url": "https://i.ibb.co/C5fLqK0/image.png",
+    "image_url": null,
     "options": [
       { "text": "1/5'i kadar", "isTrue": false },
       { "text": "1/4'ü kadar", "isTrue": false },
@@ -3616,7 +3616,7 @@
     "id": 3779,
     "category": "İlk Yardım",
     "question": "Yaralıya sadece bir taraftan ulaşılabilen durumlarda, yaralıyı sedyeye aktarmak için 3 kişiyle uygulanan taşıma tekniği hangisidir?",
-    "image_url": "https://i.ibb.co/3s8pP1g/image.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/kasikteknigi.png",
     "options": [
       { "text": "Köprü Tekniği", "isTrue": false },
       { "text": "Kaşık Tekniği", "isTrue": true },
@@ -3642,7 +3642,7 @@
     "id": 3781,
     "category": "İlk Yardım",
     "question": "Bir yaralıda solunumun varlığını değerlendirmek için 'Dinle' aşamasında ne yapılır?",
-    "image_url": "https://i.ibb.co/PggW244/image.png",
+    "image_url": null,
     "options": [
       { "text": "Yaralının kalp atışları dinlenir.", "isTrue": false },
       { "text": "İlk yardımcı, kulağını yaralının ağzına ve burnuna yaklaştırarak nefes sesini duymaya çalışır.", "isTrue": true },
@@ -3694,7 +3694,7 @@
     "id": 3785,
     "category": "İlk Yardım",
     "question": "Resimde görülen, vücudun ana eksenini oluşturan kemik yapısı hangisidir?",
-    "image_url": "https://i.ibb.co/L5kP968/image.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/omurga_kemigi.jpg",
     "options": [
       { "text": "Omurga", "isTrue": true },
       { "text": "Kaburga", "isTrue": false },
@@ -3707,7 +3707,7 @@
     "id": 3786,
     "category": "İlk Yardım",
     "question": "Bir yaralının bilinci yerinde değilse, ilk yardımın ABC'sindeki ilk adım olan 'A' (Hava yolu açıklığı) nasıl sağlanır?",
-    "image_url": "https://i.ibb.co/vYc6hYJ/image.png",
+    "image_url": null,
     "options": [
       { "text": "Sırtına vurularak", "isTrue": false },
       { "text": "Hastayı yan çevirerek", "isTrue": false },
@@ -3720,7 +3720,7 @@
     "id": 3787,
     "category": "İlk Yardım",
     "question": "Aşağıdaki durumlardan hangisi, Rentek manevrasının uygulanmasını gerektiren acil bir tehlike durumudur?",
-    "image_url": "https://i.ibb.co/hL6dCjV/image.png",
+    "image_url": "",
     "options": [
       { "text": "Araçtaki yaralının kolunda kırık olması", "isTrue": false },
       { "text": "Araçta yangın tehlikesi olması veya yaralının solunumunun durması", "isTrue": true },
@@ -3733,7 +3733,7 @@
     "id": 3788,
     "category": "İlk Yardım",
     "question": "Vücutta kanı süzerek zararlı maddeleri atan ve iç dengeyi koruyan sistemin ana organları hangileridir?",
-    "image_url": "https://i.ibb.co/L564FwF/image.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/rentekmanevrasi.png",
     "options": [
       { "text": "Akciğerler", "isTrue": false },
       { "text": "Karaciğer ve mide", "isTrue": false },
@@ -3759,7 +3759,7 @@
     "id": 3790,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, ilk yardımcının bir yaralıya yaklaşırken ilk yapması gerekenlerden biridir?",
-    "image_url": "https://i.ibb.co/F8C0cZw/image.png",
+    "image_url":null,
     "options": [
       { "text": "Hemen yaralarını sarmak", "isTrue": false },
       { "text": "Kendini tanıtmak ve yaralıyı sakinleştirmek", "isTrue": true },
@@ -3849,19 +3849,6 @@
   {
     "id": 3797,
     "category": "İlk Yardım",
-    "question": "Rentek manevrası ile yaralı araçtan çıkarılırken, ilk yardımcının bir eliyle yaralının kolunu tutarken diğer eliyle nereyi kavraması gerekir?",
-    "image_url": "https://i.ibb.co/hL6dCjV/image.png",
-    "options": [
-      { "text": "Sırtını", "isTrue": false },
-      { "text": "Çenesini (boynu tespit etmek için)", "isTrue": true },
-      { "text": "Kemerini", "isTrue": false },
-      { "text": "Diğer kolunu", "isTrue": false }
-    ],
-    "description": "Rentek manevrasında amaç baş-boyun-gövde eksenini korumaktır. Bu nedenle ilk yardımcı, yaralıya yan taraftan yaklaşarak bir eliyle en yakın kolunu, diğer eliyle de çenesini kavrayarak boynunu sabitler ve bu şekilde araçtan dışarı çeker."
-  },
-  {
-    "id": 3798,
-    "category": "İlk Yardım",
     "question": "İlk yardımın öncelikli amaçları arasında yer alan 'Yaşam fonksiyonlarının sürdürülmesini sağlamak' ifadesi ne anlama gelir?",
     "image_url": null,
     "options": [
@@ -3871,31 +3858,5 @@
       { "text": "Hastaya yiyecek ve içecek vermek.", "isTrue": false }
     ],
     "description": "Bu amaç, hastanın kalbi veya solunumu durduğunda, Temel Yaşam Desteği gibi yöntemlerle bu fonksiyonları yapay olarak devam ettirerek, beyin gibi hayati organların oksijensiz kalmasını önlemeyi ifade eder."
-  },
-  {
-    "id": 3799,
-    "category": "İlk Yardım",
-    "question": "Hafif yaralanması olan ancak yürüyemeyen bilinçli bir hastayı tek kişiyle taşımak için kullanılan ve yaralının ilk yardımcının sırtına alındığı yöntem hangisidir?",
-    "image_url": "https://i.ibb.co/L5k6pQW/image.png",
-    "options": [
-      { "text": "İtfaiyeci Yöntemi", "isTrue": false },
-      { "text": "Rentek Manevrası", "isTrue": false },
-      { "text": "Sırtta Taşıma", "isTrue": true },
-      { "text": "Kaşık Tekniği", "isTrue": false }
-    ],
-    "description": "Sırtta taşıma, bilinci açık ve ciddi bir yaralanması olmayan (omurga yaralanması şüphesi olmayan) bir yaralıyı, ilk yardımcının sırtına alarak taşıdığı bir yöntemdir."
-  },
-  {
-    "id": 3800,
-    "category": "İlk Yardım",
-    "question": "Aşağıdakilerden hangisi, kanayan bir bölgeyi kalp seviyesinin üzerinde tutmanın (elevasyon) etkili olacağı bir durumdur?",
-    "image_url": "https://i.ibb.co/3W6q06Z/image.png",
-    "options": [
-      { "text": "Baş yaralanması", "isTrue": false },
-      { "text": "Karın kanaması", "isTrue": false },
-      { "text": "Kol veya bacak kanaması", "isTrue": true },
-      { "text": "Göğüs yaralanması", "isTrue": false }
-    ],
-    "description": "Elevasyon yöntemi, sadece uzuvlardaki (kol ve bacaklar) kanamaları kontrol altına almak için kullanılır. Bu bölgeler, yer çekiminden faydalanmak amacıyla rahatlıkla kalp seviyesinin üzerine kaldırılabilir."
   }
 ]
