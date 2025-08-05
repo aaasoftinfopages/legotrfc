@@ -312,7 +312,7 @@
     "description": "Tehlikeli madde taşıyan taşıtlar, yerleşim yeri dışında diğer araçları en az 50 metre mesafeden takip etmek zorundadır."
   },
   {
-  "id": 3026,
+  "id": 3025,
   "category": "Trafik ve Çevre",
   "question": "Görseldeki trafik işaretinin anlamı nedir ve bu işaretin bulunduğu yerde aşağıdakilerden hangisi yapılabilir?",
   "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/durmakveparketmekyasak.png",
@@ -1643,7 +1643,7 @@
     "image_url": null,
     "options": [
       { "text": "Fren mesafesi", "isTrue": false },
-      { "text": "Duruş mesafesi", "isTralarmse },
+      { "text": "Duruş mesafesi", "isTrue":false },
       { "text": "İntikal (Reaksiyon) süresi", "isTrue": true },
       { "text": "Takip mesafesi", "isTrue": false }
     ],
