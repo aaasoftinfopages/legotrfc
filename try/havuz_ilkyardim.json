@@ -135,10 +135,10 @@
     "question": "Delici göğüs yaralanması olan ve bilinci açık bir yaralıya hangi pozisyon verilmelidir?",
     "image_url": null,
     "options": [
-      { "text": "Sırtüstü düz yatırılır.", "isTrue": false },
-      { "text": "Yarı oturur pozisyon verilir.", "isTrue": true },
-      { "text": "Şok pozisyonu verilir.", "isTrue": false },
-      { "text": "Koma pozisyonu verilir.", "isTrue": false }
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/normaldurus.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/gogusyaralanmasi.png", "isTrue": true },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/sok.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/koma.png", "isTrue": false }
     ],
     "description": "Delici göğüs yaralanması olan bilinçli bir hastaya, nefes almasını kolaylaştırmak için yarı oturur pozisyon verilir. Bu pozisyon, akciğerler üzerindeki baskıyı azaltır."
   },
@@ -289,7 +289,7 @@
     "id": 3523,
     "category": "İlk Yardım",
     "question": "Resimde görülen taşıma tekniğinin adı nedir ve hangi durumlarda kullanılır?",
-    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/firstaid/itfayicetasimayontemi.png",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/firstaid/itfayicetasima.png",
     "options": [
       { "text": "İtfaiyeci Yöntemi - Bilinci kapalı yaralıları tek kişiyle taşımak için.", "isTrue": true },
       { "text": "Rentek Manevrası - Yaralıyı araçtan çıkarmak için.", "isTrue": false },
@@ -561,7 +561,7 @@
     "id": 3544,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi kanı süzerek zararlı maddeleri atan ve vücudun iç dengesini koruyan sistemdir?",
-    "image_url": "https://i.ibb.co/L564FwF/image.png",
+    "image_url": null,
     "options": [
       { "text": "Sindirim Sistemi", "isTrue": false },
       { "text": "Dolaşım Sistemi", "isTrue": false },
@@ -638,7 +638,7 @@
   {
     "id": 3550,
     "category": "İlk Yardım",
-    "question": "Resimde okla gösterilen ve vücudun hareketini sağlayan sistemin temel yapı taşları hangileridir?",
+    "question": "Resimde gösterilen ve vücudun hareketini sağlayan sistemlerin temel yapı taşları hangileridir?",
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kas_ve_iskelet_Sistemi.jpg",
     "options": [
       { "text": "Kalp, damarlar ve kan", "isTrue": false },
@@ -886,7 +886,7 @@
     "id": 3569,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi, omurilik yaralanması şüphesiyle hareket ettirilmemesi gereken bir yaralıyı, 3-4 ilk yardımcı ile sedyeye yerleştirmek için kullanılan bir tekniktir?",
-    "image_url": ,
+    "image_url": null,
     "options": [
       { "text": "Altın Beşik Tekniği", "isTrue": false },
       { "text": "İtfaiyeci Tekniği", "isTrue": false },
@@ -989,7 +989,7 @@
   {
     "id": 3577,
     "category": "İlk Yardım",
-    "question": "Resimde okla gösterilen ve kanı kalpten vücuda taşıyan damarlar hangileridir?",
+    "question": "Resimde  gösterilen ve kanı kalpten vücuda taşıyan damarlar hangileridir?",
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/atardamar_soru_1.jpg",
     "options": [
       { "text": "Toplardamarlar (Venler)", "isTrue": false },
@@ -1068,7 +1068,7 @@
     "id": 3583,
     "category": "İlk Yardım",
     "question": "Kol damarından (kolun iç yüzü, dirseğin üstü) baskı uygulamak, hangi bölgedeki kanamayı kontrol etmek için kullanılır?",
-    "image_url": "https://i.ibb.co/D8L1x2d/image.png",
+    "image_url": null,
     "options": [
       { "text": "Bacak kanamaları", "isTrue": false },
       { "text": "Baş kanamaları", "isTrue": false },
@@ -1107,7 +1107,7 @@
     "id": 3586,
     "category": "İlk Yardım",
     "question": "Bir kaza sonrası yaralının bilincini değerlendirmenin ilk basamağı nedir?",
-    "image_url": "https://i.ibb.co/F8C0cZw/image.png",
+    "image_url": null,
     "options": [
       { "text": "Hemen nabzına bakmak.", "isTrue": false },
       { "text": "Yaralıya hafifçe omzuna dokunarak ve 'İyi misiniz?' diye seslenerek sözlü ve dokunsal uyaran vermek.", "isTrue": true },
@@ -2238,7 +2238,7 @@
     "id": 3673,
     "category": "İlk Yardım",
     "question": "Bir yaralının bilinci açık ancak şok belirtileri (soluk cilt, hızlı nabız) gösteriyorsa, hangi pozisyon verilir?",
-    "image_url": "https://i.ibb.co/Rvrz0Y2/image.png",
+    "image_url": null,
     "options": [
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/gorsal1.png", "isTrue": false },
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/sok.png", "isTrue": true },
@@ -2510,7 +2510,7 @@
    {
     "id": 3694,
     "category": "İlk Yardım",
-    "question": "Kalp-damar sisteminin yaşamsal organlara uygun oranda kanlanma yapamaması nedeniyle ortaya çıkan ve tansiyon düşüklüğü ile seyreden akut dolaşım yetmezliği tablosuna ne denir?",
+    "question": "Kalp-damar sisteminin yaşamsal organlara uygun oranda kanlanma yapamaması(yeterli oksijen gitmemesi)  nedeniyle ortaya çıkan ve tansiyon düşüklüğü ile seyreden akut dolaşım yetmezliği tablosuna ne denir?",
     "image_url": null,
     "options": [
       { "text": "Koma", "isTrue": false },
@@ -2823,7 +2823,7 @@
     "id": 3718,
     "category": "İlk Yardım",
     "question": "Aşağıdaki taşıma tekniklerinden hangisi, bilinci açık bir yaralıyı merdivenden indirmek için özellikle uygundur?",
-    "image_url": "https://i.ibb.co/3kKqN1Y/image.png",
+    "image_url":  null,
     "options": [
       { "text": "İtfaiyeci Yöntemi", "isTrue": false },
       { "text": "Sandalye ile Taşıma", "isTrue": true },
