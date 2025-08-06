@@ -16,7 +16,7 @@
       "id": 3802,
       "category": "Motor ve Araç Tekniği",
       "question": "Resimde gösterilen ikaz ışığı yandığında sürücü ne yapmalıdır?",
-      "image_url": "https://i.imgur.com/s4W8vY1.png",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.png",
       "options": [
         { "text": "Hemen durup motoru stop etmelidir.", "isTrue": true },
         { "text": "Hızını artırarak servise gitmelidir.", "isTrue": false },
@@ -29,7 +29,7 @@
       "id": 3803,
       "category": "Motor ve Araç Tekniği",
       "question": "Akü üzerinde bulunan (+) ve (-) sembolleri ne anlama gelir?",
-      "image_url": "https://i.imgur.com/8E8E8eJ.jpg",
+      "image_url": null,
       "options": [
         { "text": "Akünün üretim ve son kullanma tarihini", "isTrue": false },
         { "text": "Akünün pozitif (+) ve negatif (-) kutup başlarını", "isTrue": true },
@@ -42,12 +42,12 @@
       "id": 3804,
       "category": "Motor ve Araç Tekniği",
       "question": "Motor soğutma suyunun sıcaklığını sürücüye bildiren gösterge aşağıdakilerden hangisidir?",
-      "image_url": "https://i.imgur.com/Yq2e3i4.png",
+      "image_url": null,
       "options": [
-        { "text": "Yakıt göstergesi", "isTrue": false },
-        { "text": "Devir saati", "isTrue": false },
-        { "text": "Hararet (sıcaklık) göstergesi", "isTrue": true },
-        { "text": "Kilometre sayacı", "isTrue": false }
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.jpg", "isTrue": false },
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.jpg", "isTrue": false },
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.jpg", "isTrue": true },
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dpf.jpg", "isTrue": false }
       ],
       "description": "Hararet göstergesi, motor soğutma sıvısının sıcaklığını izler. İbrenin kırmızı bölgeye gelmesi, motorun aşırı ısındığını (hararet yaptığını) gösterir ve ciddi bir arıza belirtisidir."
     },
@@ -55,7 +55,7 @@
       "id": 3805,
       "category": "Motor ve Araç Tekniği",
       "question": "Görseldeki parça aşağıdaki sistemlerden hangisine aittir?",
-      "image_url": "https://i.imgur.com/tH3y5jR.png",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/havafiltresi.jpg",
       "options": [
         { "text": "Yakıt sistemi", "isTrue": false },
         { "text": "Yağlama sistemi", "isTrue": false },
@@ -120,7 +120,7 @@
       "id": 3810,
       "category": "Motor ve Araç Tekniği",
       "question": "Aracın gösterge panelinde resimdeki ikaz ışığı yanıyorsa muhtemel arıza nedir?",
-      "image_url": "https://i.imgur.com/K7ZJg1A.png",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.jpg",
       "options": [
         { "text": "Motor hararet yapmıştır.", "isTrue": false },
         { "text": "Fren hidroliği azalmıştır.", "isTrue": false },
@@ -211,7 +211,7 @@
       "id": 3817,
       "category": "Motor ve Araç Tekniği",
       "question": "Aşağıdakilerden hangisi güç aktarma organlarından biri değildir?",
-      "image_url": null,
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/arac_guc_aktarim_organlari.png",
       "options": [
         { "text": "Şaft", "isTrue": false },
         { "text": "Vites kutusu", "isTrue": false },
@@ -250,7 +250,7 @@
       "id": 3820,
       "category": "Motor ve Araç Tekniği",
       "question": "Araç lastiklerinin üzerinde bulunan ok işareti ne anlama gelir?",
-      "image_url": "https://i.imgur.com/gAkvg6m.jpg",
+      "image_url": null,
       "options": [
         { "text": "Lastiğin markasını", "isTrue": false },
         { "text": "Lastiğin dönüş yönünü", "isTrue": true },
@@ -302,7 +302,7 @@
       "id": 3824,
       "category": "Motor ve Araç Tekniği",
       "question": "Seyir halindeyken gösterge panelinde, resimdeki gibi bir ikaz ışığı yanarsa ne yapılmalıdır?",
-      "image_url": "https://i.imgur.com/gK9p293.png",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.jpg",
       "options": [
         { "text": "Önemsenmeyip yola devam edilmelidir.", "isTrue": false },
         { "text": "Uygun bir yerde durup, araç bir servise gösterilmelidir.", "isTrue": true },
@@ -405,8 +405,8 @@
     {
       "id": 3832,
       "category": "Motor ve Araç Tekniği",
-      "question": "Süspansiyon sisteminin görevi nedir?",
-      "image_url": null,
+      "question": "Aşağıda gösterilen (süspansiyon) sisteminin görevi nedir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/suspansiyon_sistemi.jpg",
       "options": [
         { "text": "Yakıt tüketimini azaltmak", "isTrue": false },
         { "text": "Yolun yapısından kaynaklanan titreşim ve salınımları sönümlemek", "isTrue": true },
@@ -444,8 +444,8 @@
     {
       "id": 3835,
       "category": "Motor ve Araç Tekniği",
-      "question": "Yakıt göstergesindeki sembol ne anlama gelir?",
-      "image_url": "https://i.imgur.com/3i4p5sS.png",
+      "question": "Şekildeki görseldeki sembol ne anlama gelir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/yakit_gostergesi.jpg",
       "options": [
         { "text": "Yakıt deposundaki yakıt miktarını", "isTrue": true },
         { "text": "Motorun hararetini", "isTrue": false },
@@ -653,7 +653,7 @@
       "id": 3851,
       "category": "Motor ve Araç Tekniği",
       "question": "Motor çalışırken gösterge panelinde şekildeki akü şarj ikaz ışığı yanıyorsa, arıza aşağıdakilerin hangisinde olabilir?",
-      "image_url": "https://i.imgur.com/K7ZJg1A.png",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.jpg",
       "options": [
         { "text": "Marş motorunda", "isTrue": false },
         { "text": "Su pompasında", "isTrue": false },
@@ -691,8 +691,8 @@
     {
       "id": 3854,
       "category": "Motor ve Araç Tekniği",
-      "question": "Şekildeki 1 numaralı süspansiyon sistemi parçası nedir?",
-      "image_url": "https://i.imgur.com/gI2K5Cq.png",
+      "question": "Şekildeki ? yerine gelecek  süspansiyon sistemi parçası nedir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/amortisor_soru.png",
       "options": [
         { "text": "Şaft", "isTrue": false },
         { "text": "Aks", "isTrue": false },
@@ -731,7 +731,7 @@
       "id": 3857,
       "category": "Motor ve Araç Tekniği",
       "question": "Görseldeki mavi renkli ikaz ışığı ne anlama gelir?",
-      "image_url": "https://i.imgur.com/5J3PjN5.png",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.jpg",
       "options": [
         { "text": "Kısa farlar açıktır.", "isTrue": false },
         { "text": "Uzun farlar açıktır.", "isTrue": true },
@@ -861,7 +861,7 @@
       "id": 3867,
       "category": "Motor ve Araç Tekniği",
       "question": "Görseldeki ikaz ışığı, hangi sistemin devre dışı olduğunu veya arızalı olduğunu belirtir?",
-      "image_url": "https://i.imgur.com/8QG3o4M.png",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/airbag.jpg",
       "options": [
         { "text": "Hava yastığı (Airbag) sistemi", "isTrue": true },
         { "text": "Fren sistemi", "isTrue": false },
@@ -965,7 +965,7 @@
       "id": 3875,
       "category": "Motor ve Araç Tekniği",
       "question": "Aracın gösterge panelinde bulunan devir saati neyi bildirir?",
-      "image_url": null,
+      "image_url":"https://aaasoftinfopages.github.io/legotrfc/page//questions/devir_gostergesi.jpg",
       "options": [
         { "text": "Aracın hızını (km/s)", "isTrue": false },
         { "text": "Motorun dakikadaki devir sayısını (RPM x 1000)", "isTrue": true },
@@ -1095,12 +1095,12 @@
       "id": 3885,
       "category": "Motor ve Araç Tekniği",
       "question": "Aşağıdaki ikaz ışıklarından hangisi, el freninin çekili olduğunu veya fren hidrolik seviyesinin düştüğünü bildirir?",
-      "image_url": "https://i.imgur.com/GzB9o1c.png",
+      "image_url": null,
       "options": [
-        { "text": "Yağ lambası", "isTrue": false },
-        { "text": "Şarj lambası", "isTrue": false },
-        { "text": "Ünlem işaretli lamba", "isTrue": true },
-        { "text": "Hararet göstergesi", "isTrue": false }
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.png", "isTrue": false },
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.jpg", "isTrue": false },
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.jpg", "isTrue": true },
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.jpg", "isTrue": false }
       ],
       "description": "İçinde ünlem veya 'P' harfi bulunan bu kırmızı ikaz ışığı, iki temel anlama gelir: 1) El freni (park freni) çekilidir. 2) Fren hidrolik seviyesi kritik düzeyde azalmıştır. El freni indirilmesine rağmen ışık sönmüyorsa, bu ciddi bir fren sistemi sorununa işaret eder."
     },
@@ -1287,17 +1287,18 @@
       "description": "Sürekli ve gereksiz yere şerit değiştirmek, diğer araçların arasına aniden girmek (makas atmak), hem trafik akışını tehlikeye atan hem de diğer sürücüleri riske sokan tehlikeli ve sorumsuz bir sürüş davranışıdır."
     },
     {
-      "id": 3900,
-      "category": "Motor ve Araç Tekniği",
-      "question": "Kontağı açıp marşa basıldığında 'tık' diye bir ses gelip marş motoru çalışmıyorsa en olası sebep nedir?",
-      "image_url": null,
-      "options": [
-        { "text": "Motorun yağsız kalması", "isTrue": false },
-        { "text": "Yakıtın bitmiş olması", "isTrue": false },
-        { "text": "Akü kutup başlarının gevşek veya akünün zayıf olması", "isTrue": true },
-        { "text": "Lastik havalarının inik olması", "isTrue": false }
-      ],
-      "description": "Ma
+  "id": 3900,
+  "category": "Motor ve Araç Tekniği",
+  "question": "Görseldeki ikaz ışıkları soldan sağa doğru sırasıyla hangi sistemlerin aktif olduğunu belirtir?",
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/on_ve_arka_cam_uyari.png",
+  "options": [
+    { "text": "Arka cam rezistansı - Ön cam rezistansı", "isTrue": false },
+    { "text": "Ön cam rezistansı - Arka cam rezistansı", "isTrue": true },
+    { "text": "Ön sis farı - Arka sis farı", "isTrue": false },
+    { "text": "Klima - Havalandırma", "isTrue": false }
+  ],
+  "description": "Görselde soldaki sembol, kavisli yapısıyla ön camı temsil eder ve ön camdaki buğuyu veya buzu çözmek için kullanılan sistemi (defroster) belirtir. Sağdaki dikdörtgen sembol ise arka camı temsil eder ve arka camdaki buğuyu veya donmayı gideren ısıtıcı rezistans sisteminin çalıştığını gösterir."
+},
   
   ,{
       "id": 3901,
@@ -1316,7 +1317,7 @@
       "id": 3902,
       "category": "Motor ve Araç Tekniği",
       "question": "Görseldeki ikaz ışığı yandığında ne anlaşılmalıdır?",
-      "image_url": "https://i.imgur.com/2c1q1gq.png",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkasisuyari.jpg",
       "options": [
         { "text": "Arka sis lambası açıktır.", "isTrue": true },
         { "text": "Ön sis lambası açıktır.", "isTrue": false },
@@ -1355,7 +1356,7 @@
       "id": 3905,
       "category": "Motor ve Araç Tekniği",
       "question": "Resimde görülen ve motorun ürettiği zehirli gazların zararsız gazlara dönüştürülmesini sağlayan parça hangisidir?",
-      "image_url": "https://i.imgur.com/L1tQy0Q.jpg",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/katalitik_konvertor.png",
       "options": [
         { "text": "Egzoz manifoldu", "isTrue": false },
         { "text": "Egzoz susturucusu", "isTrue": false },
@@ -1394,7 +1395,7 @@
       "id": 3908,
       "category": "Motor ve Araç Tekniği",
       "question": "Kış koşullarında daha iyi yol tutuşu sağlamak için ne tür lastikler tercih edilmelidir?",
-      "image_url": "https://i.imgur.com/kS94bO5.jpg",
+      "image_url": null,
       "options": [
         { "text": "Tabanı geniş lastikler", "isTrue": false },
         { "text": "Hava basıncı yüksek lastikler", "isTrue": false },
@@ -1420,7 +1421,7 @@
       "id": 3910,
       "category": "Motor ve Araç Tekniği",
       "question": "Aşağıdakilerden hangisi, motordaki basınçlı yanmış gazların sızmasını önleyerek motor gücünü korur?",
-      "image_url": "https://i.imgur.com/mU1gR1A.jpg",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/segmanlar.png",
       "options": [
         { "text": "Segmanlar", "isTrue": true },
         { "text": "Subaplar", "isTrue": false },
@@ -1455,19 +1456,19 @@
       ],
       "description": "Benzin, dizel yakıt sisteminin ihtiyaç duyduğu yağlayıcılık özelliğine sahip değildir. Araç çalıştırılırsa, yakıt pompası ve enjektörler gibi çok hassas ve pahalı parçalar kısa sürede ciddi hasar görür. Bu yüzden motor kesinlikle çalıştırılmamalı ve depo profesyoneller tarafından boşaltılmalıdır."
     },
-    {
-      "id": 3913,
-      "category": "Motor ve Araç Tekniği",
-      "question": "Görseldeki ikaz ışığı, hangi sistemin aktif olduğunu veya arızalı olduğunu belirtir?",
-      "image_url": "https://i.imgur.com/gK6wZqj.png",
-      "options": [
-        { "text": "Hız sabitleyici (Cruise Control)", "isTrue": true },
-        { "text": "Motor arıza lambası", "isTrue": false },
-        { "text": "Elektronik stabilite programı (ESP)", "isTrue": false },
-        { "text": "Şerit takip asistanı", "isTrue": false }
-      ],
-      "description": "Bu sembol, hız sabitleme sisteminin (cruise control) devrede olduğunu gösterir. Sistem, sürücünün gaz pedalına basmasına gerek kalmadan aracın belirlenen hızda gitmesini sağlar."
-    },
+   {
+  "id": 3913,
+  "category": "Motor ve Araç Tekniği",
+  "question": "Görseldeki ikaz ışığı, aracınızda hangi durumun meydana geldiğini belirtir?",
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.jpg",
+  "options": [
+    { "text": "Motorun hararet yapması", "isTrue": false },
+    { "text": "Fren sisteminde bir arıza olması", "isTrue": false },
+    { "text": "Lastik basıncının düşük olması", "isTrue": true },
+    { "text": "Akü şarjının zayıf olması", "isTrue": false }
+  ],
+  "description": "Bu ikaz ışığı, Lastik Basıncı İzleme Sistemi (TPMS) ile ilgilidir. Yandığında, bir veya daha fazla lastiğin hava basıncının önemli ölçüde düşük olduğunu gösterir. Düşük lastik basıncı, sürüş güvenliğini tehlikeye atabilir, yakıt tüketimini artırabilir ve lastiklerin ömrünü kısaltabilir. Bu ışık yandığında, en kısa sürede lastik basınçlarınızı kontrol etmeniz ve üreticinin önerdiği değere ayarlamanız gerekir."
+},
     {
       "id": 3914,
       "category": "Motor ve Araç Tekniği",
@@ -1628,7 +1629,7 @@
       "id": 3926,
       "category": "Motor ve Araç Tekniği",
       "question": "Gösterge panelindeki bu ışık ne anlama gelmektedir?",
-      "image_url": "https://i.imgur.com/GzB9o1c.png",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.jpg",
       "options": [
         { "text": "El freni çekili veya fren hidrolik seviyesi düşük.", "isTrue": true },
         { "text": "Fren balataları bitmek üzere.", "isTrue": false },
@@ -1680,9 +1681,9 @@
       "id": 3930,
       "category": "Motor ve Araç Tekniği",
       "question": "Gösterge panelindeki bu ışığın sürekli yanması ne anlama gelir?",
-      "image_url": "https://i.imgur.com/gK9p293.png",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorgucuuyarisi.jpg",
       "options": [
-        { "text": "Motor veya emisyon sisteminde bir arıza olduğunu.", "isTrue": true },
+        { "text": "Motorun gücünün düştüğünü", "isTrue": true },
         { "text": "Aracın bakıma ihtiyacı olduğunu.", "isTrue": false },
         { "text": "Yakıtın bitmek üzere olduğunu.", "isTrue": false },
         { "text": "Motorun hararet yaptığını.", "isTrue": false }
@@ -1745,7 +1746,7 @@
       "id": 3935,
       "category": "Motor ve Araç Tekniği",
       "question": "Görseldeki parça hangisidir?",
-      "image_url": "https://i.imgur.com/9C0z9Ld.jpg",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/yag_filtresi.jpg",
       "options": [
         { "text": "Hava filtresi", "isTrue": false },
         { "text": "Yağ filtresi", "isTrue": true },
@@ -1797,7 +1798,7 @@
       "id": 3939,
       "category": "Motor ve Araç Tekniği",
       "question": "Marşa basılıp motor çalıştığında, aşağıdaki ikaz ışıklarından hangisinin sönmesi gerekir?",
-      "image_url": "https://i.imgur.com/s4W8vY1.png",
+      "image_url": null,
       "options": [
         { "text": "El freni ikaz ışığı", "isTrue": false },
         { "text": "Sinyal lambası ikaz ışığı", "isTrue": false },
@@ -1849,7 +1850,7 @@
       "id": 3943,
       "category": "Motor ve Araç Tekniği",
       "question": "Aşağıdakilerden hangisi, motordan gelen gücü tekerleklere ileten aktarma organlarından biridir?",
-      "image_url": "https://i.imgur.com/rS2T41Q.jpg",
+      "image_url": null,
       "options": [
         { "text": "Amortisör", "isTrue": false },
         { "text": "Rot", "isTrue": false },
@@ -1901,7 +1902,7 @@
       "id": 3947,
       "category": "Motor ve Araç Tekniği",
       "question": "Lastik değiştirilirken bijon somunları hangi yöne doğru sökülür?",
-      "image_url": "https://i.imgur.com/K1L71l4.jpg",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/bijon_somunu.png",
       "options": [
         { "text": "Saatin dönme yönünde", "isTrue": false },
         { "text": "Saatin dönme yönünün tersine", "isTrue": true },
@@ -1952,7 +1953,7 @@
       "id": 3951,
       "category": "Motor ve Araç Tekniği",
       "question": "Dizel motorlu araçların gösterge panelinde bulunan resimdeki ikaz ışığı ne anlama gelir?",
-      "image_url": "https://i.imgur.com/vH9i34B.png",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelkizdirmabujisi.jpg",
       "options": [
         { "text": "Amortisör sisteminde arıza olduğunu.", "isTrue": false },
         { "text": "Motorun hararet yaptığını.", "isTrue": false },
@@ -1991,7 +1992,7 @@
       "id": 3954,
       "category": "Motor ve Araç Tekniği",
       "question": "Resimde görülen ve krank milinden aldığı hareketle alternatör, su pompası (devirdaim) gibi parçaları çalıştıran motor parçası hangisidir?",
-      "image_url": "https://i.imgur.com/gKjG1oJ.jpg",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/v_kayisi.png",
       "options": [
         { "text": "Triger kayışı", "isTrue": false },
         { "text": "Vantilatör (V) kayışı", "isTrue": true },
@@ -2004,7 +2005,7 @@
       "id": 3955,
       "category": "Motor ve Araç Tekniği",
       "question": "Motor yağı kontrol edilirken yağ çubuğunun ideal seviyesi nerede olmalıdır?",
-      "image_url": "https://i.imgur.com/uR1k37B.png",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/yag_cubugu.png",
       "options": [
         { "text": "Minimum çizgisinin altında", "isTrue": false },
         { "text": "Maksimum çizgisinin üstünde", "isTrue": false },
@@ -2030,7 +2031,7 @@
       "id": 3957,
       "category": "Motor ve Araç Tekniği",
       "question": "Aracın gösterge panelinde ABS ışığı sürekli yanıyorsa bunun anlamı nedir?",
-      "image_url": "https://i.imgur.com/9GCRnGU.png",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/pageikaz/abs.jpg",
       "options": [
         { "text": "El freni çekilidir.", "isTrue": false },
         { "text": "Fren hidroliği azalmıştır.", "isTrue": false },
@@ -2108,7 +2109,7 @@
       "id": 3963,
       "category": "Motor ve Araç Tekniği",
       "question": "Egzoz susturucusunun görevi nedir?",
-      "image_url": "https://i.imgur.com/uG93T1p.jpg",
+      "image_url": null,
       "options": [
         { "text": "Egzoz gazını temizlemek", "isTrue": false },
         { "text": "Motorun gücünü artırmak", "isTrue": false },
@@ -2172,8 +2173,8 @@
     {
       "id": 3968,
       "category": "Motor ve Araç Tekniği",
-      "question": "Akü takviyesi yapılırken, artı (+) kutup hangi renkteki kablo ile bağlanır?",
-      "image_url": "https://i.imgur.com/K3pB58z.png",
+      "question": "Akü takviyesi yapılırken, artı (+) kutup hangi renkteki kablo ile bağlanır,yani yeşil olan yere hangi renkte kablo gelmesi gerekir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/aku_kablo_takviye_soru.png",
       "options": [
         { "text": "Siyah", "isTrue": false },
         { "text": "Mavi", "isTrue": false },
@@ -2238,7 +2239,7 @@
       "id": 3973,
       "category": "Motor ve Araç Tekniği",
       "question": "Helezon yayların görevi nedir?",
-      "image_url": "https://i.imgur.com/G4Vz98j.jpg",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/helezyon_yayı.jpg",
       "options": [
         { "text": "Aracın ağırlığını taşımak ve yoldan gelen darbeleri sönümlemek", "isTrue": true },
         { "text": "Motorun devrini düzenlemek", "isTrue": false },
@@ -2290,7 +2291,7 @@
       "id": 3977,
       "category": "Motor ve Araç Tekniği",
       "question": "Aşağıdaki ikaz ışıklarından hangisi, fren balatalarının aşındığını ve değişim zamanının yaklaştığını bildirir?",
-      "image_url": "https://i.imgur.com/kY1yT33.png",
+      "image_url": null,
       "options": [
         { "text": "ABS ikaz ışığı", "isTrue": false },
         { "text": "El freni ikaz ışığı", "isTrue": false },
@@ -2329,7 +2330,7 @@
       "id": 3980,
       "category": "Motor ve Araç Tekniği",
       "question": "Aşağıdakilerden hangisi, aracın elektrik devresini yüksek akıma karşı korur?",
-      "image_url": "https://i.imgur.com/P4QY2A3.jpg",
+      "image_url": null,
       "options": [
         { "text": "Akü", "isTrue": false },
         { "text": "Sigorta", "isTrue": true },
@@ -2368,7 +2369,7 @@
       "id": 3983,
       "category": "Motor ve Araç Tekniği",
       "question": "Bijon anahtarının görevi nedir?",
-      "image_url": null,
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/bijon_anahtari.jpg",
       "options": [
         { "text": "Motor yağını boşaltmak", "isTrue": false },
         { "text": "Lastik somunlarını (bijonları) söküp takmak", "isTrue": true },
@@ -2598,4 +2599,5 @@
       ],
       "description": "Güvenlik sistemleri, kazayı önlemeye çalışan 'aktif' ve kaza anında koruma sağlayan 'pasif' olarak ikiye ayrılır. ABS ve ESP gibi sistemler aracın kontrolünü artırarak kazayı önlemeye çalıştığı için aktiftir. Hava yastığı ve emniyet kemeri ise kaza meydana geldiği anda devreye girerek sürücü ve yolcuları koruduğu için pasif güvenlik sistemleridir."
     }
+]
   
