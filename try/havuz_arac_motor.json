@@ -1538,7 +1538,7 @@
       "id": 3919,
       "category": "Motor ve Araç Tekniği",
       "question": "Araç lastiklerinin yasal diş derinliği en az ne kadar olmalıdır?",
-      "image_url": "https://i.imgur.com/k28iP8d.jpg",
+      "image_url": null,
       "options": [
         { "text": "1 mm", "isTrue": false },
         { "text": "1.6 mm", "isTrue": true },
