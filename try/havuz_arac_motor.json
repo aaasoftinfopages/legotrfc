@@ -2444,7 +2444,7 @@
       "description": "Motor çalışmıyorken kontak anahtarı 'ON' (açık) konumunda bırakılırsa, şarj sistemi çalışmadığı halde gösterge paneli, radyo, ateşleme sistemi gibi birçok elektrikli donanım aküden enerji çekmeye devam eder. Bu durum akünün kısa sürede tamamen boşalmasına neden olur."
     },
     {
-|  "id": 3989,
+  "id": 3989,
       "category": "Motor ve Araç Tekniği",
       "question": "Kavrama (debriyaj) sistemi, motorun hangi bölümü ile vites kutusu arasında yer alır?",
       "image_url": null,
