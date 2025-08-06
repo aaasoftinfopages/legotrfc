@@ -1819,17 +1819,17 @@
     "description": "Gabari, araçların yüklü veya yüksüz olarak karayolunda güvenli seyirlerini temin amacı ile uzunluk, genişlik ve yüksekliklerini belirleyen ölçülerdir."
   },
   {
-  "id": 3141,
-  "category": "Trafik ve Çevre",
-  "question": "Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?",
-  "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kamyonarac.png",
-  "options": [
-    { "text": "Geçiş önceliğini kendisi kullanmalı", "isTrue": false },
-    { "text": "Hızlanıp köprüye 1 numaralı araçtan önce girmeli", "isTrue": false },
-    { "text": "Geçiş önceliğini 1 numaralı araca vermeli", "isTrue": true },
-    { "text": "1 numaralı aracın daralan yol bölümüne girmemesi için selektör yaparak uyarmalı", "isTrue": false }
-  ],
-  "description": "İşaretsiz ve eğimsiz dar yollarda otomobilin kamyona geçiş önceliği vardır."
+  "id": 3141,
+  "category": "Trafik ve Çevre",
+  "question": "Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?",
+  "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kamyonarac.png",
+  "options": [
+    { "text": "Geçiş önceliğini kendisi kullanmalı", "isTrue": false },
+    { "text": "Hızlanıp köprüye 1 numaralı araçtan önce girmeli", "isTrue": false },
+    { "text": "Geçiş önceliğini 1 numaralı araca vermeli", "isTrue": true },
+    { "text": "1 numaralı aracın daralan yol bölümüne girmemesi için selektör yaparak uyarmalı", "isTrue": false }
+  ],
+  "description": "İşaretsiz ve eğimsiz dar yollarda otomobilin kamyona geçiş önceliği vardır."
 },
   {
     "id": 3142,
