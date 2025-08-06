@@ -2999,7 +2999,7 @@
     { "text": "I, II ve III", "isTrue": false }
   ],
   "description": "Öndeki aracı geçen sürücünün, geçilen aracı dikiz aynasından görene kadar veya güvenli bir mesafe kadar uzaklaştıktan sonra şeridine dönmesi gerekir. Görselde 1 numaralı sürücü, geçtiği araca çok yakın bir mesafede sağ şeride girerek tehlikeli bir manevra yapmıştır (III doğru). Bu tehlikeli ve aceleci manevra, genellikle sürücünün karşıdan gelen trafiği (II) veya genel durumu doğru değerlendiremediğini gösterir. Sürücü geçiş kurallarına uymamıştır (I yanlış). Bu durumda söylenebilecek en doğru ifadeler II ve III'tür."
-}
+},
   {
     "id": 3232,
     "category": "Trafik ve Çevre",
@@ -3193,7 +3193,7 @@
     { "text": "Motor devir sayısını", "isTrue": false }
   ],
   "description": "Görseldeki gösterge, üzerinde 'Km/h' (saatte kilometre) birimi bulunan bir hız göstergesidir. Bu gösterge, aracın anlık olarak hangi hızda hareket ettiğini sürücüye bildirir. Diğer seçenekler (yakıt, sıcaklık, devir) araç gösterge panelinde farklı işaretlerle gösterilir."
-}
+},
   {
     "id": 3247,
     "category": "Trafik ve Çevre",
