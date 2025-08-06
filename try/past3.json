@@ -327,7 +327,7 @@
     "id": 2375,
     "category": "İlk Yardım",
     "question": "Resimde görülen ve yaralı taşımada kullanılan bu yöntemin adı nedir?",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/altinbesik.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/altinbesik_tasima.png",
     "options": [
       { "text": "Sırtta taşıma", "isTrue": false },
       { "text": "İtfaiyeci yöntemi (Omuzda taşıma)", "isTrue": false },
