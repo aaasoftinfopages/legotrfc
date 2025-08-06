@@ -4404,12 +4404,12 @@
   {
     "id": 3338,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki yol çizgilerine göre, 1 numaralı şeritteki araç sürücüsü ne yapabilir?",
+    "question": "Şekildeki yol çizgilerine göre, araç sürücüsü ne yapabilir?",
     "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kesiklicizgiornek.png",
     "options": [
       { "text": "Öndeki arac olsaydı  geçemezdi .", "isTrue": false },
       { "text": "Sadece yolunda gidebilir.", "isTrue": false },
-      { "text": "Kurallara uymak şartıyla öndeki aracı geçmek için sol şeride geçebilir.", "isTrue": true },
+      { "text": "Kurallara uymak şartıyla önde araç olsaydı  geçmek için sol şeride geçebilir.", "isTrue": true },
       { "text": "Sürekli olarak bu şeritte kalmalıdır.", "isTrue": false }
     ],
     "description": "Yan yana kesikli ve devamlı yol çizgileri bulunduğunda, sürücüler kendilerine en yakın olan çizginin anlamına göre hareket eder.Aracın tarafında kesikli çizgi olduğundan, bu sürücü kurallara uymak şartıyla sollama yapabilir."
