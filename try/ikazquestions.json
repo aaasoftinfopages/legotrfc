@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.png",
     "question": "Görseldeki ikaz ışığı ne anlama gelmektedir?",
     "options": [
       { "text": "El Freni Uyarısı", "isTrue": false },
@@ -16,14 +16,14 @@
     "question": "Motor soğutma suyu sıcaklığının aşırı yükseldiğini (hararet) belirten ikaz ışığı hangisidir?",
     "options": [
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.png", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.png", "isTrue": false }
     ]
   },
   {
     "id": 3,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.png",
     "question": "Bu ikaz ışığı yandığında genellikle sorun hangi sistemdedir?",
     "options": [
       { "text": "Yakıt sistemi", "isTrue": false },
@@ -37,15 +37,15 @@
     "image_url": null,
     "question": "Sürücünün veya yolcunun emniyet kemerinin takılı olmadığını hatırlatan uyarı ışığı hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/airbag.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkakapiacik.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/emniyetkemeri.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/airbag.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkakapiacik.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/emniyetkemeri.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.png", "isTrue": false }
     ]
   },
   {
     "id": 5,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelkizdirmabujisi.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelkizdirmabujisi.png",
     "question": "Görseldeki bu sarı sarmal şeklindeki ışık neyi ifade eder?",
     "options": [
       { "text": "Katalizör Arızası", "isTrue": false },
@@ -59,10 +59,10 @@
     "image_url": null,
     "question": "Lastiklerden birinin veya birkaçının hava basıncının tehlikeli derecede düştüğünü belirten ikaz ışığı hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.jpg", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.png", "isTrue": false },
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elektronikdenge.png", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.png", "isTrue": false }
     ]
   },
   {
@@ -81,15 +81,15 @@
     "image_url": null,
     "question": "Hava yastığı sisteminde bir sorun olduğunu ve kaza anında açılmayabileceğini belirten ışık hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/emniyetkemeri.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/airbag.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onkaputacik.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/emniyetkemeri.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/airbag.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onkaputacik.png", "isTrue": false }
     ]
   },
   {
     "id": 9,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.png",
     "question": "Görseldeki bu ışık yandığında ne anlaşılmalıdır?",
     "options": [
       { "text": "Motor yağı seviyesi düşük", "isTrue": false },
@@ -104,9 +104,9 @@
     "question": "Motor kontrol ünitesinin (ECU) bir arıza tespit ettiğini gösteren ve genellikle 'servise gidin' anlamına gelen arıza ışığı hangisidir?",
     "options": [
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.png", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.png", "isTrue": false }
     ]
   },
   {
@@ -125,15 +125,15 @@
     "image_url": null,
     "question": "Uzun hüzmeli farların açık olduğunu gösteren mavi renkli ikaz ışığı hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkasisuyari.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dortluler.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkasisuyari.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dortluler.png", "isTrue": false }
     ]
   },
   {
     "id": 13,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.png",
     "question": "Görseldeki ikaz ışığı yandığında hangisi söz konusu olamaz?",
     "options": [
       { "text": "El freni çekili", "isTrue": false },
@@ -147,15 +147,15 @@
     "image_url": null,
     "question": "Yoğun sis gibi zorlu hava koşullarında yakılan arka sis lambasının açık olduğunu gösteren ışık hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkasisuyari.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkabuzcozmeuyarisi.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkasisuyari.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkabuzcozmeuyarisi.png", "isTrue": false }
     ]
   },
   {
     "id": 15,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkabuzcozmeuyarisi.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkabuzcozmeuyarisi.png",
     "question": "Görseldeki ikaz ışığı hangi sistemin aktif olduğunu gösterir?",
     "options": [
       { "text": "Klima", "isTrue": false },
@@ -169,15 +169,15 @@
     "image_url": null,
     "question": "Motor kaputunun tam kapanmadığını veya açık olduğunu belirten uyarı ışığı hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onkaputacik.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkakapiacik.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onkaputacik.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkakapiacik.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.png", "isTrue": false }
     ]
   },
   {
     "id": 17,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/enjeksiyonhatasi.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/enjeksiyonhatasi.png",
     "question": "Görseldeki 'STOP' yazılı bu ışık genellikle hangi anlama gelir?",
     "options": [
       { "text": "Sadece el freni çekili", "isTrue": false },
@@ -191,15 +191,15 @@
     "image_url": null,
     "question": "Cam silecek suyu seviyesinin azaldığını ve eklenmesi gerektiğini belirten ışık hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.jpg", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.png", "isTrue": false },
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.png", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sileceksuyu.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sileceksuyu.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.png", "isTrue": false }
     ]
   },
   {
     "id": 19,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.png",
     "question": "Görseldeki bu yeşil renkli ışık ne anlama gelir?",
     "options": [
       { "text": "Park lambaları açık", "isTrue": false },
@@ -213,10 +213,10 @@
     "image_url": null,
     "question": "Acil durumlarda veya araç arızalandığında kullanılan dörtlü flaşörlerin aktif olduğunu hangi ışık gösterir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dortluler.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkasisuyari.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dortluler.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkasisuyari.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.png", "isTrue": false }
     ]
   },
   {
@@ -235,15 +235,15 @@
     "image_url": null,
     "question": "Dizel araçlarda, yakıt filtresinde biriken suyun boşaltılması gerektiğini belirten uyarı ışığı hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yakitfiltresisuseviyesiuyarisi.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sileceksuyu.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/katalizor.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yakitfiltresisuseviyesiuyarisi.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sileceksuyu.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/katalizor.png", "isTrue": false }
     ]
   },
   {
     "id": 23,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.png",
     "question": "Görseldeki bu kırmızı renkli ışık hangi ciddi sorunu işaret eder?",
     "options": [
       { "text": "Akü zayıf", "isTrue": false },
@@ -257,15 +257,15 @@
     "image_url": null,
     "question": "Aracın kapılarından birinin veya bagajın açık kaldığını bildiren uyarı ışığı hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onkaputacik.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkakapiacik.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/emniyetkemeri.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onkaputacik.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkakapiacik.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/emniyetkemeri.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.png", "isTrue": false }
     ]
   },
   {
     "id": 25,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/airbag.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/airbag.png",
     "question": "Görseldeki ikaz ışığı yanıyorsa hangisi doğrudur?",
     "options": [
       { "text": "Fren sistemi sorunludur.", "isTrue": false },
@@ -279,15 +279,15 @@
     "image_url": null,
     "question": "Motorun gaz pedalı veya gaz kelebeği gibi güç aktarım bileşenlerinde sorun olduğunu belirten EPC (Elektronik Güç Kontrolü) ışığı hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorgucuuyarisi.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/enjeksiyonhatasi.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelkizdirmabujisi.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorgucuuyarisi.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/enjeksiyonhatasi.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelkizdirmabujisi.png", "isTrue": false }
     ]
   },
   {
     "id": 27,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.png",
     "question": "Görseldeki bu mavi ışık neyi ifade eder?",
     "options": [
       { "text": "Kısa farlar açık", "isTrue": false },
@@ -301,15 +301,15 @@
     "image_url": null,
     "question": "Egzoz sistemindeki katalitik konvertörde bir sorun olduğunu belirten ışık hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/katalizor.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelkizdirmabujisi.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/katalizor.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelkizdirmabujisi.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.png", "isTrue": false }
     ]
   },
   {
     "id": 29,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.png",
     "question": "Görseldeki ikaz ışığı yandığında ilk yapılması gereken nedir?",
     "options": [
       { "text": "Servise gitmek", "isTrue": false },
@@ -323,15 +323,15 @@
     "image_url": null,
     "question": "Kırmızı renkli ve içinde 'P' harfi olan bu ışık genellikle ne anlama gelir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/parkfreniuyarisi.jpg", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/parkfreniuyarisi.png", "isTrue": true },
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.png", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onkaputacik.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onkaputacik.png", "isTrue": false }
     ]
   },
   {
     "id": 31,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/emniyetkemeri.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/emniyetkemeri.png",
     "question": "Görseldeki bu uyarı genellikle ne zaman söner?",
     "options": [
       { "text": "Araç hareket edince", "isTrue": false },
@@ -345,15 +345,15 @@
     "image_url": null,
     "question": "Ön camdaki buğuyu veya buzu çözmek için kullanılan sistemi gösteren ışık hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkabuzcozmeuyarisi.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onbuzcozmeuyarisi.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sileceksuyu.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkabuzcozmeuyarisi.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onbuzcozmeuyarisi.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sileceksuyu.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.png", "isTrue": false }
     ]
   },
   {
     "id": 33,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dortluler.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dortluler.png",
     "question": "Görseldeki bu ışıklar hangi durumda kullanılmaz?",
     "options": [
       { "text": "Araç arızalandığında", "isTrue": false },
@@ -367,15 +367,15 @@
     "image_url": null,
     "question": "Motor yağ basıncının kritik seviyede düşük olduğunu ve motora ciddi zarar verebileceğini gösteren, derhal durmayı gerektiren ışık hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.jpg", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.png", "isTrue": false },
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.png", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.png", "isTrue": false }
     ]
   },
   {
     "id": 35,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sileceksuyu.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sileceksuyu.png",
     "question": "Görseldeki bu uyarı ışığı yandığında ne yapılmalıdır?",
     "options": [
       { "text": "Motor suyu kontrol edilmeli", "isTrue": false },
@@ -389,15 +389,15 @@
     "image_url": null,
     "question": "Sola dönüş sinyalinin veya dörtlülerin yandığını gösteren ok işareti hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dortluler.jpg", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dortluler.png", "isTrue": false },
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/soladonus.png", "isTrue": true },
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sagadonus.png", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.png", "isTrue": false }
     ]
   },
   {
     "id": 37,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yakitfiltresisuseviyesiuyarisi.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yakitfiltresisuseviyesiuyarisi.png",
     "question": "Bu ikaz ışığı özellikle hangi tip araçlarda daha sık görülür ve ne anlama gelir?",
     "options": [
       { "text": "Benzinli araçlar - Yakıt kirliliği", "isTrue": false },
@@ -411,15 +411,15 @@
     "image_url": null,
     "question": "Otomatik far yüksekliği ayar sisteminde bir arıza olduğunu gösteren ışık hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/farseviyesikontrol.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkasisuyari.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/farseviyesikontrol.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkasisuyari.png", "isTrue": false }
     ]
   },
   {
     "id": 39,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onkaputacik.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onkaputacik.png",
     "question": "Görseldeki bu uyarı ışığı yandığında neden hemen durup kontrol etmek önemlidir?",
     "options": [
       { "text": "Motorun hava almasını engellediği için", "isTrue": false },
@@ -433,15 +433,15 @@
     "image_url": null,
     "question": "Fren sistemindeki bir arızayı veya park freninin çekili olduğunu gösteren genel uyarı ışığı hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.jpg", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.png", "isTrue": false },
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elektronikdenge.png", "isTrue": false }
     ]
   },
   {
     "id": 41,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorgucuuyarisi.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorgucuuyarisi.png",
     "question": "Görselde 'EPC' yazan bu ışık yandığında araçta genellikle nasıl bir etki görülür?",
     "options": [
       { "text": "Frenler sertleşir", "isTrue": false },
@@ -455,15 +455,15 @@
     "image_url": null,
     "question": "Aracın aküsünün şarj olmadığını, genellikle alternatörde veya V kayışında bir sorun olduğunu belirten ışık hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.jpg", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.png", "isTrue": true },
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.png", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.png", "isTrue": false }
     ]
   },
   {
     "id": 43,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/katalizor.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/katalizor.png",
     "question": "Görseldeki bu ikaz ışığı hangi sistemle ilgilidir?",
     "options": [
       { "text": "Fren sistemi", "isTrue": false },
@@ -479,13 +479,13 @@
     "options": [
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/soladonus.png", "isTrue": false },
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sagadonus.png", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dortluler.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dortluler.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.png", "isTrue": false }
     ]
   },
   {
     "id": 45,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.png",
     "question": "Bu ışık yanarken fren yapıldığında ne olur?",
     "options": [
       { "text": "Frenler hiç tutmaz.", "isTrue": false },
@@ -521,15 +521,15 @@
     "image_url": null,
     "question": "Aracın savrulma eğilimi gösterdiğinde devreye girerek stabil kalmasını sağlayan sistemin (ESP/ESC) arızalı veya kapalı olduğunu gösteren ışık hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.jpg", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.png", "isTrue": false },
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elektronikdenge.png", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.png", "isTrue": false }
     ]
   },
   {
     "id": 49,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.png",
     "question": "Görseldeki bu uyarı ışığı genellikle hangi renkte yanar?",
     "options": [
       { "text": "Mavi", "isTrue": false },
@@ -543,10 +543,10 @@
     "image_url": null,
     "question": "Normal gece sürüşünde kullanılan ve karşıdan gelen sürücünün gözünü almayan farların açık olduğunu gösteren ışık hangisidir?",
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkasisuyari.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dortluler.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkasisuyari.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dortluler.png", "isTrue": false }
     ]
   }
 ]
