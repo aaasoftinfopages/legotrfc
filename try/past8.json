@@ -717,20 +717,20 @@
     "image_url": null,
     "options": [
       {
-        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.lpg",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.png",
         "isTrue": false
       },
       
       {
-        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelkizdirmabujisi.jpg",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelkizdirmabujisi.png",
         "isTrue": false
       },
       {
-        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/katalizor.jpg",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/katalizor.png",
         "isTrue": false
       },
       {
-        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dpf.jpg",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dpf.png",
         "isTrue": true
       }
     ],
