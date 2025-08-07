@@ -708,19 +708,19 @@
     "image_url": null,
     "options": [
       {
-        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.jpg",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.png",
         "isTrue": false
       },
       {
-        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.jpg",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.png",
         "isTrue": true
       },
       {
-        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.jpg",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.pmg",
         "isTrue": false
       },
       {
-        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.jpg",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.png",
         "isTrue": false
       }
     ],
