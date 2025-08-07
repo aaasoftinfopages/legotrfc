@@ -156,20 +156,20 @@
     "image_url": null,
     "options": [
       {
-        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.jpg",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.png",
         "isTrue": false
       },
      
       {
-        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.jpg",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.png",
         "isTrue": false
       },
       {
-        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.jpg",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.png",
         "isTrue": false
       },
        {
-        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/AWD4lock.jpg",
+        "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/AWD4lock.png",
         "isTrue": true
       }
     ],
