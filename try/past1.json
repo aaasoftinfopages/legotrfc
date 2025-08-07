@@ -603,7 +603,7 @@
     "id":2297,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki levha ne anlama gelir?",
-    "image_url":"https://aaasoftinfopages.github.io/legotrfc/page/questions/kamyon_giremez.png",
+    "image_url":"https://aaasoftinfopages.github.io/legotrfc/page/questions/kamyan_giremez.png",
     "options": [
       { "text": "Kamyonlar için sollama yasağı sonu", "isTrue": false },
       { "text": "Kamyonların bu yola girmesinin yasak olduğu", "isTrue": true },
