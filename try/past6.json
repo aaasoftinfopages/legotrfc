@@ -212,7 +212,7 @@
     "id": 2417,
     "category": "Motor ve Araç Tekniği",
     "question": "Dizel motorlu bir aracın gösterge panelinde, kontak açıldığında yanan ve bir süre sonra sönen yay şeklindeki sarı ışık ne anlama gelir?",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelkizdirmabujisi.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelkizdirmabujisi.png",
     "options": [
       { "text": "Motorun hararet yaptığını", "isTrue": false },
       { "text": "Kızdırma (ısıtma) bujilerinin çalışmakta olduğunu", "isTrue": true },
