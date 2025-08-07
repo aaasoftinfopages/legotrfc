@@ -263,7 +263,7 @@
     "id": 21,
     "category": "Motor ve Araç Tekniği",
     "question": "Araç gösterge panelinde şekildeki ikaz ışığının yanması neyi ifade eder?",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/gorsal6.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.png",
     "options": [
       { "text": "Fren balatalarının bittiğini", "isTrue": false },
       { "text": "Motor yağı basıncının çok düştüğünü", "isTrue": true },
@@ -380,7 +380,7 @@
     "id": 30,
     "category": "Motor ve Araç Tekniği",
     "question": "Araç gösterge panelinde yanan bu ikaz ışığı ne anlama gelir?",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/gorsal8.png",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.png",
     "options": [
       { "text": "El freni çekili veya hidrolik seviyesi düşük", "isTrue": true },
       { "text": "Arka sis lambası açık", "isTrue": false },
@@ -650,3 +650,4 @@
     "description": "Özellikle kısa mesafelerde bireysel araç kullanımı yerine alternatif ulaşım yöntemlerini tercih etmek, karbon salınımını ve çevre kirliliğini azaltmanın en etkili yollarından biridir."
   }
 ]
+
