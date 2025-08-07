@@ -237,7 +237,7 @@
   "id": 19,
   "category": "Araç Tekniği",
   "question": "Araç gösterge panelinde yanan şekildeki ikaz ışığı sürücüye neyi bildirir?",
-  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/hararet.jpg",
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.png",
   "options": [
     {
       "text": "Motor soğutma suyu sıcaklığının aşırı yükseldiğini",
@@ -470,7 +470,7 @@
     "id": 36,
     "category": "Motor & Araç Tekniği",
     "question": "Aracın gösterge panelinde yanan bu ışık ne anlama gelir?",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.jpg",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.png",
     "options": [
       { "text": "Motor yağı basıncı düşük", "isTrue": false },
       { "text": "Şarj sistemi arızası (alternatör şarj etmiyor)", "isTrue": true },
