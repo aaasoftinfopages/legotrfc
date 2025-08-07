@@ -96,10 +96,10 @@
     "question": "Aşağıdakilerden hangisi, aracın gösterge panelinde bulunan 'arka cam rezistansı' ikaz ışığıdır?",
     "image_url": null,
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onbuzcozmeuyarisi.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkabuzcozmeuyarisi.jpg", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/onbuzcozmeuyarisi.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkabuzcozmeuyarisi.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.png", "isTrue": false }
     ],
     "description": "Dikdörtgen içinde yukarı doğru dalgalı oklar bulunan bu sembol, arka camdaki buğu veya buzlanmayı çözmek için kullanılan ısıtıcının (rezistans) çalıştığını gösterir."
   },
@@ -239,10 +239,10 @@
     "question": "Aşağıdaki gösterge ışıklarından hangisi, 'motor yağı basıncının' çok düştüğünü belirtir?",
     "image_url": null,
     "options": [
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.jpg", "isTrue": false },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.jpg", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.png", "isTrue": false },
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.png", "isTrue": true },
-      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.jpg", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.png", "isTrue": false }
     ],
     "description": "Yağdanlık sembolü şeklindeki bu kırmızı ikaz ışığı, motor çalışırken yanıyorsa, yağlama sisteminde bir sorun olduğunu ve yağ basıncının tehlikeli derecede düştüğünü gösterir. Araç derhal durdurulmalıdır."
   },
