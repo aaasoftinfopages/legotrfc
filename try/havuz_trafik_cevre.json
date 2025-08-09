@@ -419,7 +419,7 @@
     "id": 3033,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti ne anlama gelir?",
-    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/durmakveparketmekyasak.png",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/park_yeri.png",
     "options": [
       { "text": "Park etmek yasaktır.", "isTrue": false },
       { "text": "Duraklamak ve park etmek yasaktır.", "isTrue": false },
