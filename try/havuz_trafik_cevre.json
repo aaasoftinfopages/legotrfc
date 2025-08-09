@@ -68,7 +68,7 @@
     "id": 3006,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki durumda 2 numaralı sürücü işaretli yere doğru geçerken  ne yapmalıdır?",
-    "image_url": "2_numarali_surucu.png",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/2_numarali_surucu.png",
     "options": [
       { "text": "Hızını artırarak şerit değiştirmelidir.", "isTrue": false },
       { "text": "Sinyal verdiği anda hemen şerit değiştirmelidir.", "isTrue": false },
@@ -276,7 +276,7 @@
     "id": 3022,
     "category": "Trafik ve Çevre",
     "question": "Yan yana çizilmiş kesikli ve devamlı yol çizgileri sürücülere neyi bildirir?",
-    "image_url": null,
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kesikli_devamli_cizgi.png",
     "options": [
       { "text": "Her iki yöndeki araçların şerit değiştiremeyeceğini", "isTrue": false },
       { "text": "Her iki yöndeki araçların öndeki aracı geçebileceğini", "isTrue": false },
