@@ -627,7 +627,7 @@
     "id": 3049,
     "category": "Trafik ve Çevre",
     "question": "Taşıt yolu üzerine çizilen şekildeki çizgilerin anlamı nedir?",
-    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/bolunmus_yol_baslangici.png",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/bolunmus_yol_baslangici.png",
     "options": [
       { "text": "Tırmanma şeridi", "isTrue": false },
       { "text": "Bölünmüş yol başlangıcı", "isTrue": true },
