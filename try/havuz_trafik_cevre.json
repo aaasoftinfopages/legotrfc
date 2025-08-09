@@ -2301,7 +2301,7 @@
   {
     "id": 3178,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki 'Mecburi Asgari Hız Sonu' levhası ne anlama gelir?",
+    "question": "Şekildeki levhası ne anlama gelir?",
     "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/mecburi_sonu.png",
     "options": [
       { "text": "Belirtilen hızın üzerine çıkılması gerektiğini", "isTrue": false },
