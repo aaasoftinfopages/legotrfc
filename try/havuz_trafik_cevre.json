@@ -67,13 +67,13 @@
   {
     "id": 3006,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki durumda sürücü ne yapmalıdır?",
-    "image_url": "https://www.surucukurslari.com/data/files/1113337373_serit_degistirme_sinyal_kullanimi.jpg",
+    "question": "Şekildeki durumda 2 numaralı sürücü işaretli yere doğru geçerken  ne yapmalıdır?",
+    "image_url": "2_numarali_surucu.png",
     "options": [
       { "text": "Hızını artırarak şerit değiştirmelidir.", "isTrue": false },
       { "text": "Sinyal verdiği anda hemen şerit değiştirmelidir.", "isTrue": false },
       { "text": "Gireceği şeritteki araçların emniyetle geçmesini beklemelidir.", "isTrue": true },
-      { "text": "Sol şeridi sürekli olarak işgal etmelidir.", "isTrue": false }
+      { "text": "Korna çalarak araçları rahatsız etmelidir.", "isTrue": false }
     ],
     "description": "Şerit değiştirmeden önce, girilecek şeritteki araçların emniyetle geçmesini beklemek zorunludur. Trafiği aksatacak veya tehlikeye sokacak şekilde şerit değiştirilmemelidir."
   },
