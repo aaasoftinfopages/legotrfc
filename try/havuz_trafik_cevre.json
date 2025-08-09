@@ -1328,7 +1328,7 @@
     "id": 3103,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tehlike uyarı işareti ne anlama gelir?",
-    "image_url": "http://aaasoftinfopages.github.io/page/questions/gevsek_sev.png",
+    "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/gevsek_sev.png",
     "options": [
       { "text": "Kasisli yol", "isTrue": false },
       { "text": "Gevşek malzemeli zemin", "isTrue": false },
@@ -1397,8 +1397,8 @@
     "options": [
       { "text": "Kış lastiği takmanın zorunlu olduğunu", "isTrue": false },
       { "text": "Zincir takmanın yasak olduğunu", "isTrue": false },
-      { "text": "Zincir takma mecburiyetinin sona erdiğini", "isTrue": false },
-      { "text": "En az bir çift tekerleğe zincir takmanın zorunlu olduğunu", "isTrue": true }
+      { "text": "Zincir takma mecburiyetinin sona erdiğini", "isTrue": true },
+      { "text": "En az bir çift tekerleğe zincir takmanın zorunlu olduğunu", "isTrue": false }
     ],
     "description": "Bu işaret (TT-42a), sürücülerin çekici tekerleklerinin en az bir çiftine patinaj zinciri takmalarının zorunlu olduğunu bildirir."
   },
@@ -2203,10 +2203,10 @@
     "options": [
       { "text": "7 gün", "isTrue": false },
       { "text": "10 gün", "isTrue": false },
-      { "text": "15 gün", "isTrue": false },
-      { "text": "Cevap PDF'te belirtilmemiştir, ancak genel uygulama 15 gündür.", "isTrue": true }
+      { "text": "15 gün", "isTrue": true },
+      { "text": "25", "isTrue": false }
     ],
-    "description": "PDF'in 153. sayfasında para cezasının peşin ödenmesi durumunda %25 indirim uygulanacağı belirtilmiştir. Plakaya yazılan cezalarda ise sürücüye tebliğden sonra 15 gün içinde peşin ödenirse indirimden yararlanılabileceği belirtilmiştir. Genel uygulama bu yöndedir."
+    "description": "Para cezasının peşin ödenmesi durumunda %25 indirim uygulanacağı belirtilmiştir. Plakaya yazılan cezalarda ise sürücüye tebliğden sonra 15 gün içinde peşin ödenirse indirimden yararlanılabileceği belirtilmiştir. Genel uygulama bu yöndedir."
   },{
     "id": 3171,
     "category": "Trafik ve Çevre",
