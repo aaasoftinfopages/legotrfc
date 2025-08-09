@@ -155,6 +155,8 @@
     "description": "Görsel, 'Köprü Tekniği' olarak bilinen yaralı taşıma yöntemini göstermektedir. Bu yöntemde en az üç ilk yardımcı, yaralının iki yanına diz çökerek üzerinde bir 'köprü' oluşturur. Yaralı tek parça halinde yukarı kaldırılır ve bu sayede altına sedye kolayca yerleştirilebilir. Omurga yaralanması şüphesinde kullanılır."
   },
   {
-    "id": 32,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/altinbesik_tasima.png",
-    "description": "Görsel, 'Altın Beşik' (3 veya 4
+  "id": 32,
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/altinbesik_tasima.png",
+  "description": "Görsel, 'Altın Beşik' (3 veya 4 elle taşıma) tekniğini anlatmaktadır. İki ilk yardımcı tarafından, bilinci açık bir yaralıyı taşımak için kullanılır. İlk yardımcılar ellerini kenetleyerek bir oturak oluşturur ve yaralı bu oturağa oturtulur. Kısa mesafeli taşımalar için idealdir."
+}
+]
