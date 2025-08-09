@@ -3278,10 +3278,10 @@
     "question": "Aşağıdaki işaretlerden hangisi 'Kontrolsüz Demiryolu Geçidi (Tek Hat)' olduğunu bildirir?",
     "image_url": null,
     "options": [
-      { "text": "kontrolsuz_demir_cifthat.png", "isTrue": false },
-      { "text": "kontrolsuz_demir_tekhat.png", "isTrue": true },
-      { "text": "demiryoluhemzemin2.png", "isTrue": false },
-      { "text": "demiryoluhemzemin.png", "isTrue": false }
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kontrolsuz_demir_cifthat.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kontrolsuz_demir_cifthat.pngkontrolsuz_demir_tekhat.png", "isTrue": true },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kontrolsuz_demir_cifthat.pngdemiryoluhemzemin2.png", "isTrue": false },
+      { "text": "http://aaasoftinfopages.github.io/legotrfc/page/questions/kontrolsuz_demir_cifthat.pngdemiryoluhemzemin.png", "isTrue": false }
     ],
     "description": "Demiryolu geçidinde bulunan ve 'Andre Haçı' olarak da bilinen, üzerinde tek bir çapraz çizgi olan 'X' şeklindeki levha (T-27a), geçidin kontrolsüz ve tek hatlı olduğunu bildirir."
   },
