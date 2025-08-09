@@ -1,4 +1,5 @@
-[ {
+[
+  {
     "id": 1,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/koma.png",
     "description": "Görsel, bilinci kapalı ancak solunumu olan yaralılara verilen 'Koma Pozisyonu'nu (iyileşme pozisyonu) göstermektedir. Yaralı, yan yatırılarak solunum yolunun açık kalması ve kusmuk gibi sıvıların akciğerlere kaçması engellenir. Bu pozisyon, yaralının durumunun stabil kalmasına yardımcı olur."
@@ -13,7 +14,7 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/bakdinlehisset.png",
     "description": "Görsel, ilk yardımda solunumun değerlendirilmesi için kullanılan 'Bak-Dinle-Hisset' yöntemini anlatmaktadır. İlk yardımcı, yaralının ağzına ve burnuna kulağını yaklaştırarak solunum sesini dinler, yanağıyla soluğu hissetmeye çalışır ve aynı anda göğüs kafesinin inip kalktığını gözlemler. Bu kontrol 10 saniye boyunca yapılır."
   },
-   {
+  {
     "id": 4,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/sok.png",
     "description": "Görsel, şok durumundaki bir hastaya verilmesi gereken pozisyonu anlatmaktadır. Şok, kan dolaşımının yetersizliği durumudur. Hastanın sırtüstü yatırılması ve kanın hayati organlara gitmesini sağlamak için bacaklarının 30 cm kadar yukarı kaldırılması gerekir. Hastanın üzeri örtülerek vücut ısısı korunur."
@@ -23,12 +24,12 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/bas_cene_pozisyonu.png",
     "description": "Görsel, solunum yolunu açmak için kullanılan 'Baş Geri-Çene Yukarı' pozisyonunu göstermektedir. Bilinci kapalı olan yaralılarda, dilin geriye kayarak solunum yolunu tıkamasını önlemek amacıyla bir el alına yerleştirilir, diğer elin parmakları ile çene yukarı doğru kaldırılarak baş geriye itilir."
   },
-   {
+  {
     "id": 6,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/hemlickmanevrasi.png",
     "description": "Görsel, yetişkinlerde solunum yolu tıkanıklığında uygulanan Heimlich manevrasını anlatmaktadır. İlk yardımcı, yaralının arkasına geçer, bir eliyle yumruk yapar ve göğüs kemiğinin alt kısmına yerleştirir. Diğer eliyle de yumruğunu kavrayarak kendine doğru ve yukarıya doğru 5 kez baskı uygular."
   },
-    {
+  {
     "id": 7,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/rentekmanevrasi.png",
     "description": "Görsel, Rentek manevrasını, yani araç içindeki yaralıyı omuriliğe zarar vermeden çıkarma tekniğini göstermektedir. Özellikle trafik kazalarında, yaralının boyun ve omurgasının sabitlenmesi hayati önem taşıdığından bu manevra dikkatle uygulanır. Amaç, yaralıyı tehlikeli ortamdan güvenli bir yere taşımaktır."
@@ -48,12 +49,12 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/damarkanamalari.png",
     "description": "Görsel, damar kanamalarında yapılması gereken ilk yardımı göstermektedir. Kanayan yerin üzerine temiz bir bezle doğrudan baskı uygulanır. Kanama durmazsa, ikinci bir bez koyarak basınç artırılır. Kanayan bölge kalp seviyesinden yukarıda tutulur ve en yakın basınç noktasına baskı uygulanır."
   },
-    {
+  {
     "id": 11,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/agizdankangelme.png",
     "description": "Görsel, ağızdan kan gelmesi durumunda yapılması gereken ilk yardımı göstermektedir. Bu durumda, kişinin solunum yolunun açık tutulması ve kanın akciğerlere kaçmasını önlemek için uygun pozisyonun verilmesi hayati önem taşır. Genellikle, hastanın bilinci açıksa oturtulur ve başı hafifçe öne eğilir. Bilinç kapalıysa yan yatış pozisyonu verilir."
   },
-     {
+  {
     "id": 12,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/sandalye_ile_tasima.png.png",
     "description": "Görsel,Sandalye ile yaralı taşıma tekniğidir,bu teknik kısa measafede yaralı taşıma özellikle merdivenlerden rahat taşımak için kullanılır."
@@ -88,7 +89,6 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/kolkirigi.png",
     "description": "Görsel, kol kırıklarında ilk yardım uygulamasını anlatmaktadır. Kırık kol, bir üçgen sargı bezi kullanılarak boyuna asılır ve vücuda sabitlenir. Bu, kolun hareket etmesini önleyerek ağrıyı azaltır ve daha fazla zarar görmesini engeller."
   },
- 
   {
     "id": 19,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/kulakveburun.png",
@@ -99,7 +99,6 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/normaldurus.png",
     "description": "Görsel, sağlıklı bir insanın normal anatomik duruşunu göstermektedir. Bu duruş, vücudun ayakta, dik, kolların yanlarda ve avuç içlerinin öne baktığı pozisyonudur. İlk yardımda, yaralanmaları değerlendirirken bu normal duruştan sapmaları anlamak önemlidir."
   },
-
   {
     "id": 21,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/silvestermetodu.png",
@@ -110,7 +109,6 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/sirtustupozisyonu.png",
     "description": "Görsel, çeşitli durumlarda yaralıya verilmesi gereken sırtüstü yatış pozisyonunu göstermektedir. Genellikle karın yaralanmalarında dizler bükülerek, şok durumunda ise ayaklar yükseltilerek uygulanır. Bu pozisyon, yaralının durumuna göre modifiye edilebilir."
   },
- 
   {
     "id": 23,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/sedye_ile_tasima.png",
@@ -131,7 +129,6 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/teskereci_yöntemii.png",
     "description": "Görsel, 'Teskereci Yöntemi' olarak da bilinen ve iki kişiyle uygulanan 'Altın Beşik' tekniğini göstermektedir. Bilinci açık yaralılar için kullanılır. İki ilk yardımcı, elleriyle bir oturak oluşturur ve yaralıyı bu şekilde güvenle taşır."
   },
-
   {
     "id": 27,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/temelyasamdestegi.png",
@@ -160,7 +157,4 @@
   {
     "id": 32,
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/altinbesik_tasima.png",
-    "description": "Görsel, 'Altın Beşik' (3 veya 4 elle taşıma) tekniğini anlatmaktadır. İki ilk yardımcı tarafından, bilinci açık bir yaralıyı taşımak için kullanılır. İlk yardımcılar ellerini kenetleyerek bir oturak oluşturur ve yaralı bu oturağa oturtulur. Kısa mesafeli taşımalar için idealdir."
-  },
-  
-]
+    "description": "Görsel, 'Altın Beşik' (3 veya 4
