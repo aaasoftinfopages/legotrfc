@@ -3237,7 +3237,7 @@
   "id": 3250,
   "category": "Trafik ve Çevre",
   "question": "Şerit değiştirmek isteyen şekildeki 1 numaralı taşıt sürücüsü, sola sinyal vermeden önce aşağıdakilerden hangisini mutlaka yapmalıdır?",
-  "image_url": "sollama5.png",
+  "image_url": "http://aaasoftinfopages.github.io/legotrfc/page/questions/sollama5.png",
   "options": [
     { "text": "Uzun hüzmeli farları yakarak seyretmeli", "isTrue": false },
     { "text": "2 numaralı taşıtın geç işaretini beklemeli", "isTrue": false },
