@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "videoId": "https://aaasoftinfopages.github.io/legotrfc/page/questions/aractabulunmasigereken.jpg",
+    "description": "Araçta Bulunması Zorunlu Gereçler: Ehliyet sınavının araç bilgisi bölümünde sorulan, araçta bulunması zorunlu malzemeleri içerir. Bunlar: reflektör, ilk yardım seti, yangın tüpü, bijon anahtarı, çeki halatı, stepne (yedek lastik), kriko ve takozdur. Sınavda bu malzemelerin yerlerini ve ne işe yaradıklarını bilmeniz beklenir."
+  },
+  {
+    "id": 2,
+    "videoId": "https://aaasoftinfopages.github.io/legotrfc/page/questions/onkaput.jpg",
+    "description": "Ön Kaput ve Motor Bilgisi: Sınavın bir diğer önemli kısmı olan motor ve ön kaput altındaki parçaların tanıtımını içerir. Motor soğutma suyu, motor yağı kapağı ve kontrol çubuğu, fren hidrolik yağı, akü, cam sileceği suyu, yağ filtresi, radyatör kapağı ve hava filtresi gibi temel parçaların yerlerini ve görevlerini öğrenmek sınav başarısı için kritiktir."
+  },
+  {
+    "id": 3,
+    "videoId": "https://aaasoftinfopages.github.io/legotrfc/page/questions/araconkismi.jpg",
+    "description": "Araç İçi Kontrol Paneli ve Kumandalar: Sınavın başında ve sürüş sırasında kullanacağınız temel kontrol elemanlarını gösterir. Devir ve kilometre göstergeleri, direksiyon, vites topuzu, el freni ve pedallar (debriyaj, fren, gaz) hakkında bilgi sahibi olmanız, araca hakimiyetinizi gösterir ve sınavda değerlendirilir."
+  },
+  {
+    "id": 4,
+    "videoId": "dXXo_3sxiVw",
+    "description": "Sürüşe başlangıç: Bu video, ehliyet sınavının başlangıcında yapılması gerekenleri kapsar. Koltuk ve ayna ayarları, emniyet kemerinin takılması, vitesin boşa alınması ve sinyal verilerek trafiği kontrol edip güvenli bir şekilde çıkış yapma gibi adımları içerir."
+  },
+  {
+    "id": 5,
+    "videoId": "6itv7AGGWnU",
+    "description": "Paralel park: Ehliyet sınavının en önemli aşamalarından biri olan paralel parkın nasıl yapıldığını gösterir. İki araç arasına veya dubalar arasına aracın nasıl konumlandırılacağı, direksiyon manevraları ve ayna kullanımı gibi kritik noktaları anlatır."
+  },
+  {
+    "id": 6,
+    "videoId": "FRj9EVX9JZ4",
+    "description": "L park: Bu video, L park olarak bilinen ve genellikle geri geri bir alana 90 derece açıyla girilerek yapılan park manevrasını detaylandırır. Sınavda L park yaparken dikkat edilmesi gerekenler, dubalara olan mesafe ve doğru direksiyon hareketleri gibi konuları içerir."
+  },
+  {
+    "id": 7,
+    "videoId": "j0ijZAKHhMg",
+    "description": "Yokuş kalkış: Ehliyet sınavında yokuşta duran aracı geri kaydırmadan nasıl kaldırılacağını gösterir. Debriyaj ve gaz pedalı arasındaki koordinasyonun (kavrama noktası) nasıl sağlanacağı ve el freni kullanımı gibi teknikleri anlatır."
+  },
+  {
+    "id": 8,
+    "videoId": "yvLS4Q41bYs",
+    "description": "25 metre geri gidiş: Sınavın bir diğer bölümü olan 25 metre boyunca şeridi ortalayarak ve düz bir çizgide geri geri gitme becerisini gösterir. Bu manevra sırasında direksiyon hakimiyeti ve aynaların doğru kullanımı önemlidir."
+  },
+  {
+    "id": 9,
+    "videoId": "B9IVRXxi7DY",
+    "description": "Ani fren: Belirlenmiş bir alanda, yaklaşık 30 km/s hızla giderken aniden durma becerisini ölçen bir manevradır. Bu video, ani fren sırasında direksiyon hakimiyetini kaybetmeden ve güvenli bir şekilde nasıl durulacağını anlatır."
+  },
+  {
+    "id": 10,
+    "videoId": "KbhQ4-n15xs",
+    "description": "U dönüşü: Uygun bir yolda, kurallara uygun ve güvenli bir şekilde U dönüşü yapma tekniğini gösterir. Sinyal verme, ayna kontrolü ve trafiği tehlikeye atmadan dönüşü tamamlama gibi adımları içerir."
+  }
+]
