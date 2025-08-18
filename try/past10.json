@@ -625,7 +625,7 @@
     }
   ],
   "description": "Güç aktarma organları, motor gücünü tekerleklere iletir. Görseldeki sıralama şöyledir: I numaralı parça 'Şaft' (kardan mili), gücü şanzımandan diferansiyele aktarır. II numaralı parça 'Diferansiyel', gücü tekerleklere dağıtır ve virajlarda dönüşü kolaylaştırır. III numaralı parça ise 'Aks', gücü diferansiyelden alıp tekerleklere ileten mildir."
-}
+},
   {
     "id": 2626,
     "category": "Motor ve Araç Tekniği",
