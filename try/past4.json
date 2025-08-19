@@ -45,11 +45,11 @@
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kavsak1.png",
     "options": [
       { "text": "1 numaralı araç", "isTrue": false },
-      { "text": "2 numaralı araç", "isTrue": true },
+      { "text": "2 numaralı araç", "isTrue": false },
       { "text": "Hızı fazla olan araç", "isTrue": false },
-      { "text": "3 numaralı araç", "isTrue": false }
+      { "text": "3 numaralı araç", "isTrue": true }
     ],
-    "description": "Kontrolsüz kavşaklarda, dönüş yapan araçlar düz gidenlere, motorsuz araçlar motorlu olanlara yol verir. Bu kuralın dışında kalan ve temel kural olan 'Herkes sağındaki araca yol verir' kuralına göre 2 numaralı araç, 1 numaranın sağında olduğu için ilk geçiş hakkına sahiptir. 3 numaralı araç ise dönüş yaptığından en son geçer."
+    "description": "Kontrolsüz kavşaklarda, dönüş yapan araçlar düz gidenlere, motorsuz araçlar motorlu olanlara yol verir. Bu kuralın dışında kalan ve temel kural olan 'Herkes sağındaki araca yol verir' kuralına göre  3 numaralı araç ilk geçen araç olur"
   },
   {
     "id": 5,
