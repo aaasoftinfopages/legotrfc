@@ -1,17 +1,17 @@
 [
   {
-    "id": 2351,
-    "category": "Trafik ve Çevre",
-    "question": "“Duraklamanın yasak olduğu” her yerde aşağıdakilerden hangisi de yasaktır?",
-    "image_url": null,
-    "options": [
-      { "text": "Yolcu indirmek", "isTrue": false },
-      { "text": "Park etmek", "isTrue": true },
-      { "text": "Yük boşaltmak", "isTrue": false },
-      { "text": "Beklemek", "isTrue": false }
-    ],
-    "description": "Temel kuraldır: Duraklamanın yasak olduğu her yerde park etmek de yasaktır. Ancak park etmenin yasak olduğu her yerde duraklama yapmak (5 dakikayı geçmeyen) serbest olabilir."
-  },
+    "id": 2351,
+    "category": "Trafik ve Çevre",
+    "question": "Normal hava ve yol koşullarında, öndeki araçla güvenli bir takip mesafesi bırakmak için kullanılan pratik yöntem aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Araç boyunun üç katı kadar mesafe bırakmak.", "isTrue": false },
+      { "text": "Her zaman sabit olarak 50 metre mesafe bırakmak.", "isTrue": false },
+      { "text": "Öndeki aracın geçtiği bir noktadan '88-89' diye sayarak (yaklaşık 2 saniye) mesafeyi ayarlamak.", "isTrue": true },
+      { "text": "Öndeki aracın plakasını okuyabilecek kadar yaklaşmak.", "isTrue": false }
+    ],
+    "description": "Güvenli takip mesafesi, öndeki aracın ani durması halinde çarpışmayı önleyecek kadar olmalıdır. Bu mesafe, pratik olarak '88-89 kuralı' olarak bilinen 2 saniye kuralı ile ayarlanır. Bu süre, sürücünün reaksiyon süresi ve aracın fren mesafesi için güvenli bir aralık sağlar."
+  },
   {
     "id": 2352,
     "category": "İlk Yardım",
