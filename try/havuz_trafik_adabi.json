@@ -837,7 +837,7 @@
     "image_url": null,
     "options": [
       { "text": "Sadece diğer sürücüleri sinirlendirmek.", "isTrue": false },
-      { "text": "Gerçekten ihtiyacı olan ambulans, itfaiye gibi acil durum araçlarının geçişini engelleyerek can kaybına neden olmak.", "isTrie": true },
+      { "text": "Gerçekten ihtiyacı olan ambulans, itfaiye gibi acil durum araçlarının geçişini engelleyerek can kaybına neden olmak.", "isTrue": true },
       { "text": "Trafik akışını hızlandırmak.", "isTrue": false },
       { "text": "Kendi yakıt tüketimini artırmak.", "isTrue": false }
     ],
@@ -1655,7 +1655,7 @@
     "image_url": null,
     "options": [
       { "text": "Otomobil sürücülerini", "isTrue": false },
-      { "text": "Yayaları ve bisikletlileri", "isTrie": false },
+      { "text": "Yayaları ve bisikletlileri", "isTrue": false },
       { "text": "Yol kenarındaki binaları ve ağaçları", "isTrue": true },
       { "text": "Motosiklet ve toplu taşıma aracı sürücülerini", "isTrue": false }
     ],
