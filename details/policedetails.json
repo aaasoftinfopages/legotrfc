@@ -60,12 +60,13 @@
     "description": "Yolun Bütün Yönlere Kapanması İşareti: Bu işaret, trafiğin tüm yönlere kapalı olduğunu belirtir. Görevlinin bir kolunun yukarıda, diğerinin aşağıda olması, daha önce açık olan yolun kapanacağını ve kapalı olan yolun ise trafiğe açılmak üzere olduğunu bildirir. Bu, sürücülerin harekete hazırlanması için bir uyarıdır (Trafik ışıklarındaki sarı ışık gibi)."
   },
   {
-    "id": 11,
-    "title": "Yolun Bütün Yönlere Kapanması (2)",
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/kapali2.jpg",
-    "description": "Yolun Bütün Yönlere Kapanması İşareti: Bu işaret, trafiğin tüm yönlere kapalı olduğunu belirtir. Görevlinin bir kolunun yukarıda (sağ veya sol), diğerinin yanda olması, daha önce açık olan yolun kapanacağını ve kapalı olan yolun ise trafiğe açılmak üzere olduğunu bildirir. Sürücülerin yola çıkmaya hazırlanması gerekir."
-  },
+  "id": 11,
+  "title": "Sağa/Sola Çek — Dur (Polis İşareti)",
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/kapali2.jpg",
+  "description": "Bu görsel memurun iki versiyonunu gösterir. Yana açık kolun gösterdiği yöne çekilip durulmalıdır. Yana açık kol sağda ise 'sağa çek — dur', solda ise 'sola çek — dur' anlamındadır. Polis yeni bir işaret verene kadar bekleyiniz."
+},
   {
+    
     "id": 12,
     "title": "Trafiği Yavaşlatma İşareti (1)",
     "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma1.png",
