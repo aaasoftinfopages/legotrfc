@@ -2,7 +2,7 @@
   {
     "id": 7750,
     "category": "Trafik Adabı",
-    "question": "Verilenler (doğru davranış, sorun çözme, güvenli ortam) aşağıdakilerden hangisinin amacını oluşturur?",
+    "question": "• Trafikte temel değerleri içselleştirerek doğru davranış göstermek • Trafikte karşılaşılan sorunları doğru yöntemlerle çözmek • Sağlıklı ve güvenli bir trafik ortamı oluşmasına katkı sağlamak Verilenler aşağıdakilerden hangisinin amacını oluşturur?",
     "image_url": null,
     "options": [
       { "text": "Mizacın", "isTrue": false },
@@ -106,7 +106,7 @@
   {
     "id": 7758,
     "category": "Araç Tekniği",
-    "question": "Araçlardaki egzoz susturucusu çıkarılırsa ne olması beklenir?",
+    "question": "Egzoz susturucusu, motordaki basınçlı yanmış gazların çıkarken oluşturacağı sesin azaltılmasında görev yapar. Buna göre, araçlardaki egzoz susturucusu çıkarılırsa ne olması beklenir?",
     "image_url": null,
     "options": [
       { "text": "Gürültü kirliliğinin artması", "isTrue": true },
@@ -184,7 +184,7 @@
   {
     "id": 7764,
     "category": "Trafik ve Çevre",
-    "question": "Yazılı olarak anlaşılarak kaza yerinden ayrılma hangi tür kazalarda geçerlidir?",
+    "question": "Trafik kazasına karışan kişilerin tümü, yetkililerin gelmesini gerekli görmez ve anlaşırlarsa, durumu aralarında yazılı olarak tespit etmek suretiyle olay yerinden ayrılabilirler. Yukarıdaki ifade hangi tür kazalarda geçerlidir?",
     "image_url": null,
     "options": [
       { "text": "Maddi hasarlı ve yaralanmalı kazalarda", "isTrue": false },
@@ -197,7 +197,7 @@
   {
     "id": 7765,
     "category": "Trafik ve Çevre",
-    "question": "Geceleri kara yolunda seyrederken, karşı yönden gelenlerin gözlerini kamaştırmamak için uzağı gösteren ışıkların yerine hangisi yakılmalıdır?",
+    "question": "Geceleri kara yolunda seyrederken, resimde görüldüğü gibi karşı yönden gelen araç sürücülerinin ve kara yolunu kullanan diğer kişilerin gözlerini kamaştırmamak için uzağı gösteren ışıkların yerine hangisi yakılmalıdır?",
     "image_url": "https://www.mebehliyetsinavsorulari.com/eklenti/android/wp-content/uploads/2018/01/soru34-3-300x230.jpg",
     "options": [
       { "text": "Sis ışıkları", "isTrue": false },
@@ -216,7 +216,7 @@
       { "text": "Karşılaşmalarda ışıkların söndürülmesi", "isTrue": true },
       { "text": "Geçme sırasında öndeki aracın ışıkla uyarılması", "isTrue": false },
       { "text": "Öndeki araç yakından izlenirken kısa hüzmeli farların yakılması", "isTrue": false },
-      { "text": "Sis ışıklarının sadece zorunlu hallerde kullanılması", "isTrue": false }
+      { "text": "Sis ışıklarının sadece sis, kar ve şiddetli yağmur sebebiyle görüşün yetersiz olduğu hallerde kullanılması", "isTrue": false }
     ],
     "description": "Geceleri seyir halindeyken aracın ışıklarının tamamen söndürülmesi, aracın görünürlüğünü sıfıra indireceği için son derece tehlikeli ve yasaktır. Karşılaşmalarda sadece uzun farlardan kısa farlara geçiş yapılır."
   },
@@ -236,7 +236,7 @@
   {
     "id": 7768,
     "category": "Trafik ve Çevre",
-    "question": "Duraklanan veya park edilen yerden çıkılırken sürücülerin hangilerini yapmaları zorunludur? (I. Araç çevresini kontrol etme II. Işıkla veya kolla işaret verme III. Gerekirse gözcü bulundurma)",
+    "question": "I- Araçlarını ve araçlarının etrafını kontrol etmeleri II- Işıkla veya kolla, gerekli hâllerde her ikisi ile çıkış işareti vermeleri III- Görüş alanları dışında kalan yerler varsa uyarılmaları için bir gözcü bulundurmaları Duraklanan veya park edilen yerden çıkılırken sürücülerin yukarıdakilerden hangilerini yapmaları zorunludur?",
     "image_url": null,
     "options": [
       { "text": "Yalnız I", "isTrue": false },
@@ -548,7 +548,7 @@
   {
     "id": 7792,
     "category": "İlk Yardım",
-    "question": "Kalp ve solunumu durmuş bir çocuğa (1-8 yaş), ilk yardım yapan kişi tek başına ise aşağıdakilerden hangisini uyguladıktan sonra tıbbi yardım istemelidir?",
+    "question": "Kalp ve solunumu durmuş bir çocuğa (1-8yaş), ilk yardım yapan kişi tek başına ise aşağıdakilerden hangisini uyguladıktan sonra tıbbi yardım istemelidir?",
     "image_url": null,
     "options": [
       { "text": "30 kalp masajı, 2 suni solunumu 5 tur uyguladıktan sonra", "isTrue": true },
@@ -574,7 +574,7 @@
   {
     "id": 7794,
     "category": "İlk Yardım",
-    "question": "Kanamalarla ilgili olarak verilenler için ne söylenebilir? (I- Toplardamar kanamaları, koyu renkli ve sürekli akar. II- Atardamar kanamaları, açık renkli ve kesik kesik akar.)",
+    "question": "I- Toplardamar kanamalarında, kan koyu renkli, yavaş ve sürekli akış hâlindedir. II- Atardamar kanamalarında, kan açık renkli ve kalp atımları ile uyumlu olarak kesik kesik akar. Yukarıda kanamalarla ilgili olarak verilenler için ne söylenebilir?",
     "image_url": null,
     "options": [
       { "text": "Yalnız I doğru", "isTrue": false },
