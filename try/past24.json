@@ -198,7 +198,7 @@
     "id": 8265,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti sürücüye neyi bildirir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru43d.png",
     "options": [
       { "text": "Kontrollü demir yolu geçidini", "isTrue": false },
       { "text": "Kontrolsüz demir yolu geçidini", "isTrue": true },
@@ -213,10 +213,10 @@
     "question": "Aşağıdakilerden hangisi \"köprü yaklaşımı\" levhasıdır?",
     "image_url": null,
     "options": [
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": true }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb7soru17a.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb7soru17b.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru43c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb7soru17c.png", "isTrue": true }
     ],
     "description": "Köprü yaklaşım levhaları, genellikle köprü girişlerinde sağda ve solda bulunan, beyaz zemin üzerine kırmızı dikey çizgilerle köprüye olan mesafeyi belirten (3 çizgi 150m, 2 çizgi 100m, 1 çizgi 50m) levhalardır. Soruda verilen seçeneklerdeki D şıkkı bu levhalardan biridir."
   },
@@ -226,10 +226,10 @@
     "question": "Aralıklarla yanıp sönen kırmızı ışık aşağıdaki trafik işaretlerinden hangisi ile aynı anlamdadır?",
     "image_url": null,
     "options": [
-      { "text": "Buraya şık görseli gelecek", "isTrue": true },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb7soru18a.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru57c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru57b.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru21c.png", "isTrue": false }
     ],
     "description": "Fasılalı (aralıklı) yanıp sönen kırmızı ışık, sekizgen 'DUR' levhası ile aynı anlama gelir. Sürücülerin bu ışığı gördüklerinde mutlaka durmaları, yolu kontrol edip güvenli ise geçmeleri gerekir."
   },
@@ -237,7 +237,7 @@
     "id": 8268,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki kara yolu üzerine çizilmiş yatay işaretlemelere göre 1 numaralı araç sürücüsü nasıl davranmalıdır?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb7soru19.png",
     "options": [
       { "text": "En sol şeride geçmeli", "isTrue": false },
       { "text": "Yavaşlamalı, sağ şeride girmeli", "isTrue": true },
@@ -289,7 +289,7 @@
     "id": 8272,
     "category": "Trafik ve Çevre",
     "question": "Şekle göre 1 numaralı araç sürücüsünün önündeki aracı geçmesinin yasak olmasının sebebi aşağıdakilerden hangisidir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb7soru24.png",
     "options": [
       { "text": "Arkasından gelen bir başka sürücünün kendisini geçmeye başlamış olması", "isTrue": false },
       { "text": "Kara yolunun öndeki araç için güçlük yaratmayacak şekilde geçişe uygun durumda bulunması", "isTrue": false },
@@ -315,7 +315,7 @@
     "id": 8274,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki gibi bir kavşakta karşılaşan araçların geçiş önceliği sıralaması nasıl olmalıdır?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb7soru25.png",
     "options": [
       { "text": "1-2-3", "isTrue": false },
       { "text": "2-3-1", "isTrue": true },
@@ -549,7 +549,7 @@
     "id": 8292,
     "category": "Araç Tekniği",
     "question": "Seyir hâlindeyken gösterge panelinde şekildeki ikaz ışığının yanması durumunda aşağıdakilerden hangisi yapılmalıdır?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.png",
     "options": [
       { "text": "Araç ışıkları açılıp kapatılmalıdır.", "isTrue": false },
       { "text": "Hız azaltılarak sürüşe devam edilmelidir.", "isTrue": false },
