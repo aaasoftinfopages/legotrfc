@@ -120,7 +120,7 @@
     "id": 8009,
     "category": "İlk Yardım",
     "question": "Omuz veya koldaki kanamalarda, şekilde belirtilen hangi kısma basınç uygulanmalıdır?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru10.png",
     "options": [
       { "text": "Köprücük kemiğinin iç kısmına", "isTrue": true },
       { "text": "Kasığın iç kısmına", "isTrue": false },
@@ -159,12 +159,12 @@
     "id": 8012,
     "category": "İlk Yardım",
     "question": "Aşağıdakilerden hangisi şok pozisyonudur?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": null,
     "options": [
-      { "text": "A)", "isTrue": true },
-      { "text": "B)", "isTrue": false },
-      { "text": "C)", "isTrue": false },
-      { "text": "D)", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru13a.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru13b.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru13c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru13d.png", "isTrue": false }
     ],
     "description": "Şok pozisyonunda hasta sırtüstü yatırılır, bacakları 30 cm kadar yukarı kaldırılarak beyne ve hayati organlara kan gitmesi sağlanır. Üzeri örtülerek vücut ısısı korunur."
   },
@@ -406,7 +406,7 @@
     "id": 8031,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki aracın bulunduğu yol aşağıdakilerden hangisidir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru32.png",
     "options": [
       { "text": "Ana yol", "isTrue": false },
       { "text": "Ada", "isTrue": false },
@@ -432,27 +432,14 @@
     "id": 8033,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdakilerden hangisi taşıt katarına örnektir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": null,
     "options": [
-      { "text": "A)", "isTrue": false },
-      { "text": "B)", "isTrue": false },
-      { "text": "C)", "isTrue": true },
-      { "text": "D)", "isTrue": false }
+      { "text": "meb2soru42.png", "isTrue": false },
+      { "text": "meb2soru42a.png", "isTrue": false },
+      { "text": "tasitkatari.png", "isTrue": true },
+      { "text": "meb2soru42b.png", "isTrue": false }
     ],
     "description": "Taşıt katarı, bir veya daha fazla römorkun bir çekici tarafından çekilmesiyle oluşan araç grubudur. Görseller arasında bu tanıma uyan seçenek doğru cevaptır."
-  },
-  {
-    "id": 8034,
-    "category": "Trafik ve Çevre",
-    "question": "Trafik görevlisinin hangi hareketi seri bir şekilde yapması \"trafiğin hızlanması\" işaretidir?",
-    "image_url": "buraya görsel gelecek",
-    "options": [
-      { "text": "A)", "isTrue": false },
-      { "text": "B)", "isTrue": true },
-      { "text": "C)", "isTrue": false },
-      { "text": "D)", "isTrue": false }
-    ],
-    "description": "Trafik polisinin kolunu dirsekten kırarak seri bir şekilde yaptığı el işareti, sürücülere trafiğin hızlanması gerektiğini bildirir."
   },
   {
     "id": 8035,
@@ -471,7 +458,7 @@
     "id": 8036,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işaretinin anlamı nedir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kayganyol.png",
     "options": [
       { "text": "Soldan daralan kaplama", "isTrue": false },
       { "text": "Tehlikeli eğim", "isTrue": false },
@@ -484,7 +471,7 @@
     "id": 8037,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti neyi bildirir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru38.png",
     "options": [
       { "text": "Sağda yolun daraldığını", "isTrue": false },
       { "text": "Sağda tek yönlü yola girileceğini", "isTrue": false },
@@ -497,20 +484,20 @@
     "id": 8038,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti neyi bildirir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kamyonlaricinyasaksonu.png",
     "options": [
-      { "text": "Kamyonlar için geçme yasağı sonunu", "isTrue": false },
+      { "text": "Kamyonlar için geçme yasağı sonunu", "isTrue": true },
       { "text": "Karşıdan gelene yol verilmesi gerektiğini", "isTrue": false },
-      { "text": "Kamyonlar için geçme yasağı başlangıcını", "isTrue": true },
+      { "text": "Kamyonlar için geçme yasağı başlangıcını", "isTrue": false },
       { "text": "Öndeki taşıtı geçmenin yasak olduğunu", "isTrue": false }
     ],
-    "description": "Kırmızı daire içindeki kamyon figürü, bu levhanın bulunduğu yolda kamyonların öndeki aracı geçmesinin (sollama yapmasının) yasak olduğunu belirtir."
+    "description": "Kamyonlar için geçme yasağı sonu levhası"
   },
   {
     "id": 8039,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti neyi bildirir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru39.png",
     "options": [
       { "text": "Ehli hayvanların giremeyeceğini", "isTrue": false },
       { "text": "Ehli hayvanların yola çıkabileceğini", "isTrue": true },
@@ -523,7 +510,7 @@
     "id": 8040,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işaretini gören sürücü ne yapmalıdır?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru40.png",
     "options": [
       { "text": "Korna çalmalıdır.", "isTrue": false },
       { "text": "Aracını durdurmalıdır.", "isTrue": false },
@@ -538,44 +525,18 @@
     "question": "Aşağıdakilerden hangisi kontrollü demir yolu geçidine yaklaşıldığını bildirir?",
     "image_url": null,
     "options": [
-      { "text": "A)", "isTrue": false },
-      { "text": "B)", "isTrue": false },
-      { "text": "C)", "isTrue": true },
-      { "text": "D)", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru43a.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru43b.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru43c.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru43d.png", "isTrue": false }
     ],
     "description": "Bariyerli veya ışıklı sistemlerle donatılmış demir yolu geçitlerine yaklaşıldığını bildiren levha, genellikle bir çit veya bariyer sembolü içerir."
-  },
-  {
-    "id": 8042,
-    "category": "Trafik ve Çevre",
-    "question": "Şekildeki trafik işareti neyi bildirir?",
-    "image_url": "buraya görsel gelecek",
-    "options": [
-      { "text": "Geçme yasağının sonu olduğunu", "isTrue": false },
-      { "text": "Öndeki taşıtın geçilmesinin yasak olduğunu", "isTrue": false },
-      { "text": "Bütün yasaklama ve kısıtlamaların sona erdiğini", "isTrue": true },
-      { "text": "Yük taşıtlarının öndeki taşıtları geçmelerinin yasak olduğunu", "isTrue": false }
-    ],
-    "description": "Üzerinde çapraz siyah bir çizgi bulunan bu levha, daha önce belirtilmiş olan tüm trafik yasaklamalarının ve kısıtlamalarının sona erdiğini gösterir."
-  },
-  {
-    "id": 8043,
-    "category": "Trafik ve Çevre",
-    "question": "Aşağıdakilerden hangisi yol ver işaretidir?",
-    "image_url": null,
-    "options": [
-      { "text": "A)", "isTrue": true },
-      { "text": "B)", "isTrue": false },
-      { "text": "C)", "isTrue": false },
-      { "text": "D)", "isTrue": false }
-    ],
-    "description": "Ters üçgen şeklindeki trafik levhası, tali yoldan ana yola çıkan sürücülerin ana yoldaki araçlara yol vermesi gerektiğini belirten uluslararası bir işarettir."
   },
   {
     "id": 8044,
     "category": "Trafik ve Çevre",
     "question": "Kavşaklara yaklaşırken yol üzerine çizilmiş şekildeki oklar sürücülere neyi bildirir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru45.png",
     "options": [
       { "text": "Hızın artırılması gerektiğini", "isTrue": false },
       { "text": "Sağa ve sola dönülemeyeceğini", "isTrue": false },
@@ -679,7 +640,7 @@
     "id": 8052,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki yolda sürücülerin aşağıdakilerden hangisini yapması doğrudur?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "meb2soru49.png",
     "options": [
       { "text": "Takip mesafesini azaltması", "isTrue": false },
       { "text": "Önündeki aracı geçmesi", "isTrue": false },
@@ -692,7 +653,7 @@
     "id": 8053,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki iki yönlü yolda, 1 numaralı geçilen araç sürücüsünün aşağıdakilerden hangisini yapması doğrudur?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru54.png",
     "options": [
       { "text": "Gidiş yönüne göre sağa doğru yaklaşması", "isTrue": true },
       { "text": "Uzun hüzmeli farlarını art arda yakması", "isTrue": false },
@@ -704,8 +665,8 @@
   {
     "id": 8054,
     "category": "Trafik ve Çevre",
-    "question": "Şekildeki gibi dönüş yapacak olan sürücü, aşağıdakilerden hangilerini yapmalıdır? I- Sağa dönüş lambasını yakmalı II- Hızını azaltmalı III- Dar bir kavisle dönmeli",
-    "image_url": "buraya görsel gelecek",
+    "question": "Şekildeki gibi dönüş yapacak olan sürücü, aşağıdakilerden hangilerini yapmalıdır?\n I- Sağa dönüş lambasını yakmalı \n II- Hızını azaltmalı\n III- Dar bir kavisle dönmeli",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru55.png",
     "options": [
       { "text": "Yalnız I", "isTrue": false },
       { "text": "I - II", "isTrue": false },
@@ -718,14 +679,14 @@
     "id": 8055,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki araçların geçiş hakkı sırası nasıl olmalıdır?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru56",
     "options": [
       { "text": "1 - 2 - 3", "isTrue": false },
-      { "text": "2 - 3 - 1", "isTrue": true },
+      { "text": "2 - 3 - 1", "isTrue": false },
       { "text": "3 - 1 - 2", "isTrue": false },
-      { "text": "3 - 2 - 1", "isTrue": false }
+      { "text": "3 - 2 - 1", "isTrue": true }
     ],
-    "description": "Kontrolsüz kavşaklarda geçiş hakkı kuralına göre; 2 numaralı traktör düz gittiği için önce geçer, 3 numaralı araç 1 numaralı aracın sağında olduğu için ikinci sırada geçer ve son olarak 1 numaralı araç geçer."
+    "description": "Sağı boş olan geçer kuralında göre önce 3 sonra 2 sonra 1 geçer."
   },
   {
     "id": 8056,
@@ -809,7 +770,7 @@
     "id": 8062,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki durumda, sürücünün aşağıdakilerden hangisini yapması yanlıştır?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru63.png",
     "options": [
       { "text": "Yaya geçinceye kadar durması", "isTrue": false },
       { "text": "Yaya geçidine uygun mesafede durması", "isTrue": false },
@@ -874,12 +835,12 @@
     "id": 8067,
     "category": "Trafik ve Çevre",
     "question": "Aşağıdaki taşıtlardan hangisinde yangın söndürme cihazının bulundurulması zorunludur?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": null,
     "options": [
-      { "text": "A)", "isTrue": true },
-      { "text": "B)", "isTrue": false },
-      { "text": "C)", "isTrue": false },
-      { "text": "D)", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru68a.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru68b.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru68c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb1soru51.png", "isTrue": false }
     ],
     "description": "Yolcu taşıyan otobüs, minibüs gibi araçlarda ve tehlikeli madde taşıyan kamyonlarda yangın söndürme cihazı bulundurmak yasal bir zorunluluktur. Şıklardaki otobüs doğru cevaptır."
   },
@@ -965,7 +926,7 @@
     "id": 8074,
     "category": "Motor ve Araç Tekniği",
     "question": "Resimde görülen seyir hâlindeki aracın arkasındaki kırmızı lambaların aniden yanması, trafikteki diğer sürücülere aşağıdakilerden hangisini bildirir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru75.png",
     "options": [
         { "text": "Aracın sola döneceğini", "isTrue": false },
         { "text": "Aracın sağa döneceğini", "isTrue": false },
@@ -978,12 +939,12 @@
     "id": 8075,
     "category": "Motor ve Araç Tekniği",
     "question": "Seyir hâlindeyken aracın gösterge panelinde, aşağıdaki ikaz ışıklarından hangisinin yanması, fren hidrolik seviyesinin düşük olduğunu bildirir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": null,
     "options": [
-        { "text": "A)", "isTrue": false },
-        { "text": "B)", "isTrue": false },
-        { "text": "C)", "isTrue": true },
-        { "text": "D)", "isTrue": false }
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkakapiacik.png", "isTrue": false },
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.png", "isTrue": false },
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.png", "isTrue": true },
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.png", "isTrue": false }
     ],
     "description": "Gösterge panelindeki genellikle parantez içinde bir ünlem işareti (!) olan ikaz ışığı, el freninin çekili olduğunu veya fren hidrolik seviyesinin düştüğünü belirtir."
 },
@@ -1043,7 +1004,7 @@
     "id": 8080,
     "category": "Motor ve Araç Tekniği",
     "question": "Şekilde gösterilen marş motorunun görevi nedir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru81.png",
     "options": [
         { "text": "Aküyü şarj etmek", "isTrue": false },
         { "text": "Araca ilk hareketi vermek", "isTrue": false },
@@ -1056,7 +1017,7 @@
     "id": 8081,
     "category": "Motor ve Araç Tekniği",
     "question": "Şekilde soru işareti (?) ile gösterilen kapaktan motora ne konulur?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru82.png",
     "options": [
         { "text": "Antifriz", "isTrue": false },
         { "text": "Motor yağı", "isTrue": true },
@@ -1082,14 +1043,14 @@
     "id": 8083,
     "category": "Motor ve Araç Tekniği",
     "question": "Şekilde soru işareti (?) ile gösterilen, motor soğutma sistemi parçasının adı nedir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru84.png",
     "options": [
-        { "text": "Soğutma fanı", "isTrue": false },
+        { "text": "Soğutma fanı", "isTrue": true },
         { "text": "Kayış", "isTrue": false },
         { "text": "Termostat", "isTrue": false },
-        { "text": "Radyatör", "isTrue": true }
+        { "text": "Radyatör", "isTrue": false }
     ],
-    "description": "Görselde soru işareti ile gösterilen petekli yapı, motordan gelen sıcak soğutma sıvısını içinden geçirerek soğutan radyatördür."
+    "description": "Görselde gösterilen radyatörün arkasında bulunan soğutma fanıdır"
 },
 {
     "id": 8084,
@@ -1121,7 +1082,7 @@
     "id": 8086,
     "category": "Motor ve Araç Tekniği",
     "question": "Aracın gösterge panelinde bulunan şekildeki gösterge sürücüye neyi bildirir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru87.png",
     "options": [
         { "text": "Motor devir sayısını", "isTrue": false },
         { "text": "Motor sıcaklığını", "isTrue": false },
