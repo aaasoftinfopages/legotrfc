@@ -1,0 +1,652 @@
+[
+  {
+    "id": 8100,
+    "category": "İlk Yardım Bilgisi",
+    "question": "Aşağıdakilerden hangisi ilk yardımın öncelikli amaçlarındandır?",
+    "image_url": null,
+    "options": [
+      { "text": "Trafikteki kaza sayısını azaltmak", "isTrue": false },
+      { "text": "Sağlık personelinin mesleki başarısını artırmak", "isTrue": false },
+      { "text": "İnsanları zararlı alışkanlıklarından uzaklaştırmak", "isTrue": false },
+      { "text": "Yaşamsal fonksiyonların sürdürülmesini sağlamak", "isTrue": true }
+    ],
+    "description": null
+  },
+  {
+    "id": 8101,
+    "category": "İlk Yardım Bilgisi",
+    "question": "Aşağıdakilerden hangisi organların çalışmasını, bilinç, algılama, anlama, hareketlerin birbiri ile uyum ve denge içinde olmasını sağlayan vb. işlevleri kontrol eden sistemi oluşturan yapılardandır?",
+    "image_url": null,
+    "options": [
+      { "text": "Omurilik", "isTrue": true },
+      { "text": "Pankreas", "isTrue": false },
+      { "text": "Böbrekler", "isTrue": false },
+      { "text": "Akciğerler", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8102,
+    "category": "İlk Yardım Bilgisi",
+    "question": "İlk yardımcının insan vücudu, yapısı ve işleyişi konusunda bazı temel kavramları bilmesi, yapacağı müdahalelerde bilinçli olmasını kolaylaştırır.\nBuna göre, kalp, kan damarları ve kan, vücudumuzdaki hangi sistemi oluşturan yapılardandır?",
+    "image_url": null,
+    "options": [
+      { "text": "Dolaşım sistemi", "isTrue": true },
+      { "text": "Hareket sistemi", "isTrue": false },
+      { "text": "Sindirim sistemi", "isTrue": false },
+      { "text": "Solunum sistemi", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8103,
+    "category": "İlk Yardım Bilgisi",
+    "question": "Solunum yolu açık tutulur.\nSolunum ve dolaşım desteklenir.\nYaralının bilinci kapalı ise ağızdan hiçbir şey verilmez.\nVerilenler, aşağıdaki durumların hangisinde uygulanan genel ilk yardım kurallarıdır?",
+    "image_url": null,
+    "options": [
+      { "text": "Bilinç kaybı", "isTrue": true },
+      { "text": "Havale", "isTrue": false },
+      { "text": "Sara krizi", "isTrue": false },
+      { "text": "Kalp durması", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8104,
+    "category": "İlk Yardım Bilgisi",
+    "question": "Aşağıdaki durumların hangisinde, kazazedeye baş-çene pozisyonu verilmesi uygundur?",
+    "image_url": null,
+    "options": [
+      { "text": "Burun kanaması olan", "isTrue": false },
+      { "text": "Bulantı ve kusması olan", "isTrue": false },
+      { "text": "Solunum yolu tıkalı olan", "isTrue": true },
+      { "text": "Boyun omurlarında zedelenme olan", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8105,
+    "category": "İlk Yardım Bilgisi",
+    "question": "Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili olarak verilenlerden hangisi doğrudur?",
+    "image_url": null,
+    "options": [
+      { "text": "Ellerin parmakları göğüs kafesiyle temas ettirilmeden, dirsekler bükülmeden ve göğüs kemiği üzerine vücuda dik olacak şekilde tutulması", "isTrue": true },
+      { "text": "Göğüs kemiğinin alt ve üst ucunun tespit edilerek üst yarısına, orta ve yüzük parmağının dik olarak yerleştirilmesi", "isTrue": false },
+      { "text": "Uygulama hızının dakikada 30 bası olacak şekilde ayarlanması", "isTrue": false },
+      { "text": "Göğüs kemiği 3 cm aşağı inecek şekilde bası uygulanması", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8106,
+    "category": "İlk Yardım Bilgisi",
+    "question": "Kazazedenin durumu değerlendirilirken, yaşam bulgularının var veya yok olması, yapılacak müdahaleler için önem taşımaktadır.\nBuna göre, kazazedenin hangi durumu, yaşam bulguları içinde yer almaz?",
+    "image_url": null,
+    "options": [
+      { "text": "Bilinci", "isTrue": false },
+      { "text": "Solunumu", "isTrue": false },
+      { "text": "Dolaşımı", "isTrue": false },
+      { "text": "Diş eti kanaması", "isTrue": true }
+    ],
+    "description": null
+  },
+  {
+    "id": 8107,
+    "category": "İlk Yardım Bilgisi",
+    "question": "Bebeklerde soluk yoluna herhangi bir cismin kaçması hâlinde, çıkartmak için ilk yardım olarak aşağıdakilerden hangisi uygulanmalıdır?",
+    "image_url": null,
+    "options": [
+      { "text": "Yüz aşağıda olacak şekilde kol üzerine yatırılır ve kürek kemiklerinin arasına vurulur.", "isTrue": true },
+      { "text": "Sert bir yere sırtüstü yatırılır ve göğüs kemiğinin üzerine baskı uygulanır.", "isTrue": false },
+      { "text": "Sırtüstü yatırılıp ayakları yükseltilir.", "isTrue": false },
+      { "text": "Şekerli su içirilir.", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8108,
+    "category": "İlk Yardım Bilgisi",
+    "question": "Açık kırık ile ilgili olarak verilenler için aşağıdakilerden hangisi söylenemez?",
+    "image_url": null,
+    "options": [
+      { "text": "Kan kaybı olur.", "isTrue": false },
+      { "text": "Deri bütünlüğü bozulmuştur.", "isTrue": false },
+      { "text": "Enfeksiyon tehlikesi yoktur.", "isTrue": true },
+      { "text": "Kemik bütünlüğü bozulmuştur.", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8109,
+    "category": "İlk Yardım Bilgisi",
+    "question": "Aşağıdakilerden hangisi, çıkıklarda yapılan ilk yardım uygulamasıdır?",
+    "image_url": null,
+    "options": [
+      { "text": "Çıkan eklemi yerine oturtmak", "isTrue": false },
+      { "text": "Çıkık olan bölgeye sıcak uygulama yapmak", "isTrue": false },
+      { "text": "Çıkık olan bölgede sadece sıkı bir bandaj uygulamak", "isTrue": false },
+      { "text": "Çıkan eklemin hareketsizliğini sağlayarak sevk etmek", "isTrue": true }
+    ],
+    "description": null
+  },
+  {
+    "id": 8110,
+    "category": "İlk Yardım Bilgisi",
+    "question": "Hangi tür yaralanmalarda, yara içine kürdan, tüy ve benzerlerinin kaçmış olma ihtimali vardır?",
+    "image_url": null,
+    "options": [
+      { "text": "Ezikli yaralar", "isTrue": false },
+      { "text": "Delici yaralar", "isTrue": true },
+      { "text": "Parçalı yaralar", "isTrue": false },
+      { "text": "Kesik yaralar", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8111,
+    "category": "İlk Yardım Bilgisi",
+    "question": "Aşağıdakilerden hangisi, şok belirtilerinden biri değildir?",
+    "image_url": null,
+    "options": [
+      { "text": "Huzursuzluk", "isTrue": false },
+      { "text": "Baş dönmesi", "isTrue": false },
+      { "text": "Dudak çevresinde morarma", "isTrue": false },
+      { "text": "Ciltte ısı artışı, kızarıklık ve kuruluk", "isTrue": true }
+    ],
+    "description": null
+  },
+  {
+    "id": 8112,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "I. Çekilen aracın ağırlığının, çeken aracın taşıma sınırından az olması\nII. Her iki aracın da yüksüz olması\nIII. Çekilen aracın sürücüsünün yönetiminde olması\nÇekilen ve çeken araçlarla ilgili olarak verilenlerden hangilerinin yapılması zorunludur?",
+    "image_url": null,
+    "options": [
+      { "text": "Yalnız I", "isTrue": false },
+      { "text": "I ve II", "isTrue": false },
+      { "text": "I ve III", "isTrue": true },
+      { "text": "II ve III", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8113,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Aşağıdaki trafik işaretlerinden hangisi, dönel kavşağa yaklaşıldığını bildirir?",
+    "image_url": null,
+    "options": [
+      { "text": "görsel url gelecek", "isTrue": true },
+      { "text": "görsel url gelecek", "isTrue": false },
+      { "text": "görsel url gelecek", "isTrue": false },
+      { "text": "görsel url gelecek", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8114,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Şekildeki trafik işareti, aşağıdakilerden hangisini bildirir?",
+    "image_url": "görsel url gelecek",
+    "options": [
+      { "text": "Traktör park alanı", "isTrue": false },
+      { "text": "Traktör çıkabilir", "isTrue": false },
+      { "text": "Traktörün giremeyeceğini", "isTrue": true },
+      { "text": "Sadece traktörün girebileceğini", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8115,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Aşağıdaki yer işaretlemelerinden hangisi, bölünmüş yol başlangıcı anlamındadır?",
+    "image_url": null,
+    "options": [
+      { "text": "görsel url gelecek", "isTrue": false },
+      { "text": "görsel url gelecek", "isTrue": true },
+      { "text": "görsel url gelecek", "isTrue": false },
+      { "text": "görsel url gelecek", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8116,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Aşağıdakilerden hangisi, trafiğin düzenlenmesinde en yüksek önceliğe sahiptir?",
+    "image_url": null,
+    "options": [
+      { "text": "Trafik ışıkları", "isTrue": false },
+      { "text": "Trafik görevlisi", "isTrue": true },
+      { "text": "Yer işaretleri", "isTrue": false },
+      { "text": "Trafik levhaları", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8117,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Aracını park ettikten sonra durduğu yerin diğer yol kullanıcıları açısından görme-görülme ya da manevra engeli oluşturup oluşturmadığını kontrol eden bir sürücünün bu davranışı, trafikteki hangi değere uygundur?",
+    "image_url": null,
+    "options": [
+      { "text": "Empati", "isTrue": true },
+      { "text": "Tahammül", "isTrue": false },
+      { "text": "Beden dili", "isTrue": false },
+      { "text": "Konuşma üslubu", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8118,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Kara yollarında araç kullanan bir sürücünün, aşağıdakilerden hangisini yapması yasaktır?",
+    "image_url": null,
+    "options": [
+      { "text": "Aksine bir işaret yoksa, daralan yol kesimlerinde yüklü araçlara geçiş kolaylığı sağlaması", "isTrue": false },
+      { "text": "Kavşaklarda, demir yolu geçitlerinde ve buralara yaklaşırken öndeki aracı geçmesi", "isTrue": true },
+      { "text": "Kavşağa geldiğinde, varsa kurallara uygun olarak karşıya geçen yayalara geçiş hakkını vermesi", "isTrue": false },
+      { "text": "Geçiş üstünlüğü bulunan bir aracın duyulur veya görülür işaretini aldığında, bu aracın kolayca ilerlemesini sağlamak için taşıt yolunun kenarına yanaşması", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8119,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Kamyon, kamyonet ve römorklarda yükle birlikte yolcu taşınırken, aşağıdakilerden hangisinin yapılması yasaktır?",
+    "image_url": null,
+    "options": [
+      { "text": "Yolcuların, kasa içinde ayrılmış bir yere oturtulması", "isTrue": false },
+      { "text": "Kasanın yan ve arka kapaklarının kapalı olması", "isTrue": false },
+      { "text": "Yüklerin, yolcuların üzerine konulması", "isTrue": true },
+      { "text": "Yüklerin, bağlanmış olması", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8120,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Şekildeki gibi, kontrolsüz kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?",
+    "image_url": "görsel url gelecek",
+    "options": [
+      { "text": "1-2-3", "isTrue": false },
+      { "text": "2-1-3", "isTrue": false },
+      { "text": "3-1-2", "isTrue": false },
+      { "text": "3-2-1", "isTrue": true }
+    ],
+    "description": null
+  },
+  {
+    "id": 8121,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Geçilmekte olan araç sürücüsü, aşağıdakilerden hangisini yapmalıdır?",
+    "image_url": null,
+    "options": [
+      { "text": "Hızını artırmalıdır.", "isTrue": false },
+      { "text": "Bulunduğu şeridi izlemelidir.", "isTrue": true },
+      { "text": "Öndeki aracı geçmeye çalışmalıdır.", "isTrue": false },
+      { "text": "Dönüş lambalarıyla geç işareti vermelidir.", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8122,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Sürücülerin, arkadaki araca yol vermek için şerit değiştirmemeleri, tehlikeli olabilir.\nBu durum, trafikte hangi temel değere sahip olunmadığını gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Bencillik", "isTrue": true },
+      { "text": "Sorumluluk", "isTrue": false },
+      { "text": "Yardımlaşma", "isTrue": false },
+      { "text": "Hoşgörü", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8123,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Şekildeki trafik kazası, aşağıdakilerden hangisine uyulmaması sonucu meydana gelmiş olabilir?",
+    "image_url": "görsel url gelecek",
+    "options": [
+      { "text": "Takip mesafesine", "isTrue": false },
+      { "text": "Kavşaklarda geçiş hakkına", "isTrue": true },
+      { "text": "Öndeki aracı geçme kuralına", "isTrue": false },
+      { "text": "Farların kullanılacağı yer ve hâllere", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8124,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Sürücü, trafiğin açılmayacağını bildiği hâlde, kornaya basmaktadır.\nDiğer sürücüler de bundan etkilenerek kornaya basmaktadır.\nBu durum için aşağıdakilerden hangisi söylenebilir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sürücülerin sabırlı olduğunu gösterir.", "isTrue": false },
+      { "text": "Sürü psikolojisinin etkisini gösterir.", "isTrue": true },
+      { "text": "Sürücünün, kendini diğer sürücülerin yerine koyduğunu gösterir.", "isTrue": false },
+      { "text": "Kornaya basmanın, trafiği hızlandırdığını gösterir.", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8125,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Aşağıdakilerden hangisi, tedbirsiz ve saygısız araç sürmeye örnek değildir?",
+    "image_url": null,
+    "options": [
+      { "text": "Hız kurallarına uyulması", "isTrue": true },
+      { "text": "Yayaların üzerine su sıçratılması", "isTrue": false },
+      { "text": "Diğer sürücülerin korkutulması", "isTrue": false },
+      { "text": "Seyir hâlinde iken, sürücünün elindeki cep telefonunu kullanması", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8126,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Aşağıdaki durumların hangisinde, sürüş esnasında refleksler zayıflamış olacağından, direksiyon başındaki tepkiler çok daha yavaş gerçekleşecektir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sürüş öncesi alkollü içki içilmişse", "isTrue": true },
+      { "text": "Sürüş öncesi düzenli ve yeterli uyku uyunmuşsa", "isTrue": false },
+      { "text": "Molalarda kan dolaşımını artıran hareketler yapılmışsa", "isTrue": false },
+      { "text": "Temiz hava için, aracın camları kısa süreliğine açılmışsa", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8127,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Aşağıdakilerden hangisi, kaza anında ölüm ve yaralanmaları en aza indirmek amacıyla sürücü ve yolcular tarafından kullanılır?",
+    "image_url": null,
+    "options": [
+      { "text": "Polen filtresi", "isTrue": false },
+      { "text": "Park sensörü", "isTrue": false },
+      { "text": "Emniyet kemeri", "isTrue": true },
+      { "text": "Açılabilir tavan", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8128,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Trafik para cezalarının, tebliğ edildiği tarihten itibaren kaç gün içinde ödenmesi hâlinde, %25 indirimden faydalanılır?",
+    "image_url": null,
+    "options": [
+      { "text": "15", "isTrue": true },
+      { "text": "25", "isTrue": false },
+      { "text": "30", "isTrue": false },
+      { "text": "40", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8129,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Aşağıdakilerden hangisi, Karayolları Genel Müdürlüğünün görev ve yetkilerindendir?",
+    "image_url": null,
+    "options": [
+      { "text": "Belediye sınırları içindeki yollarda, park düzeni, işaretleme, yaya ve okul geçitlerini belirlemek", "isTrue": false },
+      { "text": "Karayolları üzerindeki ilk yardım istasyonlarını kurmak, bu istasyonlara gerekli personeli, araç ve gereci sağlamak", "isTrue": false },
+      { "text": "Trafik kazalarının oluş nedenlerine göre verileri hazırlamak ve karayollarında gerekli önleyici teknik tedbirleri almak veya aldırmak", "isTrue": true },
+      { "text": "Motorlu araç sürücülerinin yetiştirilmesi için sürücü kursları açmak, özel sürücü kursu açılmasına izin vermek ve bunları her safhada denetlemek", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8130,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Aşağıdakilerden hangisi, araç kullanırken öfke duygusuna kapılan bir sürücünün, kendisini sakinleştirmek için uygulaması gereken yöntemlerden biri değildir?",
+    "image_url": null,
+    "options": [
+      { "text": "Trafik ortamında, gerilimli durumların olabileceğini kabul etmesi", "isTrue": false },
+      { "text": "Karşılaşılan durumla ilgili olarak, negatif çözümler üretmesi", "isTrue": true },
+      { "text": "Radyo veya müzik açması", "isTrue": false },
+      { "text": "Derin nefes alması", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8131,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Aracını kaldırıma park etmiş bir sürücüye, diğer yol kullanıcılarının kaldırımı kullanmasına engel olduğu için tepki gösterilmektedir.\nBu sürücü, trafik ve yol kurallarına uymadığı için hangi hakkı ihlal etmiştir?",
+    "image_url": null,
+    "options": [
+      { "text": "Geçiş hakkını", "isTrue": false },
+      { "text": "Yaya geçidi hakkını", "isTrue": false },
+      { "text": "Diğer sürücülerin hakkını", "isTrue": false },
+      { "text": "Diğer yayaların hakkını", "isTrue": true }
+    ],
+    "description": null
+  },
+  {
+    "id": 8132,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Aşağıdakilerden hangisi, araçların tescil işlemlerini yaparak belge ve plakalarını vermekle görevlidir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sağlık Bakanlığı", "isTrue": false },
+      { "text": "Millî Eğitim Bakanlığı", "isTrue": false },
+      { "text": "Emniyet Genel Müdürlüğü", "isTrue": true },
+      { "text": "Kara Yolları Genel Müdürlüğü", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8133,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Aşağıdakilerden hangisinin, kara yolunda geceleyin seyrederken yapılması yasaktır?",
+    "image_url": null,
+    "options": [
+      { "text": "Geçme sırasında öndeki aracın ışıkla uyarılması", "isTrue": false },
+      { "text": "Öndeki araç yakından izlenirken kısa hüzmeli farların yakılması", "isTrue": false },
+      { "text": "Karşılaşmalarda uzun hüzmeli farların yakılması", "isTrue": true },
+      { "text": "Sis ışıklarının sadece sis, kar ve şiddetli yağmur sebebiyle görüşün yetersiz olduğu hâllerde kullanılması", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8134,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Çevre kirliliğini önlemek amacıyla yapılan çalışmalara ne denir?",
+    "image_url": null,
+    "options": [
+      { "text": "Çevre", "isTrue": false },
+      { "text": "Çevre hakkı", "isTrue": false },
+      { "text": "Çevre koruma", "isTrue": true },
+      { "text": "Çevre düzeni", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8135,
+    "category": "Trafik ve Çevre Bilgisi",
+    "question": "Aşağıdakilerden hangisi, trafikteki araçlarda bulunması zorunlu olan belgelerden değildir?",
+    "image_url": null,
+    "options": [
+      { "text": "Sürücü belgesi", "isTrue": false },
+      { "text": "Araç tescil belgesi", "isTrue": false },
+      { "text": "Zorunlu mali sorumluluk sigortası", "isTrue": false },
+      { "text": "Kasko poliçesi", "isTrue": true }
+    ],
+    "description": null
+  },
+  {
+    "id": 8136,
+    "category": "Motor ve Araç Tekniği Bilgisi",
+    "question": "Aşağıdakilerden hangisi, bujilerin ayarsız veya aşınmasına bağlı olarak meydana gelir?",
+    "image_url": null,
+    "options": [
+      { "text": "Motorun çekişten düşmesi", "isTrue": true },
+      { "text": "Motorun hararet yapması", "isTrue": false },
+      { "text": "Akü'nün çabuk bitmesi", "isTrue": false },
+      { "text": "Motorun yağ yakması", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8137,
+    "category": "Motor ve Araç Tekniği Bilgisi",
+    "question": "Aşağıdakilerden hangisi, motordaki basınçlı yanmış gazların, çıkarken oluşturacağı sesi azaltır?",
+    "image_url": null,
+    "options": [
+      { "text": "Emme susturucusu", "isTrue": false },
+      { "text": "Eksoz susturucusu", "isTrue": true },
+      { "text": "Emme manifoldu", "isTrue": false },
+      { "text": "Eksoz subapı", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8138,
+    "category": "Motor ve Araç Tekniği Bilgisi",
+    "question": "Aşağıdakilerden hangisi, aracı kullanmaya başlamadan önce yapılması gereken hazırlıklardan biri değildir?",
+    "image_url": null,
+    "options": [
+      { "text": "Klimanın açılması", "isTrue": true },
+      { "text": "Koltuk ayarı", "isTrue": false },
+      { "text": "Aynaların ayarlanması", "isTrue": false },
+      { "text": "Emniyet kemerinin takılması", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8139,
+    "category": "Motor ve Araç Tekniği Bilgisi",
+    "question": "Aracın gösterge panelinde bulunan şekildeki ikaz ışığı, aşağıdakilerden hangisidir?",
+    "image_url": "görsel url gelecek",
+    "options": [
+      { "text": "Motor yağ basıncı ikaz ışığı", "isTrue": false },
+      { "text": "Egzoz gazları kontrol ikaz ışığı", "isTrue": false },
+      { "text": "Fren balataları aşınmış ikaz ışığı", "isTrue": false },
+      { "text": "Emniyet kemeri takılı değil ikaz ışığı", "isTrue": true }
+    ],
+    "description": null
+  },
+  {
+    "id": 8140,
+    "category": "Motor ve Araç Tekniği Bilgisi",
+    "question": "Araçların orijinal sistemlerinde yer alan egzoz borusu ve susturucusunun korunması ile aşağıdakilerden hangisi amaçlanır?",
+    "image_url": null,
+    "options": [
+      { "text": "Gürültü kirliliğinin azaltılması", "isTrue": true },
+      { "text": "Trafik yoğunluğunun azaltılması", "isTrue": false },
+      { "text": "Temiz olmayan yakıt kullanılması", "isTrue": false },
+      { "text": "Kazalara karşı güvenliğin artırılması", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8141,
+    "category": "Motor ve Araç Tekniği Bilgisi",
+    "question": "Yağmurlu bir günde, araç sürerken kaldırımdaki yayalara su sıçratmamaya özen gösterilmesi durumu, trafikte hangi temel değere sahip olunduğuna örnektir?",
+    "image_url": null,
+    "options": [
+      { "text": "İnatlaşmaya", "isTrue": false },
+      { "text": "Yardımlaşmaya", "isTrue": false },
+      { "text": "Nezaket ve saygıya", "isTrue": true },
+      { "text": "Konuşma üslubuna", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8142,
+    "category": "Motor ve Araç Tekniği Bilgisi",
+    "question": "Benzinli bir motorda, buji hangi zamanda ateşleme yapar?",
+    "image_url": null,
+    "options": [
+      { "text": "Emme zamanı", "isTrue": false },
+      { "text": "Sıkıştırma zamanı", "isTrue": true },
+      { "text": "İş (Ateşleme) zamanı", "isTrue": false },
+      { "text": "Egzoz zamanı", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8143,
+    "category": "Motor ve Araç Tekniği Bilgisi",
+    "question": "Aşağıdakilerden hangisi, diferansiyelin görevlerinden biri değildir?",
+    "image_url": null,
+    "options": [
+      { "text": "Yakıt tasarrufu sağlamak", "isTrue": true },
+      { "text": "Tekerleklere güç ve tork dağılımını sağlamak", "isTrue": false },
+      { "text": "Şafttan gelen torku artırarak akslara iletmek", "isTrue": false },
+      { "text": "Virajda dış tekerleğin iç tekerlekten fazla dönmesini sağlamak", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8144,
+    "category": "Motor ve Araç Tekniği Bilgisi",
+    "question": "Motor yağı, aşağıdakilerden hangisinin soğutulmasına yardımcı olur?",
+    "image_url": null,
+    "options": [
+      { "text": "Karterin", "isTrue": false },
+      { "text": "Pistonların", "isTrue": true },
+      { "text": "Vites kutusunun", "isTrue": false },
+      { "text": "Diferansiyelin", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8145,
+    "category": "Motor ve Araç Tekniği Bilgisi",
+    "question": "Aracın gösterge panelinde, şekildeki uyarı lambasının yanıyor olması neyi bildirir?",
+    "image_url": "görsel url gelecek",
+    "options": [
+      { "text": "Motor kaputunun tam kapanmadığını", "isTrue": false },
+      { "text": "Lastik hava basıncının düşük olduğunu", "isTrue": true },
+      { "text": "Soğutma sıvısı sıcaklığının çok yükseldiğini", "isTrue": false },
+      { "text": "Fren balatalarının görevini tam yapmadığını", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8146,
+    "category": "Motor ve Araç Tekniği Bilgisi",
+    "question": "Aracın elektrik sisteminde, kısa devreden doğacak arızalara karşı, aşağıdakilerden hangisi koruyucudur?",
+    "image_url": null,
+    "options": [
+      { "text": "Sigorta", "isTrue": true },
+      { "text": "Kondektör", "isTrue": false },
+      { "text": "Distribütör", "isTrue": false },
+      { "text": "Marş motoru", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8147,
+    "category": "Motor ve Araç Tekniği Bilgisi",
+    "question": "Akünün kutup başları araca ters bağlanırsa aşağıdakilerden hangisi arızalanır?",
+    "image_url": null,
+    "options": [
+      { "text": "Su pompası", "isTrue": false },
+      { "text": "Şanzıman dişlileri", "isTrue": false },
+      { "text": "Alternatör diyotları", "isTrue": true },
+      { "text": "Diferansiyel dişlileri", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8148,
+    "category": "Motor ve Araç Tekniği Bilgisi",
+    "question": "Aşağıdakilerden hangisi, yakıt tüketiminin artmasında, sürücüden kaynaklanan kusurdur?",
+    "image_url": null,
+    "options": [
+      { "text": "Aşırı hız yapılması", "isTrue": true },
+      { "text": "Frenlerin ayarsız olması", "isTrue": false },
+      { "text": "Rölanti ayarının bozuk olması", "isTrue": false },
+      { "text": "Lastiklerin havasının az olması", "isTrue": false }
+    ],
+    "description": null
+  },
+  {
+    "id": 8149,
+    "category": "Motor ve Araç Tekniği Bilgisi",
+    "question": "Motorun çalışma sıcaklığına çok geç ulaşması, aşağıdakilerden hangisinin arızalı olduğunu gösterir?",
+    "image_url": null,
+    "options": [
+      { "text": "Radyatör", "isTrue": false },
+      { "text": "Termostat", "isTrue": true },
+      { "text": "Yağ filtresi", "isTrue": false },
+      { "text": "Devridaim pompası", "isTrue": false }
+    ],
+    "description": null
+  }
+]
