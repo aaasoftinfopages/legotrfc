@@ -434,10 +434,10 @@
     "question": "Aşağıdakilerden hangisi taşıt katarına örnektir?",
     "image_url": null,
     "options": [
-      { "text": "meb2soru42.png", "isTrue": false },
-      { "text": "meb2soru42a.png", "isTrue": false },
-      { "text": "tasitkatari.png", "isTrue": true },
-      { "text": "meb2soru42b.png", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru42c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru42a.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/tasitkatari.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru42b.png", "isTrue": false }
     ],
     "description": "Taşıt katarı, bir veya daha fazla römorkun bir çekici tarafından çekilmesiyle oluşan araç grubudur. Görseller arasında bu tanıma uyan seçenek doğru cevaptır."
   },
