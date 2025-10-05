@@ -198,7 +198,7 @@
     "id": 8215,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik görevlisinin yapmış olduğu İşaretin sürücüler için anlamı nedir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma1.png",
     "options": [
       { "text": "Dur", "isTrue": false },
       { "text": "Hızlan", "isTrue": false },
@@ -211,7 +211,7 @@
     "id": 8216,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti aşağıdakilerden hangisine yaklaşıldığını bildirir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru40.png",
     "options": [
       { "text": "Okul geçidine", "isTrue": true },
       { "text": "Yürüyüş yoluna", "isTrue": false },
@@ -224,7 +224,7 @@
     "id": 8217,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki tehlike uyarı işaretini gören sürücü aşağıdakilerden hangisini yapmalıdır?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb6soru18.png",
     "options": [
       { "text": "Banketten gitmeli", "isTrue": false },
       { "text": "Takip mesafesini artırmalı", "isTrue": true },
@@ -239,10 +239,10 @@
     "question": "Aşağıdaki trafik işaretlerinden hangisi öndeki taşıtı geçme yasağının sona erdiğini bildirir?",
     "image_url": null,
     "options": [
-      { "text": "Buraya şık görseli gelecek", "isTrue": true },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/mebsoru43a.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru21c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb6soru19.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/mebsoru43c.png", "isTrue": false }
     ],
     "description": "Öndeki taşıtı geçme yasağının sonunu bildiren levha, siyah-beyaz renkli, içinde birbirine paralel iki otomobil figürü bulunan ve üzerinde diagonal bir çizgi olan levhadır. Bu işaretten sonra uygun koşullarda sollama yapılabilir."
   },
@@ -250,7 +250,7 @@
     "id": 8219,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb6soru20.png",
     "options": [
       { "text": "Kamyon garajını", "isTrue": false },
       { "text": "Kamyonun giremeyeceğini", "isTrue": true },
@@ -263,7 +263,7 @@
     "id": 8220,
     "category": "Trafik ve Çevre",
     "question": "Kavşaklara yaklaşırken yol üzerine çizilmiş şekildeki oklar sürücülere neyi bildirir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru45.png",
     "options": [
       { "text": "Hızın artırılması gerektiğini", "isTrue": false },
       { "text": "Sağa ve sola dönülemeyeceğini", "isTrue": false },
@@ -315,7 +315,7 @@
     "id": 8224,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki kara yolu bölümünde, yan yana çizilmiş kesik ve devamlı yol çizgileri sürücülere aşağıdakilerden hangisini bildirir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb6soru25.png",
     "options": [
       { "text": "Çift yönlü yoldan tek yönlü yola girileceğini", "isTrue": false },
       { "text": "Her iki yönde seyreden araçların bölünmüş yola gireceğini", "isTrue": false },
@@ -328,7 +328,7 @@
     "id": 8225,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki aracın sürücüsü, dönel kavşaktan geriye dönüş yapmak için hangi şeridi izlemelidir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb6soru26.png",
     "options": [
       { "text": "İstediği şeridi", "isTrue": false },
       { "text": "1 numaralı şeridi", "isTrue": true },
@@ -341,7 +341,7 @@
     "id": 8226,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki gibi kontrolsüz kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru56.png",
     "options": [
       { "text": "1-2-3", "isTrue": false },
       { "text": "2-1-3", "isTrue": false },
@@ -499,10 +499,10 @@
     "question": "Aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması araç yakıtının bitmek üzere olduğunu bildirir?",
     "image_url": null,
     "options": [
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": true },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/airbag.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yakitfiltresisuseviyesiuyarisi.png", "isTrue": false }
     ],
     "description": "Yakıt ikaz lambası, genellikle üzerinde benzin pompası simgesi bulunan bir ışıktır. Bu ışığın yanması, yakıt deposundaki yakıtın azaldığını ve en kısa sürede yakıt alınması gerektiğini sürücüye bildirir."
   },
