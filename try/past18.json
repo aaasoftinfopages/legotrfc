@@ -15,7 +15,7 @@
   {
     "id": 7801,
     "category": "İlk Yardım",
-    "question": "Aşağıdakilerden hangileri ilk yardım yapacak kişide bulunmalıdır? (I- Her zaman tedbirli olmak II- Soğukkanlılığını korumak III- Emin olmadığı uygulamalardan kaçınmak)",
+    "question": "Aşağıdakilerden hangileri ilk yardım yapacak kişide bulunmalıdır? \nI- Her zaman tedbirli olmak \nII- Soğukkanlılığını korumak III- Emin olmadığı uygulamalardan kaçınmak\n",
     "image_url": null,
     "options": [
       { "text": "I-II", "isTrue": false },
