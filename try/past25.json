@@ -200,10 +200,10 @@
     "question": "Aşağıdakilerden hangisi iki yönlü trafik işaret levhasıdır?",
     "image_url": null,
     "options": [
-      { "text": "Buraya şık görseli gelecek", "isTrue": true },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru17a.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb8soru16b.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru57a", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb8soru16d.png", "isTrue": false }
     ],
     "description": "İki yönlü trafik işaret levhası, üçgen içinde birbirine zıt yönde iki ok bulunan bir tehlike uyarı işaretidir. Bu işaret, tek yönlü bir yoldan iki yönlü trafiğin aktığı bir yol kesimine girildiğini bildirir."
   },
@@ -211,7 +211,7 @@
     "id": 8316,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işaretini gören sürücü aşağıdakilerden hangisini yapmalıdır?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb8soru16.png",
     "options": [
       { "text": "Banketten gitmelidir.", "isTrue": false },
       { "text": "Aracının hızını artırmalıdır.", "isTrue": false },
@@ -226,10 +226,10 @@
     "question": "Aşağıdakilerden hangisi karşıdan gelene yol ver anlamındadır?",
     "image_url": null,
     "options": [
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": true },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb8soru18a.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb8soru18b.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb8soru18d.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/mebsoru43a.png", "isTrue": false }
     ],
     "description": "'Karşıdan Gelene Yol Ver' trafik tanzim işareti, genellikle daralan yol kesimlerinde bulunur. Yuvarlak, kırmızı çerçeveli ve içinde biri kırmızı, biri siyah iki zıt yönlü ok bulunan bu levha, kendi yönünden gelen sürücülerin, karşıdan gelen araca öncelik tanıması gerektiğini belirtir."
   },
@@ -239,10 +239,10 @@
     "question": "Aşağıdaki trafik işaretlerinden hangisi tali yolda bulunur?",
     "image_url": null,
     "options": [
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": true },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb8soru19a.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb8soru19b.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru57c.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb8soru19d.png", "isTrue": false }
     ],
     "description": "Tali yol, trafik yoğunluğu daha az olan ve ana yola bağlanan yoldur. Tali yoldan ana yola çıkışlarda, ana yoldaki trafiğe yol verilmesi gerektiğini belirten 'Yol Ver' (ters üçgen) veya 'DUR' (sekizgen) levhaları bulunur. C seçeneğindeki 'Yol Ver' levhası tali yolda bulunur."
   },
@@ -250,7 +250,7 @@
     "id": 8319,
     "category": "Trafik ve Çevre",
     "question": "Taşıt yolu üzerine çizilen şekildeki çizgilerin anlamı nedir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb8soru20.png",
     "options": [
       { "text": "Yaya geçidi", "isTrue": false },
       { "text": "Bisiklet yolu", "isTrue": false },
@@ -302,7 +302,7 @@
     "id": 8323,
     "category": "Trafik ve Çevre",
     "question": "Şekle göre hangi numaralı aracın sürücüsü hatalı davranmıştır?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb8soru25.png",
     "options": [
       { "text": "1", "isTrue": false },
       { "text": "2", "isTrue": false },
@@ -328,7 +328,7 @@
     "id": 8325,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki akaryakıt istasyonundan çıkmak isteyen 2 numaralı aracın sürücüsü ne yapmalıdır?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb8soru26.png",
     "options": [
       { "text": "Korna çalıp 1 numaralı aracı durdurmalı", "isTrue": false },
       { "text": "1 numaralı aracın geçmesini beklemeli", "isTrue": true },
@@ -354,7 +354,7 @@
     "id": 8327,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki aracın sürücüsü, kamu hizmeti yapan yolcu taşıtı durağının en az kaç metre mesafe dışına aracını park edebilir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb8soru28.png",
     "options": [
       { "text": "5", "isTrue": false },
       { "text": "10", "isTrue": false },
@@ -484,7 +484,7 @@
     "id": 8337,
     "category": "Araç Tekniği",
     "question": "Aracın gösterge panelinde bulunan şekildeki gösterge sürücüye neyi bildirir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru84.png",
     "options": [
       { "text": "Karterdeki yağ miktarını", "isTrue": false },
       { "text": "Depodaki yakıt miktarını", "isTrue": false },
