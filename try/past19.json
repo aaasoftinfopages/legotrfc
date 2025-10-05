@@ -265,10 +265,10 @@
     "question": "\"Ağızdan ağıza\" suni solunum yapılacak olan hastada boyun travması yoksa, verilecek en uygun baş pozisyonu aşağıdakilerden hangisidir?",
     "image_url": null,
     "options": [
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": true },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru21a.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru21b.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru21c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru21d.png", "isTrue": false }
     ],
     "description": "Suni solunumda hava yolunu açmak için 'Baş Geri-Çene Yukarı' pozisyonu verilir. Bir el yaralının alnına konulur, diğer elin parmakları çenenin altına yerleştirilir. Alından bastırılıp çeneden kaldırılarak baş geriye doğru itilir. Bu, dilin soluk borusunu tıkamasını engeller. (Doğru cevap B şıkkındaki görseldir)."
   },
@@ -471,9 +471,9 @@
     "id": 7936,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Şekildeki gibi sağa dönüş sırasında aşağıdakilerden hangisinin yapılması yanlıştır?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru37.png",
     "options": [
-      { "text": "Dar kavisle dönülmesi", "isTrue": false },
+      { "text": "Yavaşlamalı", "isTrue": false },
       { "text": "Geniş kavisle dönülmesi", "isTrue": true },
       { "text": "Karşıya geçen yaya varsa durulması", "isTrue": false },
       { "text": "Dönüş sonrası gidişe ayrılmış en sağ şeride girilmesi", "isTrue": false }
@@ -538,10 +538,10 @@
     "question": "Aşağıdaki taşıtlardan hangisinin otoyolda sürülmesi yasaktır?",
     "image_url": null,
     "options": [
-      { "text": "buraya görsel gelecek", "isTrue": true },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru42a.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru42b.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru42c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru42d.png", "isTrue": false }
     ],
     "description": "Otoyollara (ücretli/ücretsiz), motorlu bisiklet, motorsuz bisiklet ve lastik tekerlekli traktör gibi yavaş giden araçların girmesi yasaktır. (Doğru cevap A şıkkındaki traktör görselidir)."
   },
@@ -562,7 +562,7 @@
     "id": 7943,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Akaryakıt istasyonundan yola çıkmak isteyen şekildeki 2 numaralı araç sürücüsü ne yapmalıdır?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru44.png",
     "options": [
       { "text": "Selektör yaparak 1 numaralı aracı durdurmalıdır.", "isTrue": false },
       { "text": "Korna çalıp 1 numaralı aracı yavaşlatmalıdır.", "isTrue": false },
@@ -588,7 +588,7 @@
     "id": 7945,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Şekle göre, sola dönüş yapmak isteyen 1 numaralı araç sürücü ne yapmalıdır?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru46.png",
     "options": [
       { "text": "2 numaralı araca yol vermelidir.", "isTrue": true },
       { "text": "Hızını artırarak dönüşünü yapmalıdır.", "isTrue": false },
@@ -627,7 +627,7 @@
     "id": 7948,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Şekildeki yolda sürücülerin aşağıdakilerden hangisini yapması doğrudur?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru49.png",
     "options": [
       { "text": "Hızını azaltması", "isTrue": true },
       { "text": "Hız sınırını aşması", "isTrue": false },
@@ -666,7 +666,7 @@
     "id": 7951,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki yollarda azami hızı saatte kaç kilometredir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "meb1soru51.png",
     "options": [
       { "text": "20", "isTrue": true },
       { "text": "30", "isTrue": false },
@@ -718,7 +718,7 @@
     "id": 7955,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Kavşaklara yaklaşırken yol üzerine çizilmiş şekildeki oklar sürücülere neyi bildirir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru56.png",
     "options": [
       { "text": "Hızın artırılması gerektiğini", "isTrue": false },
       { "text": "Sağa ve sola dönülemeyeceğini", "isTrue": false },
@@ -733,10 +733,10 @@
     "question": "Aşağıdakilerden hangisi girişi olmayan yol işaretidir?",
     "image_url": null,
     "options": [
-      { "text": "buraya görsel gelecek", "isTrue": true },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru57a.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru57b.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru57c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru57d.png", "isTrue": false }
     ],
     "description": "Kırmızı, yuvarlak ve ortası beyaz yatay bir çizgiden oluşan trafik levhası 'Girişi Olmayan Yol' anlamına gelir. Bu işaretin bulunduğu yola motorlu taşıtların girmesi yasaktır. (Doğru cevap A şıkkındaki görseldir)."
   },
@@ -744,7 +744,7 @@
     "id": 7957,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Şekildeki trafik işareti neyi bildirir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/kamyonlaricinyasaksonu.png",
     "options": [
       { "text": "Kamyonlar için geçme yasağı sonunu", "isTrue": true },
       { "text": "Karşıdan gelene yol verilmesi gerektiğini", "isTrue": false },
@@ -757,7 +757,7 @@
     "id": 7958,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Şekildeki trafik işareti neyi bildirir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru59.png",
     "options": [
       { "text": "Otobüs yolunu", "isTrue": false },
       { "text": "Otobüslerin park yerini", "isTrue": false },
@@ -766,76 +766,37 @@
     ],
     "description": "Kırmızı yuvarlak çerçeve içindeki semboller, o sembolle belirtilen araç türü için bir yasaklama olduğunu gösterir. Bu levhadaki otobüs figürü, bu yola otobüslerin girmesinin yasak olduğunu bildirir."
   },
-  {
-    "id": 7959,
-    "category": "Trafik ve Çevre Bilgisi",
-    "question": "Şekildeki trafik işareti neyi bildirir?",
-    "image_url": "buraya görsel gelecek",
-    "options": [
-      { "text": "Taşıt yolunun soldan daralacağını", "isTrue": false },
-      { "text": "Taşıt yolunun sağdan daralacağını", "isTrue": true },
-      { "text": "Taşıt yolunun her iki taraftan daralacağını", "isTrue": false },
-      { "text": "İki yönlü yoldan tek yönlü yola yaklaşıldığını", "isTrue": false }
-    ],
-    "description": "Üçgen şeklindeki tehlike uyarı işaretleri, sürücüleri ilerideki bir tehlikeye karşı uyarır. Bu levha, yolun sağ taraftan daralacağını gösterir ve sürücülerin hızlarını azaltıp dikkatli olmaları gerektiğini bildirir."
-  },
-  {
-    "id": 7960,
-    "category": "Trafik ve Çevre Bilgisi",
-    "question": "Aşağıdakilerden hangisi tehlikeli viraj yön levhasıdır?",
-    "image_url": null,
-    "options": [
-      { "text": "buraya görsel gelecek", "isTrue": true },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false }
-    ],
-    "description": "Kırmızı-beyaz renkli, ok şeklinde ve genellikle peş peşe yerleştirilen levhalar, keskin ve tehlikeli virajların yönünü ve sürekliliğini gösterir. Sürücülerin bu virajlara yavaş ve dikkatli girmeleri gerektiğini belirtir. (Doğru cevap A şıkkındaki görseldir)."
-  },
+ {
+  "id": 7959,
+  "category": "Trafik ve Çevre Bilgisi",
+  "question": "Şekildeki trafik işareti neyi bildirir?",
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/sollamak_yasak.png",
+  "options": [
+    { "text": "Geçme yasağının sonu olduğunu", "isTrue": false },
+    { "text": "Öndeki taşıtın geçilmesinin yasak olduğunu", "isTrue": true },
+    { "text": "Bütün yasaklama ve kısıtlamaların sona erdiğini", "isTrue": false },
+    { "text": "Yük taşıtlarının öndeki taşıtları geçmelerinin yasak olduğunu", "isTrue": false }
+  ],
+  "description": "Daire şeklindeki tanzim işaretleri, sürücülere belirli bir yasaklama veya kısıtlama bildirir. Kırmızı çerçeveli bu levha, öndeki aracı geçmenin (sollamanın) yasak olduğunu belirtir. Bu kural, genellikle görüşün yetersiz olduğu, yolun daraldığı veya trafik güvenliğinin tehlikeye girebileceği kesimlerde bulunur."
+},
   {
     "id": 7961,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Taşıt yolunun sağ ve soluna konan şekildeki trafik işaretleri sürücüye neyi bildirir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru62.png",
     "options": [
-      { "text": "Yolun daralmakta olduğunu", "isTrue": true },
+      { "text": "Yolun daralmakta olduğunu", "isTrue": false },
       { "text": "200 m ileride köprü olduğunu", "isTrue": false },
       { "text": "200 m ileride kavşak olduğunu", "isTrue": false },
-      { "text": "200 m ileride demir yolu hemzemin geçidi olduğunu", "isTrue": false }
+      { "text": "200 m ileride demir yolu hemzemin geçidi olduğunu", "isTrue": true }
     ],
-    "description": "Bu işaretler, genellikle bir köprüye veya tünele yaklaşırken kullanılır ve yolun her iki taraftan daralarak kaplamanın genişliğinin azalacağını bildirir. Sürücülerin hızlarını düşürmeleri ve dikkatli olmaları gerekir."
-  },
-  {
-    "id": 7962,
-    "category": "Trafik ve Çevre Bilgisi",
-    "question": "Şekildeki trafik işareti neyi bildirir?",
-    "image_url": "buraya görsel gelecek",
-    "options": [
-      { "text": "Geçme yasağının sonu olduğunu", "isTrue": false },
-      { "text": "Öndeki taşıtın geçilmesinin yasak olduğunu", "isTrue": false },
-      { "text": "Bütün yasaklama ve kısıtlamaların sona erdiğini", "isTrue": true },
-      { "text": "Yük taşıtlarının öndeki taşıtları geçmelerinin yasak olduğunu", "isTrue": false }
-    ],
-    "description": "Üzerinde herhangi bir sembol olmayan, sadece siyah bir çapraz çizgi bulunan bu beyaz yuvarlak levha, daha önce trafik levhalarıyla belirtilmiş olan bütün yasaklama ve kısıtlamaların (hız sınırı, sollama yasağı vb.) sona erdiğini bildirir."
-  },
-  {
-    "id": 7963,
-    "category": "Trafik ve Çevre Bilgisi",
-    "question": "Şekildeki trafik işaretinin anlamı nedir?",
-    "image_url": "buraya görsel gelecek",
-    "options": [
-      { "text": "Ehli hayvanlar geçebilir.", "isTrue": false },
-      { "text": "Ehli hayvanlar giremez.", "isTrue": false },
-      { "text": "Vahşi hayvanlar geçebilir.", "isTrue": true },
-      { "text": "Vahşi hayvanlar giremez.", "isTrue": false }
-    ],
-    "description": "Üçgen şeklindeki bu tehlike uyarı işareti, yolda aniden vahşi bir hayvanın (geyik, karaca vb.) çıkabileceği bir bölgeye yaklaşıldığını bildirir. Sürücülerin bu bölgelerde hızlarını düşürmeleri ve daha dikkatli olmaları gerekir."
+    "description": "Hemzemin geçidi levhasıdır."
   },
   {
     "id": 7964,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Şekildeki trafik işareti neyi bildirir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru65",
     "options": [
       { "text": "Kasisli yolu", "isTrue": false },
       { "text": "Tehlikeli çıkış eğimli yolu", "isTrue": true },
@@ -850,10 +811,10 @@
     "question": "Trafik görevlisinin hangi hareketi seri bir şekilde yapması \"trafiğin hızlanması\" talimatıdır?",
     "image_url": "buraya görsel gelecek",
     "options": [
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": true },
-      { "text": "buraya görsel gelecek", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecegec.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma1.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/hizlandirma1.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik1.png", "isTrue": false }
     ],
     "description": "Trafik polisinin, işaret çubuğunu veya kolunu dirsekten kırarak yukarı ve aşağı seri bir şekilde hareket ettirmesi, trafiğin hızlanması ve sürücülerin daha çabuk geçmesi gerektiği anlamına gelir. (Doğru cevap C şıkkındaki görseldir)."
   },
@@ -954,10 +915,10 @@
     "question": "Aracın gösterge panelinde, aşağıdaki ikaz ışıklarından hangisinin yanıyor olması uzun farların açık olduğunu bildirir?",
     "image_url": null,
     "options": [
-      { "text": "buraya görsel gelecek", "isTrue": true },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/abs.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/soladonus.png", "isTrue": false }
     ],
     "description": "Araçların gösterge panelinde, uzağı gösteren (uzun) farlar açık olduğunda genellikle mavi renkte ve ileriye doğru düz ışık huzmeleri yayan bir far sembolü yanar. (Doğru cevap A şıkkındaki görseldir)."
   },
@@ -991,7 +952,7 @@
     "id": 7976,
     "category": "Motor ve Araç Tekniği Bilgisi",
     "question": "Şekilde soru işareti (?) ile gösterilen kapaktan motora ne konulur?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru77.png",
     "options": [
       { "text": "Antifriz", "isTrue": false },
       { "text": "Motor yağı", "isTrue": true },
@@ -1071,10 +1032,10 @@
     "question": "Seyir hâlindeki aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, trafik kurallarına uymak şartıyla derhâl durulması gerektiğini belirtir?",
     "image_url": null,
     "options": [
-      { "text": "buraya görsel gelecek", "isTrue": true },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sileceksuyu.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.png", "isTrue": false }
     ],
     "description": "Gösterge panelindeki akü (şarj) ve yağ basıncı (yağdanlık) ikaz ışıkları kırmızı renkte yanar ve motorda ciddi bir sorun olduğunu belirtir. Bu ışıklardan herhangi biri seyir halindeyken yanarsa, araç güvenli bir yere çekilip motor derhal durdurulmalıdır. A şıkkındaki akü (şarj) ikaz ışığı bu duruma bir örnektir."
   },
@@ -1082,7 +1043,7 @@
     "id": 7983,
     "category": "Motor ve Araç Tekniği Bilgisi",
     "question": "Aracın gösterge panelinde bulunan şekildeki gösterge, sürücüye neyi bildirir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru84.png",
     "options": [
       { "text": "Karterdeki yağ miktarını", "isTrue": false },
       { "text": "Depodaki yakıt miktarını", "isTrue": false },
@@ -1188,10 +1149,10 @@
     "question": "Seyir hâlindeki aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, trafik kurallarına uymak şartıyla derhâl durulması gerektiğini belirtir?",
     "image_url": null,
     "options": [
-      { "text": "buraya görsel gelecek", "isTrue": true },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkabuzcozmeuyarisi.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkasisuyari.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dortluler.png", "isTrue": false }
     ],
     "description": "Gösterge panelindeki yağ basıncı ikaz ışığı (yağdanlık simgesi) kırmızı renkte yanar ve motordaki yağ basıncının tehlikeli derecede düştüğünü belirtir. Bu, motorda yağlama yapılmadığı anlamına gelir. Bu ışık seyir halindeyken yanarsa, motora kalıcı hasar vermemek için araç güvenli bir yere çekilip derhal durdurulmalıdır. (Doğru cevap A şıkkındaki görseldir)."
   },
@@ -1214,10 +1175,10 @@
     "question": "Dizel motorlu aracın gösterge panelinde aşağıdakilerden hangisinin yanıyor olması, ısıtma bujilerinin çalışmakta olduğunu bildirir?",
     "image_url": null,
     "options": [
-      { "text": "buraya görsel gelecek", "isTrue": true },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false },
-      { "text": "buraya görsel gelecek", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelkizdirmabujisi.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/enjeksiyonhatasi.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/katalizor.png", "isTrue": false }
     ],
     "description": "Dizel motorlarda, özellikle soğuk havalarda motorun ilk çalışmasını kolaylaştırmak için yanma odalarını önceden ısıtan ısıtma (kızdırma) bujileri bulunur. Kontak açıldığında gösterge panelinde yanan ve bir yayı andıran sarı renkli sembol, bu bujilerin çalıştığını gösterir. Işık söndükten sonra marşa basılmalıdır. (Doğru cevap A şıkkındaki görseldir)."
   },
@@ -1238,7 +1199,7 @@
     "id": 7995,
     "category": "Motor ve Araç Tekniği Bilgisi",
     "question": "Şekilde soru işareti (?) ile gösterilen ve motorun çalışması için ilk hareketi veren parça hangisidir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru96.png",
     "options": [
       { "text": "Şarj dinamosu", "isTrue": false },
       { "text": "Marş motoru", "isTrue": true },
@@ -1251,7 +1212,7 @@
     "id": 7996,
     "category": "Motor ve Araç Tekniği Bilgisi",
     "question": "Şekilde soru işareti (?) ile gösterilen ve motorda yanma sonucu oluşan gazların dışarı atılmasını sağlayan parça aşağıdakilerden hangisidir?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru97.png",
     "options": [
       { "text": "Egzoz manifoldu", "isTrue": true },
       { "text": "Emme manifoldu", "isTrue": false },
