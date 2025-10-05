@@ -55,12 +55,12 @@
     "id": 8104,
     "category": "İlk Yardım",
     "question": "Baş ve omurga yaralanması olmayan, bilinci kapalı kazazedenin hava yolunu açmak için kazazedeye aşağıdaki baş pozisyonlarından hangisi verilir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": null,
     "options": [
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": true },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru5a.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru5b.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru5c.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru5d.png", "isTrue": false }
     ],
     "description": "Bilinci kapalı ancak omurga yaralanması şüphesi olmayan hastalarda hava yolu açıklığını sağlamak için 'Baş Geri-Çene Yukarı' pozisyonu verilir. Bu pozisyon, dil kökünün soluk borusunu tıkamasını engelleyerek havanın akciğerlere ulaşmasını sağlar."
   },
@@ -198,7 +198,7 @@
     "id": 8115,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işaretinin anlamı nedir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru16.png",
     "options": [
       { "text": "Hemzemin geçit", "isTrue": false },
       { "text": "Kontrollü demir yolu geçidi", "isTrue": false },
@@ -213,10 +213,10 @@
     "question": "'Trafik kazalarında insan, araç, yol ve iklim koşulları etkili olmaktadır.' Buna göre aşağıdaki trafik işaretlerinden hangisi yol koşullarından kaynaklanan bir tehlike olabileceğini bildirir?",
     "image_url": null,
     "options": [
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": true },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru17a.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru17b.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru17c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru17d.png", "isTrue": false }
     ],
     "description": "Seçeneklerdeki işaretlerden kasisli yol (tümsek) işaret levhası, doğrudan yolun yüzeyindeki fiziksel bir durumdan (yol koşulundan) kaynaklanan bir tehlikeyi bildirir ve sürücünün hızını azaltmasını gerektirir."
   },
@@ -224,7 +224,7 @@
     "id": 8117,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işaretlerinin anlamları sırasıyla hangi seçenekte doğru olarak verilmiştir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru18.png",
     "options": [
       { "text": "I. Yol ver II. Girişi olmayan yol", "isTrue": false },
       { "text": "I. Dur II. Taşıt trafiğine kapalı yol", "isTrue": false },
@@ -237,7 +237,7 @@
     "id": 8118,
     "category": "Trafik ve Çevre",
     "question": "Verilen şekle göre 2 numaralı aracın hangisini yapması doğrudur?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru19.png",
     "options": [
       { "text": "Bisiklet yolunu kullanması", "isTrue": false },
       { "text": "Yayaları ikaz ederek bekletmesi", "isTrue": false },
@@ -250,27 +250,27 @@
     "id": 8119,
     "category": "Trafik ve Çevre",
     "question": "Yol çizgilerine göre hangi numaralı araç sürücüleri hatalı sollama yapmaktadır?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru25.png",
     "options": [
-      { "text": "Yalnız 3", "isTrue": true },
+      { "text": "Yalnız 3", "isTrue": false },
       { "text": "1 ve 2", "isTrue": false },
-      { "text": "2 ve 3", "isTrue": false },
+      { "text": "2 ve 3", "isTrue": true },
       { "text": "1, 2 ve 3", "isTrue": false }
     ],
-    "description": "Yol çizgileri sollama kurallarını belirler. Devamlı (düz) çizgi tarafındaki araçların sollama yapması yasaktır. Kesik çizgi tarafındaki araçlar ise uygun koşullarda sollama yapabilir. Görselde 3 numaralı araç, kendi tarafında devamlı çizgi olmasına rağmen sollama yapmaya çalıştığı için hatalıdır."
+    "description": "Yol çizgileri sollama kurallarını belirler. Devamlı (düz) çizgi tarafındaki araçların sollama yapması yasaktır. Kesik çizgi tarafındaki araçlar ise uygun koşullarda sollama yapabilir."
   },
   {
     "id": 8120,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki 'park etme bilgi işaretine' göre hangi numaralı araçlar yanlış park etmiştir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru20.png",
     "options": [
-      { "text": "Yalnız 3", "isTrue": false },
-      { "text": "1 ve 2", "isTrue": true },
+      { "text": "Yalnız 3", "isTrue": true },
+      { "text": "1 ve 2", "isTrue": false },
       { "text": "1 ve 3", "isTrue": false },
       { "text": "2 ve 3", "isTrue": false }
     ],
-    "description": "Park levhasının altındaki sembol, araçların yola dik (dikey) park etmesi gerektiğini göstermektedir. Şekilde 3 numaralı araç bu kurala uygun olarak park etmişken, 1 ve 2 numaralı araçlar yola paralel ve açılı park ederek yanlış parklanma yapmışlardır."
+    "description": "Park levhasının altındaki sembol, araçların yola paralel park etmesi gerektiğini göstermektedir. Şekilde 3 numaralı araç bu kurala uygun olarak park etmemiştir ."
   },
   {
     "id": 8121,
@@ -315,7 +315,7 @@
     "id": 8124,
     "category": "Trafik ve Çevre",
     "question": "Şekilde iki yönlü ve üç şeritli kara yolu bölümünde seyreden araçlar görülmektedir. Şekle göre 1 numaralı araç sürücüsünün aşağıdakilerden hangisini yapması yanlıştır?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru21.png",
     "options": [
       { "text": "Hızını azaltması", "isTrue": false },
       { "text": "Öndeki aracı geçmesi", "isTrue": false },
@@ -341,14 +341,14 @@
     "id": 8126,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki gibi bir kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru27.png",
     "options": [
       { "text": "1-2-3-4", "isTrue": true },
       { "text": "1-2-4-3", "isTrue": false },
       { "text": "2-1-4-3", "isTrue": false },
       { "text": "4-1-2-3", "isTrue": false }
     ],
-    "description": "Kontrolsüz kavşaklarda geçiş hakkı kuralları şöyledir: Dönüş yapan araçlar düz gidenlere, motorsuz taşıtlar motorlu taşıtlara, lastik tekerlekli traktör ve iş makineleri diğer motorlu taşıtlara yol verir. Herkes sağındaki araca yol verir. Bu kurallara göre önce 1 (düz gidiyor), sonra 2 (düz gidiyor), sonra 3 (dönüş yapıyor) ve en son 4 (traktör) geçmelidir. Ancak sorunun cevabı 1-2-3-4 olarak verilmiştir. Kurala göre düz giden 1 ve 2, dönüş yapan 3'e göre önceliklidir. 3 ve 4 arasında 3 önceliklidir. 1 ve 2 arasında ise 2, 1'in sağında kaldığı için 2-1-3-4 olmalıdır. Fakat cevap anahtarı A şıkkı (1-2-3-4) olarak belirtilmiştir. Bu durum, 1 numaralı aracın ana yolda, diğerlerinin tali yolda olduğu varsayımına veya kavşak yapısına göre özel bir duruma işaret edebilir. Genellikle bu tip sorularda levha yoksa herkesin eşit olduğu varsayılır."
+    "description": "Önce ambulans sonra polis daha sonra 4 numaralı araba ana yolda olmadığı için yolver levhası var yani orda sonra 3 numaralı otobüs en son ise 4numaralı araç geçer"
   },
   {
     "id": 8127,
@@ -458,7 +458,7 @@
     "id": 8135,
     "category": "Araç Tekniği",
     "question": "Şekilde soru işareti (?) ile gösterilen sistemin görevi aşağıdakilerden hangisidir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru36.png",
     "options": [
       { "text": "Yakıt tüketimini azaltmak", "isTrue": false },
       { "text": "Aracın fren mesafesini kısaltmak", "isTrue": false },
@@ -471,7 +471,7 @@
     "id": 8136,
     "category": "Araç Tekniği",
     "question": "Şekildeki araç güç aktarma organlarının adları hangi seçenekte doğru olarak verilmiştir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru37.png",
     "options": [
       { "text": "I. Şaft - II. Diferansiyel - III. Aks", "isTrue": true },
       { "text": "I. Şaft - II. Aks - III. Diferansiyel", "isTrue": false },
