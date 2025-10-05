@@ -575,7 +575,7 @@
     "id": 7844,
     "category": "Trafik ve Çevre",
     "question": "Taşıt yolu üzerine çizilen şekildeki yazı neyi bildirmektedir?",
-    "image_url": "meb1soru45.png",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb1soru45.png",
     "options": [
       { "text": "Işıklara 50 m kaldığını", "isTrue": false },
       { "text": "Asgari (en az) hız sınırını", "isTrue": false },
@@ -640,7 +640,7 @@
     "id": 7849,
     "category": "Trafik ve Çevre",
     "question": "Araç sürücüsü, şekildeki alt geçitten geçerken aşağıdakilerden hangisini dikkate almalıdır?",
-    "image_url": "meb1soru50.png",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb1soru50.png",
     "options": [
       { "text": "Taşıma sınırını", "isTrue": false },
       { "text": "Dingil ağırlığını", "isTrue": false },
@@ -653,7 +653,7 @@
     "id": 7850,
     "category": "Trafik ve Çevre",
     "question": "Aksine bir işaret yoksa şekildeki aracın yerleşim yeri dışındaki bölünmüş yollarda azami hızı saatte kaç kilometredir?",
-    "image_url": "meb1soru51",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb1soru51.png",
     "options": [
       { "text": "20", "isTrue": false },
       { "text": "30", "isTrue": false },
@@ -692,7 +692,7 @@
     "id": 7853,
     "category": "Trafik ve Çevre",
     "question": "Şekle göre kontrolsüz kavşakta karşılaşan araçlardan hangisi ilk geçiş hakkını kullanmalıdır?",
-    "image_url": "meb1soru24.png",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb1soru54.png",
     "options": [
       { "text": "1 nolu araç", "isTrue": false },
       { "text": "2 nolu araç", "isTrue": true },
@@ -705,7 +705,7 @@
     "id": 7854,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki karşılaşmada hangi araç ilk geçiş hakkını kullanmalıdır?",
-    "image_url": "meb1soru25.png",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb1soru55.png",
     "options": [
       { "text": "Otobüs", "isTrue": true },
       { "text": "Tarım traktörü", "isTrue": false },
@@ -1147,7 +1147,7 @@
     "id": 7888,
     "category": "Motor ve Araç Tekniği",
     "question": "Şekilde soru işareti (?) ile gösterilen ve araç için gerekli elektriği üreten parçaya ne ad verilir?",
-    "image_url": "meb1soru89.png",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb1soru89.png",
     "options": [
       { "text": "Marş motoru", "isTrue": false },
       { "text": "Diferansiyel", "isTrue": false },
@@ -1173,7 +1173,7 @@
     "id": 7890,
     "category": "Motor ve Araç Tekniği",
     "question": "Aracın gösterge panelinde bulunan şekildeki gösterge sürücüye neyi bildirir?",
-    "image_url": "meb1soru91.png",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb1soru91.png",
     "options": [
       { "text": "Aracın hızını", "isTrue": false },
       { "text": "Yakıt miktarını", "isTrue": false },
