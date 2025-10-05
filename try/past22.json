@@ -3,7 +3,7 @@
     "id": 8150,
     "category": "İlk Yardım",
     "question": "Yukarıda soru işareti (?) ile gösterilen ve hayat kurtarma zincirinin 2. halkası olan uygulama hangisidir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru1.png",
     "options": [
       { "text": "İlaçla tedavi", "isTrue": false },
       { "text": "Hasar tespiti", "isTrue": false },
@@ -211,7 +211,7 @@
     "id": 8166,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki kavşakta; ileriye yeşil, sola kırmızı ve sağa yeşil oklu ışık yanmaktadır. Buna göre hangi numaralı şeritteki araçlar yollarına devam edebilir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru17.png",
     "options": [
       { "text": "Yalnız 2", "isTrue": false },
       { "text": "1 ve 2", "isTrue": false },
@@ -226,10 +226,10 @@
     "question": "Aşağıdakilerden hangisi \"tehlikeli viraj yön levhası\" anlamındadır?",
     "image_url": null,
     "options": [
-      { "text": "Buraya şık görseli gelecek", "isTrue": true },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru18a.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru18b.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru18c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru18d.png", "isTrue": false }
     ],
     "description": "Tehlikeli viraj yön levhaları, keskin virajların başlangıcında bulunur ve virajın yönünü ve keskinliğini belirtmek için kullanılır. Genellikle siyah-beyaz veya kırmızı-beyaz renkli, ok şeklinde veya yatay çizgili levhalardır. A seçeneğindeki levha bu tanıma uymaktadır."
   },
@@ -239,10 +239,10 @@
     "question": "Aşağıdaki tehlike uyarı işaretlerinden hangisi yaklaşılmakta olan kavşağın kontrolsüz olduğunu belirtir?",
     "image_url": null,
     "options": [
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": true },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru19a.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru19b.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru19c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru19d.png", "isTrue": false }
     ],
     "description": "Kontrolsüz kavşak işaret levhası (üçgen içinde siyah çarpı işareti), ileride trafik ışığı, trafik polisi veya başka bir işaret levhası ile geçiş hakkının düzenlenmediği bir kavşağın olduğunu bildirir. Bu levhayı gören sürücüler hızlarını azaltmalı ve geçiş kurallarına uymaya hazır olmalıdır."
   },
@@ -252,10 +252,10 @@
     "question": "Aşağıdakilerden hangisi azami hız sınırlaması anlamındadır?",
     "image_url": null,
     "options": [
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": true }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru20a.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru20b.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru20c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru20d.png", "isTrue": true }
     ],
     "description": "Azami hız sınırlaması levhası, kırmızı bir çember içinde siyah rakamlarla belirtilen ve o yolda yapılabilecek en yüksek hızı gösteren bir trafik tanzim işaretidir. D seçeneğindeki '70' yazılı levha bu anlama gelir."
   },
@@ -265,10 +265,10 @@
     "question": "Aşağıdaki trafik tanzim işaretlerinden hangisi \"taşıt trafiğine kapalı yol\" anlamındadır?",
     "image_url": null,
     "options": [
-      { "text": "Buraya şık görseli gelecek", "isTrue": true },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru21a.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru21b.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru21c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru21d.png", "isTrue": false }
     ],
     "description": "'Taşıt trafiğine kapalı yol' levhası, kırmızı bir çember ve beyaz bir orta kısımdan oluşur. Bu işaret, acil durum araçları dışında hiçbir motorlu veya motorsuz taşıtın bu yola giremeyeceğini belirtir."
   },
@@ -276,7 +276,7 @@
     "id": 8171,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru22.png",
     "options": [
       { "text": "08.00-16.00 saatleri arasında yayaların yola giremeyeceğini", "isTrue": false },
       { "text": "08.00-16.00 saatleri arasında motorlu taşıtların yola girebileceğini", "isTrue": false },
@@ -289,7 +289,7 @@
     "id": 8172,
     "category": "Trafik ve Çevre",
     "question": "Taşıt yolu üzerine çizilen şekildeki çizgilerin anlamı nedir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru23.png",
     "options": [
       { "text": "Yavaşlama çizgisi", "isTrue": false },
       { "text": "Taralı alana girilmez.", "isTrue": true },
@@ -419,7 +419,7 @@
     "id": 8182,
     "category": "Trafik ve Çevre",
     "question": "Şekle göre hangi numaralı araçlar hatalı park edilmiştir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru33.png",
     "options": [
       { "text": "Yalnız III", "isTrue": false },
       { "text": "I ve II.", "isTrue": false },
@@ -445,7 +445,7 @@
     "id": 8184,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik tanzim işareti, kamyona hangi anlamda gabari sınırlaması getirmektedir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru35.png",
     "options": [
       { "text": "Yükseklik", "isTrue": true },
       { "text": "Uzunluk", "isTrue": false },
@@ -484,7 +484,7 @@
     "id": 8187,
     "category": "Trafik ve Çevre",
     "question": "Bütün motorlu araçlarda (motosiklet ve motorlu bisiklet hariç) bulundurulması zorunlu olan şekildeki teçhizat aşağıdakilerden hangisidir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru38",
     "options": [
       { "text": "Stepne", "isTrue": false },
       { "text": "Takograf", "isTrue": false },
@@ -562,7 +562,7 @@
     "id": 8193,
     "category": "Araç Tekniği",
     "question": "Aracın gösterge panelinde şekildeki uyarı lambasının yanıyor olması neyi bildirir?",
-    "image_url": "Buraya soru görseli gelecek",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru44.png",
     "options": [
       { "text": "Lastik basıncının düşük olduğunu", "isTrue": false },
       { "text": "El freninin çekili olduğunu", "isTrue": false },
@@ -603,10 +603,10 @@
     "question": "Aracın gösterge panelinde, aşağıdaki ikaz ışıklarından hangisinin yanıyor olması park ışıklarının açık olduğunu belirtir?",
     "image_url": null,
     "options": [
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": false },
-      { "text": "Buraya şık görseli gelecek", "isTrue": true }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru47a.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru47b.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru47c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb5soru47d.png", "isTrue": true }
     ],
     "description": "Park lambası ikaz ışığı, genellikle birbirine zıt yönlere bakan iki küçük far sembolü şeklinde yeşil renkte yanar. Bu ışık, aracın park lambalarının (gabarit ışıklarının) açık olduğunu gösterir."
   },
