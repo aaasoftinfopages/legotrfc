@@ -666,7 +666,7 @@
     "id": 7951,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki yollarda azami hızı saatte kaç kilometredir?",
-    "image_url": "meb1soru51.png",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb1soru51.png",
     "options": [
       { "text": "20", "isTrue": true },
       { "text": "30", "isTrue": false },
@@ -796,7 +796,7 @@
     "id": 7964,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Şekildeki trafik işareti neyi bildirir?",
-    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru65",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru65.png",
     "options": [
       { "text": "Kasisli yolu", "isTrue": false },
       { "text": "Tehlikeli çıkış eğimli yolu", "isTrue": true },
@@ -809,7 +809,7 @@
     "id": 7965,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Trafik görevlisinin hangi hareketi seri bir şekilde yapması \"trafiğin hızlanması\" talimatıdır?",
-    "image_url": "buraya görsel gelecek",
+    "image_url": null,
     "options": [
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/gecegec.png", "isTrue": false },
       { "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma1.png", "isTrue": false },
