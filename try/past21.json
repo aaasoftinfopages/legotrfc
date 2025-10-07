@@ -28,7 +28,7 @@
   {
     "id": 8102,
     "category": "İlk Yardım",
-    "question": "Kazazedenin dolaşımı değerlendirilirken; I. Bebeklerde kol atardamarından, II. Çocuk ve yetişkinlerde şah damarından nabız alınır. Verilenler için aşağıdakilerden hangisi söylenebilir?",
+    "question": "Kazazedenin dolaşımı değerlendirilirken;\n I. Bebeklerde kol atardamarından, \nII. Çocuk ve yetişkinlerde şah damarından nabız alınır.\n Verilenler için aşağıdakilerden hangisi söylenebilir?",
     "image_url": null,
     "options": [
       { "text": "I. doğru, II. yanlış", "isTrue": false },
@@ -132,7 +132,7 @@
   {
     "id": 8110,
     "category": "İlk Yardım",
-    "question": "Yukarıdakilerden hangileri bayılmış olan bir kazazedeye yapılması gereken ilk yardım uygulamalarındandır? I. Sıkan giysiler gevşetilir. II. Sırtüstü yatırılarak ayakları 45 cm kaldırılır. III. Kusma varsa mide içeriğini yutması için yarı oturur pozisyonda tutulur. IV. Solunum yolu açıklığı kontrol edilir ve açıklığın korunması sağlanır.",
+    "question": "Yukarıdakilerden hangileri bayılmış olan bir kazazedeye yapılması gereken ilk yardım uygulamalarındandır?\n I. Sıkan giysiler gevşetilir.\n II. Sırtüstü yatırılarak ayakları 45 cm kaldırılır. \nIII. Kusma varsa mide içeriğini yutması için yarı oturur pozisyonda tutulur. \nIV. Solunum yolu açıklığı kontrol edilir ve açıklığın korunması sağlanır.\n",
     "image_url": null,
     "options": [
       { "text": "I ve IV.", "isTrue": true },
@@ -418,7 +418,7 @@
   {
     "id": 8132,
     "category": "Trafik ve Çevre",
-    "question": "Kazaya karışan veya olay yerinden geçmekte olan kişiler yukarıdakilerden hangilerini yapmakla yükümlüdürler? I. Maddi hasar tespiti yapmak II. Olayı en yakın zabıta veya sağlık kuruluşuna bildirmek III. Kaza yerinde usulüne uygun ilk yardım tedbirlerini almak IV. Yetkililerin isteği hâlinde yaralıları en yakın sağlık kuruluşuna götürmek",
+    "question": "Kazaya karışan veya olay yerinden geçmekte olan kişiler yukarıdakilerden hangilerini yapmakla yükümlüdürler?\n I. Maddi hasar tespiti yapmak \nII. Olayı en yakın zabıta veya sağlık kuruluşuna bildirmek \nIII. Kaza yerinde usulüne uygun ilk yardım tedbirlerini almak \nIV. Yetkililerin isteği hâlinde yaralıları en yakın sağlık kuruluşuna götürmek",
     "image_url": null,
     "options": [
       { "text": "Yalnız III", "isTrue": false },
