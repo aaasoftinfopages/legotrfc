@@ -93,7 +93,7 @@
   {
     "id": 8007,
     "category": "İlk Yardım",
-    "question": "Ağız-burun çevresinde kanama olan yaralılarda solunum durması söz konusu ise, aşağıdaki suni solunum yöntemlerinden hangileri uygulanabilir? I- Holger-Nielsen (Sırttan bastırma) II- Silvester (Göğüsten bastırma) III- Ağızdan ağıza",
+    "question": "Ağız-burun çevresinde kanama olan yaralılarda solunum durması söz konusu ise, aşağıdaki suni solunum yöntemlerinden hangileri uygulanabilir?\n I- Holger-Nielsen (Sırttan bastırma)\n II- Silvester (Göğüsten bastırma)\n III- Ağızdan ağıza",
     "image_url": null,
     "options": [
       { "text": "Yalnız I", "isTrue": false },
@@ -640,7 +640,7 @@
     "id": 8052,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki yolda sürücülerin aşağıdakilerden hangisini yapması doğrudur?",
-    "image_url": "meb2soru49.png",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru49.png",
     "options": [
       { "text": "Takip mesafesini azaltması", "isTrue": false },
       { "text": "Önündeki aracı geçmesi", "isTrue": false },
@@ -679,7 +679,7 @@
     "id": 8055,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki araçların geçiş hakkı sırası nasıl olmalıdır?",
-    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru56",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb3soru56.png",
     "options": [
       { "text": "1 - 2 - 3", "isTrue": false },
       { "text": "2 - 3 - 1", "isTrue": false },
