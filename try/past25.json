@@ -202,7 +202,7 @@
     "options": [
       { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb4soru17a.png", "isTrue": true },
       { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb8soru16b.png", "isTrue": false },
-      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru57a", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb2soru57a.png", "isTrue": false },
       { "text": "https://ehliyetim.github.io/konu-anlatimi/images/meb8soru16d.png", "isTrue": false }
     ],
     "description": "İki yönlü trafik işaret levhası, üçgen içinde birbirine zıt yönde iki ok bulunan bir tehlike uyarı işaretidir. Bu işaret, tek yönlü bir yoldan iki yönlü trafiğin aktığı bir yol kesimine girildiğini bildirir."
