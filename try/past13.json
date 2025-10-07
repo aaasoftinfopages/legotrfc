@@ -28,7 +28,7 @@
   {
     "id": 7552,
     "category": "İlk Yardım",
-    "question": "Verilen kanama türlerinin hangilerinde, açık renkli kanın yara ağzından kalp atımına uyumlu şekilde fışkırarak çıktığı izlenir? (I- Atardamar II- Toplardamar III- Kılcal damar)",
+    "question": "Verilen kanama türlerinin hangilerinde, açık renkli kanın yara ağzından kalp atımına uyumlu şekilde fışkırarak çıktığı izlenir? \nI- Atardamar \nII- Toplardamar nIII- Kılcal damar \n",
     "image_url": null,
     "options": [
       { "text": "Yalnız I", "isTrue": true },
@@ -405,7 +405,7 @@
   {
     "id": 7581,
     "category": "Trafik ve Çevre",
-    "question": "Verilenlerden hangileri, araç sürücülerinin trafik kazalarında asli (esas) kusurlarından sayılır? (I. Arkadan çarpma, II. Kavşaklarda geçiş hakkı kuralına uyma, III. Geçme yasağı olan yerlerde öndeki aracı geçme)",
+    "question": "Verilenlerden hangileri, araç sürücülerinin trafik kazalarında asli (esas) kusurlarından sayılır? \nI. Arkadan çarpma,\n II. Kavşaklarda geçiş hakkı kuralına uyma,\n III. Geçme yasağı olan yerlerde öndeki aracı geçme)",
     "image_url": null,
     "options": [
       { "text": "I ve II", "isTrue": false },
