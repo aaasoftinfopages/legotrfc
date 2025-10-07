@@ -580,7 +580,7 @@
   ],
   "description": "Trafik kurallarına göre, herhangi bir işaretle veya trafik görevlisiyle yönetilmeyen kontrolsüz kavşaklarda 'sağdaki aracın geçiş üstünlüğü' kuralı geçerlidir. Bu kural uyarınca, her sürücü kendi sağından gelen araca yol vermek zorundadır. Dolayısıyla solda bulunan araç, sağındaki aracın geçmesini beklemelidir."
 }
-  {
+ , {
     "id": 2692,
     "category": "Motor ve Araç Tekniği",
     "question": "Bir aracın lastiklerinin havası normalden az olduğunda, lastiğin yerdeki izi nasıl olur?",
