@@ -340,7 +340,7 @@
   {
     "id": 7826,
     "category": "İlk Yardım",
-    "question": "• Hastanın serin yere alınması • Su ve tuz kaybının giderilmesi için hastaya meyve suyu ve tuzlu ayran içirilmesi. Yukarıdaki ilk yardım uygulamaları hangi durumda yapılır?",
+    "question": "• Hastanın serin yere alınması \n • Su ve tuz kaybının giderilmesi için hastaya meyve suyu ve tuzlu ayran içirilmesi.\n Yukarıdaki ilk yardım uygulamaları hangi durumda yapılır?",
     "image_url": null,
     "options": [
       { "text": "Kafa ve beyin yaralanmasında", "isTrue": false },
@@ -551,10 +551,10 @@
     "question": "Aşağıdakilerden hangisi bütün yasaklama ve kısıtlamaların sona erdiğini bildirir?",
     "image_url": null,
     "options": [
-      { "text": "mebsoru43b.png", "isTrue": true },
-      { "text": "mebsoru43a.png", "isTrue": false },
-      { "text": "mebsoru43c.png", "isTrue": false },
-      { "text": "mebsoru43d.png", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/mebsoru43b.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/mebsoru43a.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/mebsoru43c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/mebsoru43d.png", "isTrue": false }
     ],
     "description": "A seçeneğindeki siyah beyaz ve üzerinde çapraz bir çizgi bulunan levha, daha önce konulmuş olan hız sınırı, sollama yasağı gibi tüm yasaklama ve kısıtlamaların sona erdiğini bildirir."
   },
@@ -613,7 +613,7 @@
   {
     "id": 7847,
     "category": "Trafik ve Çevre",
-    "question": "Sürücüler, hızlarını aşağıdakilerden hangilerine göre ayarlamak zorundadır? (I- Aracının yük ve teknik özelliğine II- Aracın cinsine uygun hız sınırlamalarına III- Görüş, yol, hava ve trafik durumuna)",
+    "question": "Sürücüler, hızlarını aşağıdakilerden hangilerine göre ayarlamak zorundadır? \nI- Aracının yük ve teknik özelliğine \nII- Aracın cinsine uygun hız sınırlamalarına \nIII- Görüş, yol, hava ve trafik durumuna\n",
     "image_url": null,
     "options": [
       { "text": "I-II", "isTrue": false },
