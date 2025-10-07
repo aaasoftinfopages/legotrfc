@@ -572,18 +572,18 @@
     "description": "Lastiklerin hava basıncının düşük olması, yuvarlanma direncini artırır. Bu durum, motorun aracı hareket ettirmek için daha fazla güç harcamasına ve dolayısıyla daha fazla yakıt tüketmesine neden olur. Lastik basınçlarını doğru seviyede tutmak yakıt tasarrufu sağlar."
   },
   {
-    "id": 7544,
-    "category": "Trafik Adabı",
-    "question": "Sürücü, trafik içinde yapacağı bir kural ihlalinde kendisinin ya da sevdiklerinin canını tehlikeye attığının farkında olmalıdır. Bu farkındalığı kazanmak için yapılması gereken aşağıdakilerden hangisidir?",
-    "image_url": null,
-    "options": [
-      { "text": "Kızgın ve yarışmacı motivasyon ile araç kullanılması", "isTrue": false },
-      { "text": "Karşılıklı saygının öncelikle başkalarından beklenmesi", "isTrue": false },
-      { "text": "Kural ihlalinin sonucunda sadece maddi ceza olduğunun düşünülmesi", "isTrue": false },
-      { "text": "Trafikteki her kuralın altında yatan güvenlik gerekçelerinin sorgulanıp öğrenilmesi", "isTrue": true }
-    ],
-    "description": "Trafik kurallarının neden konulduğunu ve her bir kuralın hangi güvenlik amacına hizmet ettiğini anlamak, sürücünün kurallara uyması için gerekli olan içsel motivasyonu ve farkındalığı artırır."
-  },
+  "id": 7544,
+  "category": "Trafik Adabı",
+  "question": "Sürücü, trafik içinde yapacağı bir kural ihlalinde kendisinin ya da sevdiklerinin canını tehlikeye attığının farkında olmalıdır. Bu farkındalığı kazanmak için yapılması gereken aşağıdakilerden hangisidir?",
+  "image_url": null,
+  "options": [
+    { "text": "Kızgın ve yarışmacı motivasyon ile araç kullanılması", "isTrue": false },
+    { "text": "Karşılıklı saygının öncelikle başkalarından beklenmesi", "isTrue": false },
+    { "text": "Kural ihlalinin sonucunda sadece maddi ceza olduğunun düşünülmesi", "isTrue": false },
+    { "text": "Trafikteki her kuralın altında yatan güvenlik gerekçelerinin sorgulanıp öğrenilmesi", "isTrue": true }
+  ],
+  "description": "Trafik kurallarının neden konulduğunu ve her bir kuralın hangi güvenlik amacına hizmet ettiğini anlamak, sürücünün kurallara uyması için gerekli olan içsel motivasyonu ve farkındalığı artırır."
+},
   {
     "id": 7545,
     "category": "Trafik Adabı",
