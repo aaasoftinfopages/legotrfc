@@ -236,7 +236,7 @@
   {
     "id": 7768,
     "category": "Trafik ve Çevre",
-    "question": "I- Araçlarını ve araçlarının etrafını kontrol etmeleri II- Işıkla veya kolla, gerekli hâllerde her ikisi ile çıkış işareti vermeleri III- Görüş alanları dışında kalan yerler varsa uyarılmaları için bir gözcü bulundurmaları Duraklanan veya park edilen yerden çıkılırken sürücülerin yukarıdakilerden hangilerini yapmaları zorunludur?",
+    "question": "I- Araçlarını ve araçlarının etrafını kontrol etmeleri \nII- Işıkla veya kolla, gerekli hâllerde her ikisi ile çıkış işareti vermeleri \nIII- Görüş alanları dışında kalan yerler varsa uyarılmaları için bir gözcü bulundurmaları Duraklanan veya park edilen yerden çıkılırken\n sürücülerin yukarıdakilerden hangilerini yapmaları zorunludur?",
     "image_url": null,
     "options": [
       { "text": "Yalnız I", "isTrue": false },
@@ -574,7 +574,7 @@
   {
     "id": 7794,
     "category": "İlk Yardım",
-    "question": "I- Toplardamar kanamalarında, kan koyu renkli, yavaş ve sürekli akış hâlindedir. II- Atardamar kanamalarında, kan açık renkli ve kalp atımları ile uyumlu olarak kesik kesik akar. Yukarıda kanamalarla ilgili olarak verilenler için ne söylenebilir?",
+    "question": "I- Toplardamar kanamalarında, kan koyu renkli, yavaş ve sürekli akış hâlindedir.\n II- Atardamar kanamalarında, kan açık renkli ve kalp atımları ile uyumlu olarak kesik kesik akar.\n Yukarıda kanamalarla ilgili olarak verilenler için ne söylenebilir?",
     "image_url": null,
     "options": [
       { "text": "Yalnız I doğru", "isTrue": false },
