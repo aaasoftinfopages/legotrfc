@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/koma.png",
-    "question": "Görseldeki gibi ağızdan kan gelmesi durumunda bilinci kapalı hastaya hangi pozisyon verilmelidir?",
+    "image_url": ,null
+    "question": "Ağızdan kan gelmesi durumunda bilinci kapalı hastaya hangi pozisyon verilmelidir?",
     "options": [
       { "text": "Şok Pozisyonu", "isTrue": false },
       { "text": "Yarı Oturur Pozisyon", "isTrue": false },
