@@ -107,7 +107,7 @@
   {
     "id": 8358,
     "category": "İlk Yardım ve Sağlık Bilgisi",
-    "question": "Ölüm korkusu ve yoğun sıkıntı hissedilir... Bu belirtiler, acil bakım gerektiren hastalıklardan hangisiyle ilgilidir?",
+    "question": "Ölüm korkusu ve yoğun sıkıntı hissedilir.\nAğrı şiddetli ve uzun sürelidir, dinlenmekle geçmez.\nAğrı hissi; sıklıkla kravat bölgesinde görülür, omuzlara, boyuna, çeneye ve sol kola doğru yayılır. \nBu belirtiler, acil bakım gerektiren hastalıklardan hangisiyle ilgilidir?",
     "image_url": null,
     "options": [
       { "text": "Bayılma", "isTrue": false },
@@ -120,7 +120,7 @@
   {
     "id": 8359,
     "category": "İlk Yardım ve Sağlık Bilgisi",
-    "question": "İlk yardımcı İlk yardımcı, baş bölgesinden şiddetli darbe alan kazazedenin;\n, \nsesli ve ağrılı uyarılara yanıt vermediğini \n yutkunma ve öksürük gibi tepkilerinin olmadığını \n ışığa karşı tepkisiz olduğunu ve idrar kaçırdığını tespit etmiştir. Bu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?",
+    "question": "İlk yardımcı İlk yardımcı, baş bölgesinden şiddetli darbe alan kazazedenin;\nsesli ve ağrılı uyarılara yanıt vermediğini \n yutkunma ve öksürük gibi tepkilerinin olmadığını \n ışığa karşı tepkisiz olduğunu ve idrar kaçırdığını tespit etmiştir. Bu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?",
     "image_url": null,
     "options": [
       { "text": "Sırtüstü yatış", "isTrue": true },
@@ -186,7 +186,7 @@
     "id": 8364,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Görseldeki yolda, numaralanmış araçlardan hangileri en fazla 70 km/saat hızla yollarına devam edebilir?",
-    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb0soru15.png",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb0soru15C.png",
     "options": [
       { "text": "Yalnız 4", "isTrue": false },
       { "text": "1 ve 2", "isTrue": true },
@@ -198,7 +198,7 @@
   {
     "id": 8365,
     "category": "Trafik ve Çevre Bilgisi",
-    "question": "Görseldeki yol çizgileri ve yer işaretlemeleri, numaralanmış ifadelerden hangilerini belirtir?",
+    "question": "Görseldeki yol çizgileri ve yer işaretlemeleri, numaralanmış ifadelerden hangilerini belirtir?\nI.Yolun, iki şeritli ve iki yönlü olduğunu\nII.1 numaralı aracın gerektiğinde geçme yapabileceğini\nIII.2 numaralı arcın gerektiğinde geçme yapabileceğini",
     "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb0soru16.png",
     "options": [
       { "text": "I ve II", "isTrue": false },
@@ -250,7 +250,7 @@
   {
     "id": 8369,
     "category": "Trafik ve Çevre Bilgisi",
-    "question": "Görsele göre, 1 numaralı araç sürücüsünün numaralanmış davranışlardan hangilerini yapması trafik kazası riskini azaltır?",
+    "question": "Görsele göre, 1 numaralı araç sürücüsünün numaralanmış davranışlardan hangilerini yapması trafik kazası riskini azaltır?\nI.Takip mesafesini artırması\nII.Hızını azaltması\nIII.Bulunduğu şeridin soluna yanaşması",
     "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb0soru20.png",
     "options": [
       { "text": "I ve II", "isTrue": true },
@@ -354,7 +354,7 @@
   {
     "id": 8377,
     "category": "Trafik ve Çevre Bilgisi",
-    "question": "Bu cümlede boş bırakılan yerlere hangileri getirilmelidir?",
+    "question": "İşaret levhalarına yaklaşım yönünde ve park izni verilen yerler dışında; yerleşim birimleri içinde - - - - metre ve yerleşim birimleri dışında - - - - metre mesafede duraklamak yasaktır.\nBu cümlede boş bırakılan yerlere hangileri getirilmelidir?",
     "image_url": null,
     "options": [
       { "text": "15 - 100", "isTrue": true },
