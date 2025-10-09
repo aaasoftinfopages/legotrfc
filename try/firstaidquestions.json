@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image_url": ,null
+    "image_url": null,
     "question": "Ağızdan kan gelmesi durumunda bilinci kapalı hastaya hangi pozisyon verilmelidir?",
     "options": [
       { "text": "Şok Pozisyonu", "isTrue": false },
