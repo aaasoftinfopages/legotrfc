@@ -638,7 +638,7 @@
       
       { "text": "Motor yağı yeni değiştirilmiş olabilir.", "isTrue": false },
       { "text": "Cam suyu bitmiş olabilir.", "isTrue": false },
-      { "text": "Akü kutup başları gevşek veya oksitlenmiş olabilir.", "isTrue": true },
+      { "text": "Akü kutup başları gevşek veya oksitlenmiş olabilir.", "isTrue": true }
     ],
     "description": "Marş motorunun çalışması için aküden yüksek akım çekmesi gerekir. Eğer akü kutup başlarında bir gevşeklik veya paslanma (oksitlenme) varsa, yeterli elektrik akımı geçemez ve marş motoru dönmez veya çok yavaş döner."
   },
