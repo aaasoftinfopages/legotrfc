@@ -165,7 +165,7 @@
       { "text": "Motorun hararet yapması", "isTrue": false },
       { "text": "Frenlerin tutmaması", "isTrue": false },
       { "text": "Yakıt tüketiminin azalması", "isTrue": false },
-       { "text": "Lastiklerin içten veya dıştan düzensiz aşınması ve aracın seyir halinde bir tarafa çekmesi", "isTrue": true },
+       { "text": "Lastiklerin içten veya dıştan düzensiz aşınması ve aracın seyir halinde bir tarafa çekmesi", "isTrue": true }
     ],
     "description": "Rot ayarı, tekerleklerin birbirine ve yola paralel olmasını sağlayan bir ayardır. Bu ayar bozulduğunda, tekerlekler yola tam olarak basmaz, bu da hem lastiklerin düzensiz aşınmasına hem de aracın direksiyon hakimiyetinin bozulmasına yol açar."
   },
@@ -440,7 +440,7 @@
       { "text": "Kanamanın hızına", "isTrue": false },
       { "text": "Vücutta kanın aktığı bölgeye", "isTrue": false },
       { "text": "Kaybedilen kan miktarına", "isTrue": false },
-      { "text": "Yaralının cinsiyetine", "isTrue": true },
+      { "text": "Yaralının cinsiyetine", "isTrue": true }
     ],
     "description": "Bir kanamanın ne kadar tehlikeli olduğu; kanamanın hızına, kaybedilen kan miktarına, kanamanın olduğu bölgeye (iç/dış) ve yaralının genel sağlık durumuna bağlıdır. Yaralının cinsiyetinin kanamanın ciddiyeti üzerinde doğrudan bir etkisi yoktur."
   },
@@ -614,7 +614,7 @@
      
       { "text": "Hız limitini %10 aşmak", "isTrue": false },
       { "text": "Hatalı park etmek", "isTrue": false },
-       { "text": "Kırmızı ışıkta veya 'DUR' ihtarına uymayarak geçmek", "isTrue": true },
+       { "text": "Kırmızı ışıkta veya 'DUR' ihtarına uymayarak geçmek", "isTrue": true }
     ],
     "description": "Asli kusur, bir kazanın meydana gelmesinde doğrudan ve birincil etken olan kural ihlalleridir. Kırmızı ışıkta geçmek, 'DUR' levhasında durmamak, ters yöne girmek gibi ihlaller, asli kusur olarak kabul edilir."
   },
