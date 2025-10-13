@@ -90,7 +90,7 @@
       
       { "text": "Yaralıya moral verir.", "isTrue": false },
       { "text": "Polisin delil toplamasını kolaylaştırır.", "isTrue": false },
-      { "text": "İlk yardımcının çalışmasını engeller ve sağlık ekiplerinin ulaşımını geciktirir.", "isTrue": true },
+      { "text": "İlk yardımcının çalışmasını engeller ve sağlık ekiplerinin ulaşımını geciktirir.", "isTrue": true }
     ],
     "description": "Kaza yerindeki meraklı kalabalık, yaralının etrafındaki havayı tüketir, ilk yardımcının hareket alanını kısıtlar ve en önemlisi, ambulans gibi acil yardım araçlarının olay yerine ulaşmasını engelleyerek zaman kaybına yol açar."
   },
@@ -282,7 +282,7 @@
       
       { "text": "Şeridin hızlanma şeridi olduğunu.", "isTrue": false },
       { "text": "Şeritte U dönüşü yapılabileceğini.", "isTrue": false },
-      { "text": "Şeridi kullananların kavşakta sadece düz gidebileceğini veya sola dönebileceğini.", "isTrue": true },
+      { "text": "Şeridi kullananların kavşakta sadece düz gidebileceğini veya sola dönebileceğini.", "isTrue": true }
     ],
     "description": "Bu yön okları, sürücülerin kavşağa gelmeden önce gidecekleri yöne uygun şeride girmelerini sağlamak amacıyla kullanılır. Bu şeride giren bir sürücü, kavşakta sağa dönemez veya başka bir manevra yapamaz."
   },
