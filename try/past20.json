@@ -124,7 +124,7 @@
     "options": [
       { "text": "Köprücük kemiğinin iç kısmına", "isTrue": true },
       { "text": "Kasığın iç kısmına", "isTrue": false },
-      { "text": "Şakak bölgesine", "isTure": false },
+      { "text": "Şakak bölgesine", "isTrue": false },
       { "text": "Çene altına", "isTrue": false }
     ],
     "description": "Omuz veya koldaki atardamar kanamalarını kontrol altına almak için, kanamanın olduğu bölgeye en yakın basınç noktası olan köprücük kemiğinin iç kısmına baskı uygulanır."
