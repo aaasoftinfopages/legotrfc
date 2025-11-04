@@ -162,9 +162,9 @@
     "image_url": null,
     "options": [
       { "text": "https://ehliyetim.github.io/konu-anlatimi/images/gorsel/meb7soru18a.png", "isTrue": true },
-      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/gorsel/meb2soru57c.png", "isTrue": false },
-      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/gorsel/meb5soru21b.png", "isTrue": false },
-      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/gorsel/meb5soru21c.png", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/gorsel/meb7soru18b.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/gorsel/meb7soru18c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/gorsel/meb7soru18d.png", "isTrue": false }
     ],
     "description": "Trafik ışıklarından aralıklı yanıp sönen kırmızı ışık, 'DUR' levhası ile aynı anlama gelir. Sürücü kavşakta durmalı, yolu kontrol etmeli ve yol müsaitse geçiş yapmalıdır. Aralıklı yanan sarı ışık ise 'Yol Ver' levhası ile aynı anlama gelir."
   },
@@ -189,7 +189,7 @@
     "options": [
       { "text": "https://ehliyetim.github.io/konu-anlatimi/images/gorsel/meb7soru17a.png", "isTrue": false },
       { "text": "https://ehliyetim.github.io/konu-anlatimi/images/gorsel/meb7soru17b.png", "isTrue": false },
-      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/gorsel/meb3soru43c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/konu-anlatimi/images/gorsel/meb7soru17c.png", "isTrue": false },
       { "text": "https://ehliyetim.github.io/konu-anlatimi/images/gorsel/meb7soru17d.png", "isTrue": true }
     ],
     "description": "Görsel D'deki siyah-beyaz çizgili levhalar 'Köprü Başı Levhaları' olarak adlandırılır ve köprü, menfez gibi daralan yol kesimlerinin başına konulur. Bu levhalar köprüye yaklaşıldığını ve yolun daralabileceğini belirtir."
