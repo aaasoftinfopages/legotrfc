@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural6_esdeger_kavsak.png",
+    "question": "Görseldeki kontrolsüz ve eşdeğer yolların kesiştiği kavşakta, araçların doğru geçiş hakkı sırası nasıl olmalıdır?",
+    "options": [
+      { "text": "1 -> 2 -> 3", "isTrue": false },
+      { "text": "2 -> 3 -> 1", "isTrue": false },
+      { "text": "3 -> 2 -> 1", "isTrue": true },
+      { "text": "Kavşağa ilk giren geçer", "isTrue": false }
+    ]
+  },
+  {
+    "id": 2,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural8_donel_kavsak.png",
+    "question": "Görseldeki döner kavşakta geçiş önceliği hangi araca aittir?",
+    "options": [
+      { "text": "Kavşağa yaklaşan 1 numaralı araç", "isTrue": false },
+      { "text": "Kavşak içindeki 2 numaralı araç", "isTrue": true },
+      { "text": "Hızı daha fazla olan araç", "isTrue": false },
+      { "text": "Araçlar aynı anda geçebilir", "isTrue": false }
+    ]
+  },
+  {
+    "id": 3,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural9_gecis_ustunluk.png",
+    "question": "Görseldeki kavşakta bulunan araçların geçiş üstünlüğü sıralaması nasıl olmalıdır?",
+    "options": [
+      { "text": "İtfaiye - Ambulans - Polis - İş Makinesi", "isTrue": false },
+      { "text": "Ambulans - İtfaiye - Polis - İş Makinesi", "isTrue": true },
+      { "text": "Polis - İtfaiye - Ambulans - İş Makinesi", "isTrue": false },
+      { "text": "İş Makinesi - Polis - İtfaiye - Ambulans", "isTrue": false }
+    ]
+  },
+  {
+    "id": 4,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/devamli_cizgi.png",
+    "question": "Görseldeki yol işaretinin anlamı nedir?",
+    "options": [
+      { "text": "Şerit değiştirmek ve sollama yapmak serbesttir.", "isTrue": false },
+      { "text": "Sadece sağdaki şeride geçilebilir.", "isTrue": false },
+      { "text": "Şerit değiştirmek ve sollama yapmak yasaktır.", "isTrue": true },
+      { "text": "Park etmek yasaktır.", "isTrue": false }
+    ]
+  },
+  {
+    "id": 5,
+    "image_url": null,
+    "question": "Aşağıdakilerden hangisi, kurallara uymak şartıyla şerit değiştirilebileceğini ve öndeki aracın sollanabileceğini belirten yol işaretidir?",
+    "options": [
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/devamli_cizgi.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/iki_devamli_cizgi.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kesikli_cizgi.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/tarali_alana_girilmez.png", "isTrue": false }
+    ]
+  },
+  {
+    "id": 6,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural3_ornek.png",
+    "question": "Görseldeki 'Yol Ver' levhası ve yerdeki üçgen işareti olan tali yoldan çıkan 2 numaralı aracın, anayoldaki 1 numaralı araca göre durumu nedir?",
+    "options": [
+      { "text": "1 numaralı araca yol vermelidir.", "isTrue": true },
+      { "text": "Geçiş önceliği kendisindedir.", "isTrue": false },
+      { "text": "1 numaralı araç hızlanmalıdır.", "isTrue": false },
+      { "text": "Korna çalıp geçmelidir.", "isTrue": false }
+    ]
+  },
+  {
+    "id": 7,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/azami_hiz.png",
+    "question": "Görseldeki yol işareti ne anlama gelmektedir?",
+    "options": [
+      { "text": "Tavsiye edilen hız", "isTrue": false },
+      { "text": "Minimum hız sınırı", "isTrue": false },
+      { "text": "Otoyol numarası", "isTrue": false },
+      { "text": "Azami (en yüksek) hız sınırı", "isTrue": true }
+    ]
+  },
+  {
+    "id": 8,
+    "image_url": null,
+    "question": "Her iki yöndeki araçların da şerit değiştirmesinin kesinlikle yasak olduğunu belirten yol çizgisi hangisidir?",
+    "options": [
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kesikli_cizgi.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/iki_devamli_cizgi.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/devamli_cizgi.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kesikli_devamli_cizgi.png", "isTrue": false }
+    ]
+  },
+  {
+    "id": 9,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural1_yaya_oncelik.png",
+    "question": "Görseldeki yaya geçidinde bekleyen yaya varken, 1 ve 2 numaralı araçlar nasıl davranmalıdır?",
+    "options": [
+      { "text": "Hızlanıp yayanın önünden geçmelidirler.", "isTrue": false },
+      { "text": "Yavaşlayıp yayaya korna çalmalılar.", "isTrue": false },
+      { "text": "Durup yayanın güvenle geçmesini sağlamalıdırlar.", "isTrue": true },
+      { "text": "Sadece 1 numaralı araç durmalıdır.", "isTrue": false }
+    ]
+  },
+  {
+    "id": 10,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kesikli_devamli_cizgi.png",
+    "question": "Görseldeki 'yan yana kesikli ve devamlı çizgi'nin anlamı nedir?",
+    "options": [
+      { "text": "Her iki yönde de sollama yasaktır.", "isTrue": false },
+      { "text": "Her iki yönde de sollama serbesttir.", "isTrue": false },
+      { "text": "Sadece devamlı çizgi tarafındaki araçlar sollama yapabilir.", "isTrue": false },
+      { "text": "Sadece kesikli çizgi tarafındaki araçlar sollama yapabilir.", "isTrue": true }
+    ]
+  },
+  {
+    "id": 11,
+    "image_url": null,
+    "question": "Trafik akımlarını ayırmak için çizilen ve araçların girmesinin yasak olduğu alanı gösteren işaret hangisidir?",
+    "options": [
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/yavaslama_cizgileri.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/tarali_alana_girilmez.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/tirmanma_seridi.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/engelli_yolu.png", "isTrue": false }
+    ]
+  },
+  {
+    "id": 12,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural7_tramvay.png",
+    "question": "Görseldeki tramvay, 2 ve 3 numaralı araçların bulunduğu kavşakta doğru geçiş sırası nasıldır?",
+    "options": [
+      { "text": "2 - 3 - Tramvay", "isTrue": false },
+      { "text": "Tramvay - 2 - 3", "isTrue": true },
+      { "text": "3 - 2 - Tramvay", "isTrue": false },
+      { "text": "Öncelik otomobillerindir", "isTrue": false }
+    ]
+  },
+  {
+    "id": 13,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/ayrilma.png",
+    "question": "Görseldeki 'ayrılma oku' neyi ifade eder?",
+    "options": [
+      { "text": "İleride yolun birleşeceğini", "isTrue": false },
+      { "text": "Hızlanma şeridinin başladığını", "isTrue": false },
+      { "text": "Şeritten ayrılma veya yavaşlama şeridinin başlangıcını", "isTrue": true },
+      { "text": "Sola mecburi yönü", "isTrue": false }
+    ]
+  },
+  {
+    "id": 14,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural2_mulkten_cikis.png",
+    "question": "Görseldeki gibi bir mülkten (benzinlik, otopark vb.) ana yola çıkan 2 numaralı aracın, ana yoldaki 1 numaralı araca göre geçiş hakkı nasıldır?",
+    "options": [
+      { "text": "Geçiş önceliği 2 numaralı araçtadır.", "isTrue": false },
+      { "text": "1 numaralı araç durup yol vermelidir.", "isTrue": false },
+      { "text": "2 numaralı araç, 1 numaralı araca yol vermelidir.", "isTrue": true },
+      { "text": "Hızı yüksek olan önce geçer.", "isTrue": false }
+    ]
+  },
+  {
+    "id": 15,
+    "image_url": null,
+    "question": "Sadece bisikletlilerin kullanımına ayrılmış bir yolu gösteren piktogram hangisidir?",
+    "options": [
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/engelli_yolu.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/yolver.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/dur.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/bisiklet_yolu.png", "isTrue": true }
+    ]
+  },
+  {
+    "id": 16,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/engelli_yolu.png",
+    "question": "Görseldeki park yeri işaretinin anlamı nedir?",
+    "options": [
+      { "text": "Sadece kamu araçları park edebilir.", "isTrue": false },
+      { "text": "Sadece engelli sürücüler için ayrılmıştır.", "isTrue": true },
+      { "text": "Park etmek yasaktır.", "isTrue": false },
+      { "text": "Bisiklet park yeridir.", "isTrue": false }
+    ]
+  },
+  {
+    "id": 17,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural4_kontrolsuz.png",
+    "question": "Kontrolsüz bir kavşakta düz giden 2 numaralı araç ile sola dönen 1 numaralı aracın karşılaşması durumunda geçiş hakkı kimindir?",
+    "options": [
+      { "text": "Sola dönen 1 numaralı aracın", "isTrue": false },
+      { "text": "Düz giden 2 numaralı aracın", "isTrue": true },
+      { "text": "Hızı daha fazla olan aracın", "isTrue": false },
+      { "text": "Kavşağa ilk giren aracın", "isTrue": false }
+    ]
+  },
+  {
+    "id": 18,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/yavaslama_cizgileri.png",
+    "question": "Görseldeki giderek sıklaşan yol çizgilerinin amacı nedir?",
+    "options": [
+      { "text": "Yolun bozuk olduğunu belirtmek", "isTrue": false },
+      { "text": "Sürücüleri yavaşlamaları için uyarmak", "isTrue": true },
+      { "text": "Park yasağını belirtmek", "isTrue": false },
+      { "text": "Hızlanma şeridini göstermek", "isTrue": false }
+    ]
+  },
+  {
+    "id": 19,
+    "image_url": null,
+    "question": "Yokuş yukarı yollarda yavaş seyreden ağır taşıtların kullanması için ayrılmış ek şeridi gösteren işaret hangisidir?",
+    "options": [
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/tirmanma_seridi.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/ayrilma.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/katilma.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/yavaslama_cizgileri.png", "isTrue": false }
+    ]
+  },
+  {
+    "id": 20,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/dur.png",
+    "question": "Yol kaplaması üzerindeki bu 'DUR' yazısı ne anlama gelir?",
+    "options": [
+      { "text": "Yavaşla ve yol ver", "isTrue": false },
+      { "text": "Park et", "isTrue": false },
+      { "text": "Mutlak suretle dur", "isTrue": true },
+      { "text": "Okul geçidi", "isTrue": false }
+    ]
+  },
+  {
+    "id": 21,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kural5_bolunmus_yol.png",
+    "question": "Görselde, bölünmüş yola girmek isteyen 1 numaralı araç, bölünmüş yolda seyreden 2 numaralı araca göre nasıl davranmalıdır?",
+    "options": [
+      { "text": "Geçiş hakkı 1 numaralı araçtadır", "isTrue": false },
+      { "text": "1 numaralı araç, 2 numaralı araca yol vermelidir", "isTrue": true },
+      { "text": "2 numaralı araç yavaşlayıp yol vermelidir", "isTrue": false },
+      { "text": "Korna çalıp geçmelidir", "isTrue": false }
+    ]
+  },
+  {
+    "id": 22,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/katilma.png",
+    "question": "Görseldeki 'katılma oku' neyi ifade eder?",
+    "options": [
+      { "text": "Yoldan çıkış olduğunu", "isTrue": false },
+      { "text": "Hızlanma şeridinin sonunu ve anayola katılımı", "isTrue": true },
+      { "text": "İleride kavşak olduğunu", "isTrue": false },
+      { "text": "Park alanını", "isTrue": false }
+    ]
+  },
+  {
+    "id": 23,
+    "image_url": null,
+    "question": "'Yol Ver' levhası ile birlikte kullanılan ve sürücülerin hızlarını azaltıp anayoldaki araçlara yol vermeleri gerektiğini belirten yer işareti hangisidir?",
+    "options": [
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/dur.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/yolver.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/azami_hiz.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/engelli_yolu.png", "isTrue": false }
+    ]
+  },
+  {
+    "id": 24,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/tirmanma_seridi.png",
+    "question": "Görseldeki yol işareti hangi tür yollarda kullanılır?",
+    "options": [
+      { "text": "Sadece otoyollarda", "isTrue": false },
+      { "text": "Okul geçitlerinde", "isTrue": false },
+      { "text": "Yokuş yukarı, eğimli yollarda", "isTrue": true },
+      { "text": "Döner kavşaklarda", "isTrue": false }
+    ]
+  },
+  {
+    "id": 25,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/tarali_alana_girilmez.png",
+    "question": "Görseldeki taralı alanla ilgili doğru davranış nedir?",
+    "options": [
+      { "text": "Bu alana girerek seyahat edilebilir", "isTrue": false },
+      { "text": "Acil durumlarda üzerinde durulabilir", "isTrue": false },
+      { "text": "Bu alana girmek ve üzerinde durmak yasaktır", "isTrue": true },
+      { "text": "Sadece bisikletliler kullanabilir", "isTrue": false }
+    ]
+  },
+  {
+    "id": 26,
+    "image_url": null,
+    "question": "Görüşün yetersiz olduğu tepe üstü ve viraj gibi yerlerde, sollama yapmanın yasak olduğunu belirten yol çizgisi hangisidir?",
+    "options": [
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kesikli_cizgi.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/devamli_cizgi.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/yavaslama_cizgileri.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kesikli_devamli_cizgi.png", "isTrue": false }
+    ]
+  },
+  {
+    "id": 27,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/iki_devamli_cizgi.png",
+    "question": "Bu yol çizgisi hakkında aşağıdakilerden hangisi söylenebilir?",
+    "options": [
+      { "text": "Tırmanma şeridini ayırır", "isTrue": false },
+      { "text": "Aynı yönde giden trafiği ayırır", "isTrue": false },
+      { "text": "Karşıt yönlü trafiği ayırır ve her iki yönde de geçişi yasaklar", "isTrue": true },
+      { "text": "Sadece sağdaki araçların geçişine izin verir", "isTrue": false }
+    ]
+  },
+  {
+    "id": 28,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/yolver.png",
+    "question": "Görseldeki yol işareti hangi levha ile birlikte kullanılır ve ne anlama gelir?",
+    "options": [
+      { "text": "DUR levhası ile, mutlak duruş", "isTrue": false },
+      { "text": "YOL VER levhası ile, anayoldakine yol verme", "isTrue": true },
+      { "text": "PARK YASAĞI levhası ile, park yasağı", "isTrue": false },
+      { "text": "HIZ SINIRI levhası ile, hız sınırı", "isTrue": false }
+    ]
+  },
+  {
+    "id": 29,
+    "image_url": null,
+    "question": "Trafik levhası veya ışığı olmayan, yolların değerinin aynı olduğu bir kavşakta geçiş hakkı nasıl belirlenir?",
+    "options": [
+      { "text": "Her sürücü kendi sağındaki araca yol verir.", "isTrue": true },
+      { "text": "Soldaki araç önce geçer.", "isTrue": false },
+      { "text": "En büyük araç önce geçer.", "isTrue": false },
+      { "text": "Kavşağa ilk gelen araç önce geçer.", "isTrue": false }
+    ]
+  },
+  {
+    "id": 30,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/bisiklet_yolu.png",
+    "question": "Görseldeki işaretin bulunduğu yolda kimler seyahat edebilir?",
+    "options": [
+      { "text": "Tüm motorlu taşıtlar", "isTrue": false },
+      { "text": "Sadece yayalar", "isTrue": false },
+      { "text": "Sadece bisikletliler", "isTrue": true },
+      { "text": "Motosikletler ve bisikletliler", "isTrue": false }
+    ]
+  }
+]

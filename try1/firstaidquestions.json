@@ -1,0 +1,439 @@
+[
+  {
+    "id": 1,
+    "image_url": null,
+    "question": "Ağızdan kan gelmesi durumunda bilinci kapalı hastaya hangi pozisyon verilmelidir?",
+    "options": [
+      { "text": "Şok Pozisyonu", "isTrue": false },
+      { "text": "Yarı Oturur Pozisyon", "isTrue": false },
+      { "text": "Koma (İyileşme) Pozisyonu", "isTrue": true },
+      { "text": "Sırtüstü Yatış", "isTrue": false }
+    ]
+  },
+  {
+    "id": 2,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/bakdinlehisset.png",
+    "question": "İlk yardımda solunumun değerlendirilmesi için kullanılan 'Bak-Dinle-Hisset' yöntemi ne kadar süreyle uygulanmalıdır?",
+    "options": [
+      { "text": "5 saniye", "isTrue": false },
+      { "text": "10 saniye", "isTrue": true },
+      { "text": "20 saniye", "isTrue": false },
+      { "text": "1 dakika", "isTrue": false }
+    ]
+  },
+  {
+    "id": 3,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/bas_cene_pozisyonu.png",
+    "question": "Görselde gösterilen 'Baş Geri-Çene Yukarı' pozisyonunun temel amacı nedir?",
+    "options": [
+      { "text": "Kanamayı durdurmak", "isTrue": false },
+      { "text": "Vücut ısısını korumak", "isTrue": false },
+      { "text": "Solunum yolunu açmak", "isTrue": true },
+      { "text": "Kırıkları sabitlemek", "isTrue": false }
+    ]
+  },
+  {
+    "id": 4,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/basincnoktalari.png",
+    "question": "Görselde gösterilen basınç noktaları hangi tür kanamaları kontrol altına almak için kullanılır?",
+    "options": [
+      { "text": "İç kanamalar", "isTrue": false },
+      { "text": "Kılcal damar kanamaları", "isTrue": false },
+      { "text": "Toplardamar kanamaları", "isTrue": false },
+      { "text": "Atardamar kanamaları", "isTrue": true }
+    ]
+  },
+  {
+    "id": 5,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/bebeksirtvurusvegogusbatisi.png",
+    "question": "Görseldeki gibi solunum yolu tıkanan bir bebeğe sırta vuruş uygulaması kaç kez yapılır?",
+    "options": [
+      { "text": "2 kez", "isTrue": false },
+      { "text": "3 kez", "isTrue": false },
+      { "text": "5 kez", "isTrue": true },
+      { "text": "7 kez", "isTrue": false }
+    ]
+  },
+  {
+    "id": 6,
+    "image_url": null,
+    "question": "Dış kanamalarda ilk yardım uygulamasında aşağıdakilerden hangisi yapılmamalıdır?",
+    "options": [
+      { "text": "Kanayan yer üzerine direkt baskı uygulamak", "isTrue": false },
+      { "text": "Kanayan bölgeyi kalp seviyesinden yukarı kaldırmak", "isTrue": false },
+      { "text": "Kanayan bölgeye tentürdiyot, alkol gibi maddeler sürmek", "isTrue": true },
+      { "text": "Temiz bir bez ile tampon yapmak", "isTrue": false }
+    ]
+  },
+  {
+    "id": 7,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/altinbesik_tasima.png",
+    "question": "Görselde gösterilen 'Altın Beşik' (Dört Elle Taşıma) tekniği hangi durumdaki yaralılar için daha uygundur?",
+    "options": [
+      { "text": "Omurga kırığı şüphesi olanlar", "isTrue": false },
+      { "text": "Bilinci kapalı olanlar", "isTrue": false },
+      { "text": "Bilinci açık ve yürüyemeyen hafif yaralılar", "isTrue": true },
+      { "text": "Ağır kanaması olanlar", "isTrue": false }
+    ]
+  },
+  {
+    "id": 8,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/gerigeriyaralitasima.png",
+    "question": "Görseldeki sürükleme yöntemi ile yaralı taşıma öncelikle hangi durumda tercih edilir?",
+    "options": [
+      { "text": "Yaralıyı merdivenden indirmek için", "isTrue": false },
+      { "text": "Tehlikeli bir ortamdan (yangın, patlama riski vb.) hızla uzaklaştırmak için", "isTrue": true },
+      { "text": "Yaralının bilincini kontrol etmek için", "isTrue": false },
+      { "text": "Uzun mesafede yaralı taşımak için", "isTrue": false }
+    ]
+  },
+  {
+    "id": 9,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/gogusyaralanmasi pozisyonu.png",
+    "question": "Görseldeki gibi delici göğüs yaralanması olan ve bilinci açık bir yaralıya hangi pozisyon verilir?",
+    "options": [
+      { "text": "Sırtüstü düz yatış", "isTrue": false },
+      { "text": "Yarı oturur pozisyon", "isTrue": true },
+      { "text": "Şok pozisyonu", "isTrue": false },
+      { "text": "Koma pozisyonu", "isTrue": false }
+    ]
+  },
+  {
+    "id": 10,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/hemlickmanevrasi.png",
+    "question": "Heimlich manevrası (Karına bası) hangi durumda uygulanır?",
+    "options": [
+      { "text": "Kalp durmasında", "isTrue": false },
+      { "text": "Tam solunum yolu tıkanıklığında", "isTrue": true },
+      { "text": "Şok durumunda", "isTrue": false },
+      { "text": "Zehirlenmelerde", "isTrue": false }
+    ]
+  },
+  {
+    "id": 11,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/holgernielsin.png",
+    "question": "Görselde gösterilen Holger-Nielsen metodu nedir?",
+    "options": [
+      { "text": "Bir yaralı taşıma tekniğidir.", "isTrue": false },
+      { "text": "Sırttan bastırarak uygulanan bir suni solunum yöntemidir.", "isTrue": true },
+      { "text": "Bir kanama durdurma yöntemidir.", "isTrue": false },
+      { "text": "Bir kırık sabitleme tekniğidir.", "isTrue": false }
+    ]
+  },
+  {
+    "id": 12,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/itfayicetasima.png",
+    "question": "İtfaiyeci yöntemi ile yaralı taşımanın en büyük avantajı nedir?",
+    "options": [
+      { "text": "Yaralının en rahat ettiği yöntem olması", "isTrue": false },
+      { "text": "İlk yardımcının bir elinin serbest kalması", "isTrue": true },
+      { "text": "Sadece iki kişi ile uygulanabilmesi", "isTrue": false },
+      { "text": "Omurga yaralanmalarında en güvenli yöntem olması", "isTrue": false }
+    ]
+  },
+  {
+    "id": 13,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/karinyaralanmasi.png",
+    "question": "Görseldeki gibi karın yaralanmasında dışarı çıkan organlar için ne yapılmalıdır?",
+    "options": [
+      { "text": "İçeri sokulmaya çalışılır.", "isTrue": false },
+      { "text": "Üzerine temiz ve nemli bir bez örtülür.", "isTrue": true },
+      { "text": "Bol su ile yıkanır.", "isTrue": false },
+      { "text": "Hiçbir şey yapılmadan hastaneye götürülür.", "isTrue": false }
+    ]
+  },
+  {
+    "id": 14,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/kirikcikikatelleme.png",
+    "question": "Kırıkları tespit etmek için atel kullanırken dikkat edilmesi gereken en önemli kural nedir?",
+    "options": [
+      { "text": "Atel sadece kırık bölgeyi kapsamalıdır.", "isTrue": false },
+      { "text": "Atel, kırığın altındaki ve üstündeki eklemleri de içine alacak şekilde yerleştirilmelidir.", "isTrue": true },
+      { "text": "Atel çok sıkı sarılmalıdır.", "isTrue": false },
+      { "text": "Atel yaraya direkt temas etmelidir.", "isTrue": false }
+    ]
+  },
+  {
+    "id": 15,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/kolkirigi.png",
+    "question": "Görseldeki gibi bir kol kırığında kolun boyuna asılmasının temel amacı nedir?",
+    "options": [
+      { "text": "Kırık kemik uçlarının kaynamasını sağlamak", "isTrue": false },
+      { "text": "Kolu hareketsiz hale getirerek ağrıyı azaltmak ve daha fazla zararı önlemek", "isTrue": true },
+      { "text": "Kan dolaşımını hızlandırmak", "isTrue": false },
+      { "text": "Kırığın mikrop kapmasını engellemek", "isTrue": false }
+    ]
+  },
+  {
+    "id": 16,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/koma.png",
+    "question": "Görselde gösterilen Koma (İyileşme) Pozisyonu hangi durumdaki yaralılara uygulanır?",
+    "options": [
+      { "text": "Kalbi durmuş olanlara", "isTrue": false },
+      { "text": "Bilinci kapalı fakat solunumu ve nabzı olanlara", "isTrue": true },
+      { "text": "Solunumu olmayanlara", "isTrue": false },
+      { "text": "Omurga kırığı olanlara", "isTrue": false }
+    ]
+  },
+  {
+    "id": 17,
+    "image_url": null,
+    "question": "Burun kanaması olan bir kişiye ilk yardımda başa hangi pozisyon verilmelidir?",
+    "options": [
+      { "text": "Baş geriye doğru eğilir.", "isTrue": false },
+      { "text": "Baş dik tutulur ve hafifçe öne eğilir.", "isTrue": true },
+      { "text": "Baş sağa veya sola çevrilir.", "isTrue": false },
+      { "text": "Baş aşağıya sarkıtılır.", "isTrue": false }
+    ]
+  },
+  {
+    "id": 18,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/rentelmanevrasi.png",
+    "question": "Görseldeki Rentek Manevrası, hangi şüphe durumunda yaralıyı araçtan çıkarmak için kullanılır?",
+    "options": [
+      { "text": "Kalp krizi şüphesi", "isTrue": false },
+      { "text": "Omurga yaralanması şüphesi", "isTrue": true },
+      { "text": "Şeker koması şüphesi", "isTrue": false },
+      { "text": "Zehirlenme şüphesi", "isTrue": false }
+    ]
+  },
+  {
+    "id": 19,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/sedye_ile_tasima.png",
+    "question": "Sedye ile yaralı taşırken genel kural olarak yaralının gidiş yönü nasıl olmalıdır?",
+    "options": [
+      { "text": "Başı önde olacak şekilde", "isTrue": false },
+      { "text": "Ayakları önde olacak şekilde", "isTrue": true },
+      { "text": "Yan olarak", "isTrue": false },
+      { "text": "Yüzüstü olarak", "isTrue": false }
+    ]
+  },
+  {
+    "id": 20,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/silvestermetodu.png",
+    "question": "Görselde anlatılan Silvester metodu hangi amaçla uygulanır?",
+    "options": [
+      { "text": "Yaralıyı taşımak", "isTrue": false },
+      { "text": "Suni solunum yaptırmak", "isTrue": true },
+      { "text": "Kanamayı durdurmak", "isTrue": false },
+      { "text": "Şoka girmesini önlemek", "isTrue": false }
+    ]
+  },
+  {
+    "id": 21,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/sok.png",
+    "question": "Şok pozisyonunda ayakların 30 cm kadar yukarı kaldırılmasının amacı nedir?",
+    "options": [
+      { "text": "Yaralının daha rahat nefes almasını sağlamak", "isTrue": false },
+      { "text": "Beyin ve hayati organlara kan gitmesini artırmak", "isTrue": true },
+      { "text": "Bacaklardaki kanamayı durdurmak", "isTrue": false },
+      { "text": "Vücut sıcaklığını düşürmek", "isTrue": false }
+    ]
+  },
+  {
+    "id": 22,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/temelyasamdestegi.png",
+    "question": "Temel Yaşam Desteği (TYD) uygulamasında, yetişkin bir hastada kalp masajı ve suni solunum döngüsü nasıldır?",
+    "options": [
+      { "text": "15 kalp masajı, 2 solunum", "isTrue": false },
+      { "text": "30 kalp masajı, 2 solunum", "isTrue": true },
+      { "text": "5 kalp masajı, 1 solunum", "isTrue": false },
+      { "text": "30 kalp masajı, 5 solunum", "isTrue": false }
+    ]
+  },
+  {
+    "id": 23,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/triyajrenk.png",
+    "question": "Görseldeki triyaj renk kodlarına göre, hayati tehlikesi bulunan ve hemen müdahale edilmesi gereken yaralılar hangi renk ile kodlanır?",
+    "options": [
+      { "text": "Yeşil", "isTrue": false },
+      { "text": "Sarı", "isTrue": false },
+      { "text": "Kırmızı", "isTrue": true },
+      { "text": "Siyah", "isTrue": false }
+    ]
+  },
+  {
+    "id": 24,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/yanik.png",
+    "question": "Yanıklarda ilk yardım olarak yapılması gereken ilk uygulama nedir?",
+    "options": [
+      { "text": "Yanık bölgesine yoğurt veya diş macunu sürmek", "isTrue": false },
+      { "text": "Yanık bölgesini en az 20 dakika akan soğuk su altında tutmak", "isTrue": true },
+      { "text": "Oluşan su kabarcıklarını patlatmak", "isTrue": false },
+      { "text": "Yanık üzerine direkt buz uygulamak", "isTrue": false }
+    ]
+  },
+  {
+    "id": 25,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/suniteneffus.png",
+    "question": "Yetişkin birine suni solunum yaparken her bir soluk ne kadar sürede verilmelidir?",
+    "options": [
+      { "text": "Yaklaşık 1 saniye", "isTrue": true },
+      { "text": "3 saniye", "isTrue": false },
+      { "text": "5 saniye", "isTrue": false },
+      { "text": "Nefes yettiği kadar uzun", "isTrue": false }
+    ]
+  },
+  {
+    "id": 26,
+    "image_url": null,
+    "question": "Aşağıdakilerden hangisi Temel Yaşam Desteği'nin ilk adımıdır?",
+    "options": [
+      { "text": "Kalp masajına başlamak", "isTrue": false },
+      { "text": "Olay yeri ve kendi güvenliğini sağlamak, ardından bilinç kontrolü yapmak", "isTrue": true },
+      { "text": "Suni solunum yapmak", "isTrue": false },
+      { "text": "Yaralıya şok pozisyonu vermek", "isTrue": false }
+    ]
+  },
+  {
+    "id": 27,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/triyajrenk.png",
+    "question": "Çoklu yaralanmalı bir kaza yerinde yapılan triyajda 'SARI' renk kodu ne anlama gelir?",
+    "options": [
+      { "text": "Hafif yaralı, bekleyebilir.", "isTrue": false },
+      { "text": "Durumu acil ancak bekleyebilir, ikinci öncelikli.", "isTrue": true },
+      { "text": "Çok acil, birinci öncelikli.", "isTrue": false },
+      { "text": "Ölmüş veya kurtarılamaz.", "isTrue": false }
+    ]
+  },
+  {
+    "id": 28,
+    "image_url": null,
+    "question": "Aşağıdakilerden hangisi şok belirtilerinden biri değildir?",
+    "options": [
+      { "text": "Hızlı ve zayıf nabız", "isTrue": false },
+      { "text": "Ciltte kızarıklık ve sıcaklık artışı", "isTrue": true },
+      { "text": "Endişe ve huzursuzluk", "isTrue": false },
+      { "text": "Soluk ve nemli cilt", "isTrue": false }
+    ]
+  },
+  {
+    "id": 29,
+    "image_url": null,
+    "question": "Bilinci kapalı bir yetişkinin solunum yolu, en sık hangi sebeple tıkanır?",
+    "options": [
+      { "text": "Yutulan yabancı bir cisim", "isTrue": false },
+      { "text": "Dilin geriye kayması", "isTrue": true },
+      { "text": "Kırık dişler", "isTrue": false },
+      { "text": "Kan pıhtısı", "isTrue": false }
+    ]
+  },
+  {
+    "id": 30,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/damarkanamalari.png",
+    "question": "Görseldeki gibi bir dış kanamada, kanayan bölgeye baskı uygulandıktan sonra yapılması gerekenlerden biri de kanayan uzvu kalp seviyesinden yukarı kaldırmaktır. Bunun sebebi nedir?",
+    "options": [
+      { "text": "Ağrıyı azaltmak", "isTrue": false },
+      { "text": "Kanayan bölgeye giden kan basıncını azaltarak kanamayı yavaşlatmak", "isTrue": true },
+      { "text": "Mikrop kapmasını önlemek", "isTrue": false },
+      { "text": "Kırık varsa tespit etmeyi kolaylaştırmak", "isTrue": false }
+    ]
+  },
+  {
+    "id": 31,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/sandalye_ile_tasima.png",
+    "question": "Görseldeki taşıma tekniği, özellikle hangi durumlarda yaralıyı taşımak için kullanılır?",
+    "options": [
+      { "text": "Düz ve uzun mesafelerde", "isTrue": false },
+      { "text": "Merdiven inip çıkarken", "isTrue": true },
+      { "text": "Omurga yaralanması şüphesi olduğunda", "isTrue": false },
+      { "text": "Tek ilk yardımcı olduğunda", "isTrue": false }
+    ]
+  },
+  {
+    "id": 32,
+    "image_url": null,
+    "question": "İlk yardımın temel amaçları hangi seçenekte doğru olarak verilmiştir?",
+    "options": [
+      { "text": "Teşhis, tedavi, ilaç verme", "isTrue": false },
+      { "text": "Sadece hastaneye ulaştırma", "isTrue": false },
+      { "text": "Hayatı korumak, durumun kötüleşmesini önlemek, iyileşmeyi kolaylaştırmak", "isTrue": true },
+      { "text": "Yaralıyı taşıma, temizleme, sarma", "isTrue": false }
+    ]
+  },
+  {
+    "id": 33,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/kopruteknigi.png",
+    "question": "Görselde anlatılan 'Köprü Tekniği' hangi amaçla kullanılır?",
+    "options": [
+      { "text": "Yaralıyı hızla tehlikeli bölgeden uzaklaştırmak için", "isTrue": false },
+      { "text": "Yaralının altına sedyeyi yerleştirmek için onu tek parça halinde kaldırmak", "isTrue": true },
+      { "text": "Bilinci açık yaralıyı oturtarak taşımak için", "isTrue": false },
+      { "text": "Yaralıya suni solunum yapmak için", "isTrue": false }
+    ]
+  },
+  {
+    "id": 34,
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/kasikteknigi.png",
+    "question": "Görseldeki 'Kaşık Tekniği', hangi durumlarda yaralıyı sedyeye aktarmak için tercih edilir?",
+    "options": [
+      { "text": "Yaralıya sadece bir taraftan ulaşılabildiği dar alanlarda", "isTrue": true },
+      { "text": "Yaralı merdivenlerdeyken", "isTrue": false },
+      { "text": "Yaralının bilinci açık ve ayaktayken", "isTrue": false },
+      { "text": "Yaralının ağır bir kanaması varken", "isTrue": false }
+    ]
+  },
+  {
+    "id": 35,
+    "image_url": null,
+    "question": "112 acil yardım hattı aranırken verilmesi gereken bilgiler arasında hangisi en az önceliklidir?",
+    "options": [
+      { "text": "Kesin yer ve adres bilgisi", "isTrue": false },
+      { "text": "Yaralının adı ve soyadı", "isTrue": true },
+      { "text": "Olayın tanımı ve yaralı sayısı/durumu", "isTrue": false },
+      { "text": "Arayan kişinin kimliği ve telefon numarası", "isTrue": false }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Aşağıdaki görsellerden hangisi, omurga yaralanması şüphesiyle yaralıyı araçtan çıkarmak için kullanılan 'Rentek Manevrası'nı göstermektedir?",
+    "options": [
+      { "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/itfayicetasima.png", "isTrue": false },
+      { "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/rentelmanevrasi.png", "isTrue": true },
+      { "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/altinbesik_tasima.png", "isTrue": false },
+      { "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/gerigeriyaralitasima.png", "isTrue": false }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Bilinci kapalı fakat solunumu olan bir yaralıya uygulanması gereken pozisyon aşağıdaki görsellerden hangisidir?",
+    "options": [
+      { "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/sok.png", "isTrue": false },
+      { "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/gogusyaralanmasipozisyonu.png", "isTrue": false },
+      { "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/koma.png", "isTrue": true },
+      { "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/sirtustupozisyonu.png", "isTrue": false }
+    ]
+  },
+  {
+    "id": 38,
+    "image_url": null,
+    "question": "Açık kırıklarda, yani kemik uçlarının cildi delerek dışarı çıktığı durumlarda ilk yardım nasıl olmalıdır?",
+    "options": [
+      { "text": "Kemiği içeri itip sargı beziyle sıkıca sarmak", "isTrue": false },
+      { "text": "Yara üzerine temiz ve nemli bir bez kapatıp hareket etmesini önlemek", "isTrue": true },
+      { "text": "Bol su ile yıkayıp dezenfekte etmek", "isTrue": false },
+      { "text": "Hiçbir şey yapmadan ambulansı beklemek", "isTrue": false }
+    ]
+  },
+  {
+    "id": 39,
+    "image_url": null,
+    "question": "Bebeklerde Temel Yaşam Desteği uygulamasında kalp masajı nereye ve nasıl yapılır?",
+    "options": [
+      { "text": "İki el üst üste göğsün ortasına", "isTrue": false },
+      { "text": "Tek elin ayası ile göğüs kemiğinin üst kısmına", "isTrue": false },
+      { "text": "İki meme başının ortasındaki hayali çizginin biraz altına iki parmakla", "isTrue": true },
+      { "text": "Başparmaklarla sırttan bastırarak", "isTrue": false }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Aşağıdaki görsellerden hangisi, bilinci açık bir yaralıyı iki ilk yardımcının kısa mesafede taşıması için kullandığı 'Altın Beşik' yöntemini göstermektedir?",
+    "options": [
+      { "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/kopruteknigi.png", "isTrue": false },
+      { "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/itfayicetasima.png", "isTrue": false },
+      { "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/kasikteknigi.png", "isTrue": false },
+      { "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/firstaid/altinbesik_tasima.png", "isTrue": true }
+    ]
+  }
+]

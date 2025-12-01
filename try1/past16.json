@@ -1,0 +1,1252 @@
+[
+    {
+        "id": 30750,
+        "category": "İlk Yardım Bilgisi",
+        "question": "Sürücüler neden ilk yardım bilgi ve becerisine sahip olmalıdır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Kendisinin ve yakınlarının sağlığını korumak için",
+                "isTrue": false
+            },
+            {
+                "text": "Çevredeki bulaşıcı hastalıklardan korunmak için",
+                "isTrue": false
+            },
+            {
+                "text": "Hastaları iyileştirici tıbbi tedaviyi uygulamak için",
+                "isTrue": false
+            },
+            {
+                "text": "Kazalarda hayat kurtarıcı ilk müdahaleyi yapabilmek için",
+                "isTrue": true
+            }
+        ],
+        "description": "İlk yardımın temel amacı, hayatı tehlikede olan yaralının durumunun kötüleşmesini engellemek ve tıbbi yardım gelene kadar temel yaşam desteği sağlamaktır. Sürücülerin bu bilgiye sahip olması, kaza anında doğru ve hayat kurtarıcı müdahaleyi yapabilmelerini sağlar."
+    },
+    {
+        "id": 30751,
+        "category": "İlk Yardım Bilgisi",
+        "question": "Kaza yerindeki araçtan, yaralının çıkarılmasında ilk aşama aşağıdakilerden hangisidir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Motorun durdurulup aracın sabitlenmesi",
+                "isTrue": true
+            },
+            {
+                "text": "Yaralının araçtan çıkarılabileceği çıkış yerlerinin sağlanması",
+                "isTrue": false
+            },
+            {
+                "text": "Yaralıyı taşımak için sedye getirilmesi",
+                "isTrue": false
+            },
+            {
+                "text": "Tıbbi yardım istenmesi",
+                "isTrue": false
+            }
+        ],
+        "description": "Kaza yerinde güvenliğin sağlanması ilk ve en önemli adımdır. Yaralıya müdahale etmeden önce aracın hareket etmesini ve yangın çıkmasını önlemek için motor durdurulmalı ve el freni çekilmelidir. Bu, hem ilk yardımcının hem de yaralının güvenliği için esastır."
+    },
+    {
+        "id": 30752,
+        "category": "İlk Yardım Bilgisi",
+        "question": "Bak Dinle - Hisset yönteminde \"Bak\" ne anlama gelir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Kaza bölgesinde yanıcı madde olup olmadığına bakılması",
+                "isTrue": false
+            },
+            {
+                "text": "Yaralının göğüs kafesinin inip kalktığına bakılması",
+                "isTrue": true
+            },
+            {
+                "text": "Yaralıda kırık olup olmadığına bakılması",
+                "isTrue": false
+            },
+            {
+                "text": "Kaç yaralı olduğuna bakılması",
+                "isTrue": false
+            }
+        ],
+        "description": "Temel yaşam desteği (TYD) sırasında kullanılan Bak-Dinle-Hisset yöntemi, solunumun varlığını kontrol etmek içindir. 'Bak', yaralının göğüs hareketlerine (solunum) bakılması, 'Dinle', solunum seslerinin dinlenmesi ve 'Hisset', yanak ile nefesinin hissedilmesi anlamına gelir."
+    },
+    {
+        "id": 30753,
+        "category": "İlk Yardım Bilgisi",
+        "question": "I- Ağızdan buruna\nII- Silvester (Göğüsten bastırma)\nIII- Holger-Nielsen (Sırttan bastırma)\nAğız-burun çevresinde kanama olan yaralılarda solunum durması söz konusu ise, yukarıdaki suni solunum yöntemlerinden hangileri uygulanabilir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Yalnız I",
+                "isTrue": false
+            },
+            {
+                "text": "I ve II",
+                "isTrue": false
+            },
+            {
+                "text": "II ve III",
+                "isTrue": true
+            },
+            {
+                "text": "I, II ve III",
+                "isTrue": false
+            }
+        ],
+        "description": "Ağız-burun çevresinde kanama veya yara varsa, ağızdan ya da burundan suni solunum yapılamaz. Bu durumda, yaralının sırtüstü veya yüzüstü yatırılarak göğüs veya sırttan bastırma (Silvester veya Holger-Nielsen) gibi manuel solunum yöntemleri uygulanmalıdır."
+    },
+    {
+        "id": 30754,
+        "category": "İlk Yardım Bilgisi",
+        "question": "Kırık ve çıkık bölgesine ilk yardım olarak aşağıdaki işlemlerden hangisi yapılır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Sürekli buzla ovulur.",
+                "isTrue": false
+            },
+            {
+                "text": "Kuvvetli masaj yapılır.",
+                "isTrue": false
+            },
+            {
+                "text": "Sıcak uygulama yapılır.",
+                "isTrue": false
+            },
+            {
+                "text": "Hareketsiz kalması sağlanır.",
+                "isTrue": true
+            }
+        ],
+        "description": "Kırık ve çıkıklarda en önemli ilk yardım kuralı, hasarlı bölgenin hareketsizliğini sağlamaktır (tespit etmek). Hareket, damar, sinir ve çevre dokulara zarar verebilir veya kırık uçlarının ayrılmasına neden olabilir. Masaj veya sıcak uygulama yapılmaz, buz uygulaması soğuk kompres şeklinde yapılabilir ancak öncelik tespittir."
+    },
+    {
+        "id": 30755,
+        "category": "İlk Yardım Bilgisi",
+        "question": "İlk yardımcı olarak bulunduğunuz bir kaza yerinde, kazazedelerden birinin dirseği ile omzu arasında kalp atımları ile uyumlu ve fışkırır tarzda bir kanamasının olduğunu gözlemlediniz.\nBu durumda hangi tür kanama olduğunu düşünürsünüz?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Toplardamar",
+                "isTrue": false
+            },
+            {
+                "text": "Atardamar",
+                "isTrue": true
+            },
+            {
+                "text": "Kılcal damar",
+                "isTrue": false
+            },
+            {
+                "text": "Yırtık kanaması",
+                "isTrue": false
+            }
+        ],
+        "description": "Atardamar kanamaları, kalpten vücuda temiz kanı yüksek basınçla taşıdıkları için, fışkırır tarzda ve kalp atışlarıyla uyumlu (kesik kesik) akarlar. Rengi açık kırmızıdır ve en tehlikeli kanama türüdür."
+    },
+    {
+        "id": 30756,
+        "category": "İlk Yardım Bilgisi",
+        "question": "Aşağıdaki durumların hangisinde, kazazedenin bacaklarının 30 cm yukarı kaldırılması doğru bir ilk yardım uygulamasıdır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Şok durumu",
+                "isTrue": true
+            },
+            {
+                "text": "Beyin kanaması",
+                "isTrue": false
+            },
+            {
+                "text": "Ayak bölgesinden yılan sokması",
+                "isTrue": false
+            },
+            {
+                "text": "Akciğer zedelenmesi ve kanaması",
+                "isTrue": false
+            }
+        ],
+        "description": "Şok pozisyonunda (Ayaklar 30 cm yukarı kaldırılır, hasta sırtüstü yatırılır) amaç, bacaklardaki kanı hayati organlara (beyin, kalp) yönlendirerek şokun etkilerini azaltmaktır. Kafa travması veya iç organ kanamalarında (Akciğer, beyin) bu pozisyon uygulanmaz, hastanın durumu ağırlaştırabilir."
+    },
+    {
+        "id": 30757,
+        "category": "İlk Yardım Bilgisi",
+        "question": "Başa alınan darbe sonucu kulağından kan gelen kazazedeye aşağıdakilerden hangisi uygulanır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Oturtulup kulağına pamuk tıkanır.",
+                "isTrue": false
+            },
+            {
+                "text": "Sırtüstü yatırılarak ayakları yukarı kaldırılır.",
+                "isTrue": false
+            },
+            {
+                "text": "Kan akan bölgesi altta kalacak şekilde yan yatırılır ve kanama engellenmez.",
+                "isTrue": true
+            },
+            {
+                "text": "Kan akan bölgesi üstte kalacak şekilde yan yatırılır ve kulak pamukla tıkanır.",
+                "isTrue": false
+            }
+        ],
+        "description": "Kulağından kan gelen yaralıda, kafa travması ve muhtemel beyin kanaması şüphesi vardır. Kanamanın beyin içindeki basıncı düşürmesi için dışarı akmasına izin verilir. Kanayan kulak altta kalacak şekilde yan yatırılır ve kulak ASLA tıkanmaz."
+    },
+    {
+        "id": 30758,
+        "category": "İlk Yardım Bilgisi",
+        "question": "Aşağıdakilerden hangisi 3. derece (ağır) yanıkların bir göstergesidir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Yanık bölgesinde sinir harabiyetinin olması",
+                "isTrue": true
+            },
+            {
+                "text": "Kılcal damar uçları ve sinir uçlarının açık olması",
+                "isTrue": false
+            },
+            {
+                "text": "Deri bütünlüğünün bozulmaması ve derinin gergin olması",
+                "isTrue": false
+            },
+            {
+                "text": "Derinin kuru ve ağrılı olması",
+                "isTrue": false
+            }
+        ],
+        "description": "3. derece yanıklar derinin tüm katmanlarını etkiler ve sinir uçlarını tahrip eder. Bu nedenle yanan bölgede acı hissi kalmaz (sinir harabiyeti). Deri kömürleşmiş, beyaz veya kuru görünür. Diğer şıklar daha hafif (1. ve 2. derece) yanıklarla ilişkilidir."
+    },
+    {
+        "id": 30759,
+        "category": "İlk Yardım Bilgisi",
+        "question": "Aşağıdakilerden hangisinin yarı oturuş veya oturuş pozisyonunda taşınması sakıncalıdır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Kaburgalarında kırık olanlar",
+                "isTrue": false
+            },
+            {
+                "text": "Kalça kemiğinde kırık olanlar",
+                "isTrue": true
+            },
+            {
+                "text": "Açık göğüs yaralanması olanlar",
+                "isTrue": false
+            },
+            {
+                "text": "Kol ve köprücük kemiğinde kırık olanlar",
+                "isTrue": false
+            }
+        ],
+        "description": "Kalça kemiği (veya omurga) kırığı olanlar, hareket ettirildiklerinde omuriliğe zarar verme riski taşıdıklarından ASLA oturtulmaz veya yarı oturuş pozisyonunda taşınmaz. Bu tip yaralılar düz, sert bir zeminde hareketsiz (tespit edilmiş) olarak taşınmalıdır. Açık göğüs yaralanması olanlar ise genellikle yarı oturur pozisyonda taşınır."
+    },
+    {
+        "id": 30760,
+        "category": "İlk Yardım Bilgisi",
+        "question": "Bebeklerde (0-12 ay) tek ilk yardımcı ile yapılan dış kalp masajı uygulanması ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Göğüs ve sırt kısmının iki elin arasına alınarak sıkıştırılması",
+                "isTrue": false
+            },
+            {
+                "text": "Sağ elin yumruk hâline getirilerek göğüs merkezine vurulması",
+                "isTrue": false
+            },
+            {
+                "text": "Göğüs kemiği 6 cm aşağıya inecek şekilde basınç uygulanması",
+                "isTrue": false
+            },
+            {
+                "text": "Bir elin orta ve yüzük parmağı ile göğüs kemiği 4 cm aşağıya inecek şekilde basınç uygulanması",
+                "isTrue": true
+            }
+        ],
+        "description": "Bebeklerde dış kalp masajı, genellikle iki parmakla (orta ve yüzük parmağı) yapılır. Göğüs kemiğine yaklaşık 4 cm (göğüs yüksekliğinin 1/3'ü) baskı uygulanır. Bebek hassas olduğu için tek el veya yumruk kullanılmaz ve 6 cm baskı çok fazladır."
+    },
+    {
+        "id": 30761,
+        "category": "İlk Yardım Bilgisi",
+        "question": "Çok sayıda yaralının olduğu kazalarda en son taşınması gereken yaralı aşağıdakilerden hangisidir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Bilincini kaybeden",
+                "isTrue": false
+            },
+            {
+                "text": "Açık karın yarası olan",
+                "isTrue": false
+            },
+            {
+                "text": "Solunum zorluğu olan",
+                "isTrue": false
+            },
+            {
+                "text": "Ayak bileğinde çıkık olan",
+                "isTrue": true
+            }
+        ],
+        "description": "Çok yaralının olduğu durumda triaj (yaralı sınıflandırması) yapılır. Öncelik, hayati tehlikesi en yüksek olanlara verilir (bilinci kapalı, solunum zorluğu, açık karın yarası gibi). Ayak bileği çıkığı, hayati tehlike taşımadığı için kırmızı (acil) değil, yeşil veya sarı kategoride yer alır ve en son taşınır."
+    },
+    {
+        "id": 30762,
+        "category": "İlk Yardım Bilgisi",
+        "question": "Sindirim yolu zehirlenmelerinde aşağıdaki uygulamalardan hangisinin yapılması yanlıştır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Bilinci yerinde olmayan hastanın kusturulmaması",
+                "isTrue": false
+            },
+            {
+                "text": "Zehirlenmenin neden kaynaklandığının belirlenmesi",
+                "isTrue": false
+            },
+            {
+                "text": "Besin zehirlenmesi 2 saati geçmiş ise hastanın hemen kusturulması",
+                "isTrue": true
+            },
+            {
+                "text": "Çamaşır suyu zehirlenmelerinde hastanın kesinlikle kusturulmaması ve bol su içirilmesi",
+                "isTrue": false
+            }
+        ],
+        "description": "Besin zehirlenmelerinde zehrin mideden barsağa geçme süresi olduğu için 2 saati geçmiş vakalarda kusturmanın faydası azalır ve yasal bir zorunluluk olmadıkça veya bir hekim tavsiye etmedikçe kusturma yapılmamalıdır. Ayrıca, zehirlenen madde aşındırıcı (çamaşır suyu gibi) ise kusturmak, yemek borusuna bir kez daha zarar vereceği için kesinlikle yapılmaz. Bilinci kapalı kişinin kusturulması ise boğulma riskini artırır."
+    },
+    {
+        "id": 30763,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Yetkililerce, araçla ilgili belgelerin alınıp aracın belirli bir yere çekilerek trafikten alıkonulmasına ne denir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Trafik suçu",
+                "isTrue": false
+            },
+            {
+                "text": "Trafik terörü",
+                "isTrue": false
+            },
+            {
+                "text": "Trafikten men",
+                "isTrue": true
+            },
+            {
+                "text": "Trafik kusuru",
+                "isTrue": false
+            }
+        ],
+        "description": "Trafikten men, mevzuata aykırı durumlarda (sigortanın olmaması, teknik eksiklikler, yetkisiz araç kullanma vb.) yetkili makamlarca aracın trafiğe çıkmasının geçici olarak engellenmesi ve bir otoparka çekilmesi işlemidir."
+    },
+    {
+        "id": 30764,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Aralıklı olarak yanıp sönen sarı ışıkta sürücü ne yapmalıdır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Yavaş ve dikkatli geçmeli",
+                "isTrue": true
+            },
+            {
+                "text": "Durmalı, yolu kontrol ettikten sonra geçmeli",
+                "isTrue": false
+            },
+            {
+                "text": "Yolun açık olduğunu bildirdiği için hızlı geçmeli",
+                "isTrue": false
+            },
+            {
+                "text": "Yolun kapalı olduğunu bildirdiği için bu yola girmemeli",
+                "isTrue": false
+            }
+        ],
+        "description": "Aralıklı (fasılalı) yanıp sönen sarı ışık, 'Dikkatli ol, yol ver' anlamını taşır ve sürücüyü yavaşlamaya, dikkatli olmaya ve kavşakta geçiş hakkı kurallarına uymaya davet eder. Bu, 'Yol Ver' levhası ile eşdeğerdir. Durup beklemeyi gerektiren işaret, aralıklı yanıp sönen kırmızı ışıktır."
+    },
+    {
+        "id": 30765,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Trafik görevlisinin hangi hareketi seri bir şekilde yapması \"trafiğin hızlanması\" işaretidir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-16a.png",
+                "isTrue": false
+            },
+            {
+                "text": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-16b.png",
+                "isTrue": true
+            },
+            {
+                "text": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-16c.png",
+                "isTrue": false
+            },
+            {
+                "text": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-16d.png",
+                "isTrue": false
+            }
+        ],
+        "description": "Trafiğin hızlanması işareti, trafik polisinin kolunu yukarı kaldırıp, avuç içi yukarı bakacak şekilde hızlanmasını istediği yöne doğru ritmik hareketlerle aşağı yukarı sallamasıdır."
+    },
+    {
+        "id": 30766,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Aşağıdakilerden hangisi iki yönlü trafik işaret levhasıdır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-17a.png",
+                "isTrue": true
+            },
+            {
+                "text": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-17b.png",
+                "isTrue": false
+            },
+            {
+                "text": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-17c.png",
+                "isTrue": false
+            },
+            {
+                "text": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-17d.png",
+                "isTrue": false
+            }
+        ],
+        "description": "İki yönlü trafik işaret levhası (üçgen içinde iki ters ok), tek yönlü bir yoldan sonra karşıdan gelen trafiğin olduğu iki yönlü bir yola girileceğini bildirir ve sürücüyü dikkatli olmaya davet eder."
+    },
+    {
+        "id": 30767,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Şekildeki trafik işaretini gören sürücünün aşağıdakilerden hangisini yapması doğrudur?",
+        "image_url": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-18.png",
+        "options": [
+            {
+                "text": "Hızını artırması",
+                "isTrue": false
+            },
+            {
+                "text": "Sert fren yapması",
+                "isTrue": false
+            },
+            {
+                "text": "Vitesi boşa alması",
+                "isTrue": false
+            },
+            {
+                "text": "Uygun vitesle inmesi",
+                "isTrue": true
+            }
+        ],
+        "description": "Görseldeki işaret, tehlikeli bir eğimli iniş olduğunu bildirir. Sürücü, hızını azaltmalı, yokuş aşağı inerken motorun frenleme gücünden yararlanmak için uygun (küçük) bir vitese geçmeli ve frenleri sürekli kullanmaktan kaçınmalıdır (sürtünme frenlerinin aşırı ısınmasını önlemek için)."
+    },
+    {
+        "id": 30768,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?",
+        "image_url": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-19.png",
+        "options": [
+            {
+                "text": "Geçme yasağının sona erdiğini",
+                "isTrue": false
+            },
+            {
+                "text": "Kamyonlar için geçme yasağının sona erdiğini",
+                "isTrue": false
+            },
+            {
+                "text": "Kamyonların öndeki taşıtı geçmesinin yasak olduğunu",
+                "isTrue": true
+            },
+            {
+                "text": "Tehlikeli madde taşıyan taşıtın giremeyeceğini",
+                "isTrue": false
+            }
+        ],
+        "description": "Yuvarlak, kırmızı çerçeveli daire içinde kamyon figürünün önündeki bir otomobili geçme hareketinin yasaklandığını gösteren işaret, kamyon sürücüleri için öndeki araçları sollamanın yasak olduğunu bildirir."
+    },
+    {
+        "id": 30769,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?",
+        "image_url": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-20.png",
+        "options": [
+            {
+                "text": "Azami hız sınırını",
+                "isTrue": true
+            },
+            {
+                "text": "Geçme yasağı sonunu",
+                "isTrue": false
+            },
+            {
+                "text": "Taşıtın giremeyeceğini",
+                "isTrue": false
+            },
+            {
+                "text": "Hız sınırlaması sonunu",
+                "isTrue": false
+            }
+        ],
+        "description": "Yuvarlak ve kırmızı çerçeveli daire içinde bir hız değeri (örneğin 50) gösteren bu levha, o yolda o değerden daha yüksek bir hızla gidilemeyeceğini, yani azami hız sınırını bildirir."
+    },
+    {
+        "id": 30770,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Taşıt yolu veya park alanında, kaplama üzerine çizilen şekildeki sembolün anlamı nedir?",
+        "image_url": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-21.png",
+        "options": [
+            {
+                "text": "Özürlü sürücü yolu",
+                "isTrue": false
+            },
+            {
+                "text": "Özürlü taşıtı giremez",
+                "isTrue": false
+            },
+            {
+                "text": "Özürlü sürücüler çıkabilir",
+                "isTrue": false
+            },
+            {
+                "text": "Özürlü sürücüler için park yeri",
+                "isTrue": true
+            }
+        ],
+        "description": "Tekerlekli sandalye sembolü, engelli sürücülere veya engelli taşıyan araçlara ayrılmış özel bir park yerini belirtir. Bu yerler, engellilerin araca iniş binişlerini kolaylaştırmak amacıyla genellikle diğer park yerlerinden daha geniştir."
+    },
+    {
+        "id": 30771,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Yerleşim birimleri dışındaki kara yollarında, hangi tür taşıtların öndeki araçla olan takip mesafesi 50 metreden az olmamalıdır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Otomobil",
+                "isTrue": false
+            },
+            {
+                "text": "Motosiklet",
+                "isTrue": false
+            },
+            {
+                "text": "Tehlikeli madde taşıyan taşıt",
+                "isTrue": true
+            },
+            {
+                "text": "Lastik tekerlekli traktör",
+                "isTrue": false
+            }
+        ],
+        "description": "Tehlikeli madde taşıyan araçlar, yerleşim yerleri dışındaki yollarda diğer araçlarla aralarında en az 50 metre takip mesafesi bırakmak zorundadır. Bu kural, olası bir kazada tehlikeli maddenin yayılmasını ve diğer araçlara zarar vermesini önlemek için alınmış ek bir güvenlik önlemidir."
+    },
+    {
+        "id": 30772,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Öndeki araç geçilirken geçiş şeridinde ne kadar seyredilmelidir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Geçilen aracın boyunun yarısı kadar",
+                "isTrue": false
+            },
+            {
+                "text": "Geçilen aracın ön hizasına gelinceye kadar",
+                "isTrue": false
+            },
+            {
+                "text": "Karşıdan gelen araçla karşılaşıncaya kadar",
+                "isTrue": false
+            },
+            {
+                "text": "Geriyi görme aynasından geçilen araç görülünceye kadar",
+                "isTrue": true
+            }
+        ],
+        "description": "Geçiş (sollama) manevrası, geçilen araç geriyi görme aynasından tamamen görülene kadar sürdürülmeli ve güvenli bir mesafe bırakıldıktan sonra şerit değiştirilerek eski şeride dönülmelidir. Bu kural, geçilen araca tehlike yaratmamak için konulmuştur."
+    },
+    {
+        "id": 30773,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Manevra yapacak sürücü aşağıdakilerden hangisini yapmalıdır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "İşaret verdiği anda manevraya başlamalı",
+                "isTrue": false
+            },
+            {
+                "text": "Ön, arka ve yanlardaki trafiği kontrol etmeli",
+                "isTrue": true
+            },
+            {
+                "text": "Manevraya başladıktan sonra işaret vermeli",
+                "isTrue": false
+            },
+            {
+                "text": "Manevra bitmeden önce işaret vermeyi sona erdirmeli",
+                "isTrue": false
+            }
+        ],
+        "description": "Manevra (şerit değiştirme, park etme, dönüş yapma) yapacak sürücü, öncelikle trafik akışını ve çevresini (kör noktalar dahil) kontrol etmeli, uygun sinyal ile niyetini belirtmeli ve manevrayı güvenli bir şekilde tamamlamalıdır."
+    },
+    {
+        "id": 30774,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Şekle göre 2 numaralı aracın sürücüsü ne yapmalıdır?",
+        "image_url": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-22.png",
+        "options": [
+            {
+                "text": "Korna çalıp 1 numaralı aracın geçmesini beklemeli",
+                "isTrue": false
+            },
+            {
+                "text": "Geçiş hakkını 1 numaralı araca vermeli",
+                "isTrue": false
+            },
+            {
+                "text": "Geçiş hakkını kendisi kullanmalı",
+                "isTrue": true
+            },
+            {
+                "text": "Hızını artırıp kavşağa girmeli",
+                "isTrue": false
+            }
+        ],
+        "description": "Görseldeki 1 numaralı araç, tali yolda olup \"Dur\" levhası ile kavşağa yaklaşmaktadır. 2 numaralı araç ise ana yoldadır. Kavşaklarda geçiş üstünlüğü ana yoldaki araca aittir. Dolayısıyla 2 numaralı araç geçiş hakkını kendisi kullanmalıdır, 1 numaralı araç ise 2'ye yol vermelidir."
+    },
+    {
+        "id": 30775,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Aksine bir işaret yoksa, eğimsiz iki yönlü dar yolda, otomobil ile kamyonun karşılaşması hâlinde, hangisi diğerine yol vermelidir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Otomobil, kamyona",
+                "isTrue": false
+            },
+            {
+                "text": "Kamyon, otomobile",
+                "isTrue": true
+            },
+            {
+                "text": "Trafik yoğunluğu az olan yöndeki taşıt, diğerine",
+                "isTrue": false
+            },
+            {
+                "text": "Trafik yoğunluğu fazla olan yöndeki taşıt, diğerine",
+                "isTrue": false
+            }
+        ],
+        "description": "Eğimsiz dar yollarda karşılaşmalarda, öncelik sırası genel olarak küçüğün büyüğe yol vermesi şeklinde değildir. Kamyon, otobüs, iş makinesi gibi ağır ve büyük araçlar, otomobil gibi daha küçük ve hafif araçlara yol vermek zorundadır."
+    },
+    {
+        "id": 30776,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Şekle göre aşağıdakilerden hangisi kesinlikle söylenir?",
+        "image_url": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-23.png",
+        "options": [
+            {
+                "text": "1. aracın doğru geçen araca yol vermediği",
+                "isTrue": true
+            },
+            {
+                "text": "1. aracın dönüş işaretini yanlış kullandığı",
+                "isTrue": false
+            },
+            {
+                "text": "2. aracın takip mesafesine uymadığı",
+                "isTrue": false
+            },
+            {
+                "text": "2. aracın yanlış şeritte seyrettiği",
+                "isTrue": false
+            }
+        ],
+        "description": "Şekildeki kaza, 1 numaralı aracın 'Dur' levhası bulunan tali yoldan ana yola kontrolsüz bir şekilde girerek, geçiş hakkı kendisine ait olan 2 numaralı araca çarptığını göstermektedir. Bu durumda kaza, kesinlikle 1 numaralı aracın yol vermeme kuralını ihlal etmesinden kaynaklanmıştır."
+    },
+    {
+        "id": 30777,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Yerleşim yeri içindeki yollarda, aksine bir işaret yoksa, minibüs, otobüs ve kamyonlar için azami hız saatte kaç kilometredir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "20",
+                "isTrue": false
+            },
+            {
+                "text": "30",
+                "isTrue": false
+            },
+            {
+                "text": "40",
+                "isTrue": false
+            },
+            {
+                "text": "50",
+                "isTrue": true
+            }
+        ],
+        "description": "Yerleşim yeri içindeki yollarda (il/ilçe merkezleri), aksine bir trafik işareti yoksa tüm motorlu taşıtlar için azami hız sınırı 50 km/s'tir. Minibüs, otobüs ve kamyonlar da bu genel kurala tabidir."
+    },
+    {
+        "id": 30778,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Şekle göre sürücü nasıl davranmalıdır?",
+        "image_url": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-24.png",
+        "options": [
+            {
+                "text": "Geçiş hakkını yayaya vermeli",
+                "isTrue": true
+            },
+            {
+                "text": "Korna çalıp yayayı durdurmalı",
+                "isTrue": false
+            },
+            {
+                "text": "Geçiş hakkını kendi kullanmalı",
+                "isTrue": false
+            },
+            {
+                "text": "Yayanın yola girmesini önlemeli",
+                "isTrue": false
+            }
+        ],
+        "description": "Trafik kurallarına göre, sürücüler yaya ve okul geçitlerine yaklaşırken yavaşlamak ve geçit üzerindeki yayalara daima ilk geçiş hakkını vermek zorundadır."
+    },
+    {
+        "id": 30779,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "B sınıfı sürücü belgesi ile aşağıdaki araçlardan hangisi kullanılamaz?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Traktör",
+                "isTrue": false
+            },
+            {
+                "text": "Motosiklet",
+                "isTrue": true
+            },
+            {
+                "text": "Minibüs",
+                "isTrue": false
+            },
+            {
+                "text": "Kamyonet",
+                "isTrue": false
+            }
+        ],
+        "description": "B sınıfı sürücü belgesi; otomobil, kamyonet, motorlu bisiklet (M), traktör (F) ve 3,500 kg'a kadar olan minibüsleri kullanma yetkisi verir. Ancak motosiklet (A1, A2, A) sınıfı araçları kullanmak için ayrı bir ehliyet gerekir."
+    },
+    {
+        "id": 30780,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Geceleri kara yolunda karşı yönden gelen sürücülerin gözlerini kamaştırmamak için hangi ışıkların yakılması zorunludur?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Park ışıklarının",
+                "isTrue": false
+            },
+            {
+                "text": "Acil uyarı ışıklarının",
+                "isTrue": false
+            },
+            {
+                "text": "Uzağı gösteren ışıkların",
+                "isTrue": false
+            },
+            {
+                "text": "Yakını gösteren ışıkların",
+                "isTrue": true
+            }
+        ],
+        "description": "Karşı yönden gelen bir araçla karşılaşırken veya önümüzdeki aracı yakından takip ederken, diğer sürücülerin gözlerini kamaştırmamak için uzağı gösteren (uzun) ışıklar yerine yakını gösteren (kısa) ışıklar yakılmalıdır."
+    },
+    {
+        "id": 30781,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Park hâlindeki araca çarpan sürücünün aşağıdakilerden hangisini yapması yanlıştır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Trafik görevlisine haber vermesi",
+                "isTrue": false
+            },
+            {
+                "text": "Zarar verdiği aracın sahibini bulması",
+                "isTrue": false
+            },
+            {
+                "text": "Zarar fazla değilse olay yerinden uzaklaşması",
+                "isTrue": true
+            },
+            {
+                "text": "Aracın sahibini bulamaz ise yazılı bilgi bırakması",
+                "isTrue": false
+            }
+        ],
+        "description": "Trafik kazalarında (maddi hasarlı da olsa), olayın yerini terk etmek yasal bir sorumluluğun ihlalidir. Park halindeki araca zarar veren sürücü, aracı sahibini bulmalı veya bir not bırakarak iletişim bilgilerini ve durumu bildirmelidir. Görevlilere haber vermek de sorumluluktur."
+    },
+    {
+        "id": 30782,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Aşağıdaki taşıtların hangisinde yangın söndürme cihazının bulundurulması zorunludur?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-33a.png",
+                "isTrue": true
+            },
+            {
+                "text": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-33b.png",
+                "isTrue": false
+            },
+            {
+                "text": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-33c.png",
+                "isTrue": false
+            },
+            {
+                "text": "https://ehliyetim.github.io/konu-anlatimi/images2/meb2015ocak-33d.png",
+                "isTrue": false
+            }
+        ],
+        "description": "Yangın söndürme cihazı bulundurma zorunluluğu; otobüs, kamyon, çekici, tehlikeli madde taşıyan araçlar ve tarım amaçlı kullanılanlar dışındaki lastik tekerlekli traktörler ve özel amaçlı taşıtlarda, ayrıca tescil ve trafik belgelerinde otomobil olarak geçmeyen tüm motorlu araçlarda (kamyonet, minibüs, taksi, vb.) bulunmaktadır. Otomobillerde bulundurma zorunluluğu olsa da, şıklardaki otobüs bu zorunluluğa kesinlikle tabidir."
+    },
+    {
+        "id": 30783,
+        "category": "Trafik ve Çevre Bilgisi",
+        "question": "Aşağıdakilerden hangisi özel araçların gereksiz kullanılmasının sonuçlarındandır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Trafik yoğunluğunun azalması",
+                "isTrue": false
+            },
+            {
+                "text": "Trafik yoğunluğunun artması",
+                "isTrue": true
+            },
+            {
+                "text": "Gürültü kirliliğinin önlenmesi",
+                "isTrue": false
+            },
+            {
+                "text": "Yakıt tüketiminin azalması",
+                "isTrue": false
+            }
+        ],
+        "description": "Özel araçların gereksiz ve yaygın kullanımı, trafiğe çıkan araç sayısını artırarak trafik yoğunluğunu artırır, buna bağlı olarak gürültü ve çevre kirliliğine yol açar ve yakıt israfına neden olur."
+    },
+    {
+        "id": 30784,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "Aşağıdakilerden hangisi araçlarda egzoz gaz emisyonlarını azaltmak için kullanılır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Egzoz supabı",
+                "isTrue": false
+            },
+            {
+                "text": "Emme manifoldu",
+                "isTrue": false
+            },
+            {
+                "text": "Egzoz manifoldu",
+                "isTrue": false
+            },
+            {
+                "text": "Katalitik konvertör",
+                "isTrue": true
+            }
+        ],
+        "description": "Katalitik konvertör (dönüştürücü), egzoz sisteminde yer alan ve motordan çıkan zararlı egzoz gazlarını (karbon monoksit, hidrokarbonlar, azot oksitler) kimyasal reaksiyonlarla daha az zararlı bileşenlere (karbon dioksit, su buharı, azot) dönüştürerek çevreye salınan emisyon miktarını azaltır."
+    },
+    {
+        "id": 30785,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "Motorlar zamanlarına göre nasıl sınıflandırılır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Bir ve iki zamanlı",
+                "isTrue": false
+            },
+            {
+                "text": "Bir ve üç zamanlı",
+                "isTrue": false
+            },
+            {
+                "text": "İki ve dört zamanlı",
+                "isTrue": true
+            },
+            {
+                "text": "Üç ve dört zamanlı",
+                "isTrue": false
+            }
+        ],
+        "description": "Motorlar, çalışma prensiplerine göre temel olarak iki ana gruba ayrılır: Dört zamanlı motorlar (Emme, Sıkıştırma, Ateşleme, Egzoz) ve İki zamanlı motorlar. Otomobillerde genellikle dört zamanlı motorlar kullanılır."
+    },
+    {
+        "id": 30786,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "Aküden gelen düşük gerilimi, buji tırnakları arasında kıvılcım oluşturacak şekilde yüksek gerilime dönüştüren ateşleme sistemi elemanına ne ad verilir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Kontak anahtarı",
+                "isTrue": false
+            },
+            {
+                "text": "Endüksiyon bobini",
+                "isTrue": true
+            },
+            {
+                "text": "Konjektör",
+                "isTrue": false
+            },
+            {
+                "text": "Sigorta",
+                "isTrue": false
+            }
+        ],
+        "description": "Endüksiyon bobini (ateşleme bobini), ateşleme sisteminin temel elemanıdır. Aküden gelen 12 voltluk düşük gerilimi, bujilerin yakıt-hava karışımını ateşleyebilmesi için gereken binlerce voltluk yüksek gerilime dönüştürür."
+    },
+    {
+        "id": 30787,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "Aşağıdakilerden hangisi motorun sarsıntılı çalışmasına sebep olur?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Buji kablolarından birinin çıkmış olması",
+                "isTrue": true
+            },
+            {
+                "text": "Yakıt seviyesinin düşük olması",
+                "isTrue": false
+            },
+            {
+                "text": "Yağ seviyesinin normal olması",
+                "isTrue": false
+            },
+            {
+                "text": "Akünün şarjlı olması",
+                "isTrue": false
+            }
+        ],
+        "description": "Buji kablosunun çıkması, ilgili silindirde ateşlemenin gerçekleşmemesine ve dolayısıyla motorun düzenli çalışmamasına (tekleyerek, sarsıntılı) neden olur. Yakıt/yağ seviyesi veya akü şarjı sarsıntılı çalışmanın doğrudan nedeni değildir."
+    },
+    {
+        "id": 30788,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "Aşağıdakilerden hangisi akünün kendiliğinden boşalmasına neden olur?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Kutup başlarının sıkı olması",
+                "isTrue": false
+            },
+            {
+                "text": "Kutup başlarının temiz olması",
+                "isTrue": false
+            },
+            {
+                "text": "Akü reklam etiketinin yırtılması",
+                "isTrue": false
+            },
+            {
+                "text": "Üst kısmında pisliklerin birikmesi",
+                "isTrue": true
+            }
+        ],
+        "description": "Akünün üst kısmında biriken kir, toz veya nem, akünün pozitif ve negatif kutup başları arasında istenmeyen bir iletkenlik (köprü) oluşturarak akü enerjisinin yavaş yavaş harcanmasına (kendiliğinden boşalmaya) neden olur. Kutup başlarının temiz ve sıkı olması ise elektrik kaçağını engeller."
+    },
+    {
+        "id": 30789,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "Yakıt içerisinde toz, su veya pislik varsa motor nasıl çalışır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Rölantide",
+                "isTrue": false
+            },
+            {
+                "text": "Yüksek devirde",
+                "isTrue": false
+            },
+            {
+                "text": "Zengin karışımla",
+                "isTrue": false
+            },
+            {
+                "text": "Düzensiz, tekleyerek",
+                "isTrue": true
+            }
+        ],
+        "description": "Yakıt sistemi içerisindeki su veya pislikler, yakıtın silindirlere düzenli olarak ulaşmasını engeller. Bu durum, motorun düzensiz çalışmasına, teklemesine, güç kaybına ve hatta motorun durmasına neden olabilir. Bu nedenle yakıt filtresi önemlidir."
+    },
+    {
+        "id": 30790,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "Aracın belli bir mesafe gidebileceği kadar yakıtın araç üzerinde bulundurulmasına yarayan parça hangisidir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Bagaj",
+                "isTrue": false
+            },
+            {
+                "text": "Karter",
+                "isTrue": false
+            },
+            {
+                "text": "Yakıt deposu",
+                "isTrue": true
+            },
+            {
+                "text": "Torpido",
+                "isTrue": false
+            }
+        ],
+        "description": "Yakıt deposu, aracın hareket etmesi için gerekli olan akaryakıtın (benzin, motorin, LPG) güvenli ve belirli bir miktarının depolandığı parçadır."
+    },
+    {
+        "id": 30791,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "Aşağıdakilerden hangisi araçta yakıt tasarrufu sağlar?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Ani duruş ve kalkışlardan kaçınmak",
+                "isTrue": true
+            },
+            {
+                "text": "Devamlı büyük vites ile gitmek",
+                "isTrue": false
+            },
+            {
+                "text": "Devamlı düşük vites ile gitmek",
+                "isTrue": false
+            },
+            {
+                "text": "Ani duruş, kalkış yapmak",
+                "isTrue": false
+            }
+        ],
+        "description": "Yakıt tasarrufu için sakin ve akıcı sürüş önemlidir. Ani hızlanma (kalkış) ve ani yavaşlama (duruş) motorun daha fazla yakıt harcamasına neden olur. Motorun uygun devir aralığında kullanılması ve hız sabitleme (cruise control) gibi sistemlerin kullanılması tasarruf sağlar."
+    },
+    {
+        "id": 30792,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "Aşağıdakilerden hangisi karterdeki yağı basınçlı olarak motor parçalarına gönderir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Yağ müşiri",
+                "isTrue": false
+            },
+            {
+                "text": "Yağ pompası",
+                "isTrue": true
+            },
+            {
+                "text": "Yağ filtresi",
+                "isTrue": false
+            },
+            {
+                "text": "Yağ çubuğu",
+                "isTrue": false
+            }
+        ],
+        "description": "Yağ pompası, motorun alt kısmında (karterde) bulunan motor yağını alarak, motorun hareketli parçalarına (yataklar, pistonlar, supaplar vb.) gerekli basınçta gönderen ve böylece yağlama işlemini sağlayan temel parçadır."
+    },
+    {
+        "id": 30793,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "Temiz kireçsiz su ile donmayı ve korozyonu önleyici antifriz karışımından oluşan sıvıya ne ad verilir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Motor soğutma suyu",
+                "isTrue": true
+            },
+            {
+                "text": "Akü elektroliti",
+                "isTrue": false
+            },
+            {
+                "text": "Fren hidroliği",
+                "isTrue": false
+            },
+            {
+                "text": "Motor yağı",
+                "isTrue": false
+            }
+        ],
+        "description": "Motor soğutma suyu (genellikle su ve antifriz karışımı), motorun aşırı ısınmasını engellemek için radyatör ve motor içinde dolaşan sıvıdır. Antifriz, suyun donma noktasını düşürür ve kaynama noktasını yükseltirken, sistemdeki paslanmayı (korozyonu) da önler."
+    },
+    {
+        "id": 30794,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "Fren pedalına basıldığında fren lambaları yanmıyorsa sebebi aşağıdakilerden hangisidir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Flaşör arızalıdır.",
+                "isTrue": false
+            },
+            {
+                "text": "Distribütör arızalıdır.",
+                "isTrue": false
+            },
+            {
+                "text": "Fren müşiri arızalıdır.",
+                "isTrue": true
+            },
+            {
+                "text": "Geri vites müşiri arızalıdır.",
+                "isTrue": false
+            }
+        ],
+        "description": "Fren müşiri (anahtarı), fren pedalının hemen üzerinde bulunur ve pedala basıldığında elektrik devresini tamamlayarak fren lambalarının yanmasını sağlar. Lambalar yanmıyorsa, genellikle müşir arızalıdır veya lambaların sigortası atmıştır."
+    },
+    {
+        "id": 30795,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "Motorlu araçlarda eski ve aşınmış lastiklerin kullanılması aşağıdakilerden hangisine sebep olabilir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Yağışlı havalarda kaza tehlikesinin artmasına",
+                "isTrue": true
+            },
+            {
+                "text": "Egzozdan siyah renkte duman çıkmasına",
+                "isTrue": false
+            },
+            {
+                "text": "Motorun sarsıntılı çalışmasına",
+                "isTrue": false
+            },
+            {
+                "text": "Motorun yağ yakmasına",
+                "isTrue": false
+            }
+        ],
+        "description": "Aşınmış lastikler, diş derinlikleri azaldığı için özellikle yağışlı veya kaygan zeminlerde yol tutuşunu ciddi şekilde azaltır, su birikintilerinde kızaklama (aquaplaning) riskini artırır ve fren mesafesini uzatır, bu da kaza tehlikesini önemli ölçüde artırır."
+    },
+    {
+        "id": 30796,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "Şarj sisteminin gerilimini sınırlandıran parça aşağıdakilerden hangisidir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Sigorta",
+                "isTrue": false
+            },
+            {
+                "text": "Regülatör",
+                "isTrue": true
+            },
+            {
+                "text": "Karbüratör",
+                "isTrue": false
+            },
+            {
+                "text": "Marş motoru",
+                "isTrue": false
+            }
+        ],
+        "description": "Regülatör (konjektör), şarj sisteminin (alternatör/dinamo) ürettiği elektrik akımının voltajını, akünün ve aracın elektrik sisteminin zarar görmeyeceği güvenli bir aralıkta (genellikle 13.8V - 14.4V) tutmakla yükümlü parçadır."
+    },
+    {
+        "id": 30797,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "Araçta çalışmayan bir elektrik sistemi olduğu zaman ilk kontrol edilmesi gereken yer aşağıdakilerden hangisidir?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Fan motoru",
+                "isTrue": false
+            },
+            {
+                "text": "Far anahtarı",
+                "isTrue": false
+            },
+            {
+                "text": "Yakıt göstergesi",
+                "isTrue": false
+            },
+            {
+                "text": "Sigorta kutusu",
+                "isTrue": true
+            }
+        ],
+        "description": "Bir elektrikli sistem çalışmadığında (far, korna, radyo, silecek vb.), ilk kontrol edilmesi gereken yer sigorta kutusudur. Sigortalar, sistemi aşırı akımdan korur ve arıza durumunda devreyi keserek yanar. Sigortayı kontrol etmek en basit ve en olası çözüm yoludur."
+    },
+    {
+        "id": 30798,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "Hangi durumda debriyaj pedalının kullanılması uygun olmaz?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Vites değişimi sırasında",
+                "isTrue": false
+            },
+            {
+                "text": "Aracın durdurulması anında",
+                "isTrue": false
+            },
+            {
+                "text": "Hızın azaltılması için frenleme anında",
+                "isTrue": true
+            },
+            {
+                "text": "Aracın ilk harekete başlatılması sırasında",
+                "isTrue": false
+            }
+        ],
+        "description": "Frenleme yaparken (özellikle hız azaltmak amacıyla) debriyaja basmak, motorun frenleme etkisini devre dışı bırakır (rölantiye alma) ve fren mesafesinin uzamasına neden olur. Vites küçültülerek motor freni ile birlikte frenleme yapılması en uygunudur."
+    },
+    {
+        "id": 30799,
+        "category": "Motor ve Araç Tekniği Bilgisi",
+        "question": "ABS fren sistemi, frenleme sırasında tekerleklerin kilitlenmesini önler.\nBuna göre ABS fren sistemi, frenleme sırasında aşağıdakilerden hangisini artırır?",
+        "image_url": null,
+        "options": [
+            {
+                "text": "Aracın yol üzerinde kaymasını",
+                "isTrue": false
+            },
+            {
+                "text": "Direksiyon hakimiyetini",
+                "isTrue": true
+            },
+            {
+                "text": "Virajlarda savrulmayı",
+                "isTrue": false
+            },
+            {
+                "text": "Trafik kazası riskini",
+                "isTrue": false
+            }
+        ],
+        "description": "ABS (Kilitlenmeyi Önleyici Fren Sistemi), sert frenlemede tekerleklerin kilitlenmesini engelleyerek sürücünün aracı yönlendirme (direksiyon hakimiyeti) yeteneğini korur. Tekerlekler kilitlenmediği için araç kaymaz, savrulma ve kaza riski azalır."
+    }
+]

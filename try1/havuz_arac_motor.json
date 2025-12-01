@@ -1,0 +1,2603 @@
+[
+   {
+      "id": 3801,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motorun çalışması için ilk hareketi veren parça aşağıdakilerden hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Alternatör", "isTrue": false },
+        { "text": "Marş motoru", "isTrue": true },
+        { "text": "Yağ pompası", "isTrue": false },
+        { "text": "Su pompası (Devirdaim)", "isTrue": false }
+      ],
+      "description": "Marş motoru, kontak anahtarı çevrildiğinde aküden aldığı elektrik enerjisiyle volan dişlisini döndürerek motora ilk dönme hareketini verir ve motorun çalışmasını başlatır."
+    },
+    {
+      "id": 3802,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Resimde gösterilen ikaz ışığı yandığında sürücü ne yapmalıdır?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.png",
+      "options": [
+        { "text": "Hemen durup motoru stop etmelidir.", "isTrue": true },
+        { "text": "Hızını artırarak servise gitmelidir.", "isTrue": false },
+        { "text": "Dörtlü ikaz lambalarını yakarak yola devam etmelidir.", "isTrue": false },
+        { "text": "Araç motor devrini yükseltmelidir.", "isTrue": false }
+      ],
+      "description": "Bu ışık, motor yağ basıncının kritik seviyede düştüğünü gösterir. Motorun ciddi hasar görmemesi (yatak sarmaması) için araç derhal güvenli bir yere çekilmeli ve motor stop edilmelidir."
+    },
+    {
+      "id": 3803,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Akü üzerinde bulunan (+) ve (-) sembolleri ne anlama gelir?",
+      "image_url": null,
+      "options": [
+        { "text": "Akünün üretim ve son kullanma tarihini", "isTrue": false },
+        { "text": "Akünün pozitif (+) ve negatif (-) kutup başlarını", "isTrue": true },
+        { "text": "Sıcak ve soğuk iklim performansını", "isTrue": false },
+        { "text": "Dolu ve boş durumunu", "isTrue": false }
+      ],
+      "description": "Bu işaretler, elektrik devrelerinin doğru bağlanması için hayati önem taşıyan pozitif (+) ve negatif (-) terminalleri (kutup başlarını) gösterir. Yanlış bağlantı aracın elektrik sistemine ciddi zarar verebilir."
+    },
+    {
+      "id": 3804,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motor soğutma suyunun sıcaklığını sürücüye bildiren gösterge aşağıdakilerden hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.png", "isTrue": false },
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.png", "isTrue": false },
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.png", "isTrue": true },
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dpf.png", "isTrue": false }
+      ],
+      "description": "Hararet göstergesi, motor soğutma sıvısının sıcaklığını izler. İbrenin kırmızı bölgeye gelmesi, motorun aşırı ısındığını (hararet yaptığını) gösterir ve ciddi bir arıza belirtisidir."
+    },
+    {
+      "id": 3805,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Görseldeki parça aşağıdaki sistemlerden hangisine aittir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/havafiltresi.jpg",
+      "options": [
+        { "text": "Yakıt sistemi", "isTrue": false },
+        { "text": "Yağlama sistemi", "isTrue": false },
+        { "text": "Soğutma sistemi", "isTrue": false },
+        { "text": "Emme (Hava) sistemi", "isTrue": true }
+      ],
+      "description": "Bu parça, motora giren havayı tozlardan ve kirlerden temizleyen hava filtresidir. Hava filtresi, emme sisteminin bir parçasıdır ve düzenli olarak temizlenmesi veya değiştirilmesi gerekir."
+    },
+    {
+      "id": 3806,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Fren yapıldığında aracın bir tarafa doğru çekmesi aşağıdakilerden hangisinden kaynaklanır?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorun yağ yakmasından", "isTrue": false },
+        { "text": "Fren ayarlarının bozuk olmasından veya lastik havalarının dengesizliğinden", "isTrue": true },
+        { "text": "Yakıt deposunun dolu olmasından", "isTrue": false },
+        { "text": "Debriyaj balatasının aşınmasından", "isTrue": false }
+      ],
+      "description": "Frenleme anında aracın bir yöne çekmesinin en yaygın sebebi, o yöndeki frenlerin diğer tarafa göre daha iyi tutmasıdır. Bu durum fren ayarlarının bozuk olduğunu gösterir. Ayrıca, lastik hava basınçlarının dengesiz olması da benzer bir duruma yol açabilir."
+    },
+    {
+      "id": 3807,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araçta yakıt tasarrufu sağlamak için aşağıdakilerden hangisi yapılmalıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Ani duruş ve kalkışlardan kaçınmak", "isTrue": true },
+        { "text": "Yüksek devirde araç kullanmak", "isTrue": false },
+        { "text": "Klimayı sürekli açık konumda kullanmak", "isTrue": false },
+        { "text": "Araçta gereksiz yük bulundurmak", "isTrue": false }
+      ],
+      "description": "Sakin ve öngörülü sürüş (ani hızlanma ve frenlerden kaçınmak), motoru gereksiz yere zorlamaz ve yakıt tüketimini önemli ölçüde azaltır. Buna 'ekonomik sürüş' denir."
+    },
+    {
+      "id": 3808,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Dizel motorlarda yakıt sisteminin hava yapmasının en yaygın sebebi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorun aşırı ısınması", "isTrue": false },
+        { "text": "Akü kutup başlarının oksitlenmesi", "isTrue": false },
+        { "text": "Depodaki yakıtın tamamen bitmesi", "isTrue": true },
+        { "text": "Yağ seviyesinin azalması", "isTrue": false }
+      ],
+      "description": "Dizel motorların yakıt sistemi, içinde hava olmayacak şekilde çalışır. Depodaki yakıt tamamen bittiğinde, yakıt pompası yakıt yerine hava çeker ve bu hava yakıt borularına dolarak sistemin hava yapmasına neden olur. Bu durumda motor çalışmaz veya düzensiz çalışır."
+    },
+    {
+      "id": 3809,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Periyodik bakımda, araç içine giren havayı temizleyen ve genellikle değiştirilen parça hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Yağ filtresi", "isTrue": false },
+        { "text": "Hava filtresi", "isTrue": false },
+        { "text": "Polen filtresi", "isTrue": true },
+        { "text": "Yakıt filtresi", "isTrue": false }
+      ],
+      "description": "Polen filtresi (kabin filtresi), dışarıdaki toz, polen ve diğer partikülleri süzerek araç kabinine temiz hava girmesini sağlar. Zamanla tıkandığı için periyodik bakımlarda değiştirilmesi tavsiye edilir."
+    },
+    {
+      "id": 3810,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aracın gösterge panelinde resimdeki ikaz ışığı yanıyorsa muhtemel arıza nedir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.png",
+      "options": [
+        { "text": "Motor hararet yapmıştır.", "isTrue": false },
+        { "text": "Fren hidroliği azalmıştır.", "isTrue": false },
+        { "text": "Şarj sistemi arızalıdır, akü şarj olmuyordur.", "isTrue": true },
+        { "text": "Lastik basıncı düşüktür.", "isTrue": false }
+      ],
+      "description": "Bu akü (batarya) sembolü, motor çalışırken yandığında şarj sisteminde bir sorun olduğunu belirtir. Genellikle alternatör (şarj dinamosu) arızalanmış veya V kayışı kopmuş/gevşemiştir. Araç aküyü şarj etmiyor, mevcut elektrikle gidiyordur ve kısa sürede akü bitecektir."
+    },
+    {
+      "id": 3811,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi 4 zamanlı bir motorun zamanlarından biri değildir?",
+      "image_url": null,
+      "options": [
+        { "text": "Emme zamanı", "isTrue": false },
+        { "text": "Sıkıştırma zamanı", "isTrue": false },
+        { "text": "Marş zamanı", "isTrue": true },
+        { "text": "Egzoz zamanı", "isTrue": false }
+      ],
+      "description": "Dört zamanlı motorların çalışma çevrimi; 1. Emme, 2. Sıkıştırma, 3. Ateşleme (İş), 4. Egzoz zamanlarından oluşur. Marş zamanı, motorun çalışmasını başlatan bir eylemdir, çevrimin bir parçası değildir."
+    },
+    {
+      "id": 3812,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Kışın aşırı soğuklarda motorun donmasını önleyen sıvı aşağıdakilerden hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor yağı", "isTrue": false },
+        { "text": "Fren hidroliği", "isTrue": false },
+        { "text": "Antifriz", "isTrue": true },
+        { "text": "Cam suyu", "isTrue": false }
+      ],
+      "description": "Antifriz, motor soğutma suyuna eklenerek suyun donma noktasını düşürür. Bu sayede, kışın eksi derecelerde suyun donarak genleşmesi ve motor bloğunu veya radyatörü çatlatması engellenmiş olur."
+    },
+    {
+      "id": 3813,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Lastik değiştirilirken, kriko ile araç kaldırıldıktan sonra ilk olarak ne yapılmalıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Bijon somunları sökülür.", "isTrue": true },
+        { "text": "Yeni lastik takılır.", "isTrue": false },
+        { "text": "El freni indirilir.", "isTrue": false },
+        { "text": "Bijon somunları sıkılır.", "isTrue": false }
+      ],
+      "description": "Lastik değiştirme sırası: 1. El freni çekilir, vitese takılır, takoz konur. 2. Bijonlar yerde hafifçe gevşetilir. 3. Kriko ile araç kaldırılır. 4. Bijonlar tamamen sökülür ve lastik çıkarılır."
+    },
+    {
+      "id": 3814,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Egzozdan mavi renkli duman çıkması neyin belirtisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorun yağ yaktığının", "isTrue": true },
+        { "text": "Yakıtın bittiğinin", "isTrue": false },
+        { "text": "Karışımın zengin olduğunun", "isTrue": false },
+        { "text": "Motorun soğuk olduğunun", "isTrue": false }
+      ],
+      "description": "Egzozdan çıkan mavi duman, motor yağının segmanlardan veya supap contalarından sızarak yanma odasına girdiğini ve yakıtla birlikte yandığını gösterir. Bu durum motorun yağ eksiltmesine neden olur."
+    },
+    {
+      "id": 3815,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Fren pedalına basıldığında, fren lambalarından hiçbiri yanmıyorsa sebebi ne olabilir?",
+      "image_url": null,
+      "options": [
+        { "text": "Fren hidroliği tamdır.", "isTrue": false },
+        { "text": "Fren müşürü arızalıdır.", "isTrue": true },
+        { "text": "Fren balataları yenidir.", "isTrue": false },
+        { "text": "Fren sistemi hava yapmıştır.", "isTrue": false }
+      ],
+      "description": "Fren pedalına basıldığında lambaların yanmasını sağlayan elektrik anahtarına 'fren müşürü' denir. Eğer lambaların hepsi aynı anda yanmıyorsa, ilk kontrol edilmesi gereken yer bu müşür veya lambaların bağlı olduğu sigortadır."
+    },
+    {
+      "id": 3816,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motor yağı ne zaman ve nasıl kontrol edilmelidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor çalışırken", "isTrue": false },
+        { "text": "Araç yokuş aşağı dururken", "isTrue": false },
+        { "text": "Motor stop edildikten sonra 4-5 dakika beklenip, araç düz zemindeyken", "isTrue": true },
+        { "text": "Motor çok sıcakken hemen", "isTrue": false }
+      ],
+      "description": "Doğru bir yağ seviyesi ölçümü için, motor stop edildikten sonra yağın kartere süzülmesi için birkaç dakika beklenmelidir. Ayrıca aracın düz bir zeminde olması, yağ çubuğunun yanıltıcı bir seviye göstermesini engeller."
+    },
+    {
+      "id": 3817,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi güç aktarma organlarından biri değildir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/arac_guc_aktarim_organlari.png",
+      "options": [
+        { "text": "Şaft", "isTrue": false },
+        { "text": "Vites kutusu", "isTrue": false },
+        { "text": "Amortisör", "isTrue": true },
+        { "text": "Diferansiyel", "isTrue": false }
+      ],
+      "description": "Güç aktarma organları, motorun gücünü tekerleklere ileten sistemdir. Bunlar; debriyaj, vites kutusu, şaft, diferansiyel ve akslardır. Amortisör ise süspansiyon sisteminin bir parçasıdır."
+    },
+    {
+      "id": 3818,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Radyatör kapağı arızalı ise aşağıdakilerden hangisi meydana gelir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor yağ yakar.", "isTrue": false },
+        { "text": "Motor hararet yapar.", "isTrue": true },
+        { "text": "Fren hidroliği azalır.", "isTrue": false },
+        { "text": "Bijonlar gevşer.", "isTrue": false }
+      ],
+      "description": "Radyatör kapağı, sadece radyatörü kapatmakla kalmaz, aynı zamanda soğutma sistemindeki basıncı belirli bir seviyede tutarak suyun kaynama noktasını yükseltir. Kapak arızalıysa ve basıncı tutamazsa, su daha düşük sıcaklıkta kaynar ve motor hararet yapar."
+    },
+    {
+      "id": 3819,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdaki durumlardan hangisi, aracın muayeneden geçmesine engeldir?",
+      "image_url": null,
+      "options": [
+        { "text": "Cam suyu seviyesinin düşük olması", "isTrue": false },
+        { "text": "Fren sisteminin düzgün çalışmaması", "isTrue": true },
+        { "text": "Stepnenin (yedek lastik) olmaması", "isTrue": false },
+        { "text": "Radyoda parazit olması", "isTrue": false }
+      ],
+      "description": "Araç muayenelerinde (TÜVTÜRK), aracın trafik güvenliğini tehlikeye atabilecek durumlar 'Ağır Kusur' olarak değerlendirilir ve araç muayeneden geçemez. Fren sistemi, direksiyon sistemi ve aydınlatma gibi sistemlerin düzgün çalışması zorunludur."
+    },
+    {
+      "id": 3820,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araç lastiklerinin üzerinde bulunan ok işareti ne anlama gelir?",
+      "image_url": null,
+      "options": [
+        { "text": "Lastiğin markasını", "isTrue": false },
+        { "text": "Lastiğin dönüş yönünü", "isTrue": true },
+        { "text": "Lastiğin üretim tarihini", "isTrue": false },
+        { "text": "Lastiğin hız endeksini", "isTrue": false }
+      ],
+      "description": "Bazı lastiklerin (özellikle yönlü desene sahip olanların) yanaklarında bir ok işareti bulunur. Bu ok, lastiğin su tahliyesini ve yol tutuşunu en iyi şekilde yapabilmesi için, araç ileri giderken hangi yönde dönmesi gerektiğini gösterir."
+    },
+    {
+      "id": 3821,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Buji, hangi tip motorların ateşleme sisteminde bulunur?",
+      "image_url": null,
+      "options": [
+        { "text": "Sadece dizel motorlarda", "isTrue": false },
+        { "text": "Benzinli ve LPG'li motorlarda", "isTrue": true },
+        { "text": "Sadece LPG'li motorlarda", "isTrue": false },
+        { "text": "Tüm motor tiplerinde", "isTrue": false }
+      ],
+      "description": "Buji, sıkıştırılmış olan yakıt-hava karışımını bir kıvılcım ile ateşler. Bu ateşleme prensibi benzinli motorlara aittir. LPG'li araçlar da temelde benzinli motorlar olduğu için buji kullanırlar. Dizel motorlarda ise ateşleme, sıkıştırılarak aşırı ısıtılan havanın içine yakıt püskürtülmesiyle kendiliğinden olur."
+    },
+    {
+      "id": 3822,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Direksiyonu çevirirken bir zorlanma veya ses geliyorsa muhtemel arıza nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Lastik havaları normaldir.", "isTrue": false },
+        { "text": "Hidrolik direksiyon pompası arızalı veya hidrolik seviyesi düşüktür.", "isTrue": true },
+        { "text": "Fren balataları bitmiştir.", "isTrue": false },
+        { "text": "Motor yağı fazladır.", "isTrue": false }
+      ],
+      "description": "Hidrolik direksiyonlu araçlarda direksiyonun ağırlaşması ve çevirirken ses yapması, genellikle direksiyon pompası arızası, V kayışının gevşekliği veya sistemdeki hidrolik sıvısının azalmasından kaynaklanır."
+    },
+    {
+      "id": 3823,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araçların kış koşullarına hazırlanmasında aşağıdakilerden hangisi yapılır?",
+      "image_url": null,
+      "options": [
+        { "text": "Akü kontrolü ve antifriz ölçümü", "isTrue": true },
+        { "text": "Yaz lastikleri takılır.", "isTrue": false },
+        { "text": "Klima gazı doldurulur.", "isTrue": false },
+        { "text": "Boya koruma yapılır.", "isTrue": false }
+      ],
+      "description": "Kışın düşük sıcaklıklarda akünün performansı düşer ve motorun çalışması zorlaşır. Bu nedenle akünün durumu kontrol edilmelidir. Ayrıca, soğutma suyunun donmasını engellemek için antifriz seviyesi ve derecesi mutlaka kontrol edilmelidir."
+    },
+    {
+      "id": 3824,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Seyir halindeyken gösterge panelinde, resimdeki gibi bir ikaz ışığı yanarsa ne yapılmalıdır?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorarizali.png",
+      "options": [
+        { "text": "Önemsenmeyip yola devam edilmelidir.", "isTrue": false },
+        { "text": "Uygun bir yerde durup, araç bir servise gösterilmelidir.", "isTrue": true },
+        { "text": "Hız artırılarak ışığın sönmesi beklenmelidir.", "isTrue": false },
+        { "text": "Sadece yakıt alınmalıdır.", "isTrue": false }
+      ],
+      "description": "Bu, motor arıza lambasıdır. Motor kontrol ünitesinin (ECU), motorda, ateşleme, yakıt veya emisyon sisteminde bir sorun tespit ettiğini gösterir. Araç çalışmaya devam edebilir ancak daha büyük bir arızayı önlemek için en kısa zamanda bir servise kontrol ettirilmelidir."
+    },
+    {
+      "id": 3825,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdaki parçalardan hangisi, egzoz gazındaki ses ve gürültüyü azaltır?",
+      "image_url": null,
+      "options": [
+        { "text": "Egzoz manifoldu", "isTrue": false },
+        { "text": "Egzoz susturucusu", "isTrue": true },
+        { "text": "Katalitik konvertör", "isTrue": false },
+        { "text": "Emme manifoldu", "isTrue": false }
+      ],
+      "description": "Motorun çalışmasıyla ortaya çıkan yüksek basınçlı ve gürültülü egzoz gazları, egzoz susturucusu içindeki özel kanallardan geçirilerek ses dalgaları sönümlenir ve gürültü seviyesi yasal sınırlara indirilir."
+    },
+    {
+      "id": 3826,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Yağ filtresinin görevi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor yağını soğutmak", "isTrue": false },
+        { "text": "Motordaki yağı süzerek temizlemek", "isTrue": true },
+        { "text": "Motora giren havayı temizlemek", "isTrue": false },
+        { "text": "Yakıtı süzmek", "isTrue": false }
+      ],
+      "description": "Yağ filtresi, motor içinde dolaşan yağı, içindeki aşınma sonucu oluşan metal parçacıkları, kurum ve diğer pisliklerden süzerek temizler. Bu sayede motor parçalarının aşınmasını engeller ve motorun ömrünü uzatır."
+    },
+    {
+      "id": 3827,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Vites kutusu bakımında aşağıdakilerden hangisi kontrol edilir?",
+      "image_url": null,
+      "options": [
+        { "text": "Antifriz seviyesi", "isTrue": false },
+        { "text": "Yağ kaçağı ve seviyesi", "isTrue": true },
+        { "text": "Asit seviyesi", "isTrue": false },
+        { "text": "Elektrolit seviyesi", "isTrue": false }
+      ],
+      "description": "Vites kutusu (şanzıman) da hareketli parçalara sahip olduğu için içinde özel bir yağ bulunur. Bakımında, bu yağın seviyesi ve herhangi bir sızıntı (yağ kaçağı) olup olmadığı kontrol edilir."
+    },
+    {
+      "id": 3828,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi aracı kullanmaya başlamadan önce yapılması gereken bir kontrol değildir?",
+      "image_url": null,
+      "options": [
+        { "text": "Lastik hava basınçlarının gözle kontrolü", "isTrue": false },
+        { "text": "Yakıt seviyesinin kontrolü", "isTrue": false },
+        { "text": "Ayna ve koltuk ayarları", "isTrue": false },
+        { "text": "Buji ve kablolarının kontrolü", "isTrue": true }
+      ],
+      "description": "Sürücünün her sefere çıkmadan önce yapması gereken kontroller; lastiklerin, ışıkların, sıvı seviyelerinin (göstergeden) ve ayna-koltuk ayarlarının kontrolü gibi basit işlemlerdir. Buji ve kablolarının kontrolü ise bir uzmanlık gerektirir ve periyodik bakımların bir parçasıdır."
+    },
+    {
+      "id": 3829,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Termostat arızalanıp sürekli açık kalırsa ne olur?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor çok çabuk ısınır.", "isTrue": false },
+        { "text": "Motor çalışma sıcaklığına çok geç ulaşır.", "isTrue": true },
+        { "text": "Motor hararet yapar.", "isTrue": false },
+        { "text": "Motor yağ yakar.", "isTrue": false }
+      ],
+      "description": "Termostatın görevi, motorun çabuk ısınması için başlangıçta soğutma suyunun radyatöre gitmesini engellemektir. Eğer sürekli açık kalırsa, motor soğukken bile su sürekli radyatörde soğutulur. Bu da motorun ideal çalışma sıcaklığına ulaşmasını geciktirir, yakıt sarfiyatını ve aşınmaları artırır."
+    },
+    {
+      "id": 3830,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aracın direksiyonunda boşluk olmasının sebebi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Lastiklerin yeni olması", "isTrue": false },
+        { "text": "Rot başlarının aşınmış olması", "isTrue": true },
+        { "text": "Amortisörlerin sert olması", "isTrue": false },
+        { "text": "Motorun arızalı olması", "isTrue": false }
+      ],
+      "description": "Direksiyonda boşluk, direksiyon çevrildiği halde tekerleklerin hemen tepki vermemesi durumudur. Bunun en yaygın sebebi, direksiyon kutusu ile tekerlekler arasındaki bağlantıyı sağlayan rot başlarının veya diğer mafsalların zamanla aşınmasıdır."
+    },
+    {
+      "id": 3831,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motor çalışır durumdayken, yağ göstergesinde anormallik görülürse ne yapılır?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor devri yükseltilir.", "isTrue": false },
+        { "text": "Yola devam edilir.", "isTrue": false },
+        { "text": "Motor hemen durdurulur.", "isTrue": true },
+        { "text": "Araç yavaş sürülür.", "isTrue": false }
+      ],
+      "description": "Yağ göstergesi (yağ basınç ikaz ışığı), motorun can damarı olan yağlama sistemindeki en kritik uyarıdır. Bu ışık yanarsa, yağ basıncı yok veya çok düşük demektir. Motora saniyeler içinde büyük hasar vermemek için derhal motor durdurulmalıdır."
+    },
+    {
+      "id": 3832,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıda gösterilen (süspansiyon) sisteminin görevi nedir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/suspansiyon_sistemi.jpg",
+      "options": [
+        { "text": "Yakıt tüketimini azaltmak", "isTrue": false },
+        { "text": "Yolun yapısından kaynaklanan titreşim ve salınımları sönümlemek", "isTrue": true },
+        { "text": "Aracın daha hızlı gitmesini sağlamak", "isTrue": false },
+        { "text": "Direksiyonu hafifletmek", "isTrue": false }
+      ],
+      "description": "Süspansiyon sistemi (amortisörler ve yaylar), tekerlekler ile araç gövdesi arasında yer alır. Görevi, yoldaki bozukluklardan (çukur, tümsek) kaynaklanan darbeleri emerek aracın gövdesine ve yolculara daha az yansımasını sağlamak, sürüş konforunu ve yol tutuşunu artırmaktır."
+    },
+    {
+      "id": 3833,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araçta, sigortanın görevi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Benzini ateşlemek", "isTrue": false },
+        { "text": "Kısa devre olduğunda sistemi korumak", "isTrue": true },
+        { "text": "Aküyü şarj etmek", "isTrue": false },
+        { "text": "Motoru soğutmak", "isTrue": false }
+      ],
+      "description": "Sigorta, bir elektrik devresinde beklenenden yüksek bir akım geçtiğinde (kısa devre veya aşırı yüklenme), içindeki ince telin erimesiyle veya bir anahtarın atmasıyla devreyi kesen bir güvenlik elemanıdır. Bu sayede, bağlı olduğu cihazın ve aracın elektrik tesisatının yanmasını önler."
+    },
+    {
+      "id": 3834,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Debriyaj balatası ve baskısının aşınmasının en belirgin sonucu nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Aracın yakıt tüketimi azalır.", "isTrue": false },
+        { "text": "Aracın motoru stop eder.", "isTrue": false },
+        { "text": "Aracın çekişten düşmesi ve yokuşlarda zorlanması", "isTrue": true },
+        { "text": "Fren mesafesi uzar.", "isTrue": false }
+      ],
+      "description": "Debriyaj balatası aşındığında, motorun gücünü vites kutusuna tam olarak iletemez ve arada 'kaçırma' yapar. Bu durum, motor devri yükseldiği halde aracın hızlanmamasından, yani çekişten düşmesinden ve özellikle yokuşlarda zorlanmasından anlaşılır."
+    },
+    {
+      "id": 3835,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Şekildeki görseldeki sembol ne anlama gelir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/yakit_gostergesi.jpg",
+      "options": [
+        { "text": "Yakıt deposundaki yakıt miktarını", "isTrue": true },
+        { "text": "Motorun hararetini", "isTrue": false },
+        { "text": "Motorun devir sayısını", "isTrue": false },
+        { "text": "Akü şarj durumunu", "isTrue": false }
+      ],
+      "description": "Gösterge panelindeki bu pompa istasyonu sembolü, yakıt deposundaki yakıt miktarını gösterir. İbre 'F' (Full) harfine doğru ise depo dolu, 'E' (Empty) harfine doğru ise depo boş anlamına gelir."
+    },
+    {
+      "id": 3836,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araçlarda kullanılan stepne (yedek lastik) ne işe yarar?",
+      "image_url": null,
+      "options": [
+        { "text": "Aracın dengesini sağlamaya", "isTrue": false },
+        { "text": "Lastik patladığında değiştirilerek yola devam etmeyi sağlamaya", "isTrue": true },
+        { "text": "Kışın karlı yollarda kullanılmaya", "isTrue": false },
+        { "text": "Yakıt tasarrufu sağlamaya", "isTrue": false }
+      ],
+      "description": "Stepne, seyahat esnasında lastiklerden birinin patlaması veya hasar görmesi durumunda, geçici olarak onun yerine takılan ve en yakın lastikçiye kadar gidilmesini sağlayan yedek lastiktir."
+    },
+    {
+      "id": 3837,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, lastik basıncı düşük olan bir aracın olası sonuçlarından değildir?",
+      "image_url": null,
+      "options": [
+        { "text": "Yakıt tüketimi artar.", "isTrue": false },
+        { "text": "Lastikler kenarlarından aşınır.", "isTrue": false },
+        { "text": "Fren mesafesi kısalır.", "isTrue": true },
+        { "text": "Direksiyon hakimiyeti zorlaşır.", "isTrue": false }
+      ],
+      "description": "Düşük basınçlı lastik, yola daha fazla yayılarak sürtünmeyi artırır. Bu durum yakıt tüketimini artırır, direksiyonu ağırlaştırır ve lastiğin omuz (kenar) kısımlarının aşınmasına neden olur. Ayrıca yol tutuşu ve fren performansı olumsuz etkilenir, fren mesafesi uzar."
+    },
+    {
+      "id": 3838,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Katalitik konvertör hangi sistemin bir parçasıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Marş sistemi", "isTrue": false },
+        { "text": "Yağlama sistemi", "isTrue": false },
+        { "text": "Egzoz sistemi", "isTrue": true },
+        { "text": "Ateşleme sistemi", "isTrue": false }
+      ],
+      "description": "Katalitik konvertör, egzoz borusu üzerinde yer alır ve motordan çıkan zehirli gazları, içindeki kimyasal reaksiyonlar sayesinde daha az zararlı gazlara dönüştürerek emisyonları azaltır."
+    },
+    {
+      "id": 3839,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Otomatik vitesli araçlarda 'P' (Park) konumu ne işe yarar?",
+      "image_url": null,
+      "options": [
+        { "text": "Aracı geri vitese alır.", "isTrue": false },
+        { "text": "Aracı boşa alır.", "isTrue": false },
+        { "text": "Aracı park durumunda sabitlemek için şanzımanı kilitler.", "isTrue": true },
+        { "text": "Aracın spor modda çalışmasını sağlar.", "isTrue": false }
+      ],
+      "description": "'P' (Park) konumunda, vites kutusu (şanzıman) içindeki bir kilit mekanizması devreye girerek güç aktarma organlarını kilitler ve aracın hareket etmesini engeller. Araç park edilirken el freni ile birlikte kullanılır."
+    },
+    {
+      "id": 3840,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisinin periyodik olarak değiştirilmesi, araç motorunun performansını doğrudan etkiler?",
+      "image_url": null,
+      "options": [
+        { "text": "Cam silecekleri", "isTrue": false },
+        { "text": "Hava filtresi", "isTrue": true },
+        { "text": "Ayna camları", "isTrue": false },
+        { "text": "Kapı fitilleri", "isTrue": false }
+      ],
+      "description": "Tıkanmış bir hava filtresi, motorun yanma için ihtiyaç duyduğu havayı yeterli miktarda almasını engeller. Bu durum, motorun 'nefes alamamasına' benzetilebilir ve doğrudan performans düşüklüğüne (çekişin azalmasına) ve yakıt tüketiminin artmasına neden olur."
+    },
+    {
+      "id": 3841,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Akü takviyesi yapacak iki araçta voltaj değerleri nasıl olmalıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Farklı olmalıdır.", "isTrue": false },
+        { "text": "Aynı olmalıdır.", "isTrue": true },
+        { "text": "Boş akünün voltajı daha yüksek olmalıdır.", "isTrue": false },
+        { "text": "Dolu akünün voltajı daha düşük olmalıdır.", "isTrue": false }
+      ],
+      "description": "Akü takviyesi yapılabilmesi için her iki aracın da akü voltajının aynı olması gerekir. Genellikle binek otomobillerde bu değer 12 Volt'tur. 24 Volt'luk bir kamyondan 12 Volt'luk bir otomobile takviye yapmak, otomobilin elektrik sistemine zarar verir."
+    },
+    {
+      "id": 3842,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Lastik üzerindeki 'DOT' ile başlayan yazı ve rakamlar neyi ifade eder?",
+      "image_url": null,
+      "options": [
+        { "text": "Lastiğin balans ayarını", "isTrue": false },
+        { "text": "Lastiğin hız sınırını", "isTrue": false },
+        { "text": "Lastiğin üretim haftası ve yılını", "isTrue": true },
+        { "text": "Lastiğin hangi ülkeye ait olduğunu", "isTrue": false }
+      ],
+      "description": "DOT (Department of Transportation) kodunun son dört rakamı, lastiğin üretim tarihini belirtir. Örneğin '3523' kodu, lastiğin 2023 yılının 35. haftasında üretildiğini gösterir. Lastiklerin ömrü ortalama 5-6 yıl olduğu için bu tarih önemlidir."
+    },
+    {
+      "id": 3843,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Vantilatör (V) kayışı koparsa aşağıdakilerden hangisi ilk olarak meydana gelir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor anında stop eder.", "isTrue": false },
+        { "text": "Akü şarj ikaz ışığı yanar.", "isTrue": true },
+        { "text": "Motor yağı eksilir.", "isTrue": false },
+        { "text": "Frenler tutmaz.", "isTrue": false }
+      ],
+      "description": "V kayışı, krank milinden aldığı hareketi alternatöre ve su pompasına iletir. Kayış koptuğu anda alternatör dönemeyeceği için aküyü şarj etmeyi durdurur. Motor beyni bu durumu algılar ve gösterge panelinde akü şarj ikaz ışığını yakar. Ardından su pompası da duracağı için araç kısa sürede hararet yapacaktır."
+    },
+    {
+      "id": 3844,
+      "category": "Motor ve Araç Tekniği",
+      "question": "ABS fren sisteminin en önemli faydası nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Fren mesafesini her koşulda kısaltması", "isTrue": false },
+        { "text": "Ani frenlemede direksiyon hakimiyetini koruması", "isTrue": true },
+        { "text": "Fren balatalarının ömrünü uzatması", "isTrue": false },
+        { "text": "Aracın daha hızlı durmasını sağlaması", "isTrue": false }
+      ],
+      "description": "ABS (Anti-lock Braking System), sert fren anında tekerleklerin kilitlenmesini önler. Tekerlekler kilitlenmediği için araç kaymaz ve sürücü frene basarken aynı anda direksiyonu çevirerek engellerden kaçma (manevra yapma) şansına sahip olur. Bu, sistemin en büyük güvenlik avantajıdır."
+    },
+    {
+      "id": 3845,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, yağlama sisteminin parçasıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Karter ve yağ pompası", "isTrue": true },
+        { "text": "Buji ve distribütör", "isTrue": false },
+        { "text": "Alternatör ve konjektör", "isTrue": false },
+        { "text": "Radyatör ve termostat", "isTrue": false }
+      ],
+      "description": "Yağlama sistemi; yağa depoluk eden karter, yağı sisteme basan yağ pompası, yağı temizleyen yağ filtresi, yağ seviyesini gösteren yağ çubuğu ve yağ basıncını gösteren yağ müşüründen oluşur."
+    },
+    {
+      "id": 3846,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Soğutma sisteminde suyun azalmasının sebebi ne olabilir?",
+      "image_url": null,
+      "options": [
+        { "text": "Debriyajın kaçırması", "isTrue": false },
+        { "text": "Radyatör veya bağlantı hortumlarında sızıntı olması", "isTrue": true },
+        { "text": "Yakıtın kaliteli olması", "isTrue": false },
+        { "text": "Hava filtresinin tıkalı olması", "isTrue": false }
+      ],
+      "description": "Soğutma sistemi kapalı bir devredir ve normal şartlarda su eksiltmez. Eğer su seviyesinde azalma varsa, bu durum genellikle radyatörde, kalorifer peteğinde, devirdaim pompasında veya bağlantı hortumlarında bir delik veya sızıntı olduğunu gösterir."
+    },
+    {
+      "id": 3847,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Geri vites lambasının rengi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Kırmızı", "isTrue": false },
+        { "text": "Sarı", "isTrue": false },
+        { "text": "Beyaz", "isTrue": true },
+        { "text": "Mavi", "isTrue": false }
+      ],
+      "description": "Trafik kanunlarına göre, araçlarda geri vitese takıldığında yanan ve aracın geri manevra yaptığını diğer sürücülere ve yayalara bildiren lambanın rengi beyazdır."
+    },
+    {
+      "id": 3848,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Dizel bir araca yanlışlıkla benzin konulursa ilk yapılması gereken nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Araç çalıştırılmadan yakıt deposu boşaltılmalıdır.", "isTrue": true },
+        { "text": "Depoya dizel eklenerek yola devam edilmelidir.", "isTrue": false },
+        { "text": "Araç yüksek devirde çalıştırılarak yakıt atılmalıdır.", "isTrue": false },
+        { "text": "Motor yağı değiştirilmelidir.", "isTrue": false }
+      ],
+      "description": "Benzin, dizel yakıt sisteminin ihtiyaç duyduğu yağlayıcılık özelliğine sahip değildir. Araç çalıştırılırsa, enjektörler ve yakıt pompası gibi çok pahalı parçalar kısa sürede bozulur. Bu yüzden motor kesinlikle çalıştırılmamalı, depo profesyonelce boşaltılmalıdır."
+    },
+    {
+      "id": 3849,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Rot ayarı bozuk olan bir aracın en belirgin özelliği nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorun hararet yapması", "isTrue": false },
+        { "text": "Lastiklerin içten veya dıştan düzensiz aşınması", "isTrue": true },
+        { "text": "Egzozdan siyah duman atması", "isTrue": false },
+        { "text": "Vites geçişlerinin zorlaşması", "isTrue": false }
+      ],
+      "description": "Rot ayarı, tekerleklerin birbirine olan paralelliğini ifade eder. Bu ayar bozulduğunda tekerlekler yola tam basmaz ve sürüklenir. Bu durum, lastiklerin iç veya dış kısımlarının hızla ve düzensiz bir şekilde aşınmasına neden olur."
+    },
+    {
+      "id": 3850,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, karterin temel görevidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor yağına depoluk etmek", "isTrue": true },
+        { "text": "Vites dişlilerini muhafaza etmek", "isTrue": false },
+        { "text": "Soğutma suyunu depolamak", "isTrue": false },
+        { "text": "Yakıtı depolamak", "isTrue": false }
+      ],
+      "description": "Karter, motorun en alt kısmında bulunan ve genellikle sac veya alüminyumdan yapılmış bir haznedir. Temel görevi, motorun yağlama sisteminde kullanılan motor yağına depoluk etmek ve aynı zamanda soğumasına yardımcı olmaktır."
+    },
+   {
+      "id": 3851,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motor çalışırken gösterge panelinde şekildeki akü şarj ikaz ışığı yanıyorsa, arıza aşağıdakilerin hangisinde olabilir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.png",
+      "options": [
+        { "text": "Marş motorunda", "isTrue": false },
+        { "text": "Su pompasında", "isTrue": false },
+        { "text": "Yağ pompasında", "isTrue": false },
+        { "text": "Alternatörde (Şarj dinamosu)", "isTrue": true }
+      ],
+      "description": "Bu ışık, akünün şarj olmadığını gösterir. Motor çalışırken aküyü şarj eden ve aracın elektrik ihtiyacını karşılayan parça alternatördür. Bu ışığın yanması, genellikle alternatörün arızalı olduğunu veya V kayışının koptuğunu/gevşediğini gösterir."
+    },
+    {
+      "id": 3852,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Dört zamanlı bir benzinli motorda zamanların oluşum sırası aşağıdakilerden hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Emme - Sıkıştırma - Ateşleme (İş) - Egzoz", "isTrue": true },
+        { "text": "Sıkıştırma - Emme - Ateşleme - Egzoz", "isTrue": false },
+        { "text": "Ateşleme - Emme - Sıkıştırma - Egzoz", "isTrue": false },
+        { "text": "Emme - Ateşleme - Sıkıştırma - Egzoz", "isTrue": false }
+      ],
+      "description": "Benzinli motorlarda pistonun 4 hareketiyle bir iş çevrimi tamamlanır. Piston önce yakıt-hava karışımını silindire emer, sonra bu karışımı sıkıştırır, buji ile ateşleme yapılarak güç (iş) elde edilir ve son olarak yanan gazlar egzozdan atılır."
+    },
+    {
+      "id": 3853,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aracın lastiği değiştirilirken, krikonun altına aşağıdakilerden hangisinin konulması aracın yerle daha sağlam temas etmesini sağlar?",
+      "image_url": null,
+      "options": [
+        { "text": "İnce bir metal levha", "isTrue": false },
+        { "text": "Tuğla veya taş", "isTrue": false },
+        { "text": "Kalın bir tahta takoz", "isTrue": true },
+        { "text": "Hiçbir şey konulmaz", "isTrue": false }
+      ],
+      "description": "Lastik değiştirilirken, özellikle yumuşak (toprak, çamur) veya eğimli zeminlerde, krikonun zemine batmasını veya kaymasını önlemek için altına geniş yüzeyli bir takoz veya kalas konulması güvenliği önemli ölçüde artırır."
+    },
+    {
+      "id": 3854,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Şekildeki ? yerine gelecek  süspansiyon sistemi parçası nedir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/amortisor_soru.png",
+      "options": [
+        { "text": "Şaft", "isTrue": false },
+        { "text": "Aks", "isTrue": false },
+        { "text": "Helezon yay", "isTrue": false },
+        { "text": "Amortisör", "isTrue": true }
+      ],
+      "description": "Görselde işaretli parça amortisördür. Süspansiyon sisteminde bulunan helezon yayın salınımlarını sönümleyerek (kontrol altına alarak) lastiğin yola sürekli temas etmesini sağlar, aracın yol tutuşunu ve konforunu artırır."
+    },
+    {
+      "id": 3855,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motor yağı seviyesi normalin çok altında iken motor çalıştırılırsa ne olur?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor hemen soğur.", "isTrue": false },
+        { "text": "Motor yakıtına yağ karışır.", "isTrue": false },
+        { "text": "Motor aşırı ısınarak ciddi şekilde zarar görür.", "isTrue": true },
+        { "text": "Motorun gücü ve performansı artar.", "isTrue": false }
+      ],
+      "description": "Motor yağı, parçalar arasındaki sürtünmeyi azaltmanın yanı sıra soğutmaya da yardımcı olur. Yağ seviyesi çok düşükse, sürtünme artar, aşırı ısı oluşur ve motor parçaları (piston, yatak vb.) hasar görür, hatta motor kilitlenebilir (yatak sarabilir)."
+    },
+    {
+      "id": 3856,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Fren hidrolik seviyesi azalmışsa en olası sebebi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Fren balatalarının yeni olması", "isTrue": false },
+        { "text": "Sistemde kaçak olması veya fren balatalarının aşınması", "isTrue": true },
+        { "text": "Klimanın sürekli çalışması", "isTrue": false },
+        { "text": "Havanın çok nemli olması", "isTrue": false }
+      ],
+      "description": "Fren hidrolik sistemi kapalı bir sistem olduğu için normalde eksilme olmaz. Seviyede düşüş varsa ya borularda/bağlantılarda bir sızıntı vardır ya da fren balataları aşındıkça fren kaliperlerindeki pistonlar daha ileri çıkar ve rezervuardaki seviyenin düşmesine neden olur."
+    },
+    {
+      "id": 3857,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Görseldeki mavi renkli ikaz ışığı ne anlama gelir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.png",
+      "options": [
+        { "text": "Kısa farlar açıktır.", "isTrue": false },
+        { "text": "Uzun farlar açıktır.", "isTrue": true },
+        { "text": "Sis farları açıktır.", "isTrue": false },
+        { "text": "Park lambaları açıktır.", "isTrue": false }
+      ],
+      "description": "Bu sembol, aracın gösterge panelinde uzun hüzmeli farların açık olduğunu belirtir. Uzun farlar genellikle mavi renkte bir ikaz ışığı ile gösterilir ve aydınlatmanın yetersiz olduğu, karşıdan gelen bir araç olmayan yollarda kullanılır."
+    },
+    {
+      "id": 3858,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi diferansiyelin temel görevlerindendir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motora ilk hareketi vermek", "isTrue": false },
+        { "text": "Virajlarda tekerleklerin farklı hızlarda dönmesini sağlamak", "isTrue": true },
+        { "text": "Motorun sıcaklığını sabit bir değerde tutmak", "isTrue": false },
+        { "text": "Aracın direksiyonunu tekerleklere iletmek", "isTrue": false }
+      ],
+      "description": "Diferansiyel, şanzımandan gelen gücü tekerleklere aktarır ve en önemli görevi, araç viraj alırken virajın dışındaki tekerleğin içteki tekerlekten daha fazla yol kat etmesi gerektiğinden, iki tekerleğin farklı hızlarda dönmesine izin vermektir."
+    },
+    {
+      "id": 3859,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, motora giren havayı temizler?",
+      "image_url": null,
+      "options": [
+        { "text": "Benzin filtresi", "isTrue": false },
+        { "text": "Yağ filtresi", "isTrue": false },
+        { "text": "Hava filtresi", "isTrue": true },
+        { "text": "Su filtresi", "isTrue": false }
+      ],
+      "description": "Hava filtresi, yanma işlemi için motorun ihtiyaç duyduğu havanın içindeki toz, kir ve diğer yabancı partikülleri süzerek, motora temiz hava girmesini sağlar. Bu, motorun aşınmasını önler."
+    },
+    {
+      "id": 3860,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, aracın yavaşlamasını ve durmasını sağlayan sistemdir?",
+      "image_url": null,
+      "options": [
+        { "text": "Marş sistemi", "isTrue": false },
+        { "text": "Fren sistemi", "isTrue": true },
+        { "text": "Ateşleme sistemi", "isTrue": false },
+        { "text": "Süspansiyon sistemi", "isTrue": false }
+      ],
+      "description": "Fren sistemi, sürücünün fren pedalına basmasıyla tekerleklerdeki balata ve disk (veya kampana) aracılığıyla sürtünme oluşturur. Bu sürtünme, kinetik enerjiyi ısı enerjisine dönüştürerek aracın yavaşlamasını veya durmasını sağlar."
+    },
+    {
+      "id": 3861,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araçta yanmış bir ampulü değiştirdikten sonra da aynı ampul kısa sürede tekrar yanıyorsa, muhtemel arıza nerededir?",
+      "image_url": null,
+      "options": [
+        { "text": "Marş motorunda", "isTrue": false },
+        { "text": "Bujilerde", "isTrue": false },
+        { "text": "Şarj sistemindeki regülatörde (konjektör)", "isTrue": true },
+        { "text": "Fren müşüründe", "isTrue": false }
+      ],
+      "description": "Aracın elektrik sistemindeki voltajın sabit kalmasını sağlayan parça regülatör (konjektör)'dür. Eğer bu parça arızalanırsa, tesisteki voltaj aşırı yükselir. Yüksek voltaj da ampullerin normalden çok daha parlak yanmasına ve kısa sürede patlamasına (yanmasına) neden olur."
+    },
+    {
+      "id": 3862,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Lastiklerin üzerinde yazan '185/65 R15 88T' gibi ifadelerdeki 'T' harfi neyi belirtir?",
+      "image_url": null,
+      "options": [
+        { "text": "Lastiğin tipini (Tubeless)", "isTrue": false },
+        { "text": "Lastiğin yapısını (Telli)", "isTrue": false },
+        { "text": "Lastiğin yük endeksini", "isTrue": false },
+        { "text": "Lastiğin hız endeksini", "isTrue": true }
+      ],
+      "description": "Lastik yanağındaki kodların en sonunda yer alan harf, o lastiğin güvenli bir şekilde çıkabileceği maksimum hızı belirtir. Buna 'hız endeksi' denir. Örneğin 'T' harfi, 190 km/s hıza denk gelir."
+    },
+    {
+      "id": 3863,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Hararet yapmış bir motorda, radyatör kapağı nasıl açılmalıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Hava basıncı alınmadan hemen açılmalıdır.", "isTrue": false },
+        { "text": "Motor rölantide çalışırken açılmalıdır.", "isTrue": false },
+        { "text": "Motorun soğuması beklendikten sonra, kapak bir bezle tutularak yavaşça gevşetilip havası alındıktan sonra açılmalıdır.", "isTrue": true },
+        { "text": "Araç yokuş yukarı dururken açılmalıdır.", "isTrue": false }
+      ],
+      "description": "Hararet yapmış motorun soğutma sisteminde yüksek sıcaklıkta ve basınçta su buharı bulunur. Kapak aniden açılırsa, bu basınçlı buhar ve sıcak su fışkırarak ciddi yanıklara neden olabilir. Bu nedenle motorun bir süre soğuması ve kapağın çok dikkatli bir şekilde açılması gerekir."
+    },
+    {
+      "id": 3864,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, yakıtı temizleyerek yakıt sistemine gönderir?",
+      "image_url": null,
+      "options": [
+        { "text": "Yağ filtresi", "isTrue": false },
+        { "text": "Hava filtresi", "isTrue": false },
+        { "text": "Polen filtresi", "isTrue": false },
+        { "text": "Yakıt filtresi", "isTrue": true }
+      ],
+      "description": "Yakıt filtresi, yakıt deposundan gelen yakıtın içindeki pas, tortu ve diğer pislikleri süzerek enjektörlere veya karbüratöre temiz yakıt gitmesini sağlar. Bu, hassas olan bu parçaların tıkanmasını ve arızalanmasını önler."
+    },
+    {
+      "id": 3865,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi akünün görevlerinden değildir?",
+      "image_url": null,
+      "options": [
+        { "text": "Marş motoruna ilk hareket için elektrik vermek", "isTrue": false },
+        { "text": "Motor çalışmazken alıcıları çalıştırmak", "isTrue": false },
+        { "text": "Motorun parçalarını soğutmak", "isTrue": true },
+        { "text": "Alternatörün ürettiği elektriği depolamak", "isTrue": false }
+      ],
+      "description": "Akü, aracın elektrik enerjisi deposudur. Marş basmak, motor çalışmıyorken radyo gibi alıcıları çalıştırmak ve voltajı dengelemek gibi görevleri vardır. Motoru soğutma görevi ise soğutma sistemine aittir."
+    },
+    {
+      "id": 3866,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Manuel vitesli bir araçta, yokuş yukarı kalkış yaparken aracı kaydırmamak için hangi fren kullanılır?",
+      "image_url": null,
+      "options": [
+        { "text": "Sadece motor freni", "isTrue": false },
+        { "text": "El freni", "isTrue": true },
+        { "text": "Sadece ayak freni", "isTrue": false },
+        { "text": "Hiçbiri", "isTrue": false }
+      ],
+      "description": "Yokuşta kalkış sırasında, ayak freni bırakıldığında aracın geri kaymasını önlemek için el freni kullanılır. Sürücü, bir ayağı debriyajda bir ayağı gazda iken, debriyajı kavrama noktasına getirip hafifçe gaz verir ve araç ileri gitme eğilimi gösterdiğinde el frenini yavaşça indirerek kalkışı tamamlar."
+    },
+    {
+      "id": 3867,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Görseldeki ikaz ışığı, hangi sistemin devre dışı olduğunu veya arızalı olduğunu belirtir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/airbag.png",
+      "options": [
+        { "text": "Hava yastığı (Airbag) sistemi", "isTrue": true },
+        { "text": "Fren sistemi", "isTrue": false },
+        { "text": "ABS sistemi", "isTrue": false },
+        { "text": "Soğutma sistemi", "isTrue": false }
+      ],
+      "description": "Bu sembol, hava yastığı (SRS - Supplemental Restraint System) sisteminde bir arıza olduğunu gösterir. Bu ışık yanarken, olası bir kaza anında hava yastıkları devreye girmeyebilir. Araç en kısa sürede servise götürülmelidir."
+    },
+    {
+      "id": 3868,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Yol yüzeyindeki titreşimleri üzerine alarak aracın rahat ve konforlu hareket etmesini sağlayan sistem hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Şarj", "isTrue": false },
+        { "text": "Soğutma", "isTrue": false },
+        { "text": "Süspansiyon", "isTrue": true },
+        { "text": "Marş", "isTrue": false }
+      ],
+      "description": "Süspansiyon sistemi, helezon yaylar ve amortisörlerden oluşur. Yaylar, yol bozukluklarından kaynaklanan darbeleri emerken, amortisörler de bu yayların salınımını kontrol ederek aracın yol tutuşunu ve sürüş konforunu sağlar."
+    },
+    {
+      "id": 3869,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, lastiklerin havasının normalden fazla olmasının bir sonucudur?",
+      "image_url": null,
+      "options": [
+        { "text": "Lastikler orta kısımdan aşınır.", "isTrue": true },
+        { "text": "Yakıt tüketimi artar.", "isTrue": false },
+        { "text": "Direksiyon sertleşir.", "isTrue": false },
+        { "text": "Sürüş konforu artar.", "isTrue": false }
+      ],
+      "description": "Lastiklere gereğinden fazla hava basıldığında, lastik tabanı yere tam olarak temas edemez ve şişerek sadece orta kısmı yola basar. Bu durum, lastiğin sadece orta kısımdan aşınmasına, yol tutuşunun azalmasına ve sürüş konforunun düşmesine neden olur."
+    },
+    {
+      "id": 3870,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Dizel motorun soğuk havalarda kolay çalışmasını sağlayan parça hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Buji", "isTrue": false },
+        { "text": "Enjektör", "isTrue": false },
+        { "text": "Kızdırma (ısıtma) bujisi", "isTrue": true },
+        { "text": "Distribütör", "isTrue": false }
+      ],
+      "description": "Dizel motorlarda ateşleme, sıkıştırılarak ısıtılan havanın üzerine yakıt püskürtülmesiyle olur. Soğuk havalarda bu ısınmayı kolaylaştırmak için, kontak açıldığında yanma odasını önceden ısıtan ve 'kızdırma bujisi' adı verilen parçalar kullanılır."
+    },
+    {
+      "id": 3871,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motor yağına depoluk eden ve motorun alt kısmını koruyan parça hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Supap kapağı", "isTrue": false },
+        { "text": "Karter", "isTrue": true },
+        { "text": "Manifold", "isTrue": false },
+        { "text": "Silindir kapağı", "isTrue": false }
+      ],
+      "description": "Karter, motorun en alt kısmında yer alan, genellikle çelik sac veya alüminyumdan yapılmış bir haznedir. Temel görevi, motorun yağlama sisteminde kullanılan yağa depoluk (rezervuar) görevi görmektir."
+    },
+    {
+      "id": 3872,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisinin yapılması, yakıt tasarrufu sağlar?",
+      "image_url": null,
+      "options": [
+        { "text": "Araçta ani ve sert kalkışlar yapmak", "isTrue": false },
+        { "text": "Motoru ısıtmak için aracı uzun süre rölantide çalıştırmak", "isTrue": false },
+        { "text": "Gidilecek yere en uygun vites ve hızda gitmek", "isTrue": true },
+        { "text": "Aracın camları açık şekilde yüksek hızda gitmek", "isTrue": false }
+      ],
+      "description": "Ekonomik sürüşün temel kurallarından biri, motoru bağırtmadan, devrine uygun viteslerde ve mümkün olduğunca sabit hızda kullanmaktır. Bu, motorun en verimli aralıkta çalışmasını sağlayarak yakıt tüketimini düşürür."
+    },
+    {
+      "id": 3873,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Yanmış bir sigorta, hangi amperdeki sigorta ile değiştirilmelidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Daha düşük amperli", "isTrue": false },
+        { "text": "Daha yüksek amperli", "isTrue": false },
+        { "text": "Aynı amperdeki", "isTrue": true },
+        { "text": "Farketmez", "isTrue": false }
+      ],
+      "description": "Sigortalar, elektrik devrelerini korumak için tasarlanmıştır. Yanmış bir sigorta, mutlaka orijinali ile aynı amper değerine sahip bir yenisiyle değiştirilmelidir. Daha yüksek amperli sigorta kullanmak tesisatın veya bağlı olduğu cihazın yanmasına, yani yangın riskine yol açar."
+    },
+    {
+      "id": 3874,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Egzozdan beyaz renkli duman çıkması neyin belirtisi olabilir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorun yağ yaktığının", "isTrue": false },
+        { "text": "Silindirlere soğutma suyu karıştığının", "isTrue": true },
+        { "text": "Yakıt-hava karışımının zengin olduğunun", "isTrue": false },
+        { "text": "Yakıt deposunda su olduğunun", "isTrue": false }
+      ],
+      "description": "Egzozdan çıkan yoğun beyaz duman, genellikle silindir kapak contasının yanması sonucu motor soğutma suyunun yanma odasına sızdığını ve yakıtla birlikte yandığını gösterir. Bu durum motorun hararet yapmasına ve su eksiltmesine neden olur."
+    },
+    {
+      "id": 3875,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aracın gösterge panelinde bulunan devir saati neyi bildirir?",
+      "image_url":"https://aaasoftinfopages.github.io/legotrfc/page//questions/devir_gostergesi.jpg",
+      "options": [
+        { "text": "Aracın hızını (km/s)", "isTrue": false },
+        { "text": "Motorun dakikadaki devir sayısını (RPM x 1000)", "isTrue": true },
+        { "text": "Motorun katettiği toplam mesafeyi", "isTrue": false },
+        { "text": "Depodaki yakıt miktarını", "isTrue": false }
+      ],
+      "description": "Devir saati (takometre), motor krank milinin bir dakikada kaç tur döndüğünü gösterir. Genellikle üzerindeki rakamlar 1000 ile çarpılarak okunur (Örn: '2' rakamı 2000 devir/dakika'yı gösterir). Sürücünün doğru zamanda vites değiştirmesine yardımcı olur."
+    },
+    {
+      "id": 3876,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, motordaki basınçlı yanmış gazların kartere sızmasını önler?",
+      "image_url": null,
+      "options": [
+        { "text": "Supaplar", "isTrue": false },
+        { "text": "Segmanlar", "isTrue": true },
+        { "text": "Bujiler", "isTrue": false },
+        { "text": "Enjektörler", "isTrue": false }
+      ],
+      "description": "Pistonların üzerinde bulunan segmanlar, piston ile silindir duvarı arasında sızdırmazlık sağlar. Bu sayede, yanma odasındaki yüksek basıncın kartere sızmasını (kompresyon kaçağı) ve karterdeki motor yağının yanma odasına girmesini engellerler."
+    },
+    {
+      "id": 3877,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araç seyir halindeyken direksiyonda titreme hissedilmesinin en belirgin nedeni nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Rot ayarının bozuk olması", "isTrue": false },
+        { "text": "Balans ayarının bozuk olması", "isTrue": true },
+        { "text": "Amortisörlerin patlak olması", "isTrue": false },
+        { "text": "Fren hidroliğinin eksik olması", "isTrue": false }
+      ],
+      "description": "Lastiklerin ağırlık dağılımının eşit olmaması durumunda, özellikle belirli hızlarda (genellikle 80-100 km/s) tekerleklerde ve buna bağlı olarak direksiyonda titreme meydana gelir. Bu durum lastiklere 'balans ayarı' yapılarak düzeltilir."
+    },
+    {
+      "id": 3878,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, ateşleme sisteminin bir parçasıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Radyatör", "isTrue": false },
+        { "text": "Alternatör", "isTrue": false },
+        { "text": "Endüksiyon bobini", "isTrue": true },
+        { "text": "Marş motoru", "isTrue": false }
+      ],
+      "description": "Ateşleme sistemi, benzinli motorlarda yanma için gereken kıvılcımı üretir. Bu sistemin parçaları; akü, kontak anahtarı, endüksiyon bobini (ateşleme bobini), distribütör (eski tiplerde) ve bujilerdir."
+    },
+    {
+      "id": 3879,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Vites değiştirirken, debriyaj pedalına tam basılmamasının sonucu ne olabilir?",
+      "image_url": null,
+      "options": [
+        { "text": "Araç hızlanır.", "isTrue": false },
+        { "text": "Vites geçişlerinde zorlanma ve 'cart' diye ses gelmesi", "isTrue": true },
+        { "text": "Lastikler aşınır.", "isTrue": false },
+        { "text": "Motor hararet yapar.", "isTrue": false }
+      ],
+      "description": "Debriyaja tam basılmadığında, motor ile vites kutusu arasındaki bağlantı tam olarak kesilmez. Bu durumda vites dişlileri dönmeye devam ederken vites değiştirmeye çalışmak, dişlilerin birbirine sürtünmesine ve 'cartlama' olarak bilinen sesin çıkmasına, hatta dişlilerin zarar görmesine neden olur."
+    },
+    {
+      "id": 3880,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Kriko, aracın neresine yerleştirilmelidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Kapı altına", "isTrue": false },
+        { "text": "Tampon altına", "isTrue": false },
+        { "text": "Şasi üzerinde, üreticinin belirlediği kriko destek noktalarına", "isTrue": true },
+        { "text": "Motorun altına", "isTrue": false }
+      ],
+      "description": "Her aracın şasisinde, kriko ile güvenli bir şekilde kaldırılabilmesi için özel olarak güçlendirilmiş noktalar bulunur. Bu noktalar genellikle marşpiyellerin (kapı altı) tekerleklere yakın kısımlarında bir çentik veya işaretle belirtilmiştir. Krikonun yanlış bir yere konulması aracın kaportasına zarar verebilir."
+    },
+    {
+      "id": 3881,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Yakıt-hava karışımını ateşleyen parça aşağıdakilerden hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Buji", "isTrue": true },
+        { "text": "Distribütör", "isTrue": false },
+        { "text": "Enjektör", "isTrue": false },
+        { "text": "Sigorta", "isTrue": false }
+      ],
+      "description": "Benzinli motorlarda, sıkıştırma zamanının sonunda, endüksiyon bobininden gelen yüksek voltajlı elektriği bir kıvılcıma dönüştürerek yakıt-hava karışımını ateşleyen parça bujidir."
+    },
+    {
+      "id": 3882,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Karlı ve buzlu yollarda, aracın hangi lastiklerine zincir takılır?",
+      "image_url": null,
+      "options": [
+        { "text": "Aracın sadece ön lastiklerine", "isTrue": false },
+        { "text": "Aracın sadece arka lastiklerine", "isTrue": false },
+        { "text": "Çekişin olduğu tekerleklere", "isTrue": true },
+        { "text": "Sadece sağ taraftaki tekerleklere", "isTrue": false }
+      ],
+      "description": "Kar zinciri, aracın yola tutunmasını artırmak için kullanılır. Bu nedenle, motorun gücünü yola aktaran, yani çekişin olduğu tekerleklere takılmalıdır. Önden çekişli araçlarda ön tekerleklere, arkadan itişli araçlarda ise arka tekerleklere takılır."
+    },
+    {
+      "id": 3883,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, araç hızının azaltılması gereken yerlerden biridir?",
+      "image_url": null,
+      "options": [
+        { "text": "Tepe üstleri ve dönemeçler", "isTrue": true },
+        { "text": "Bölünmüş yollar", "isTrue": false },
+        { "text": "Otoyollar", "isTrue": false },
+        { "text": "Düz ve görüşün açık olduğu yollar", "isTrue": false }
+      ],
+      "description": "Görüşün kısıtlı olduğu tepe üstleri, virajlar, kavşaklar, yaya geçitleri ve okul bölgeleri gibi yerlere yaklaşırken, olası bir tehlikeye karşı zamanında durabilmek için hızın mutlaka azaltılması gerekir."
+    },
+    {
+      "id": 3884,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Akü başka bir akü ile takviye edilecekse, kutup başları nasıl bağlanmalıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Artı (+) kutup, eksi (-) kutba; eksi (-) kutup, artı (+) kutba", "isTrue": false },
+        { "text": "Artı (+) kutup, artı (+) kutba; eksi (-) kutup, eksi (-) kutba (veya şasiye)", "isTrue": true },
+        { "text": "Eksi (-) kutup, eksi (-) kutba; artı (+) kutup, şasiye", "isTrue": false },
+        { "text": "Fark etmez", "isTrue": false }
+      ],
+      "description": "Doğru bağlantı, her zaman 'artıya artı, eksiye eksi' şeklindedir. Takviye kablosunun bir ucu bir akünün artı kutbuna, diğer ucu diğer akünün artı kutbuna bağlanır. Eksi bağlantısı ise genellikle dolu akünün eksisinden, boş akülü aracın motor bloğundaki metal bir noktaya (şasi) yapılır."
+    },
+    {
+      "id": 3885,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdaki ikaz ışıklarından hangisi, el freninin çekili olduğunu veya fren hidrolik seviyesinin düştüğünü bildirir?",
+      "image_url": null,
+      "options": [
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/yagbasinci.png", "isTrue": false },
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.png", "isTrue": false },
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.png", "isTrue": true },
+        { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/hararet.png", "isTrue": false }
+      ],
+      "description": "İçinde ünlem veya 'P' harfi bulunan bu kırmızı ikaz ışığı, iki temel anlama gelir: 1) El freni (park freni) çekilidir. 2) Fren hidrolik seviyesi kritik düzeyde azalmıştır. El freni indirilmesine rağmen ışık sönmüyorsa, bu ciddi bir fren sistemi sorununa işaret eder."
+    },
+    {
+      "id": 3886,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Cam sileceklerinin lastikleri ne zaman değiştirilmelidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Her 5 yılda bir", "isTrue": false },
+        { "text": "Camı tam temizlemediğinde, ses yaptığında veya iz bıraktığında", "isTrue": true },
+        { "text": "Sadece kış aylarında", "isTrue": false },
+        { "text": "Hiç değiştirilmez.", "isTrue": false }
+      ],
+      "description": "Silecek lastikleri kauçuktan yapıldığı için zamanla güneş, sıcak ve soğuk hava koşullarından etkilenerek sertleşir, çatlar ve aşınır. Camı silerken iz bırakmaya, atlamaya veya ses yapmaya başladığında, güvenli bir görüş için değiştirilmeleri gerekir."
+    },
+    {
+      "id": 3887,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motorun parçaları arasında kaygan bir tabaka oluşturarak sürtünmeyi ve aşınmayı azaltan madde hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Antifriz", "isTrue": false },
+        { "text": "Motor yağı", "isTrue": true },
+        { "text": "Fren hidroliği", "isTrue": false },
+        { "text": "Yakıt", "isTrue": false }
+      ],
+      "description": "Yağlama sisteminin temel amacı, motorun birbirine temas ederek yüksek hızlarda çalışan metal parçaları (piston, krank mili, yataklar vb.) arasında bir yağ filmi oluşturmaktır. Bu film, sürtünmeyi, aşınmayı ve ısıyı azaltarak motorun ömrünü uzatır."
+    },
+    {
+      "id": 3888,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, buji ile ateşlemeli motorların yakıtıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorin (Dizel)", "isTrue": false },
+        { "text": "Antifriz", "isTrue": false },
+        { "text": "Benzin ve LPG", "isTrue": true },
+        { "text": "Hidrolik yağı", "isTrue": false }
+      ],
+      "description": "Buji ile ateşleme prensibi, benzinli motorların temel çalışma şeklidir. Sıkıştırılan benzin-hava karışımı buji kıvılcımı ile ateşlenir. LPG'li araçlar da aynı prensiple çalıştığı için bu kategoriye girer. Dizel motorlarda ise buji bulunmaz."
+    },
+    {
+      "id": 3889,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Debriyaj sisteminin görevi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorun hareketini isteğe bağlı olarak vites kutusuna iletmek veya kesmek", "isTrue": true },
+        { "text": "Aracın sarsıntısız durmasını sağlamak", "isTrue": false },
+        { "text": "Motorun ilk hareketini sağlamak", "isTrue": false },
+        { "text": "Aracın hızını artırmak", "isTrue": false }
+      ],
+      "description": "Debriyaj (kavrama), motor ile vites kutusu arasında yer alır. Sürücü debriyaj pedalına bastığında motor ile vites kutusu arasındaki bağlantıyı keser, bu da vites değiştirmeye veya aracın dururken motorun çalışmaya devam etmesine olanak tanır. Pedal bırakıldığında ise bu bağlantıyı tekrar kurar."
+    },
+    {
+      "id": 3890,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Krank milinin bir dakikadaki devir sayısını gösteren gösterge hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Hız göstergesi", "isTrue": false },
+        { "text": "Yakıt göstergesi", "isTrue": false },
+        { "text": "Hararet göstergesi", "isTrue": false },
+        { "text": "Devir saati (Takometre)", "isTrue": true }
+      ],
+      "description": "Devir saati, motorun anlık devir sayısını (RPM - Revolutions Per Minute) gösterir. Bu bilgi, sürücünün motoru en verimli devir aralığında kullanmasına ve doğru zamanda vites değiştirmesine yardımcı olur."
+    },
+    {
+      "id": 3891,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, lastik basınçlarının düşük olmasının bir sonucudur?",
+      "image_url": null,
+      "options": [
+        { "text": "Fren mesafesinin uzaması", "isTrue": true },
+        { "text": "Yakıt tüketiminin azalması", "isTrue": false },
+        { "text": "Lastiklerin orta kısımlarının aşınması", "isTrue": false },
+        { "text": "Sürüş konforunun artması", "isTrue": false }
+      ],
+      "description": "Düşük basınçlı lastiklerin yola tutunma yüzeyi bozulur, bu da özellikle frenleme ve viraj alma performansını olumsuz etkiler. Fren mesafesi uzar, yakıt tüketimi artar ve lastikler omuz (kenar) kısımlarından aşınır."
+    },
+    {
+      "id": 3892,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aracın farlarından biri sönük yanıyorsa sebebi ne olabilir?",
+      "image_url": null,
+      "options": [
+        { "text": "Sigortası atmıştır.", "isTrue": false },
+        { "text": "Far kablo bağlantılarında gevşeklik veya oksitlenme vardır.", "isTrue": true },
+        { "text": "Akü tamamen bitmiştir.", "isTrue": false },
+        { "text": "Alternatör arızalıdır.", "isTrue": false }
+      ],
+      "description": "Eğer far ampulü tamamen sönmüyor da normalden daha zayıf (sönük) yanıyorsa, bu genellikle ampule yeterli elektriğin gitmediğini gösterir. Bunun en yaygın sebebi, far soketindeki veya şasi bağlantısındaki gevşeklik, kirlenme veya oksitlenmedir. Bu durum 'şasi alamama' olarak da bilinir."
+    },
+    {
+      "id": 3893,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motor soğutma suyunun kışın donmaması için suya ne karıştırılır?",
+      "image_url": null,
+      "options": [
+        { "text": "Saf su", "isTrue": false },
+        { "text": "Motor yağı", "isTrue": false },
+        { "text": "Antifriz", "isTrue": true },
+        { "text": "Asitli su", "isTrue": false }
+      ],
+      "description": "Antifriz, etilen glikol bazlı bir alkol olup, suyun donma noktasını sıfırın altına düşürür. Bu sayede kışın soğuk havalarda motor soğutma suyunun donarak motor bloğuna ve radyatöre zarar vermesi engellenir."
+    },
+    {
+      "id": 3894,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Bir aracın güvenle taşıyabileceği en fazla yük ağırlığına ne ad verilir?",
+      "image_url": null,
+      "options": [
+        { "text": "Dingil ağırlığı", "isTrue": false },
+        { "text": "Azami ağırlık", "isTrue": false },
+        { "text": "Taşıma sınırı (İstiap haddi)", "isTrue": true },
+        { "text": "Yüklü ağırlık", "isTrue": false }
+      ],
+      "description": "Taşıma sınırı veya istiap haddi, bir aracın ruhsatında belirtilen ve yasal olarak taşımasına izin verilen en fazla yolcu ve yük ağırlığı toplamıdır. Bu sınırın aşılması aracın yol tutuşunu, fren performansını ve güvenliğini olumsuz etkiler."
+    },
+    {
+      "id": 3895,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, araçta elektrik enerjisi kaynağıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor", "isTrue": false },
+        { "text": "Vites kutusu", "isTrue": false },
+        { "text": "Akü ve alternatör", "isTrue": true },
+        { "text": "Diferansiyel", "isTrue": false }
+      ],
+      "description": "Araçta iki adet elektrik kaynağı bulunur. Akü, motor çalışmazken elektrik ihtiyacını karşılar ve ilk hareketi verir. Alternatör (şarj dinamosu) ise motor çalışırken hem aracın elektrik ihtiyacını karşılar hem de aküyü şarj eder."
+    },
+    {
+      "id": 3896,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aracın yokuş aşağı inerken hangi viteste kullanılması doğrudur?",
+      "image_url": null,
+      "options": [
+        { "text": "Vitesi boşa almak", "isTrue": false },
+        { "text": "Yokuşu çıkarken kullanılan vitesle veya bir düşüğüyle inmek", "isTrue": true },
+        { "text": "En yüksek viteste inmek", "isTrue": false },
+        { "text": "Sürekli frene basarak inmek", "isTrue": false }
+      ],
+      "description": "Yokuş aşağı inerken, yokuşu çıkarken kullanılan vites veya bir düşüğü kullanılmalıdır. Bu sayede 'motor kompresyonu' denilen motor freninden faydalanılır, aracın hızı kontrol altında tutulur ve fren sisteminin aşırı ısınıp tehlike yaratması (frenlerin tutmaması) önlenir."
+    },
+    {
+      "id": 3897,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdaki yağlardan hangisi, vites kutusuna (şanzıman) konur?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor yağı", "isTrue": false },
+        { "text": "Fren hidrolik yağı", "isTrue": false },
+        { "text": "Şanzıman yağı", "isTrue": true },
+        { "text": "Gres yağı", "isTrue": false }
+      ],
+      "description": "Vites kutusu içindeki dişlilerin ve hareketli parçaların yağlanması, soğutulması ve korunması için, kendine özgü viskozite ve özelliklere sahip olan şanzıman yağı kullanılır."
+    },
+    {
+      "id": 3898,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Egzoz muayenesinin temel amacı nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Aracın motor gücünü ölçmek", "isTrue": false },
+        { "text": "Egzozdan çıkan gazların çevreye verdiği zararı yasal sınırlar içinde tutmak", "isTrue": true },
+        { "text": "Aracın hızını denetlemek", "isTrue": false },
+        { "text": "Egzoz sesini ölçmek", "isTrue": false }
+      ],
+      "description": "Egzoz gazı emisyon ölçümünün temel amacı, araçların atmosfere saldığı zehirli gazların (karbonmonoksit, hidrokarbonlar vb.) miktarını ölçerek, bu miktarların yasal olarak belirlenmiş sınırların altında olup olmadığını kontrol etmektir. Temel amaç, hava kirliliğini azaltmaktır."
+    },
+    {
+      "id": 3899,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, iyi bir sürücünün özelliklerinden değildir?",
+      "image_url": null,
+      "options": [
+        { "text": "Trafik kurallarına uymak", "isTrue": false },
+        { "text": "Sabırlı ve sakin olmak", "isTrue": false },
+        { "text": "Sürekli olarak şerit değiştirmek ve makas atmak", "isTrue": true },
+        { "text": "Diğer sürücülere ve yayalara saygılı olmak", "isTrue": false }
+      ],
+      "description": "Sürekli ve gereksiz yere şerit değiştirmek, diğer araçların arasına aniden girmek (makas atmak), hem trafik akışını tehlikeye atan hem de diğer sürücüleri riske sokan tehlikeli ve sorumsuz bir sürüş davranışıdır."
+    },
+    {
+  "id": 3900,
+  "category": "Motor ve Araç Tekniği",
+  "question": "Görseldeki ikaz ışıkları soldan sağa doğru sırasıyla hangi sistemlerin aktif olduğunu belirtir?",
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/on_ve_arka_cam_uyari.png",
+  "options": [
+    { "text": "Arka cam rezistansı - Ön cam rezistansı", "isTrue": false },
+    { "text": "Ön cam rezistansı - Arka cam rezistansı", "isTrue": true },
+    { "text": "Ön sis farı - Arka sis farı", "isTrue": false },
+    { "text": "Klima - Havalandırma", "isTrue": false }
+  ],
+  "description": "Görselde soldaki sembol, kavisli yapısıyla ön camı temsil eder ve ön camdaki buğuyu veya buzu çözmek için kullanılan sistemi (defroster) belirtir. Sağdaki dikdörtgen sembol ise arka camı temsil eder ve arka camdaki buğuyu veya donmayı gideren ısıtıcı rezistans sisteminin çalıştığını gösterir."
+}
+  
+  ,{
+      "id": 3901,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, aracın direksiyonunun zor dönmesinin nedenlerinden biridir?",
+      "image_url": null,
+      "options": [
+        { "text": "Yakıt seviyesinin düşük olması", "isTrue": false },
+        { "text": "Lastik hava basınçlarının tavsiye edilen değerden düşük olması", "isTrue": true },
+        { "text": "Soğutma suyunun eksilmesi", "isTrue": false },
+        { "text": "Debriyaj balatasının eskimesi", "isTrue": false }
+      ],
+      "description": "Ön lastiklerin hava basıncı yetersiz olduğunda, lastiğin yola temas eden yüzeyi artar. Bu durum sürtünmeyi artırarak direksiyonun daha ağır ve zor dönmesine neden olur. Özellikle hidrolik veya elektrik destekli direksiyon sistemlerinde bu durum daha az hissedilse de yine de bir etkendir."
+    },
+    {
+      "id": 3902,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Görseldeki ikaz ışığı yandığında ne anlaşılmalıdır?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/arkasisuyari.png",
+      "options": [
+        { "text": "Arka sis lambası açıktır.", "isTrue": true },
+        { "text": "Ön sis lambası açıktır.", "isTrue": false },
+        { "text": "Uzun farlar açıktır.", "isTrue": false },
+        { "text": "Park lambaları açıktır.", "isTrue": false }
+      ],
+      "description": "Bu sembol, aracın arka sis lambasının açık olduğunu gösterir. Genellikle turuncu veya sarı renktedir. Sadece yoğun sis, kar veya yağmur gibi görüşün ciddi şekilde düştüğü durumlarda kullanılmalıdır."
+    },
+    {
+      "id": 3903,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araçta yanmış bir sigortayı değiştirmek için aşağıdakilerden hangisi yapılmalıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Daha yüksek amperli bir sigortayla değiştirmek", "isTrue": false },
+        { "text": "Aynı amperdeki yeni bir sigortayla değiştirmek", "isTrue": true },
+        { "text": "Daha düşük amperli bir sigortayla değiştirmek", "isTrue": false },
+        { "text": "Sigorta yerine tel sarmak", "isTrue": false }
+      ],
+      "description": "Sigortalar, elektrik devrelerini yüksek akıma karşı korur. Yanmış bir sigorta, mutlaka orijinali ile aynı amper değerine sahip bir yenisiyle değiştirilmelidir. Daha yüksek amperli sigorta kullanmak tesisatın yanmasına ve yangın riskine yol açar."
+    },
+    {
+      "id": 3904,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi yakıt tüketiminin artmasına neden olmaz?",
+      "image_url": null,
+      "options": [
+        { "text": "Aracı düşük viteste kullanmak", "isTrue": false },
+        { "text": "Ani hızlanma ve yavaşlamalar yapmak", "isTrue": false },
+        { "text": "Klimayı çalıştırmak", "isTrue": false },
+        { "text": "Uygun viteste ve sabit hızda gitmek", "isTrue": true }
+      ],
+      "description": "Aracı devrine uygun viteste ve mümkün olduğunca sabit hızda kullanmak (ekonomik sürüş), motorun en verimli aralıkta çalışmasını sağlar ve yakıt tüketimini düşürür. Diğer seçenekler ise tüketimi artıran faktörlerdir."
+    },
+    {
+      "id": 3905,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Resimde görülen ve motorun ürettiği zehirli gazların zararsız gazlara dönüştürülmesini sağlayan parça hangisidir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/katalitik_konvertor.png",
+      "options": [
+        { "text": "Egzoz manifoldu", "isTrue": false },
+        { "text": "Egzoz susturucusu", "isTrue": false },
+        { "text": "Katalitik konvertör (katalizör)", "isTrue": true },
+        { "text": "Oksijen sensörü", "isTrue": false }
+      ],
+      "description": "Görseldeki parça katalitik konvertördür. Egzoz sistemi üzerinde bulunur ve içindeki değerli metaller sayesinde motordan çıkan karbonmonoksit, azot oksitler gibi zararlı gazları; karbondioksit ve su buharı gibi daha az zararlı maddelere dönüştürür."
+    },
+    {
+      "id": 3906,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Lastik üzerinde yazan '195/55 R16' gibi ifadelerdeki 'R' harfi neyi belirtir?",
+      "image_url": null,
+      "options": [
+        { "text": "Lastiğin hız endeksini", "isTrue": false },
+        { "text": "Lastiğin yük endeksini", "isTrue": false },
+        { "text": "Lastiğin yapısını (Radyal)", "isTrue": true },
+        { "text": "Lastiğin üretim yılını", "isTrue": false }
+      ],
+      "description": "'R' harfi, lastiğin karkas yapısının 'Radyal' olduğunu ifade eder. Günümüz binek araç lastiklerinin neredeyse tamamı radyal yapıdadır. Bu yapı, lastiğe esneklik ve yol tutuşu kazandırır."
+    },
+    {
+      "id": 3907,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araç seyir halindeyken direksiyonda titreme hissedilmesinin en belirgin nedeni aşağıdakilerden hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Rot ayarının bozuk olması", "isTrue": false },
+        { "text": "Balans ayarının bozuk olması", "isTrue": true },
+        { "text": "Amortisörlerin patlak olması", "isTrue": false },
+        { "text": "Fren hidroliğinin eksik olması", "isTrue": false }
+      ],
+      "description": "Lastiklerin ağırlık dağılımının eşit olmaması durumunda, özellikle belirli hızlarda (genellikle 80-100 km/s) direksiyonda titreme meydana gelir. Bu durum 'balans ayarı' yapılarak düzeltilir. Rot ayarı bozukluğu ise genellikle aracın bir yöne çekmesine ve lastiklerin düzensiz aşınmasına neden olur."
+    },
+    {
+      "id": 3908,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Kış koşullarında daha iyi yol tutuşu sağlamak için ne tür lastikler tercih edilmelidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Tabanı geniş lastikler", "isTrue": false },
+        { "text": "Hava basıncı yüksek lastikler", "isTrue": false },
+        { "text": "Vakum kanalları ve kılcal damarları fazla olan kış lastikleri", "isTrue": true },
+        { "text": "Sert hamurlu yaz lastikleri", "isTrue": false }
+      ],
+      "description": "Kış lastikleri, özel hamur yapıları sayesinde düşük sıcaklıklarda sertleşmezler ve üzerlerindeki derin diş blokları (vakum kanalları) ile kar ve suyu etkili bir şekilde tahliye ederek daha iyi yol tutuşu sağlarlar."
+    },
+    {
+      "id": 3909,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi vites kutusunun (şanzıman) görevlerinden değildir?",
+      "image_url": null,
+      "options": [
+        { "text": "Aracın hızını ve torkunu ayarlamak", "isTrue": false },
+        { "text": "Motorun hareketini tekerleklere iletmek", "isTrue": false },
+        { "text": "Aracın dururken motorun çalışmasını sağlamak (boş vites)", "isTrue": false },
+        { "text": "Motoru soğutmak", "isTrue": true }
+      ],
+      "description": "Vites kutusu, güç aktarma organlarından biridir ve motorun gücünü yol ve trafik durumuna göre ayarlar. Motoru soğutma görevi ise soğutma sistemine (radyatör, fan, termostat vb.) aittir."
+    },
+    {
+      "id": 3910,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, motordaki basınçlı yanmış gazların sızmasını önleyerek motor gücünü korur?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/segmanlar.png",
+      "options": [
+        { "text": "Segmanlar", "isTrue": true },
+        { "text": "Subaplar", "isTrue": false },
+        { "text": "Karter", "isTrue": false },
+        { "text": "Yağ pompası", "isTrue": false }
+      ],
+      "description": "Pistonların üzerinde bulunan segmanlar, piston ile silindir duvarı arasında sızdırmazlık sağlar. Bu sayede yanma odasındaki yüksek basıncın kartere sızmasını ve motor yağının yanma odasına girmesini engellerler."
+    },
+    {
+      "id": 3911,
+      "category": "Motor ve Araç Tekniği",
+      "question": "ABS fren sisteminin en büyük avantajı nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Fren mesafesini her zaman kısaltması", "isTrue": false },
+        { "text": "Fren anında direksiyon hakimiyetini artırması", "isTrue": true },
+        { "text": "Fren balatalarının daha az aşınmasını sağlaması", "isTrue": false },
+        { "text": "Daha yumuşak frenleme sağlaması", "isTrue": false }
+      ],
+      "description": "ABS (Kilitlenme Karşıtı Fren Sistemi), ani ve sert frenlerde tekerleklerin kilitlenmesini önler. Tekerlekler kilitlenmediği için araç kaymaz ve sürücü frene basarken aynı zamanda direksiyon manevrası yaparak engellerden kaçabilir. Bu, sistemin en önemli güvenlik katkısıdır."
+    },
+    {
+      "id": 3912,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Dizel motorlu bir araca yanlışlıkla benzin konulursa ne yapılmalıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Araç çalıştırılmadan yakıt deposu tamamen boşaltılmalıdır.", "isTrue": true },
+        { "text": "Depoya dizel yakıt eklenerek yola devam edilmelidir.", "isTrue": false },
+        { "text": "Araç yüksek devirde çalıştırılarak yakıtın atılması sağlanmalıdır.", "isTrue": false },
+        { "text": "Motor yağı değiştirilmelidir.", "isTrue": false }
+      ],
+      "description": "Benzin, dizel yakıt sisteminin ihtiyaç duyduğu yağlayıcılık özelliğine sahip değildir. Araç çalıştırılırsa, yakıt pompası ve enjektörler gibi çok hassas ve pahalı parçalar kısa sürede ciddi hasar görür. Bu yüzden motor kesinlikle çalıştırılmamalı ve depo profesyoneller tarafından boşaltılmalıdır."
+    },
+   {
+  "id": 3913,
+  "category": "Motor ve Araç Tekniği",
+  "question": "Görseldeki ikaz ışığı, aracınızda hangi durumun meydana geldiğini belirtir?",
+  "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/lastikhavabasinci.png",
+  "options": [
+    { "text": "Motorun hararet yapması", "isTrue": false },
+    { "text": "Fren sisteminde bir arıza olması", "isTrue": false },
+    { "text": "Lastik basıncının düşük olması", "isTrue": true },
+    { "text": "Akü şarjının zayıf olması", "isTrue": false }
+  ],
+  "description": "Bu ikaz ışığı, Lastik Basıncı İzleme Sistemi (TPMS) ile ilgilidir. Yandığında, bir veya daha fazla lastiğin hava basıncının önemli ölçüde düşük olduğunu gösterir. Düşük lastik basıncı, sürüş güvenliğini tehlikeye atabilir, yakıt tüketimini artırabilir ve lastiklerin ömrünü kısaltabilir. Bu ışık yandığında, en kısa sürede lastik basınçlarınızı kontrol etmeniz ve üreticinin önerdiği değere ayarlamanız gerekir."
+},
+    {
+      "id": 3914,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aracın periyodik bakımı yapılırken hangisinin kontrol edilmesine gerek yoktur?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor yağı seviyesi", "isTrue": false },
+        { "text": "Lastik hava basınçları", "isTrue": false },
+        { "text": "Koltuk kılıflarının temizliği", "isTrue": true },
+        { "text": "Silecek suyu seviyesi", "isTrue": false }
+      ],
+      "description": "Periyodik bakım, aracın mekanik ve elektronik aksamlarının güvenli ve verimli çalışması için yapılan kontrolleri içerir. Koltuk kılıflarının temizliği, aracın teknik durumuyla ilgili değil, estetik ve hijyenle ilgili kişisel bir tercihtir."
+    },
+    {
+      "id": 3915,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motorun hararet yapmasının nedeni aşağıdakilerden hangisi olamaz?",
+      "image_url": null,
+      "options": [
+        { "text": "Radyatör peteklerinin tıkalı olması", "isTrue": false },
+        { "text": "Vantilatör kayışının kopuk olması", "isTrue": false },
+        { "text": "Yakıt deposunun dolu olması", "isTrue": true },
+        { "text": "Soğutma suyunda antifriz olmaması", "isTrue": false }
+      ],
+      "description": "Hararet, soğutma sistemindeki bir arızadan kaynaklanır. Radyatörün tıkanması, V kayışının kopması (devirdaim pompasını çeviremez) veya antifriz eksikliği (suyun donması/kaynaması) hararete yol açar. Yakıt deposunun dolu olmasının motor sıcaklığıyla bir ilgisi yoktur."
+    },
+    {
+      "id": 3916,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araçlarda kullanılan 'hava yastığı' (airbag) hangi sistemin bir parçasıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Aktif güvenlik sistemi", "isTrue": false },
+        { "text": "Pasif güvenlik sistemi", "isTrue": true },
+        { "text": "Süspansiyon sistemi", "isTrue": false },
+        { "text": "Güç aktarma sistemi", "isTrue": false }
+      ],
+      "description": "Güvenlik sistemleri aktif ve pasif olarak ikiye ayrılır. ABS, ESP gibi kazayı önlemeye yönelik sistemler 'aktif'; hava yastığı, emniyet kemeri gibi kaza anında sürücü ve yolcuyu korumaya yönelik sistemler 'pasif' güvenlik sistemleridir."
+    },
+    {
+      "id": 3917,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Kontağı açıp marşa basıldığında 'tık' diye bir ses gelip marş motoru çalışmıyorsa muhtemel sebep nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorun yağsız kalması", "isTrue": false },
+        { "text": "Yakıtın bitmiş olması", "isTrue": false },
+        { "text": "Akü kutup başlarının gevşek veya oksitli olması veya akünün zayıf olması", "isTrue": true },
+        { "text": "Lastik havalarının inik olması", "isTrue": false }
+      ],
+      "description": "'Tık' sesi marş otomatiğinin devreye girdiğini ancak marş motorunu döndürecek kadar yeterli akımın geçmediğini gösterir. Bu durum genellikle akünün zayıf olmasından veya kutup başlarındaki temassızlıktan kaynaklanır."
+    },
+    {
+      "id": 3918,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Egzozdan siyah duman çıkmasının sebebi aşağıdakilerden hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorun yağ yakması", "isTrue": false },
+        { "text": "Yakıt-hava karışımının zengin olması", "isTrue": true },
+        { "text": "Soğutma suyunun yanma odasına karışması", "isTrue": false },
+        { "text": "Yakıt sisteminin hava yapması", "isTrue": false }
+      ],
+      "description": "Siyah duman, yanma odasında yakıtın tam olarak yanamadığını ve çiğ olarak atıldığını gösterir. Bu durum, 'zengin karışım' olarak adlandırılır ve genellikle hava filtresinin tıkalı olması veya enjektör arızası gibi nedenlerden kaynaklanır. Mavi duman yağ yakmayı, beyaz duman ise soğutma suyunun yanmasını işaret eder."
+    },
+    {
+      "id": 3919,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araç lastiklerinin yasal diş derinliği en az ne kadar olmalıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "1 mm", "isTrue": false },
+        { "text": "1.6 mm", "isTrue": true },
+        { "text": "3 mm", "isTrue": false },
+        { "text": "5 mm", "isTrue": false }
+      ],
+      "description": "Türkiye'deki yasalara göre, binek araç lastiklerinin diş derinliği en az 1.6 mm olmalıdır. Bu derinliğin altına düşen lastikler, özellikle ıslak zeminlerde suyu tahliye edemez, yol tutuşunu kaybeder ve fren mesafesini uzatır. Bu lastikler muayeneden geçemez."
+    },
+    {
+      "id": 3920,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, şarj sisteminin bir parçasıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Distribütör", "isTrue": false },
+        { "text": "Marş motoru", "isTrue": false },
+        { "text": "Konjektör (Regülatör)", "isTrue": true },
+        { "text": "Endüksiyon bobini", "isTrue": false }
+      ],
+      "description": "Şarj sistemi alternatör, konjektör (regülatör) ve aküden oluşur. Konjektör, alternatörün ürettiği elektriğin voltajını düzenleyerek sisteme sabit bir voltaj gönderir ve akünün aşırı şarj olmasını önler."
+    },
+    {
+      "id": 3921,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Soğuk havalarda motorun kolay çalışmasını sağlayan sistem hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Yağlama sistemi", "isTrue": false },
+        { "text": "Jikle sistemi (eski tip benzinli) / Kızdırma bujisi (dizel)", "isTrue": true },
+        { "text": "Soğutma sistemi", "isTrue": false },
+        { "text": "Fren sistemi", "isTrue": false }
+      ],
+      "description": "Eski tip karbüratörlü benzinli araçlarda jikle, zengin karışım sağlayarak; modern dizel araçlarda ise kızdırma (ısıtma) bujileri, yanma odasını ön ısıtma yaparak soğuk havalarda motorun daha kolay çalışmasını sağlar."
+    },
+    {
+      "id": 3922,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motor bloğundaki su kanallarında paslanma ve kireçlenmeyi önleyen sıvı aşağıdakilerden hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor yağı", "isTrue": false },
+        { "text": "Fren hidroliği", "isTrue": false },
+        { "text": "Antifriz", "isTrue": true },
+        { "text": "Akü elektroliti", "isTrue": false }
+      ],
+      "description": "Antifriz, temel görevi olan suyun donma noktasını düşürmenin yanı sıra, içerdiği inhibitörler sayesinde soğutma sistemindeki metal parçaları korozyona (paslanma) ve kireçlenmeye karşı korur."
+    },
+    {
+      "id": 3923,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, aracın ilk yardım çantasında bulundurulması zorunlu malzemelerden değildir?",
+      "image_url": null,
+      "options": [
+        { "text": "Üçgen sargı bezi", "isTrue": false },
+        { "text": "Ağrı kesici ilaç", "isTrue": true },
+        { "text": "Flaster", "isTrue": false },
+        { "text": "Makas", "isTrue": false }
+      ],
+      "description": "İlk yardım çantalarında, yetkili olmayan kişilerce yanlış kullanımını önlemek amacıyla ilaç (ağrı kesici, tentürdiyot, oksijenli su vb.) bulundurulması yasaktır ve zorunlu değildir."
+    },
+    {
+      "id": 3924,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araçta kısa devreden doğacak yangın durumunda ilk önce ne yapılmalıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Su ile müdahale edilmelidir.", "isTrue": false },
+        { "text": "Akü kutup başları sökülmelidir.", "isTrue": true },
+        { "text": "Aracın üzeri battaniye ile kapatılmalıdır.", "isTrue": false },
+        { "text": "Motor kaputu hemen açılmalıdır.", "isTrue": false }
+      ],
+      "description": "Elektrik kaynaklı bir yangında ilk yapılması gereken şey, enerji kaynağını kesmektir. Araçta bu kaynak aküdür. Akü kutup başlarından biri (genellikle eksi kutup) sökülerek elektrik sistemi devreden çıkarılır. Kaputu aniden açmak oksijen girişini artırarak yangını büyütebilir."
+    },
+    {
+      "id": 3925,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aracın yokuş aşağı inerken hangi viteste kullanılması doğrudur?",
+      "image_url": null,
+      "options": [
+        { "text": "Vitesi boşa almak", "isTrue": false },
+        { "text": "Yokuşu çıkarken kullanılan vitesle inmek", "isTrue": true },
+        { "text": "En yüksek viteste inmek", "isTrue": false },
+        { "text": "Sürekli frene basarak inmek", "isTrue": false }
+      ],
+      "description": "Yokuş aşağı inerken, yokuşu çıkarken kullanılan vites veya bir düşüğü kullanılmalıdır. Bu sayede 'motor kompresyonu' denilen motor freninden faydalanılır, aracın hızı kontrol altında tutulur ve fren sisteminin aşırı ısınarak tehlike yaratması önlenir. Vitesi boşa almak çok tehlikelidir."
+    },
+    {
+      "id": 3926,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Gösterge panelindeki bu ışık ne anlama gelmektedir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/elfreni.png",
+      "options": [
+        { "text": "El freni çekili veya fren hidrolik seviyesi düşük.", "isTrue": true },
+        { "text": "Fren balataları bitmek üzere.", "isTrue": false },
+        { "text": "ABS sistemi arızalı.", "isTrue": false },
+        { "text": "Lastik basıncı düşük.", "isTrue": false }
+      ],
+      "description": "Bu ünlem işareti, genellikle iki temel durumu belirtir: 1) El freninin (park freni) çekili olması. 2) Fren hidrolik seviyesinin minimum düzeyin altına düşmesi. El freni indirilmesine rağmen ışık sönmüyorsa, fren hidroliği kontrol edilmeli ve araç servise götürülmelidir."
+    },
+    {
+      "id": 3927,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi bir gaz kelebeği arızası belirtisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorun hiç çalışmaması", "isTrue": false },
+        { "text": "Rölantide dalgalanma ve stop etme", "isTrue": true },
+        { "text": "Egzozdan mavi duman atması", "isTrue": false },
+        { "text": "Frenlerin tutmaması", "isTrue": false }
+      ],
+      "description": "Gaz kelebeği, motora giren hava miktarını ayarlar. Kirlendiğinde veya arızalandığında, özellikle rölanti devrini doğru ayarlayamaz. Bu da aracın rölantideyken devir saatinde dalgalanmalara ve hatta stop etmesine neden olabilir."
+    },
+    {
+      "id": 3928,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Karterin görevi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor yağına depoluk etmek ve motorun altını kapatmak", "isTrue": true },
+        { "text": "Yakıtı depolamak", "isTrue": false },
+        { "text": "Vites dişlilerini barındırmak", "isTrue": false },
+        { "text": "Soğutma suyunu depolamak", "isTrue": false }
+      ],
+      "description": "Karter, motorun en alt kısmında bulunan, genellikle çelik veya alüminyumdan yapılmış bir parçadır. Temel görevi motor yağına depoluk etmek ve aynı zamanda motorun alt kısmını dış etkenlerden korumaktır."
+    },
+    {
+      "id": 3929,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Modern dizel araçlarda bulunan ve egzoz gazındaki zararlı partikülleri tutan filtre hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Hava filtresi", "isTrue": false },
+        { "text": "Yağ filtresi", "isTrue": false },
+        { "text": "Polen filtresi", "isTrue": false },
+        { "text": "Dizel Partikül Filtresi (DPF)", "isTrue": true }
+      ],
+      "description": "Dizel Partikül Filtresi (DPF), Euro 4 ve üzeri emisyon standartlarına sahip dizel araçlarda bulunan, egzozdan atılan kanserojen kurum (is) partiküllerini yakalayarak filtreleyen bir sistemdir."
+    },
+    {
+      "id": 3930,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Gösterge panelindeki bu ışığın sürekli yanması ne anlama gelir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/motorgucuuyarisi.png",
+      "options": [
+        { "text": "Motorun gücünün düştüğünü", "isTrue": true },
+        { "text": "Aracın bakıma ihtiyacı olduğunu.", "isTrue": false },
+        { "text": "Yakıtın bitmek üzere olduğunu.", "isTrue": false },
+        { "text": "Motorun hararet yaptığını.", "isTrue": false }
+      ],
+      "description": "Motor arıza lambası olarak bilinen bu ışık, motor kontrol ünitesinin (ECU) ateşleme, yakıt veya emisyon sistemlerinden birinde bir arıza tespit ettiğini gösterir. Işık yandığında araç en kısa sürede bir servise götürülmelidir."
+    },
+    {
+      "id": 3931,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, sileceklerin camı düzgün temizlememesinin bir nedeni olabilir?",
+      "image_url": null,
+      "options": [
+        { "text": "Silecek lastiklerinin sertleşmesi veya aşınması", "isTrue": true },
+        { "text": "Silecek suyu deposunun dolu olması", "isTrue": false },
+        { "text": "Akü voltajının düşük olması", "isTrue": false },
+        { "text": "Radyatörün tıkalı olması", "isTrue": false }
+      ],
+      "description": "Silecek lastikleri kauçuktan yapılmıştır ve zamanla güneş, sıcaklık değişimleri gibi nedenlerle sertleşir, çatlar veya aşınır. Bu durumda cam yüzeyine tam oturamaz ve suyu düzgün bir şekilde silemez, iz bırakır."
+    },
+    {
+      "id": 3932,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araç kullanmaya başlamadan önce yapılması gereken dış kontrollerden biri hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor yağı seviyesini kontrol etmek", "isTrue": false },
+        { "text": "Lastiklerin havalarını gözle kontrol etmek", "isTrue": true },
+        { "text": "Ayna ayarlarını yapmak", "isTrue": false },
+        { "text": "Koltuk ayarını yapmak", "isTrue": false }
+      ],
+      "description": "Sürüşe başlamadan önce aracın etrafında bir tur atarak lastiklerin havalarını, herhangi bir akıntı veya sızıntı olup olmadığını ve lambaların temizliğini gözle kontrol etmek önemli bir güvenlik alışkanlığıdır. Diğer kontroller araca bindikten sonra yapılır."
+    },
+    {
+      "id": 3933,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Termostatın görevi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorun sıcaklığını belirli bir seviyede sabit tutmak", "isTrue": true },
+        { "text": "Aküye giden akımı düzenlemek", "isTrue": false },
+        { "text": "Motora yakıt püskürtmek", "isTrue": false },
+        { "text": "Egzoz gazını temizlemek", "isTrue": false }
+      ],
+      "description": "Termostat, soğutma sistemi içinde bulunan bir vanadır. Motor soğukken kapalı kalarak soğutma suyunun sadece motor içinde dolaşmasını ve motorun çabuk ısınmasını sağlar. Motor ideal sıcaklığa ulaştığında açılarak suyun radyatöre gitmesine izin verir ve böylece motor sıcaklığını sabit tutar."
+    },
+    {
+      "id": 3934,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi debriyaj sisteminin bir parçası değildir?",
+      "image_url": null,
+      "options": [
+        { "text": "Debriyaj pedalı", "isTrue": false },
+        { "text": "Debriyaj balatası", "isTrue": false },
+        { "text": "Baskı balata", "isTrue": false },
+        { "text": "Aks", "isTrue": true }
+      ],
+      "description": "Debriyaj (kavrama) sistemi; pedal, merkezler, çatal, baskı, balata ve rulmandan oluşur. Aks ise diferansiyelden aldığı dönme hareketini tekerleklere ileten bir güç aktarma organıdır."
+    },
+    {
+      "id": 3935,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Görseldeki parça hangisidir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/yag_filtresi.jpg",
+      "options": [
+        { "text": "Hava filtresi", "isTrue": false },
+        { "text": "Yağ filtresi", "isTrue": true },
+        { "text": "Polen filtresi", "isTrue": false },
+        { "text": "Yakıt filtresi", "isTrue": false }
+      ],
+      "description": "Bu parça, motor yağını içindeki metal parçacıkları, kurum ve diğer pisliklerden temizleyerek motorun aşınmasını önleyen yağ filtresidir. Periyodik bakımlarda motor yağı ile birlikte mutlaka değiştirilir."
+    },
+    {
+      "id": 3936,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araçta LPG sistemi varsa, kapalı otoparklara girilmesi neden yasaktır?",
+      "image_url": null,
+      "options": [
+        { "text": "Egzoz gazı daha zehirli olduğu için", "isTrue": false },
+        { "text": "Araç daha fazla yer kapladığı için", "isTrue": false },
+        { "text": "LPG havadan ağır olduğu ve sızıntı durumunda zeminde birikerek patlama riski oluşturduğu için", "isTrue": true },
+        { "text": "Motor daha gürültülü çalıştığı için", "isTrue": false }
+      ],
+      "description": "Sıvılaştırılmış Petrol Gazı (LPG), havadan daha ağır bir gazdır. Olası bir sızıntı durumunda, kapalı ve havalandırması yetersiz otoparklarda zemine çöker, birikir ve en ufak bir kıvılcımla (araç egzozu, elektrik kontağı vb.) patlama riski oluşturur."
+    },
+    {
+      "id": 3937,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Frene basıldığında fren lambalarının yanmaması aşağıdakilerden hangisinden kaynaklanır?",
+      "image_url": null,
+      "options": [
+        { "text": "Fren hidroliğinin tam olmasından", "isTrue": false },
+        { "text": "Fren sisteminin hava yapmasından", "isTrue": false },
+        { "text": "Fren müşürünün arızalı veya ampullerin patlak olmasından", "isTrue": true },
+        { "text": "Fren balatalarının yeni olmasından", "isTrue": false }
+      ],
+      "description": "Frene basıldığında lambaların yanmasını sağlayan elektrik devresini fren müşürü (fren pedalı anahtarı) tamamlar. Eğer bu müşür arızalıysa veya fren lambası ampulleri patlaksa, frene basıldığında lambalar yanmaz."
+    },
+    {
+      "id": 3938,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Rodaj süresi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Sıfır bir aracın ilk 1000-2000 km'lik alışma dönemi", "isTrue": true },
+        { "text": "Aracın muayene periyodu", "isTrue": false },
+        { "text": "Lastiklerin ömrü", "isTrue": false },
+        { "text": "Kış lastiği takma zorunluluğu süresi", "isTrue": false }
+      ],
+      "description": "Rodaj, yeni bir motorun hareketli parçalarının (piston, segman, silindir vb.) birbirine alışma sürecidir. Bu dönemde aracı ani hızlanma, zorlama ve yüksek devirlerden kaçınarak kullanmak, motorun ömrü ve performansı açısından önemlidir."
+    },
+    {
+      "id": 3939,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Marşa basılıp motor çalıştığında, aşağıdaki ikaz ışıklarından hangisinin sönmesi gerekir?",
+      "image_url": null,
+      "options": [
+        { "text": "El freni ikaz ışığı", "isTrue": false },
+        { "text": "Sinyal lambası ikaz ışığı", "isTrue": false },
+        { "text": "Yağ basıncı ikaz ışığı", "isTrue": true },
+        { "text": "Uzun far ikaz ışığı", "isTrue": false }
+      ],
+      "description": "Kontak açıldığında yağ basıncı ve şarj ikaz ışığı gibi ışıklar sistem kontrolü için yanar. Marşa basılıp motor çalıştığında, yağ pompası devreye girerek basınç oluşturur ve şarj dinamosu elektrik üretmeye başlar. Bu nedenle bu iki ışığın da sönmesi gerekir. Sönmemesi bir arıza belirtisidir."
+    },
+    {
+      "id": 3940,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi ateşleme sisteminin parçasıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Radyatör", "isTrue": false },
+        { "text": "Karter", "isTrue": false },
+        { "text": "Buji", "isTrue": true },
+        { "text": "Alternatör", "isTrue": false }
+      ],
+      "description": "Ateşleme sistemi, benzinli motorlarda silindirdeki sıkıştırılmış yakıt-hava karışımını ateşlemek için gereken yüksek voltajlı kıvılcımı üretir. Buji, bu kıvılcımı oluşturan son parçadır. Diğer parçaları akü, kontak anahtarı, endüksiyon bobini ve distribütördür (eski tiplerde)."
+    },
+    {
+      "id": 3941,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Debriyaj balatasının sıyrılarak aşınmasının sebebi ne olabilir?",
+      "image_url": null,
+      "options": [
+        { "text": "Aracı düşük hızda kullanmak", "isTrue": false },
+        { "text": "Ayağın sürekli debriyaj pedalı üzerinde tutulması", "isTrue": true },
+        { "text": "Ani fren yapmak", "isTrue": false },
+        { "text": "Aracı uzun süre park halinde bırakmak", "isTrue": false }
+      ],
+      "description": "Sürüş sırasında ayağı debriyaj pedalı üzerinde dinlendirmek, debriyajın tam olarak kavramasını engeller ve 'yarım debriyaj' durumuna neden olur. Bu durum, debriyaj balatasının sürekli sürtünerek normalden çok daha hızlı aşınmasına ve yanmasına sebep olur."
+    },
+    {
+      "id": 3942,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Seyir halindeyken araçtan sürekli yanık kablo kokusu alınırsa ne yapılmalıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Yola devam edilir.", "isTrue": false },
+        { "text": "Klima açılır.", "isTrue": false },
+        { "text": "Durulur, kontak kapatılır ve akü bağlantısı kesilir.", "isTrue": true },
+        { "text": "Camlar açılarak koku giderilir.", "isTrue": false }
+      ],
+      "description": "Yanık kablo kokusu, elektrik sisteminde bir kısa devre veya aşırı ısınmanın habercisidir ve ciddi bir yangın riskine işaret eder. Araç derhal güvenli bir yere çekilmeli, kontak kapatılmalı ve yangın riskini ortadan kaldırmak için akü kutup başı sökülmelidir."
+    },
+    {
+      "id": 3943,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, motordan gelen gücü tekerleklere ileten aktarma organlarından biridir?",
+      "image_url": null,
+      "options": [
+        { "text": "Amortisör", "isTrue": false },
+        { "text": "Rot", "isTrue": false },
+        { "text": "Şaft (Kardan mili)", "isTrue": true },
+        { "text": "Helezon yay", "isTrue": false }
+      ],
+      "description": "Güç aktarma organları sırasıyla; debriyaj (kavrama), vites kutusu (şanzıman), şaft, diferansiyel ve akslardır. Şaft, genellikle arkadan itişli veya dört çekerli araçlarda vites kutusundan aldığı dönme hareketini diferansiyele iletir."
+    },
+    {
+      "id": 3944,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Bir aracın teknik olarak güvenle taşıyabileceği en fazla yük ağırlığına ne denir?",
+      "image_url": null,
+      "options": [
+        { "text": "Dingil ağırlığı", "isTrue": false },
+        { "text": "Azami toplam ağırlık", "isTrue": false },
+        { "text": "Taşıma sınırı (İstiap haddi)", "isTrue": true },
+        { "text": "Yüklü ağırlık", "isTrue": false }
+      ],
+      "description": "Taşıma sınırı veya istiap haddi, bir aracın ruhsatında belirtilen ve yasal olarak taşımasına izin verilen en fazla yolcu ve yük ağırlığı toplamıdır. Bu sınırın aşılması aracın yol tutuşunu ve fren performansını olumsuz etkiler."
+    },
+    {
+      "id": 3945,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Egzoz emisyon ölçümünün temel amacı nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Aracın motor gücünü ölçmek", "isTrue": false },
+        { "text": "Aracın yakıt tüketimini belirlemek", "isTrue": false },
+        { "text": "Trafiği denetlemek", "isTrue": false },
+        { "text": "Aracın egzozundan çıkan gazların çevreye verdiği zararı yasal sınırlar içinde tutmak", "isTrue": true }
+      ],
+      "description": "Egzoz emisyon ölçümü, araçların atmosfere saldığı zehirli gazların (karbonmonoksit, hidrokarbonlar vb.) miktarını ölçerek, bu miktarların yasal olarak belirlenmiş sınırların altında olup olmadığını kontrol etme işlemidir. Temel amaç, hava kirliliğini azaltmaktır."
+    },
+    {
+      "id": 3946,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motor soğutma suyuna antifriz konulmasının asıl amacı nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorun gücünü artırmak", "isTrue": false },
+        { "text": "Suyun donma noktasını düşürerek motorun soğukta zarar görmesini engellemek", "isTrue": true },
+        { "text": "Motor yağının kalitesini artırmak", "isTrue": false },
+        { "text": "Yakıt tüketimini azaltmak", "isTrue": false }
+      ],
+      "description": "Antifrizin birincil ve en temel görevi, soğutma sıvısının sıfırın altındaki sıcaklıklarda donmasını engellemektir. Su donduğunda hacmi genişler ve motor bloğunu, radyatörü çatlatabilir. Antifriz bu tehlikeyi ortadan kaldırır."
+    },
+    {
+      "id": 3947,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Lastik değiştirilirken bijon somunları hangi yöne doğru sökülür?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/bijon_somunu.png",
+      "options": [
+        { "text": "Saatin dönme yönünde", "isTrue": false },
+        { "text": "Saatin dönme yönünün tersine", "isTrue": true },
+        { "text": "Fark etmez", "isTrue": false },
+        { "text": "Yukarı doğru", "isTrue": false }
+      ],
+      "description": "Genel bir mekanik kuralı olarak, vidalar ve somunlar saatin dönme yönünün tersine çevrilerek gevşetilir (sökülür) ve saatin dönme yönüne çevrilerek sıkılır. Bijon somunları için de bu kural geçerlidir."
+    },
+    {
+      "id": 3948,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdaki durumlardan hangisinde araç, hemen durdurulup kontağı kapatılmalıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Klimanın soğutmaması", "isTrue": false },
+        { "text": "Sileceklerin çalışmaması", "isTrue": false },
+        { "text": "Motordan anormal sesler veya yanık kokusu gelmesi", "isTrue": true },
+        { "text": "Radyonun çalışmaması", "isTrue": false }
+      ],
+      "description": "Motordan gelen normal dışı vuruntu, gıcırtı gibi sesler veya yanık kablo/yağ kokusu, ciddi bir mekanik arızanın veya yangın tehlikesinin habercisi olabilir. Bu durumda daha büyük bir hasarı veya tehlikeyi önlemek için araç derhal durdurulmalı ve motor stop edilmelidir."
+    },
+    {
+      "id": 3949,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aracın farlarından biri sönük yanıyorsa sebebi ne olabilir?",
+      "image_url": null,
+      "options": [
+        { "text": "Sigortası atmıştır.", "isTrue": false },
+        { "text": "Far kablo bağlantılarında gevşeklik veya oksitlenme vardır.", "isTrue": true },
+        { "text": "Akü tamamen bitmiştir.", "isTrue": false },
+        { "text": "Alternatör arızalıdır.", "isTrue": false }
+      ],
+      "description": "Eğer far ampulü tamamen sönmüyor da normalden daha zayıf (sönük) yanıyorsa, bu genellikle ampule yeterli elektriğin gitmediğini gösterir. Bunun en yaygın sebebi, far soketindeki veya şasi bağlantısındaki gevşeklik, kirlenme veya oksitlenmedir (paslanma). Bu durum 'şasi alamama' olarak da bilinir."
+    },
+    {
+      "id": 3950,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Vites değiştirirken zorlanma yaşanıyorsa muhtemel sebep nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorun hararet yapması", "isTrue": false },
+        { "text": "Lastik havalarının düşük olması", "isTrue": false },
+        { "text": "Debriyaj sisteminin düzgün ayırmaması veya şanzıman yağı eksikliği", "isTrue": true },
+        { "text": "Yakıtın kalitesiz olması", "isTrue": false }
+      ],
+      "description": "Vites değiştirmek için debriyaja basıldığında, motor ile vites kutusu arasındaki bağlantının tamamen kesilmesi gerekir. Eğer debriyaj sistemi (merkezler, çatal, baskı-balata) düzgün ayırmıyorsa veya şanzıman yağı azalmış/özelliğini yitirmişse, vites dişlileri birbirine sürtünür ve vites geçişleri zorlaşır, ses yapar (cartlama)."
+    },{
+      "id": 3951,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Dizel motorlu araçların gösterge panelinde bulunan resimdeki ikaz ışığı ne anlama gelir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dizelkizdirmabujisi.png",
+      "options": [
+        { "text": "Amortisör sisteminde arıza olduğunu.", "isTrue": false },
+        { "text": "Motorun hararet yaptığını.", "isTrue": false },
+        { "text": "Kızdırma (ısıtma) bujilerinin çalıştığını.", "isTrue": true },
+        { "text": "Yakıt filtresinin tıkalı olduğunu.", "isTrue": false }
+      ],
+      "description": "Yay şeklindeki bu sembol, dizel motorun soğuk havalarda kolay çalışması için yanma odalarını ön ısıtma görevini yapan kızdırma bujilerinin aktif olduğunu gösterir. Kontak açıldığında yanar ve kısa bir süre sonra söner. Marşa basmak için bu ışığın sönmesi beklenmelidir."
+    },
+    {
+      "id": 3952,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi supap ayarının bozuk olmasının bir sonucudur?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorun sarsıntılı çalışması ve güçten düşmesi", "isTrue": true },
+        { "text": "Frenlerin iyi tutmaması", "isTrue": false },
+        { "text": "Akü şarjının olmaması", "isTrue": false },
+        { "text": "Direksiyonun sertleşmesi", "isTrue": false }
+      ],
+      "description": "Supaplar, silindirlere yakıt-hava karışımının alınmasını (emme) ve yanan gazların atılmasını (egzoz) kontrol eder. Supap ayarı bozulduğunda bu işlemler zamanında ve tam olarak yapılamaz. Bu durum motorun düzensiz ve sarsıntılı çalışmasına, çekişten düşmesine ve yakıt tüketiminin artmasına neden olur."
+    },
+    {
+      "id": 3953,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aracın iki saniyede kat edeceği mesafe, aşağıdakilerden hangisini kontrol etmek için kullanılır?",
+      "image_url": null,
+      "options": [
+        { "text": "Yakıt seviyesini", "isTrue": false },
+        { "text": "Lastik basıncını", "isTrue": false },
+        { "text": "Fren mesafesini", "isTrue": false },
+        { "text": "Takip mesafesini", "isTrue": true }
+      ],
+      "description": "Güvenli takip mesafesini pratik olarak ayarlamak için '88-89 kuralı' veya '2 saniye kuralı' kullanılır. Öndeki aracın sabit bir noktayı (ağaç, levha vb.) geçtiği andan itibaren, saymaya başlanır. Kendi aracınız aynı noktaya 2 saniyeden daha kısa sürede ulaşıyorsa, takip mesafeniz çok yakındır."
+    },
+    {
+      "id": 3954,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Resimde görülen ve krank milinden aldığı hareketle alternatör, su pompası (devirdaim) gibi parçaları çalıştıran motor parçası hangisidir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/v_kayisi.png",
+      "options": [
+        { "text": "Triger kayışı", "isTrue": false },
+        { "text": "Vantilatör (V) kayışı", "isTrue": true },
+        { "text": "Yakıt borusu", "isTrue": false },
+        { "text": "Fren hidrolik hortumu", "isTrue": false }
+      ],
+      "description": "Vantilatör kayışı veya V kayışı, motorun dışında bulunan ve krank mili kasnağından aldığı dönme hareketini; alternatör (aküyü şarj eder), devirdaim pompası (suyu dolaştırır) ve klima kompresörü gibi yardımcı sistemlere ileten kauçuk bir kayıştır."
+    },
+    {
+      "id": 3955,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motor yağı kontrol edilirken yağ çubuğunun ideal seviyesi nerede olmalıdır?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/yag_cubugu.png",
+      "options": [
+        { "text": "Minimum çizgisinin altında", "isTrue": false },
+        { "text": "Maksimum çizgisinin üstünde", "isTrue": false },
+        { "text": "Minimum ve maksimum çizgilerinin arasında", "isTrue": true },
+        { "text": "Yağ çubuğunun en ucunda", "isTrue": false }
+      ],
+      "description": "Motor yağı seviyesi, yağ çubuğu üzerindeki iki çizgi (Min ve Max) arasında olmalıdır. İdeal olanı, maksimum çizgisine yakın bir seviyedir. Yağın eksik olması motor için ne kadar tehlikeliyse, fazla olması da keçeleri patlatıp sızıntılara yol açabileceği için zararlıdır."
+    },
+    {
+      "id": 3956,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Turboşarj (Turbo) sisteminin temel görevi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorun daha sessiz çalışmasını sağlamak", "isTrue": false },
+        { "text": "Egzoz gazı basıncını kullanarak motora daha fazla hava göndermek ve motor gücünü artırmak", "isTrue": true },
+        { "text": "Motorun hararet yapmasını önlemek", "isTrue": false },
+        { "text": "Aracın fren sistemine yardımcı olmak", "isTrue": false }
+      ],
+      "description": "Turboşarj, egzoz gazının gücüyle dönen bir türbin ve bu türbine bağlı bir kompresörden oluşur. Kompresör, dışarıdan aldığı havayı sıkıştırarak yoğunluğunu artırır ve silindirlere normalden daha fazla hava girmesini sağlar. Daha fazla hava, daha fazla yakıt yakılması ve dolayısıyla daha fazla güç üretilmesi demektir."
+    },
+    {
+      "id": 3957,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aracın gösterge panelinde ABS ışığı sürekli yanıyorsa bunun anlamı nedir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/pageikaz/abs.jpg",
+      "options": [
+        { "text": "El freni çekilidir.", "isTrue": false },
+        { "text": "Fren hidroliği azalmıştır.", "isTrue": false },
+        { "text": "ABS (Kilitlenme Karşıtı Fren Sistemi) arızalıdır ve devre dışıdır.", "isTrue": true },
+        { "text": "Tüm frenler tutmuyordur.", "isTrue": false }
+      ],
+      "description": "ABS ışığının sürekli yanması, sistemde bir arıza olduğunu ve ABS'nin devre dışı kaldığını gösterir. Bu durumda, aracın standart frenleri (ABS'siz gibi) çalışmaya devam eder ancak ani ve sert frende tekerlekler kilitlenebilir. Araç en kısa sürede servise götürülmelidir."
+    },
+    {
+      "id": 3958,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, lastiklerin düzensiz aşınmasının nedenlerinden biridir?",
+      "image_url": null,
+      "options": [
+        { "text": "Rot ayarının bozuk olması", "isTrue": true },
+        { "text": "Sigortanın atmış olması", "isTrue": false },
+        { "text": "Yakıt filtresinin kirli olması", "isTrue": false },
+        { "text": "Cam suyunun bitmiş olması", "isTrue": false }
+      ],
+      "description": "Rot ayarı, tekerleklerin birbirine paralel ve yol yüzeyine dik açıda olmasını sağlar. Bu ayar bozulduğunda, tekerlekler yolda sürüklenmeye başlar. Bu durum hem aracın bir yöne çekmesine hem de lastiklerin iç veya dış kısımlarının normalden çok daha hızlı aşınmasına neden olur."
+    },
+    {
+      "id": 3959,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Manuel vitesli bir araçta, duraklama veya park etme dışında hangi durumda debriyaj pedalına basılır?",
+      "image_url": null,
+      "options": [
+        { "text": "Hızlanırken", "isTrue": false },
+        { "text": "Fren yaparken", "isTrue": false },
+        { "text": "Viraja girerken", "isTrue": false },
+        { "text": "Vites değiştirirken", "isTrue": true }
+      ],
+      "description": "Debriyaj pedalının temel görevi, vites değiştirmek için motor ile vites kutusu arasındaki güç akışını geçici olarak kesmektir. Bu sayede vites geçişi sorunsuz bir şekilde yapılır."
+    },
+    {
+      "id": 3960,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdaki yakıtlardan hangisini kullanan araçların kapalı otoparka kabul edilmesi yasaktır?",
+      "image_url": null,
+      "options": [
+        { "text": "Benzin", "isTrue": false },
+        { "text": "Motorin (Dizel)", "isTrue": false },
+        { "text": "LPG (Sıvılaştırılmış Petrol Gazı)", "isTrue": true },
+        { "text": "Biyodizel", "isTrue": false }
+      ],
+      "description": "LPG, havadan ağır bir gaz olduğu için sızıntı durumunda kapalı alanların zemininde birikir ve havalandırılamaz. Bu birikinti, patlama riski oluşturduğu için LPG'li araçların kapalı otoparklara girmesi ilgili yönetmelikler gereği yasaktır."
+    },
+    {
+      "id": 3961,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araçta, kısa ve uzun farların hangi yükseklikte yanacağını ayarlayan sisteme ne ad verilir?",
+      "image_url": null,
+      "options": [
+        { "text": "Far sensörü", "isTrue": false },
+        { "text": "Far yükseklik ayarı", "isTrue": true },
+        { "text": "Rot ayarı", "isTrue": false },
+        { "text": "Balans ayarı", "isTrue": false }
+      ],
+      "description": "Far yükseklik ayarı, aracın yük durumuna (arka koltukta yolcu veya bagajda yük olmasına) göre farların aydınlatma açısını ayarlamaya yarar. Amaç, karşıdan gelen sürücünün gözünü almamak ve yolu en verimli şekilde aydınlatmaktır. Genellikle direksiyonun sol tarafında 0-1-2-3 gibi rakamların olduğu bir düğme ile yapılır."
+    },
+    {
+      "id": 3962,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Fren pedalına basıldığında pedalın normale göre daha aşağıda kavraması ve pompalamak gerekmesi neyin belirtisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Balataların yeni olmasının", "isTrue": false },
+        { "text": "Fren sisteminde hava olmasının", "isTrue": true },
+        { "text": "Motorun hararet yapmasının", "isTrue": false },
+        { "text": "Lastik havalarının fazla olmasının", "isTrue": false }
+      ],
+      "description": "Fren hidrolik sistemi kapalı bir sistemdir ve içinde sadece hidrolik sıvısı olmalıdır. Sisteme herhangi bir nedenle hava girerse, fren pedalına basıldığında bu hava sıkışarak pedalın süngerimsi bir his vermesine ve normalden daha aşağıda tutmasına neden olur. Bu durum çok tehlikelidir ve sistemdeki havanın alınması gerekir."
+    },
+    {
+      "id": 3963,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Egzoz susturucusunun görevi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Egzoz gazını temizlemek", "isTrue": false },
+        { "text": "Motorun gücünü artırmak", "isTrue": false },
+        { "text": "Yakıt tüketimini azaltmak", "isTrue": false },
+        { "text": "Yanma sonucu oluşan ses gürültüsünü azaltmak", "isTrue": true }
+      ],
+      "description": "Motorun çalışması sırasında oluşan yüksek basınçlı egzoz gazları, dışarı atılırken çok yüksek bir ses çıkarır. Egzoz susturucusu, içindeki özel bölmeler ve kanallar sayesinde bu ses dalgalarını sönümleyerek gürültüyü kabul edilebilir seviyelere indirir."
+    },
+    {
+      "id": 3964,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Gece sürüşünde karşı yönden gelen sürücünün gözünü almamak için hangi farlar yakılmalıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Uzun farlar", "isTrue": false },
+        { "text": "Kısa farlar", "isTrue": true },
+        { "text": "Sis farları", "isTrue": false },
+        { "text": "Park lambaları", "isTrue": false }
+      ],
+      "description": "Uzun farlar (100 metre) yolu daha ilerisini aydınlatırken karşıdan gelen sürücüleri rahatsız eder. Kısa farlar (25 metre) ise daha yakını ve aşağıyı aydınlatarak karşıdan gelen sürücünün gözünü almaz. Karşılaşmalarda, yerleşim yeri içinde ve bir aracı takip ederken kısa farlar kullanılmalıdır."
+    },
+    {
+      "id": 3965,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi diferansiyelin görevlerindendir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motordan aldığı gücü artırmak", "isTrue": false },
+        { "text": "Virajlarda içteki ve dıştaki tekerleğin farklı hızlarda dönmesini sağlamak", "isTrue": true },
+        { "text": "Motorun sarsıntısız çalışmasını sağlamak", "isTrue": false },
+        { "text": "Aracın soğutma sistemini kontrol etmek", "isTrue": false }
+      ],
+      "description": "Araç viraj dönerken, virajın dışındaki tekerlek içindekinden daha fazla yol kat eder. Diferansiyel, şanzımandan gelen hareketi 90 derece çevirip akslara iletmenin yanı sıra, bu iki tekerleğin farklı hızlarda dönmesine izin vererek aracın virajları güvenli bir şekilde almasını sağlayan dişli sistemidir."
+    },
+    {
+      "id": 3966,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Yağmur, kar veya sis gibi hava koşullarında hangi farların kullanılması görüşü artırır?",
+      "image_url": null,
+      "options": [
+        { "text": "Uzun hüzmeli farlar", "isTrue": false },
+        { "text": "Sadece park lambaları", "isTrue": false },
+        { "text": "Kısa hüzmeli farlar ve gerekirse ön sis farları", "isTrue": true },
+        { "text": "Dörtlü ikaz lambaları", "isTrue": false }
+      ],
+      "description": "Yoğun yağış veya sis gibi koşullarda uzun farları yakmak, ışığın su veya sis taneciklerinden yansıyarak bir 'ışık duvarı' oluşturmasına ve görüşü daha da kötüleştirmesine neden olur. Bu durumlarda en iyi görüşü kısa farlar sağlar. Eğer görüş çok düşükse, ek olarak ön sis farları da açılabilir."
+    },
+    {
+      "id": 3967,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Endüksiyon bobininin görevi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Yakıtı püskürtmek", "isTrue": false },
+        { "text": "Motorun sıcaklığını ölçmek", "isTrue": false },
+        { "text": "Aküden gelen düşük voltajı, bujinin kıvılcım çakması için yüksek voltaja yükseltmek", "isTrue": true },
+        { "text": "Aracın hızını sabitlemek", "isTrue": false }
+      ],
+      "description": "Endüksiyon bobini (ateşleme bobini), ateşleme sisteminin bir parçasıdır. Aküden gelen 12 voltluk gerilimi, bir transformatör gibi çalışarak, bujinin elektrotları arasında kıvılcım oluşturabilecek 15.000 - 25.000 volt gibi yüksek bir gerilime dönüştürür."
+    },
+    {
+      "id": 3968,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Akü takviyesi yapılırken, artı (+) kutup hangi renkteki kablo ile bağlanır,yani yeşil olan yere hangi renkte kablo gelmesi gerekir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/aku_kablo_takviye_soru.png",
+      "options": [
+        { "text": "Siyah", "isTrue": false },
+        { "text": "Mavi", "isTrue": false },
+        { "text": "Sarı", "isTrue": false },
+        { "text": "Kırmızı", "isTrue": true }
+      ],
+      "description": "Akü takviyesi yaparken kutupların doğru bağlanması çok önemlidir. Genel kural olarak; kırmızı kablo her iki akünün de artı (+) kutbuna, siyah kablo ise önce dolu akünün eksi (-) kutbuna, sonra da boş akülü aracın motor bloğunda veya şasisinde metal bir noktaya bağlanır."
+    },
+    {
+      "id": 3969,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi şok (crash) sensörünün görevidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Kapıların kilitli olup olmadığını algılamak", "isTrue": false },
+        { "text": "Kaza anında darbenin şiddetini algılayarak hava yastıklarını ve emniyet kemeri gergilerini ateşlemek", "isTrue": true },
+        { "text": "Yağmurun başlayıp başlamadığını algılamak", "isTrue": false },
+        { "text": "Lastik basıncının düştüğünü algılamak", "isTrue": false }
+      ],
+      "description": "Şok (darbe) sensörü, pasif güvenlik sistemlerinin en önemli parçalarından biridir. Aracın ani yavaşlamasını ve darbenin şiddetini ölçerek, belirli bir eşik değer aşıldığında hava yastıklarının açılması ve aktif gergili emniyet kemerlerinin devreye girmesi için sinyal gönderir."
+    },
+    {
+      "id": 3970,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Radyatöre konulacak suyun seviyesi nerede olmalıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Peteklerin altında", "isTrue": false },
+        { "text": "Peteklerin yarısında", "isTrue": false },
+        { "text": "Peteklerin üzerinde", "isTrue": true },
+        { "text": "Radyatör kapağına kadar dolu", "isTrue": false }
+      ],
+      "description": "Radyatöre su eklenirken (motor soğukken yapılmalıdır), su seviyesinin içindeki peteklerin (kanalların) üzerini tamamen kapatacak kadar olması yeterlidir. Genleşme kabı olan araçlarda ise su seviyesi, kabın üzerindeki min-max çizgileri arasında olmalıdır."
+    },
+    {
+      "id": 3971,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Triger kayışının kopması durumunda en olası sonuç nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Araç hararet yapar.", "isTrue": false },
+        { "text": "Supaplar pistonlara çarparak motorda büyük hasar oluşur.", "isTrue": true },
+        { "text": "Frenler tutmaz.", "isTrue": false },
+        { "text": "Akü şarj olmaz.", "isTrue": false }
+      ],
+      "description": "Triger kayışı, krank milinin hareketini eksantrik miline ileterek supapların doğru zamanda açılıp kapanmasını sağlar. Bu kayış koptuğunda, supaplar açık veya kapalı halde sabit kalır ve hareket etmeye devam eden pistonlar açık kalan supaplara çarpar. Bu durum, supapların, pistonların ve hatta silindir kapağının hasar görmesine neden olan çok ciddi ve masraflı bir arızadır."
+    },
+    {
+      "id": 3972,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Kullanma kılavuzuna göre belirli kilometrelerde araçta aşağıdakilerden hangisi değiştirilmelidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Jantlar", "isTrue": false },
+        { "text": "Dikiz aynaları", "isTrue": false },
+        { "text": "Motor yağı ve filtreler", "isTrue": true },
+        { "text": "Vites topuzu", "isTrue": false }
+      ],
+      "description": "Araçların periyodik bakımları, üreticinin belirlediği kilometre veya zaman aralıklarında yapılır. Bu bakımların en temel işlemi, motorun sağlığı için hayati önem taşıyan motor yağının ve bununla birlikte yağ filtresi, hava filtresi gibi sarf malzemelerinin değiştirilmesidir."
+    },
+    {
+      "id": 3973,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Helezon yayların görevi nedir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/helezyon_yayı.jpg",
+      "options": [
+        { "text": "Aracın ağırlığını taşımak ve yoldan gelen darbeleri sönümlemek", "isTrue": true },
+        { "text": "Motorun devrini düzenlemek", "isTrue": false },
+        { "text": "Vites değiştirmeyi kolaylaştırmak", "isTrue": false },
+        { "text": "Direksiyonu yönlendirmek", "isTrue": false }
+      ],
+      "description": "Helezon yaylar, süspansiyon sisteminin bir parçasıdır. Tekerlek ile şasi arasına yerleştirilirler ve temel görevleri aracın ağırlığını taşımak, yoldaki çukur ve tümseklerden kaynaklanan darbeleri emerek sürüş konforunu artırmaktır. Amortisörler ise bu yayların salınımını kontrol eder."
+    },
+    {
+      "id": 3974,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Bir aracın 'çeki demiri' varsa bu durum aşağıdakilerden hangisinde belirtilmelidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Sadece faturada", "isTrue": false },
+        { "text": "Aracın kapısına yapıştırılan bir etiketle", "isTrue": false },
+        { "text": "Projesine uygun olarak yapılıp ruhsata (tescil belgesine) işlenmelidir.", "isTrue": true },
+        { "text": "Sürücünün sözlü beyanı yeterlidir.", "isTrue": false }
+      ],
+      "description": "Araca sonradan takılan ve yapısında değişiklik meydana getiren çeki demiri gibi ekipmanların, yönetmeliklere uygun bir projesi çizdirilmeli, montajı yapıldıktan sonra TSE onayı alınmalı ve bu değişiklik ruhsata (tescil belgesine) resmi olarak işlenmelidir. Aksi takdirde kullanımı yasa dışıdır."
+    },
+    {
+      "id": 3975,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aracın klaksonu (kornası) çalmıyorsa muhtemel arıza hangisidir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motor yağının eksik olması", "isTrue": false },
+        { "text": "Sigortasının atmış olması veya kendisinin arızalı olması", "isTrue": true },
+        { "text": "Yakıtın bitmiş olması", "isTrue": false },
+        { "text": "Cam suyunun olmaması", "isTrue": false }
+      ],
+      "description": "Klakson, bir elektrikli donanımdır. Çalışmamasının en yaygın sebepleri, elektrik devresini koruyan sigortanın atmış olması, klaksonun kendisinin bozulması veya direksiyondaki düğmenin temas etmemesidir."
+    },
+    {
+      "id": 3976,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araçlarda egzoz gazı emisyonunu düşürmek için hangi sistem kullanılır?",
+      "image_url": null,
+      "options": [
+        { "text": "Marş sistemi", "isTrue": false },
+        { "text": "Şarj sistemi", "isTrue": false },
+        { "text": "Katalitik konvertör", "isTrue": true },
+        { "text": "Soğutma sistemi", "isTrue": false }
+      ],
+      "description": "Katalitik konvertör, egzoz sisteminin bir parçası olup, motorda yanma sonucu oluşan zararlı gazları (karbon monoksit, azot oksitler vb.) kimyasal reaksiyonlarla daha az zararlı olan karbondioksit ve su buharına dönüştürerek emisyon değerlerini düşürür."
+    },
+    {
+      "id": 3977,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdaki ikaz ışıklarından hangisi, fren balatalarının aşındığını ve değişim zamanının yaklaştığını bildirir?",
+      "image_url": null,
+      "options": [
+        { "text": "ABS ikaz ışığı", "isTrue": false },
+        { "text": "El freni ikaz ışığı", "isTrue": false },
+        { "text": "Fren balatası aşınma ikaz ışığı", "isTrue": true },
+        { "text": "Lastik basınç ikaz ışığı", "isTrue": false }
+      ],
+      "description": "Kesik çizgili bir daire içinde genellikle bir ünlem veya 'BRAKE WEAR' yazısı bulunan bu sembol, fren balatalarının üzerindeki sensör sayesinde balata kalınlığının kritik seviyeye indiğini ve en kısa zamanda değiştirilmesi gerektiğini sürücüye bildirir. Her araçta bulunmayabilir."
+    },
+    {
+      "id": 3978,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Yakıt içerisinde toz, su veya pislik varsa motorun hangi parçası arızalanır?",
+      "image_url": null,
+      "options": [
+        { "text": "Alternatör", "isTrue": false },
+        { "text": "Yakıt pompası ve enjektörler", "isTrue": true },
+        { "text": "Radyatör", "isTrue": false },
+        { "text": "Direksiyon kutusu", "isTrue": false }
+      ],
+      "description": "Yakıt içindeki yabancı maddeler, yakıt filtresi tarafından tutulmaya çalışılır. Ancak filtrenin tıkalı olması veya aşırı kirlilik durumunda bu pislikler yakıt pompası ve enjektörler gibi çok hassas ve ince deliklere sahip parçalara ulaşarak tıkanmalarına ve arızalanmalarına neden olur."
+    },
+    {
+      "id": 3979,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Sürücü koltuğunun doğru ayarlanması aşağıdakilerden hangisini en çok etkiler?",
+      "image_url": null,
+      "options": [
+        { "text": "Yakıt tüketimini", "isTrue": false },
+        { "text": "Motor performansını", "isTrue": false },
+        { "text": "Sürüş güvenliği ve konforunu", "isTrue": true },
+        { "text": "Lastiklerin ömrünü", "isTrue": false }
+      ],
+      "description": "Doğru koltuk ayarı, sürücünün pedallara (özellikle debriyaja), direksiyona ve diğer kontrollere rahatça ve tam olarak hakim olmasını sağlar. Bu durum, acil bir durumda doğru ve hızlı manevra yapabilmek için hayati önem taşır ve sürüş güvenliğini doğrudan etkiler."
+    },
+    {
+      "id": 3980,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, aracın elektrik devresini yüksek akıma karşı korur?",
+      "image_url": null,
+      "options": [
+        { "text": "Akü", "isTrue": false },
+        { "text": "Sigorta", "isTrue": true },
+        { "text": "Buji", "isTrue": false },
+        { "text": "Kondansatör", "isTrue": false }
+      ],
+      "description": "Sigorta, elektrik sisteminde bir kısa devre veya aşırı yüklenme olduğunda, belirlenen amper değerinin üzerinde bir akım geçerse eriyerek veya atarak devreyi keser. Bu sayede, tesisatın, bağlı olduğu cihazın ve aracın yanmasını önleyen bir güvenlik elemanıdır."
+    },
+    {
+      "id": 3981,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motor yağına, soğutma suyuna veya fren hidroliğine ne zaman bakılır?",
+      "image_url": null,
+      "options": [
+        { "text": "Sadece araç hareket halindeyken", "isTrue": false },
+        { "text": "Haftalık veya aylık periyotlarla, motor soğukken ve araç düz bir zemindeyken", "isTrue": true },
+        { "text": "Sadece yıllık bakımlarda", "isTrue": false },
+        { "text": "Sadece yokuş yukarı park edildiğinde", "isTrue": false }
+      ],
+      "description": "Aracın sıvı seviyelerinin doğru bir şekilde kontrol edilebilmesi için, motorun çalışmıyor (soğumuş) ve aracın düz bir zeminde olması gerekir. Bu kontrollerin düzenli aralıklarla yapılması, olası arızaları önceden tespit etmek için önemlidir."
+    },
+    {
+      "id": 3982,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Benzinli bir motorun temel çalışma prensibi hangi çevrime dayanır?",
+      "image_url": null,
+      "options": [
+        { "text": "Dizel Çevrimi", "isTrue": false },
+        { "text": "Stirling Çevrimi", "isTrue": false },
+        { "text": "Otto Çevrimi", "isTrue": true },
+        { "text": "Rankine Çevrimi", "isTrue": false }
+      ],
+      "description": "Nikolaus Otto tarafından geliştirildiği için, benzinli motorların Emme-Sıkıştırma-Ateşleme(İş)-Egzoz şeklindeki dört zamanlı çalışma prensibine 'Otto Çevrimi' adı verilir."
+    },
+    {
+      "id": 3983,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Bijon anahtarının görevi nedir?",
+      "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/bijon_anahtari.jpg",
+      "options": [
+        { "text": "Motor yağını boşaltmak", "isTrue": false },
+        { "text": "Lastik somunlarını (bijonları) söküp takmak", "isTrue": true },
+        { "text": "Akü kutup başlarını sökmek", "isTrue": false },
+        { "text": "Direksiyonu ayarlamak", "isTrue": false }
+      ],
+      "description": "Bijon anahtarı, araçların avadanlık setinde bulunan ve lastik değişimi sırasında tekerleği janta sabitleyen bijon adı verilen somunları sökmek ve takmak için kullanılan özel bir anahtardır."
+    },
+    {
+      "id": 3984,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, yakıt sisteminin bir elemanıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Krank mili", "isTrue": false },
+        { "text": "Piston", "isTrue": false },
+        { "text": "Yakıt filtresi", "isTrue": true },
+        { "text": "Amortisör", "isTrue": false }
+      ],
+      "description": "Yakıt sistemi; yakıt deposu, yakıt boruları, yakıt pompası, yakıt filtresi ve enjektörler (veya karbüratör) gibi parçalardan oluşur. Yakıt filtresi, yakıtı içindeki pisliklerden arındırarak sisteme temiz yakıt gitmesini sağlar."
+    },
+    {
+      "id": 3985,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aracın hız göstergesi çalışmıyorsa muhtemel sebebi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Hız sensörü arızalı veya gösterge teli kopuktur.", "isTrue": true },
+        { "text": "Motor yağı eksiktir.", "isTrue": false },
+        { "text": "Lastik havası düşüktür.", "isTrue": false },
+        { "text": "Fren hidroliği bitmiştir.", "isTrue": false }
+      ],
+      "description": "Aracın hızı, genellikle şanzıman çıkışında bulunan bir hız sensörü veya eski tip araçlarda mekanik bir tel (halat) aracılığıyla ölçülür ve gösterge paneline iletilir. Göstergenin çalışmaması, bu sensörün veya telin arızalı olduğunu gösterir."
+    },
+    {
+      "id": 3986,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Cam rezistansının (arka cam ısıtıcısı) görevi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Camı soğutmak", "isTrue": false },
+        { "text": "Camdaki buğu ve buzlanmayı çözmek", "isTrue": true },
+        { "text": "Radyo anteni olarak görev yapmak", "isTrue": false },
+        { "text": "Camı karartmak", "isTrue": false }
+      ],
+      "description": "Arka camın üzerinde bulunan ince tellerden oluşan bu sistem, elektrik akımıyla ısınarak cam yüzeyindeki buğulanmayı, nemi veya donmayı giderir ve sürücünün arka görüşünü netleştirir."
+    },
+    {
+      "id": 3987,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Hava filtresi tıkalı olan bir motor için aşağıdakilerden hangisi söylenebilir?",
+      "image_url": null,
+      "options": [
+        { "text": "Daha az yakıt yakar.", "isTrue": false },
+        { "text": "Çekişi artar.", "isTrue": false },
+        { "text": "Zengin karışımla çalışır ve yakıt sarfiyatı artar.", "isTrue": true },
+        { "text": "Daha sessiz çalışır.", "isTrue": false }
+      ],
+      "description": "Hava filtresi tıkandığında, motor silindirlere yeterli miktarda hava alamaz. Ancak yakıt sistemi aynı miktarda yakıt göndermeye devam eder. Hava az, yakıt normal olduğu için 'zengin karışım' oluşur. Bu durum, motorun çekişten düşmesine, yakıt tüketiminin artmasına ve egzozdan siyah duman atmasına neden olur."
+    },
+    {
+      "id": 3988,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motor çalışmazken kontak anahtarı açık bırakılırsa ne olur?",
+      "image_url": null,
+      "options": [
+        { "text": "Yakıt deposu boşalır.", "isTrue": false },
+        { "text": "Motor soğur.", "isTrue": false },
+        { "text": "Ateşleme bobini veya diğer elektrikli alıcılar açık kalacağı için akü boşalır.", "isTrue": true },
+        { "text": "Lastiklerin havası iner.", "isTrue": false }
+      ],
+      "description": "Motor çalışmıyorken kontak anahtarı 'ON' (açık) konumunda bırakılırsa, şarj sistemi çalışmadığı halde gösterge paneli, radyo, ateşleme sistemi gibi birçok elektrikli donanım aküden enerji çekmeye devam eder. Bu durum akünün kısa sürede tamamen boşalmasına neden olur."
+    },
+    {
+  "id": 3989,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Kavrama (debriyaj) sistemi, motorun hangi bölümü ile vites kutusu arasında yer alır?",
+      "image_url": null,
+      "options": [
+        { "text": "Volan", "isTrue": true },
+        { "text": "Alternatör", "isTrue": false },
+        { "text": "Karter", "isTrue": false },
+        { "text": "Supap kapağı", "isTrue": false }
+      ],
+      "description": "Debriyaj sistemi, motorun krank miline bağlı olan volan ile vites kutusunun giriş mili arasında bulunur. Görevi, volan aracılığıyla motordan aldığı hareketi vites kutusuna iletmek veya kesmektir."
+    },
+    {
+      "id": 3990,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi araç kullanmaya başlamadan önce yapılması gereken hazırlıklardan biri değildir?",
+      "image_url": null,
+      "options": [
+        { "text": "Koltuk ve ayna ayarlarının yapılması", "isTrue": false },
+        { "text": "Emniyet kemerinin takılması", "isTrue": false },
+        { "text": "Lastiklerin havasının kontrol edilmesi", "isTrue": false },
+        { "text": "Motorun kaputunu açıp suyunun kontrol edilmesi", "isTrue": true }
+      ],
+      "description": "Koltuk ayarı, ayna ayarı ve emniyet kemeri takmak, araca her binişte yapılması gereken sürüş öncesi hazırlıklardır. Lastik havası gözle kontrol edilir. Ancak motor suyunun (soğutma sıvısı) her sürüş öncesi kaput açılarak kontrol edilmesi gerekmez; bu, periyodik kontroller arasında yer alır."
+    },
+    {
+      "id": 3991,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motor bloğunun çatlamasının en yaygın sebebi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Motorun uzun süre rölantide çalışması", "isTrue": false },
+        { "text": "Soğuk havalarda motor soğutma suyuna antifriz konulmaması", "isTrue": true },
+        { "text": "Fren hidroliğinin eksilmesi", "isTrue": false },
+        { "text": "Akü kutup başlarının oksitlenmesi", "isTrue": false }
+      ],
+      "description": "Su, donduğunda hacmi genişleyen bir sıvıdır. Eğer motor soğutma suyunda yeterli antifriz yoksa, kışın eksi derecelerde bu su donar ve genişleyerek içinde bulunduğu motor bloğunda ve radyatörde çatlaklara neden olur."
+    },
+    {
+      "id": 3992,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Motorlu araçlarda motorun yağ yakmasının sebebi nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Segmanların veya silindirlerin aşınması", "isTrue": true },
+        { "text": "Bujilerin yeni olması", "isTrue": false },
+        { "text": "Yakıtın az olması", "isTrue": false },
+        { "text": "Hava filtresinin temiz olması", "isTrue": false }
+      ],
+      "description": "Pistonların üzerindeki segmanlar, motor yağının yanma odasına sızmasını engeller. Zamanla bu segmanlar veya silindir duvarları aşındığında, aralarından sızan motor yağı, yakıtla birlikte yanar. Bu durum, egzozdan mavi duman çıkmasına ve motor yağının sürekli eksilmesine neden olur."
+    },
+    {
+      "id": 3993,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdaki parçalardan hangisi arızalandığında, araç yolda kalmaz ancak yakıt sarfiyatı artar?",
+      "image_url": null,
+      "options": [
+        { "text": "Marş motoru", "isTrue": false },
+        { "text": "Alternatör", "isTrue": false },
+        { "text": "Yakıt pompası", "isTrue": false },
+        { "text": "Oksijen (Lambda) sensörü", "isTrue": true }
+      ],
+      "description": "Oksijen sensörü, egzoz gazındaki oksijen miktarını ölçerek motor beynine (ECU) bilgi gönderir ve yakıt-hava karışımının ideal oranda ayarlanmasını sağlar. Bu sensör arızalandığında, karışım ayarı bozulur ve genellikle araç zengin karışımla çalışarak yakıt tüketimini önemli ölçüde artırır. Ancak araç çalışmaya devam eder."
+    },
+    {
+      "id": 3994,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Yağmurlu bir havada silecekler çalışmıyorsa sürücü ne yapmalıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Hızını artırarak yola devam etmelidir.", "isTrue": false },
+        { "text": "Dörtlü ikaz lambalarını yakarak yola devam etmelidir.", "isTrue": false },
+        { "text": "Uygun bir yerde durup arızanın giderilmesini beklemelidir.", "isTrue": true },
+        { "text": "Sadece sağ şeridi kullanmalıdır.", "isTrue": false }
+      ],
+      "description": "Silecekler, yağmurlu havada güvenli bir görüş için vazgeçilmezdir. Eğer çalışmıyorlarsa, sürücünün görüş alanı hızla kapanır ve bu durum hem kendisi hem de diğer sürücüler için büyük bir tehlike oluşturur. Bu nedenle en güvenli hareket, derhal uygun bir yere çekip durmaktır."
+    },
+    {
+      "id": 3995,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Kriko ile aracı kaldırırken tekerleklere takoz konulmasının amacı nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Aracın daha şık görünmesini sağlamak", "isTrue": false },
+        { "text": "Motorun çalışmasını engellemek", "isTrue": false },
+        { "text": "Aracın kaymasını ve hareket etmesini önlemek", "isTrue": true },
+        { "text": "Aracın daha hızlı kaldırılmasını sağlamak", "isTrue": false }
+      ],
+      "description": "Kriko ile araç kaldırıldığında, aracın dengesi bozulur. Krikonun olduğu taraf havaya kalkarken, yerdeki tekerleklerin kayma ihtimali doğar. Yerde kalan tekerleklerin önüne ve arkasına takoz koymak, bu kaymayı engelleyerek aracın sabit kalmasını ve güvenli bir şekilde lastik değiştirilmesini sağlar."
+    },
+    {
+      "id": 3996,
+      "category": "Motor ve Araç Tekniği",
+      "question": "El freni teli kopmuşsa ne olur?",
+      "image_url": null,
+      "options": [
+        { "text": "Araç sürekli fren yapar.", "isTrue": false },
+        { "text": "El freni tutmaz.", "isTrue": true },
+        { "text": "Fren pedalı sertleşir.", "isTrue": false },
+        { "text": "Kapılar kilitlenmez.", "isTrue": false }
+      ],
+      "description": "El freni (park freni), el freni kolundan tekerleklerdeki fren mekanizmasına bir tel (halat) aracılığıyla kumanda eder. Bu tel koptuğunda, kol çekilse bile mekanizmaya hareket iletilemeyeceği için el freni işlevini tamamen yitirir ve tutmaz."
+    },
+    {
+      "id": 3997,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Hidrolik direksiyon sisteminin avantajı nedir?",
+      "image_url": null,
+      "options": [
+        { "text": "Direksiyonu çevirmek için gereken gücü azaltarak sürüşü kolaylaştırmak", "isTrue": true },
+        { "text": "Aracın daha hızlı gitmesini sağlamak", "isTrue": false },
+        { "text": "Yakıt tasarrufu sağlamak", "isTrue": false },
+        { "text": "Lastiklerin ömrünü uzatmak", "isTrue": false }
+      ],
+      "description": "Hidrolik direksiyon, bir pompa aracılığıyla oluşturulan hidrolik basıncı kullanarak sürücünün direksiyonu çevirmesine yardımcı olur. Bu sayede, özellikle düşük hızlarda ve park manevralarında direksiyonu çevirmek için gereken efor önemli ölçüde azalır ve sürüş konforu artar."
+    },
+    {
+      "id": 3998,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Araçlarda 'rot başı' olarak bilinen parça hangi sistemin bir elemanıdır?",
+      "image_url": null,
+      "options": [
+        { "text": "Fren sistemi", "isTrue": false },
+        { "text": "Süspansiyon sistemi", "isTrue": false },
+        { "text": "Direksiyon sistemi", "isTrue": true },
+        { "text": "Egzoz sistemi", "isTrue": false }
+      ],
+      "description": "Rot başı, direksiyon kutusundan gelen hareketi tekerleklere ileten ve tekerleklerin sağa-sola dönmesini sağlayan mafsallı bir parçadır. Bu parçanın bozulması direksiyonda boşluğa ve tıkırtı seslerine neden olur."
+    },
+    {
+      "id": 3999,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Buji kablolarından biri çıkmış ise motor nasıl çalışır?",
+      "image_url": null,
+      "options": [
+        { "text": "Daha performanslı çalışır.", "isTrue": false },
+        { "text": "Sarsıntılı, tekleyerek ve düzensiz çalışır.", "isTrue": true },
+        { "text": "Hiç çalışmaz.", "isTrue": false },
+        { "text": "Sadece yüksek devirlerde çalışır.", "isTrue": false }
+      ],
+      "description": "Buji kablosu çıktığında, o kablonun bağlı olduğu silindirin bujisine ateşleme akımı gitmez ve o silindirde yanma olmaz. Örneğin 4 silindirli bir motorda, motor 3 silindirle çalışmaya devam eder. Bu durum, motorun bariz bir şekilde sarsıntılı (titreyerek) çalışmasına, güçten düşmesine ve 'tekleme' olarak tabir edilen düzensiz çalışmaya neden olur."
+    },
+    {
+      "id": 4000,
+      "category": "Motor ve Araç Tekniği",
+      "question": "Aşağıdakilerden hangisi, kaza anında ölüm ve yaralanma riskini azaltan 'pasif' güvenlik sistemidir?",
+      "image_url": null,
+      "options": [
+        { "text": "ABS (Kilitlenme Karşıtı Fren Sistemi)", "isTrue": false },
+        { "text": "ESP (Elektronik Stabilite Programı)", "isTrue": false },
+        { "text": "Hava Yastığı (Airbag)", "isTrue": true },
+        { "text": "Far sensörü", "isTrue": false }
+      ],
+      "description": "Güvenlik sistemleri, kazayı önlemeye çalışan 'aktif' ve kaza anında koruma sağlayan 'pasif' olarak ikiye ayrılır. ABS ve ESP gibi sistemler aracın kontrolünü artırarak kazayı önlemeye çalıştığı için aktiftir. Hava yastığı ve emniyet kemeri ise kaza meydana geldiği anda devreye girerek sürücü ve yolcuları koruduğu için pasif güvenlik sistemleridir."
+    }
+]
+  
