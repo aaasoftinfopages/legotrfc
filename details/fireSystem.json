@@ -1,240 +1,411 @@
 {
-  "topic_name": "ATEŞLEME SİSTEMİ ve BUJİ",
-  "topic_ikon_url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/atesleme_sistemi_ikon.png",
-  
-  "topic_images": [
-    {
-      "order": 1,
-      "url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/ateslemesistemi1.png",
-
-    },
-    {
-      "order": 2,
-      "url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/ateslemesistemi2.png",
-    
-    },
-    {
-      "order": 3,
-      "url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/ateslemesistemi3.png",
-  
-    },
-    {
-      "order": 4,
-      "url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/ateslemesistemi4.png",
-      
-    },
-    {
-      "order": 5,
-      "url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/ateslemesistemi5.png",
-      
-    },
-    {
-      "order": 6,
-      "url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/ateslemesistemi6.png",
-      
-    },
-    {
-      "order": 7,
-      "url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/ateslemesistemi7.png",
-    
-    }
-  ],
-  
-  "questions": [
-  {
-    "id": 1,
-    "category": "Motor Bilgisi",
-    "question": "Motorun çalışması için gerekli olan sıkıştırılmış yakıt-hava karışımını elektrik kıvılcımı ile ateşleyen sistem aşağıdakilerden hangisidir?",
-    "image_url": null,
-    "options": [
-      { "text": "Marş Sistemi", "isTrue": false },
-      { "text": "Yakıt Sistemi", "isTrue": false },
-      { "text": "Ateşleme Sistemi", "isTrue": true },
-      { "text": "Soğutma Sistemi", "isTrue": false }
+    "topic_name": "ATEŞLEME SİSTEMİ ve BUJİ",
+    "topic_ikon_url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/atesleme_sistemi_ikon.png",
+    "topic_images": [
+        {
+            "order": 1,
+            "url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/ateslemesistemi1.png"
+        },
+        {
+            "order": 2,
+            "url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/ateslemesistemi2.png"
+        },
+        {
+            "order": 3,
+            "url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/ateslemesistemi3.png"
+        },
+        {
+            "order": 4,
+            "url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/ateslemesistemi4.png"
+        },
+        {
+            "order": 5,
+            "url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/ateslemesistemi5.png"
+        },
+        {
+            "order": 6,
+            "url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/ateslemesistemi6.png"
+        },
+        {
+            "order": 7,
+            "url": "https://aaasoftinfopages.github.io/legotrfc/page/topicDetails/ateslemesistemi7.png"
+        }
     ],
-    "description": "Ateşleme sisteminin temel görevi, benzinli motorlarda sıkıştırılmış yakıt-hava karışımını buji yardımıyla ateşleyerek motorun çalışmasını sağlamaktır."
-  },
-  {
-    "id": 2,
-    "category": "Motor Bilgisi",
-    "question": "Ateşleme sisteminde 12 voltluk akü voltajını 15.000-25.000 volta yükselterek bujilere gönderen parça aşağıdakilerden hangisidir?",
-    "image_url": null,
-    "options": [
-      { "text": "Distribütör", "isTrue": false },
-      { "text": "Buji", "isTrue": false },
-      { "text": "Endüksiyon Bobini", "isTrue": true },
-      { "text": "Kontak Anahtarı", "isTrue": false }
-    ],
-    "description": "Endüksiyon bobini (ateşleme bobini), aküden gelen düşük gerilimi (12V) ateşleme için gerekli olan çok yüksek gerilim seviyesine yükseltir."
-  },
-  {
-    "id": 3,
-    "category": "Motor Bilgisi",
-    "question": "Aşağıdakilerden hangisi bujilerin ayarsız veya aşınmış olmasının sonuçlarından biri değildir?",
-    "image_url": null,
-    "options": [
-      { "text": "Motor çekişten düşer.", "isTrue": false },
-      { "text": "Yakıt sarfiyatı artar.", "isTrue": false },
-      { "text": "Motor rolantide düzenli çalışır.", "isTrue": true },
-      { "text": "Normal yanma gerçekleşmez.", "isTrue": false }
-    ],
-    "description": "Buji arızalıysa motor geç çalışır ve rolanti (rölanti) dalgalanır. Motorun düzenli çalışması bujilerin iyi durumda olduğunu gösterir."
-  },
-  {
-    "id": 4,
-    "category": "Motor Bilgisi",
-    "question": "Motorun geç çalışması, rolantinin dalgalanması ve yakıt tüketiminin artması aşağıdakilerden hangisinin arızalı olmasından kaynaklanabilir?",
-    "image_url": null,
-    "options": [
-      { "text": "Hava filtresi", "isTrue": false },
-      { "text": "Akü", "isTrue": false },
-      { "text": "Buji", "isTrue": true },
-      { "text": "Yağ pompası", "isTrue": false }
-    ],
-    "description": "Bu belirtiler, genellikle bujinin elektrik kıvılcımını doğru zamanda veya yeterli güçte üretemediği zaman ortaya çıkar."
-  },
-  {
-    "id": 5,
-    "category": "Motor Bilgisi",
-    "question": "Ateşleme sisteminde yüksek voltajı, motorun ateşleme sırasına göre ilgili bujiye dağıtan parça aşağıdakilerden hangisidir?",
-    "image_url": null,
-    "options": [
-      { "text": "Akü", "isTrue": false },
-      { "text": "Endüksiyon Bobini", "isTrue": false },
-      { "text": "Distribütör", "isTrue": true },
-      { "text": "Marş Motoru", "isTrue": false }
-    ],
-    "description": "Distribütör (tevzi makarası), bobinden gelen yüksek voltajı silindirlerin ateşleme sırasına uygun olarak bujilere iletir."
-  },
-  {
-    "id": 6,
-    "category": "Motor Bilgisi",
-    "question": "Dizel motorlu bir araçta, gösterge panelindeki 'sarı spiral' şeklindeki ikaz ışığı yanıyorsa sürücü ne yapmalıdır?",
-    "image_url": null,
-    "options": [
-      { "text": "Hemen marşa basmalıdır.", "isTrue": false },
-      { "text": "Motoru rölantide çalıştırmalıdır.", "isTrue": false },
-      { "text": "Işık sönene kadar marşa basmamalıdır.", "isTrue": true },
-      { "text": "El frenini çekip beklemelidir.", "isTrue": false }
-    ],
-    "description": "Bu ışık, kızdırma (ısıtma) bujilerinin silindir içindeki havayı ısıtma işlemini yaptığını gösterir. Bu işlem bitmeden marşa basmak, hem bujilere hem de aküye zarar verebilir."
-  },
-  {
-    "id": 7,
-    "category": "Motor Bilgisi",
-    "question": "Dizel motorlarda ateşleme hangi yöntemle gerçekleşir?",
-    "image_url": null,
-    "options": [
-      { "text": "Buji ile elektrik kıvılcımı", "isTrue": false },
-      { "text": "Enjektörün ürettiği kıvılcım", "isTrue": false },
-      { "text": "Sıkıştırma sonucu oluşan yüksek sıcaklık", "isTrue": true },
-      { "text": "Ateşleme bobini ile", "isTrue": false }
-    ],
-    "description": "Dizel motorlar, havayı çok yüksek oranda sıkıştırır. Sıkışan hava ısınır ve bu sıcak havaya püskürtülen dizel yakıt kendiliğinden (otomatik olarak) tutuşur. Bu, sıkıştırma ateşlemeli motorların çalışma prensibidir."
-  },
-  {
-    "id": 8,
-    "category": "Motor Bilgisi",
-    "question": "Akü takviyesi yapılırken aşağıdakilerden hangisine dikkat edilmelidir?",
-    "image_url": null,
-    "options": [
-      { "text": "Kutup başlarının sıralaması önemli değildir.", "isTrue": false },
-      { "text": "Pozitif (+) kutup eksi (-) kutuba bağlanmalıdır.", "isTrue": false },
-      { "text": "Kutup başları doğru sırayla bağlanmalıdır.", "isTrue": true },
-      { "text": "Takviye kabloları rastgele temas ettirilmelidir.", "isTrue": false }
-    ],
-    "description": "Akü takviyesi yaparken (+) kutup (+) kutuba, (-) kutup (-) kutuba bağlanmalı ve bu sıralamaya kesinlikle uyulmalıdır. Aksi halde kısa devre ve patlama riski oluşur."
-  },
-  {
-    "id": 9,
-    "category": "Motor Bilgisi",
-    "question": "Ateşleme sisteminin çalışma sırası düşünüldüğünde, voltajın Akü'den sonra ulaştığı ve yükseltildiği parça hangisidir?",
-    "image_url": null,
-    "options": [
-      { "text": "Buji", "isTrue": false },
-      { "text": "Distribütör", "isTrue": false },
-      { "text": "Kontak Anahtarı", "isTrue": false },
-      { "text": "Endüksiyon Bobini", "isTrue": true }
-    ],
-    "description": "Akü 12V enerji sağlar, kontak anahtarı bu akımı sisteme dağıtır ve Endüksiyon Bobini bu 12V gerilimi yükseltir."
-  },
-  {
-    "id": 10,
-    "category": "Motor Bilgisi",
-    "question": "Aşınmış bujilerin değiştirilmemesi, araçta hangi duruma yol açar?",
-    "image_url": null,
-    "options": [
-      { "text": "Fren mesafesini kısaltır.", "isTrue": false },
-      { "text": "Motorun soğuk çalışmasını kolaylaştırır.", "isTrue": false },
-      { "text": "Yakıt tüketimini artırır.", "isTrue": true },
-      { "text": "Motor sesini azaltır.", "isTrue": false }
-    ],
-    "description": "Aşınmış bujiler, yakıt-hava karışımını tam olarak yakamaz, bu da hem motorun çekişini düşürür hem de yakıtın israf olmasına (tüketimin artmasına) neden olur."
-  },
-  {
-    "id": 11,
-    "category": "Motor Bilgisi",
-    "question": "Akü içerisindeki elektrolit seviyesi azalırsa ne yapılmalıdır?",
-    "image_url": null,
-    "options": [
-      { "text": "Saf su eklenmelidir.", "isTrue": true },
-      { "text": "Asitli su eklenmelidir.", "isTrue": false },
-      { "text": "Motor yağı eklenmelidir.", "isTrue": false },
-      { "text": "Hemen değiştirilmelidir.", "isTrue": false }
-    ],
-    "description": "Bakım gerektiren akülerde, buharlaşma nedeniyle azalan elektrolit seviyesini tamamlamak için yalnızca saf su (distile su) eklenmelidir."
-  },
-  {
-    "id": 12,
-    "category": "Motor Bilgisi",
-    "question": "Buji kablolarından biri çıkmış olan bir motorun çalışma şekli nasıldır?",
-    "image_url": null,
-    "options": [
-      { "text": "Normal çalışır.", "isTrue": false },
-      { "text": "Motor tekler.", "isTrue": true },
-      { "text": "Motor hemen stop eder.", "isTrue": false },
-      { "text": "Çok hızlı çalışır.", "isTrue": false }
-    ],
-    "description": "Buji kablosu çıkarsa o silindirde ateşleme gerçekleşmez. Bu durum, motorun dengesiz ve aksak çalışmasına, yani 'teklemesine' neden olur."
-  },
-  {
-    "id": 13,
-    "category": "Motor Bilgisi",
-    "question": "Akü'nün iki kutbuna metal bir cismin temas ettirilmesi hangi duruma neden olabilir?",
-    "image_url": null,
-    "options": [
-      { "text": "Motor gücünü artırır.", "isTrue": false },
-      { "text": "Kısa devre ve patlama riski oluşturur.", "isTrue": true },
-      { "text": "Elektrolit seviyesini dengeler.", "isTrue": false },
-      { "text": "Ateşleme sistemini onarır.", "isTrue": false }
-    ],
-    "description": "Akü kutupları arasına metal bir cismin temas etmesi, yüksek akımla ani kısa devreye ve aküden patlama riskine yol açar."
-  },
-  {
-    "id": 14,
-    "category": "Motor Bilgisi",
-    "question": "Dizel motorlarda soğuk havalarda ilk çalışmayı kolaylaştırmak amacıyla kullanılan ve kıvılcım üretmeyen parça hangisidir?",
-    "image_url": null,
-    "options": [
-      { "text": "Normal Buji", "isTrue": false },
-      { "text": "Enjektör", "isTrue": false },
-      { "text": "Kızdırma (Isıtma) Bujisi", "isTrue": true },
-      { "text": "Distribütör", "isTrue": false }
-    ],
-    "description": "Kızdırma bujileri, dizel motorlarda silindir içindeki havayı önceden ısıtarak sıkıştırma ateşlemesinin soğukta daha kolay başlamasını sağlar."
-  },
-  {
-    "id": 15,
-    "category": "Motor Bilgisi",
-    "question": "Kontak anahtarının görevleri arasında aşağıdakilerden hangisi yer almaz?",
-    "image_url": null,
-    "options": [
-      { "text": "Aküden gelen akımı sisteme dağıtmak", "isTrue": false },
-      { "text": "Kapalı, kontak ve marş konumlarını sağlamak", "isTrue": false },
-      { "text": "Voltajı yükseltmek", "isTrue": true },
-      { "text": "Elektrik sistemlerine enerji vermek", "isTrue": false }
-    ],
-    "description": "Voltajı yükseltme görevi Endüksiyon Bobinine aittir. Kontak anahtarı sadece elektrik akımının dağıtımını kontrol eder."
-  }
-]
+    "questions": [
+        {
+            "id": 1,
+            "category": "Motor Bilgisi",
+            "question": "Motorun çalışması için gerekli olan sıkıştırılmış yakıt-hava karışımını elektrik kıvılcımı ile ateşleyen sistem aşağıdakilerden hangisidir?",
+            "image_url": null,
+            "options": [
+                {
+                    "text": "Marş Sistemi",
+                    "isTrue": false
+                },
+                {
+                    "text": "Yakıt Sistemi",
+                    "isTrue": false
+                },
+                {
+                    "text": "Ateşleme Sistemi",
+                    "isTrue": true
+                },
+                {
+                    "text": "Soğutma Sistemi",
+                    "isTrue": false
+                }
+            ],
+            "description": "Ateşleme sisteminin temel görevi, benzinli motorlarda sıkıştırılmış yakıt-hava karışımını buji yardımıyla ateşleyerek motorun çalışmasını sağlamaktır."
+        },
+        {
+            "id": 2,
+            "category": "Motor Bilgisi",
+            "question": "Ateşleme sisteminde 12 voltluk akü voltajını 15.000-25.000 volta yükselterek bujilere gönderen parça aşağıdakilerden hangisidir?",
+            "image_url": null,
+            "options": [
+                {
+                    "text": "Distribütör",
+                    "isTrue": false
+                },
+                {
+                    "text": "Buji",
+                    "isTrue": false
+                },
+                {
+                    "text": "Endüksiyon Bobini",
+                    "isTrue": true
+                },
+                {
+                    "text": "Kontak Anahtarı",
+                    "isTrue": false
+                }
+            ],
+            "description": "Endüksiyon bobini (ateşleme bobini), aküden gelen düşük gerilimi (12V) ateşleme için gerekli olan çok yüksek gerilim seviyesine yükseltir."
+        },
+        {
+            "id": 3,
+            "category": "Motor Bilgisi",
+            "question": "Aşağıdakilerden hangisi bujilerin ayarsız veya aşınmış olmasının sonuçlarından biri değildir?",
+            "image_url": null,
+            "options": [
+                {
+                    "text": "Motor çekişten düşer.",
+                    "isTrue": false
+                },
+                {
+                    "text": "Yakıt sarfiyatı artar.",
+                    "isTrue": false
+                },
+                {
+                    "text": "Motor rolantide düzenli çalışır.",
+                    "isTrue": true
+                },
+                {
+                    "text": "Normal yanma gerçekleşmez.",
+                    "isTrue": false
+                }
+            ],
+            "description": "Buji arızalıysa motor geç çalışır ve rolanti (rölanti) dalgalanır. Motorun düzenli çalışması bujilerin iyi durumda olduğunu gösterir."
+        },
+        {
+            "id": 4,
+            "category": "Motor Bilgisi",
+            "question": "Motorun geç çalışması, rolantinin dalgalanması ve yakıt tüketiminin artması aşağıdakilerden hangisinin arızalı olmasından kaynaklanabilir?",
+            "image_url": null,
+            "options": [
+                {
+                    "text": "Hava filtresi",
+                    "isTrue": false
+                },
+                {
+                    "text": "Akü",
+                    "isTrue": false
+                },
+                {
+                    "text": "Buji",
+                    "isTrue": true
+                },
+                {
+                    "text": "Yağ pompası",
+                    "isTrue": false
+                }
+            ],
+            "description": "Bu belirtiler, genellikle bujinin elektrik kıvılcımını doğru zamanda veya yeterli güçte üretemediği zaman ortaya çıkar."
+        },
+        {
+            "id": 5,
+            "category": "Motor Bilgisi",
+            "question": "Ateşleme sisteminde yüksek voltajı, motorun ateşleme sırasına göre ilgili bujiye dağıtan parça aşağıdakilerden hangisidir?",
+            "image_url": null,
+            "options": [
+                {
+                    "text": "Akü",
+                    "isTrue": false
+                },
+                {
+                    "text": "Endüksiyon Bobini",
+                    "isTrue": false
+                },
+                {
+                    "text": "Distribütör",
+                    "isTrue": true
+                },
+                {
+                    "text": "Marş Motoru",
+                    "isTrue": false
+                }
+            ],
+            "description": "Distribütör (tevzi makarası), bobinden gelen yüksek voltajı silindirlerin ateşleme sırasına uygun olarak bujilere iletir."
+        },
+        {
+            "id": 6,
+            "category": "Motor Bilgisi",
+            "question": "Dizel motorlu bir araçta, gösterge panelindeki 'sarı spiral' şeklindeki ikaz ışığı yanıyorsa sürücü ne yapmalıdır?",
+            "image_url": null,
+            "options": [
+                {
+                    "text": "Hemen marşa basmalıdır.",
+                    "isTrue": false
+                },
+                {
+                    "text": "Motoru rölantide çalıştırmalıdır.",
+                    "isTrue": false
+                },
+                {
+                    "text": "Işık sönene kadar marşa basmamalıdır.",
+                    "isTrue": true
+                },
+                {
+                    "text": "El frenini çekip beklemelidir.",
+                    "isTrue": false
+                }
+            ],
+            "description": "Bu ışık, kızdırma (ısıtma) bujilerinin silindir içindeki havayı ısıtma işlemini yaptığını gösterir. Bu işlem bitmeden marşa basmak, hem bujilere hem de aküye zarar verebilir."
+        },
+        {
+            "id": 7,
+            "category": "Motor Bilgisi",
+            "question": "Dizel motorlarda ateşleme hangi yöntemle gerçekleşir?",
+            "image_url": null,
+            "options": [
+                {
+                    "text": "Buji ile elektrik kıvılcımı",
+                    "isTrue": false
+                },
+                {
+                    "text": "Enjektörün ürettiği kıvılcım",
+                    "isTrue": false
+                },
+                {
+                    "text": "Sıkıştırma sonucu oluşan yüksek sıcaklık",
+                    "isTrue": true
+                },
+                {
+                    "text": "Ateşleme bobini ile",
+                    "isTrue": false
+                }
+            ],
+            "description": "Dizel motorlar, havayı çok yüksek oranda sıkıştırır. Sıkışan hava ısınır ve bu sıcak havaya püskürtülen dizel yakıt kendiliğinden (otomatik olarak) tutuşur. Bu, sıkıştırma ateşlemeli motorların çalışma prensibidir."
+        },
+        {
+            "id": 8,
+            "category": "Motor Bilgisi",
+            "question": "Akü takviyesi yapılırken aşağıdakilerden hangisine dikkat edilmelidir?",
+            "image_url": null,
+            "options": [
+                {
+                    "text": "Kutup başlarının sıralaması önemli değildir.",
+                    "isTrue": false
+                },
+                {
+                    "text": "Pozitif (+) kutup eksi (-) kutuba bağlanmalıdır.",
+                    "isTrue": false
+                },
+                {
+                    "text": "Kutup başları doğru sırayla bağlanmalıdır.",
+                    "isTrue": true
+                },
+                {
+                    "text": "Takviye kabloları rastgele temas ettirilmelidir.",
+                    "isTrue": false
+                }
+            ],
+            "description": "Akü takviyesi yaparken (+) kutup (+) kutuba, (-) kutup (-) kutuba bağlanmalı ve bu sıralamaya kesinlikle uyulmalıdır. Aksi halde kısa devre ve patlama riski oluşur."
+        },
+        {
+            "id": 9,
+            "category": "Motor Bilgisi",
+            "question": "Ateşleme sisteminin çalışma sırası düşünüldüğünde, voltajın Akü'den sonra ulaştığı ve yükseltildiği parça hangisidir?",
+            "image_url": null,
+            "options": [
+                {
+                    "text": "Buji",
+                    "isTrue": false
+                },
+                {
+                    "text": "Distribütör",
+                    "isTrue": false
+                },
+                {
+                    "text": "Kontak Anahtarı",
+                    "isTrue": false
+                },
+                {
+                    "text": "Endüksiyon Bobini",
+                    "isTrue": true
+                }
+            ],
+            "description": "Akü 12V enerji sağlar, kontak anahtarı bu akımı sisteme dağıtır ve Endüksiyon Bobini bu 12V gerilimi yükseltir."
+        },
+        {
+            "id": 10,
+            "category": "Motor Bilgisi",
+            "question": "Aşınmış bujilerin değiştirilmemesi, araçta hangi duruma yol açar?",
+            "image_url": null,
+            "options": [
+                {
+                    "text": "Fren mesafesini kısaltır.",
+                    "isTrue": false
+                },
+                {
+                    "text": "Motorun soğuk çalışmasını kolaylaştırır.",
+                    "isTrue": false
+                },
+                {
+                    "text": "Yakıt tüketimini artırır.",
+                    "isTrue": true
+                },
+                {
+                    "text": "Motor sesini azaltır.",
+                    "isTrue": false
+                }
+            ],
+            "description": "Aşınmış bujiler, yakıt-hava karışımını tam olarak yakamaz, bu da hem motorun çekişini düşürür hem de yakıtın israf olmasına (tüketimin artmasına) neden olur."
+        },
+        {
+            "id": 11,
+            "category": "Motor Bilgisi",
+            "question": "Akü içerisindeki elektrolit seviyesi azalırsa ne yapılmalıdır?",
+            "image_url": null,
+            "options": [
+                {
+                    "text": "Saf su eklenmelidir.",
+                    "isTrue": true
+                },
+                {
+                    "text": "Asitli su eklenmelidir.",
+                    "isTrue": false
+                },
+                {
+                    "text": "Motor yağı eklenmelidir.",
+                    "isTrue": false
+                },
+                {
+                    "text": "Hemen değiştirilmelidir.",
+                    "isTrue": false
+                }
+            ],
+            "description": "Bakım gerektiren akülerde, buharlaşma nedeniyle azalan elektrolit seviyesini tamamlamak için yalnızca saf su (distile su) eklenmelidir."
+        },
+        {
+            "id": 12,
+            "category": "Motor Bilgisi",
+            "question": "Buji kablolarından biri çıkmış olan bir motorun çalışma şekli nasıldır?",
+            "image_url": null,
+            "options": [
+                {
+                    "text": "Normal çalışır.",
+                    "isTrue": false
+                },
+                {
+                    "text": "Motor tekler.",
+                    "isTrue": true
+                },
+                {
+                    "text": "Motor hemen stop eder.",
+                    "isTrue": false
+                },
+                {
+                    "text": "Çok hızlı çalışır.",
+                    "isTrue": false
+                }
+            ],
+            "description": "Buji kablosu çıkarsa o silindirde ateşleme gerçekleşmez. Bu durum, motorun dengesiz ve aksak çalışmasına, yani 'teklemesine' neden olur."
+        },
+        {
+            "id": 13,
+            "category": "Motor Bilgisi",
+            "question": "Akü'nün iki kutbuna metal bir cismin temas ettirilmesi hangi duruma neden olabilir?",
+            "image_url": null,
+            "options": [
+                {
+                    "text": "Motor gücünü artırır.",
+                    "isTrue": false
+                },
+                {
+                    "text": "Kısa devre ve patlama riski oluşturur.",
+                    "isTrue": true
+                },
+                {
+                    "text": "Elektrolit seviyesini dengeler.",
+                    "isTrue": false
+                },
+                {
+                    "text": "Ateşleme sistemini onarır.",
+                    "isTrue": false
+                }
+            ],
+            "description": "Akü kutupları arasına metal bir cismin temas etmesi, yüksek akımla ani kısa devreye ve aküden patlama riskine yol açar."
+        },
+        {
+            "id": 14,
+            "category": "Motor Bilgisi",
+            "question": "Dizel motorlarda soğuk havalarda ilk çalışmayı kolaylaştırmak amacıyla kullanılan ve kıvılcım üretmeyen parça hangisidir?",
+            "image_url": null,
+            "options": [
+                {
+                    "text": "Normal Buji",
+                    "isTrue": false
+                },
+                {
+                    "text": "Enjektör",
+                    "isTrue": false
+                },
+                {
+                    "text": "Kızdırma (Isıtma) Bujisi",
+                    "isTrue": true
+                },
+                {
+                    "text": "Distribütör",
+                    "isTrue": false
+                }
+            ],
+            "description": "Kızdırma bujileri, dizel motorlarda silindir içindeki havayı önceden ısıtarak sıkıştırma ateşlemesinin soğukta daha kolay başlamasını sağlar."
+        },
+        {
+            "id": 15,
+            "category": "Motor Bilgisi",
+            "question": "Kontak anahtarının görevleri arasında aşağıdakilerden hangisi yer almaz?",
+            "image_url": null,
+            "options": [
+                {
+                    "text": "Aküden gelen akımı sisteme dağıtmak",
+                    "isTrue": false
+                },
+                {
+                    "text": "Kapalı, kontak ve marş konumlarını sağlamak",
+                    "isTrue": false
+                },
+                {
+                    "text": "Voltajı yükseltmek",
+                    "isTrue": true
+                },
+                {
+                    "text": "Elektrik sistemlerine enerji vermek",
+                    "isTrue": false
+                }
+            ],
+            "description": "Voltajı yükseltme görevi Endüksiyon Bobinine aittir. Kontak anahtarı sadece elektrik akımının dağıtımını kontrol eder."
+        }
+    ]
 }
